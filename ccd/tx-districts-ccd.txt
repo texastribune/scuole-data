@@ -1,0 +1,268 @@
+Common Core of Data, Local Education Agency Directory, 2013-14
+
+FILE NAME = ag13prelim.txt, 2013-14
+
+NVAR = 30
+
+NOBS = 18,786
+
+(*) Fields have two explicit decimal places, unless otherwise noted.
+
+(+) Fields represent sub-fields of the fields immediately preceding them.
+
+Character fields “M” for a value was expected but was not reported, and “N” for not 
+applicable. “AN” and “N” are alphanumeric and numeric data, respectively.
+
+The file contains data for school year 2013–14, sorted by the NCES-assigned 
+local education agency identification code (LEAID).  Data presented in this 
+release are available in two formats—SAS datasets (.sas7bdat) and 
+tab-separated values text files (.txt).
+
+Note that starting with the 2002–03 CCD, all numeric fields contain a -1 to 
+indicate missing and a -2 to indicate not applicable.  Previously, numeric 
+fields contained an “M” to indicate missing and an “N” to indicate not 
+applicable. Character fields continue to use “M” for missing and “N” for not 
+applicable.  Starting with the 2009-10 2a provisional file, the numeric fields
+contain a -9 to indicate that the data do not meet NCES data quality standards.
+
+=================================================================================
+
+Variable               	Data   
+Name          	Order  	Type   	Description        
+
+=================================================================================
+SURVYEAR	1	AN	Year corresponding to survey record.
+
+LEAID		2	AN	NCES Local Education Agency ID.  The first two 
+				positions of this field are also the American 
+				National Standards Institute (ANSI) state code.
+
+FIPST		3	AN +	American National Standards Institute (ANSI) 
+				state code.
+
+STID		4	AN	State’s own ID for the education agency.
+
+NAME		5	AN	Name of the education agency.
+
+PHONE		6	AN	Telephone number of education agency. 
+
+MSTREE		7	AN	Mailing address of the agency—may be a street 
+				address, a P.O. Box number, or, if there is no 
+				address beyond CITY, STATE, and ZIP, the 
+				character “N.”
+
+MCITY		8	AN	Name of the agency mailing address city.
+
+MSTATE		9	AN	Two-letter U.S. Postal Service abbreviation for 
+				the state where the mailing address is located.
+
+MZIP		10	AN	Five-digit U.S. Postal Service ZIP code for the 
+				mailing address.
+
+MZIP4		11	AN	Four-digit ZIP+4, if assigned; if none, field is
+				blank.
+
+LSTREE		12	AN	Location address of agency.
+
+LCITY		13	AN	Location city of agency.
+
+LSTATE		14	AN	Location state (two-letter postal abbreviation)
+
+LZIP		15	AN	Location 5-digit ZIP Code.
+
+LZIP4		16	AN	Location +4 ZIP Code.
+
+TYPE		17	AN	Agency type code:
+		
+				1 = Regular local school district.  Locally 
+				    governed agency responsible for providing 
+				    free public elementary or secondary education; 
+				    includes independent school districts and 
+				    those that are a dependent segment of a local 
+				    government such as a city or county.
+
+				2 = Local school district that is a component of
+				    a supervisory union.  Regular local school 
+				    district that shares its superintendent and 
+				    administrative services with other school 
+				    districts participating in the supervisory 
+				    union.
+
+				3 = Supervisory Union.  An education agency that
+				    performs administrative services for more 
+				    than one school district, providing a common
+				    superintendent for participating districts.
+
+				4 = Regional Education Service Agency.  Agency 
+				    providing specialized education services to a
+				    variety of local education agencies, or a 
+				    county superintendent serving the same 
+				    purposes.
+
+				5 = State-Operated Agency.  Agency that is 
+				    charged, at least in part, with providing 
+				    elementary and/or secondary instruction or 
+				    support services. Includes the State Education 
+				    Agency if this agency operates schools. 
+				    Examples include elementary/secondary schools
+ 				    operated by the state for the deaf or blind; 
+				    and programs operated by state correctional 
+				    facilities.
+
+				6 = Federally-Operated Agency.  A federal agency
+				    that is charged, at least in part, with 
+			            providing elementary or secondary instruction 
+				    or support services.
+
+				7 = Independent Charter Agency.  All schools 
+				    associated with the agency are charter schools.
+
+				8 = Other Education Agency.  Agency providing 
+				    elementary or secondary instruction or 
+				    support services that does not fall within 
+				    the definitions of agency types 1–7.
+
+UNION		18	AN	Supervisory union number.  For supervisory union
+				administrative centers and component agencies, 
+				this is a number assigned by the state to the 
+				union. Additionally, if the agency is a county 
+				superintendent, this is the ANSI county number. 
+				If no number was reported, the field will contain
+ 				“000.”
+
+CONUM		19	AN	ANSI county number (two digit ANSI state numeric
+				code + three digits ANSI county code) based on 
+				the location of the administrative office. ANSI 
+				county number.
+
+CONAME		20	AN	County name based on the location of the 
+				administrative office.
+
+CSA		21	AN	Combined Statistical Area (CSA). The CSA 
+				assignment is based on the CSA assignments of 
+				schools associated with the agency, weighted by 
+				the number of students in each school. A CSA may
+			 	comprise two or more metropolitan statistical are
+				as, a metropolitan statistical area and a 
+				micropolitan statistical area, two or more 
+				micropolitan statistical areas, or multiple 
+				metropolitan and micropolitan statistical areas. 
+				If the school(s) used to weight the assignment are 
+				not within a CSA, the field will be assigned an "N" 
+				(not applicable).
+				
+				NOTE: Starting in 2006–07, this field contains 
+				the CSA code for all areas. Prior to 2006–07, 
+				this field contained the New England City and 
+				Town Areas (NECTA) codes for agencies in the 
+				New England States.
+
+CBSA		22	AN	Core Based Statistical Area (CBSA). A value in 
+				this field indicates that the agency's address 
+				is associated with a recognized population 
+				nucleus and adjacent communities that have a 
+				high degree of integration with that nucleus, and
+			 	designated by the U.S. Government as a 
+				metropolitan or micropolitan statistical area. 
+				The integration of adjacent communities is 
+				determined by the CBSAs of schools associated 
+				with the agency, weighted by the number of 
+				students in each school.  If the agency is not in
+ 				any type of metropolitan/micropolitan statistical
+	 			area the field contains an "N" (not applicable). 
+
+				NOTE: Starting in 2006–07, this field contains 
+				the CBSA code for all areas. Prior to 2006–07, 
+				this field contained the NECTA codes for agencies
+ 				in the New England States. This assignment was 
+				made using a file of ANSI county codes matched to
+				CBSA codes.
+ 
+METMIC		23	AN	Indicates whether the CBSA is a metropolitan or 
+				micropolitan area.
+
+				0 = CBSA is equal to 70,300 or higher and does 
+				not have an associated type code. CBSA equal to 
+				70,300 or higher is NECTA and is not denoted as 
+				metropolitan or micropolitan. 
+
+				1= CBSA is a metropolitan area.
+
+				2 = CBSA is a micropolitan area.
+
+ULOCAL		24	AN	NCES urban-centric locale code.
+
+CDCODE		25	AN	Congressional district code based on location of 
+				administrative office. ANSI numeric code for the 
+				congressional districts that are legislatively 
+				defined subdivision of the state for the purpose 
+				of electing representatives to the House of 
+				Representative of the United States Congress. The
+ 				first two digits are the ANSI state numeric code,
+ 				which makes the congressional district code 
+				unique across states.  If an agency serves more 
+				than one congressional district, the code 
+				represents the primary one.
+
+LATCOD		26	N	Latitude. Based on the location of the 
+				administrative office. The digits to the left of 
+				the decimal represent the number of degrees from 
+				the equator; the digits to the right of the 
+				decimal represent the fraction of the next degree
+ 				carried out to six decimal places.  A zero 
+				indicates that no value was derived for this 
+				school.
+
+LONCOD		27	N	Longitude. Based on the location of the 
+				administrative office. The minus sign (-) 
+				indicates west of the prime meridian. It contains
+ 				an explicit decimal point. The digits to the left	
+ 				of the decimal point represent the number of 
+				degrees from the prime meridian; the digits to 
+				the right of the decimal point represent the 
+				fraction of the next degree carried out to six 
+				decimal places.  A zero indicates that no value 
+				was derived for this school.
+
+BOUND		28	AN	The boundary change indicator is a classification
+ 				of changes in an education agency’s boundaries 
+				since the last report to NCES. The options are as
+ 				follows:
+
+				1 = No significant boundary change for this 
+				    agency since the last report. Currently in 
+				    operation.
+
+				2 = Education agency has closed with no effect 
+				    on another agency’s boundaries.
+
+				3 = This is a new education agency formed with 
+				    no effect on another agency’s boundaries.
+
+				4 = Agency was in existence, but not reported in
+ 				    a previous year’s CCD agency universe survey, 
+				    and is now being added.
+
+				5 = Agency has undergone a significant change in
+				    geographic boundaries or instructional 
+				    responsibility.
+
+				6 = Agency is temporarily closed and may reopen 
+				    within 3 years.
+
+				7 = Agency is scheduled to be operational within
+ 				    2 years.
+
+				8 = Agency was closed on a previous year’s file 
+				    but has reopened.
+
+GSLO		29	AN	Agency low grade offered. If grade span data were
+ 				not reported, this field was calculated from the 
+				low grade spans of the associated schools in the 
+				CCD school universe file.
+
+GSHI		30	AN	Agency high grade offered. If grade span data 
+				were not reported, this field was calculated 
+				from the high grade spans of the associated schools 
+				in the CCD school universe file. When combined, GSLO 
+				and GSHI are the grade span of the agency.
