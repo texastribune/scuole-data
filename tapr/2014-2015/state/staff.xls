@@ -1,0 +1,515 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.Batch
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.ByContentFolder
+{
+  margin-left: 6pt;
+}
+.BylineContainer
+{
+  width: 100%;
+}
+.ContentFolder
+{
+  margin-left: 6pt;
+}
+.ContentItem
+{
+  margin-left: 6pt;
+}
+.Contents
+{
+}
+.FolderAction
+{
+  margin-left: 6pt;
+}
+.Graph
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.IndexAction
+{
+  margin-left: 6pt;
+}
+.IndexItem
+{
+  margin-left: 6pt;
+}
+.List
+{
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.Output
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.Pages
+{
+}
+.PagesItem
+{
+  margin-left: 6pt;
+}
+.Paragraph
+{
+  width: 100%;
+  text-align: left;
+}
+.SysTitleAndFooterContainer
+{
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  width: 100%;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="Table" cellspacing="1" cellpadding="7" rules="all" frame="box" border="1" summary="Procedure Print: Data Set WORK.TMPAEI1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r Header" scope="col">SPSTTOFC</th>
+<th class="r Header" scope="col">SPSUTOFC</th>
+<th class="r Header" scope="col">SPSSTOFC</th>
+<th class="r Header" scope="col">SPSCTOFC</th>
+<th class="r Header" scope="col">SPSETOFC</th>
+<th class="r Header" scope="col">SPST00FC</th>
+<th class="r Header" scope="col">SPST01FC</th>
+<th class="r Header" scope="col">SPST06FC</th>
+<th class="r Header" scope="col">SPST11FC</th>
+<th class="r Header" scope="col">SPST20FC</th>
+<th class="r Header" scope="col">SPSTNOFC</th>
+<th class="r Header" scope="col">SPSTBAFC</th>
+<th class="r Header" scope="col">SPSTMSFC</th>
+<th class="r Header" scope="col">SPSTPHFC</th>
+<th class="r Header" scope="col">SPSPCOFC</th>
+<th class="r Header" scope="col">SPSECOFC</th>
+<th class="r Header" scope="col">SPSPTOFC</th>
+<th class="r Header" scope="col">SPSXTOFC</th>
+<th class="r Header" scope="col">SPSATOFC</th>
+<th class="r Header" scope="col">SPSOTOFC</th>
+<th class="r Header" scope="col">SPSTINFC</th>
+<th class="r Header" scope="col">SPSTPIFC</th>
+<th class="r Header" scope="col">SPSTASFC</th>
+<th class="r Header" scope="col">SPSTBLFC</th>
+<th class="r Header" scope="col">SPSTHIFC</th>
+<th class="r Header" scope="col">SPSTWHFC</th>
+<th class="r Header" scope="col">SPSTTWFC</th>
+<th class="r Header" scope="col">SPSTMAFC</th>
+<th class="r Header" scope="col">SPSTFEFC</th>
+<th class="r Header" scope="col">SPSXCOFC</th>
+<th class="r Header" scope="col">SPSTREFC</th>
+<th class="r Header" scope="col">SPSTVOFC</th>
+<th class="r Header" scope="col">SPSTBIFC</th>
+<th class="r Header" scope="col">SPSTCOFC</th>
+<th class="r Header" scope="col">SPSTGIFC</th>
+<th class="r Header" scope="col">SPSTSPFC</th>
+<th class="r Header" scope="col">SPSTOPFC</th>
+<th class="r Header" scope="col">SPSTURNR</th>
+<th class="r Header" scope="col">SPSTTENA</th>
+<th class="r Header" scope="col">SPSTEXPA</th>
+<th class="r Header" scope="col">SPSAMIFC</th>
+<th class="r Header" scope="col">SPCTSOCA</th>
+<th class="r Header" scope="col">SPCTSCIA</th>
+<th class="r Header" scope="col">SPCTMATA</th>
+<th class="r Header" scope="col">SPCTGMEA</th>
+<th class="r Header" scope="col">SPCTGKGA</th>
+<th class="r Header" scope="col">SPCTG06A</th>
+<th class="r Header" scope="col">SPCTG05A</th>
+<th class="r Header" scope="col">SPCTG04A</th>
+<th class="r Header" scope="col">SPCTG03A</th>
+<th class="r Header" scope="col">SPCTG02A</th>
+<th class="r Header" scope="col">SPCTG01A</th>
+<th class="r Header" scope="col">SPCTFLAA</th>
+<th class="r Header" scope="col">SPCTENGA</th>
+<th class="r Header" scope="col">SPSPTOFP</th>
+<th class="r Header" scope="col">SPSTTOFP</th>
+<th class="r Header" scope="col">SPSUTOFP</th>
+<th class="r Header" scope="col">SPSSTOFP</th>
+<th class="r Header" scope="col">SPSCTOFP</th>
+<th class="r Header" scope="col">SPSETOFP</th>
+<th class="r Header" scope="col">SPSXTOFP</th>
+<th class="r Header" scope="col">SPSAMIFP</th>
+<th class="r Header" scope="col">SPSTNOFP</th>
+<th class="r Header" scope="col">SPSTBAFP</th>
+<th class="r Header" scope="col">SPSTMSFP</th>
+<th class="r Header" scope="col">SPSTPHFP</th>
+<th class="r Header" scope="col">SPST00FP</th>
+<th class="r Header" scope="col">SPST01FP</th>
+<th class="r Header" scope="col">SPST06FP</th>
+<th class="r Header" scope="col">SPST11FP</th>
+<th class="r Header" scope="col">SPST20FP</th>
+<th class="r Header" scope="col">SPSTREFP</th>
+<th class="r Header" scope="col">SPSTVOFP</th>
+<th class="r Header" scope="col">SPSTBIFP</th>
+<th class="r Header" scope="col">SPSTCOFP</th>
+<th class="r Header" scope="col">SPSTGIFP</th>
+<th class="r Header" scope="col">SPSTSPFP</th>
+<th class="r Header" scope="col">SPSTOPFP</th>
+<th class="r Header" scope="col">SPSTBLFP</th>
+<th class="r Header" scope="col">SPSTWHFP</th>
+<th class="r Header" scope="col">SPSTHIFP</th>
+<th class="r Header" scope="col">SPSTPIFP</th>
+<th class="r Header" scope="col">SPSTINFP</th>
+<th class="r Header" scope="col">SPSTASFP</th>
+<th class="r Header" scope="col">SPSTTWFP</th>
+<th class="r Header" scope="col">SPSTMAFP</th>
+<th class="r Header" scope="col">SPSTFEFP</th>
+<th class="r Header" scope="col">SPSTKIDR</th>
+<th class="r Header" scope="col">SPST00SA</th>
+<th class="r Header" scope="col">SPST01SA</th>
+<th class="r Header" scope="col">SPST06SA</th>
+<th class="r Header" scope="col">SPST11SA</th>
+<th class="r Header" scope="col">SPST20SA</th>
+<th class="r Header" scope="col">SPSTTOSA</th>
+<th class="r Header" scope="col">SPSUTOSA</th>
+<th class="r Header" scope="col">SPSSTOSA</th>
+<th class="r Header" scope="col">SPSCTOSA</th>
+<th class="r Header" scope="col">SPFEIERP</th>
+<th class="r Header" scope="col">SPSAINHP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="r Data">342191.8</td>
+<td class="r Data">65119</td>
+<td class="r Data">19679.9</td>
+<td class="r Data">6995.1</td>
+<td class="r Data">64640.8</td>
+<td class="r Data">29256.4</td>
+<td class="r Data">89247.1</td>
+<td class="r Data">77168.2</td>
+<td class="r Data">91890.7</td>
+<td class="r Data">54629.4</td>
+<td class="r Data">2980.2</td>
+<td class="r Data">257146.2</td>
+<td class="r Data">79997.8</td>
+<td class="r Data">2067.7</td>
+<td class="r Data">1148.2</td>
+<td class="r Data">228.9</td>
+<td class="r Data">433985.7</td>
+<td class="r Data">174513.8</td>
+<td class="r Data">673140.3</td>
+<td class="r Data">2090.1</td>
+<td class="r Data">1244.6</td>
+<td class="r Data">758.8</td>
+<td class="r Data">4890.6</td>
+<td class="r Data">33863.7</td>
+<td class="r Data">87714.8</td>
+<td class="r Data">210044.8</td>
+<td class="r Data">3674.5</td>
+<td class="r Data">79947.9</td>
+<td class="r Data">262243.9</td>
+<td class="r Data">508.3</td>
+<td class="r Data">248541.9</td>
+<td class="r Data">14616.2</td>
+<td class="r Data">20082.5</td>
+<td class="r Data">10485.6</td>
+<td class="r Data">6478.6</td>
+<td class="r Data">30683.6</td>
+<td class="r Data">11303.5</td>
+<td class="r Data">16.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">11</td>
+<td class="r Data">311862.3</td>
+<td class="r Data">19.6</td>
+<td class="r Data">19.1</td>
+<td class="r Data">18.1</td>
+<td class="r Data">25.1</td>
+<td class="r Data">19.2</td>
+<td class="r Data">20.3</td>
+<td class="r Data">20.8</td>
+<td class="r Data">19.1</td>
+<td class="r Data">19.1</td>
+<td class="r Data">19.3</td>
+<td class="r Data">19.3</td>
+<td class="r Data">18.9</td>
+<td class="r Data">17.2</td>
+<td class="r Data">64.5</td>
+<td class="r Data">50.8</td>
+<td class="r Data">9.7</td>
+<td class="r Data">2.9</td>
+<td class="r Data">1</td>
+<td class="r Data">9.6</td>
+<td class="r Data">25.9</td>
+<td class="r Data">46.3</td>
+<td class="r Data">0.9</td>
+<td class="r Data">75.1</td>
+<td class="r Data">23.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">8.5</td>
+<td class="r Data">26.1</td>
+<td class="r Data">22.6</td>
+<td class="r Data">26.9</td>
+<td class="r Data">16</td>
+<td class="r Data">72.6</td>
+<td class="r Data">4.3</td>
+<td class="r Data">5.9</td>
+<td class="r Data">3.1</td>
+<td class="r Data">1.9</td>
+<td class="r Data">9</td>
+<td class="r Data">3.3</td>
+<td class="r Data">9.9</td>
+<td class="r Data">61.4</td>
+<td class="r Data">25.6</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.4</td>
+<td class="r Data">1.1</td>
+<td class="r Data">23.4</td>
+<td class="r Data">76.6</td>
+<td class="r Data">15.2</td>
+<td class="r Data">44540</td>
+<td class="r Data">46575</td>
+<td class="r Data">49127</td>
+<td class="r Data">52640</td>
+<td class="r Data">59787</td>
+<td class="r Data">50715</td>
+<td class="r Data">59791</td>
+<td class="r Data">74292</td>
+<td class="r Data">96907</td>
+<td class="r Data">63.7</td>
+<td class="r Data">64.6</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>
