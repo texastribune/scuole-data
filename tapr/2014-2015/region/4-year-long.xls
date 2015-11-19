@@ -1,0 +1,3974 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.Batch
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.ByContentFolder
+{
+  margin-left: 6pt;
+}
+.BylineContainer
+{
+  width: 100%;
+}
+.ContentFolder
+{
+  margin-left: 6pt;
+}
+.ContentItem
+{
+  margin-left: 6pt;
+}
+.Contents
+{
+}
+.FolderAction
+{
+  margin-left: 6pt;
+}
+.Graph
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.IndexAction
+{
+  margin-left: 6pt;
+}
+.IndexItem
+{
+  margin-left: 6pt;
+}
+.List
+{
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.Output
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.Pages
+{
+}
+.PagesItem
+{
+  margin-left: 6pt;
+}
+.Paragraph
+{
+  width: 100%;
+  text-align: left;
+}
+.SysTitleAndFooterContainer
+{
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  width: 100%;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="Table" cellspacing="1" cellpadding="7" rules="all" frame="box" border="1" summary="Procedure Print: Data Set WORK.TMPAEI1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="l Header" scope="col">REGION</th>
+<th class="r Header" scope="col">R22C414R</th>
+<th class="r Header" scope="col">R23C414R</th>
+<th class="r Header" scope="col">R2DC414R</th>
+<th class="r Header" scope="col">R2EC414R</th>
+<th class="r Header" scope="col">R2GC414R</th>
+<th class="r Header" scope="col">R2NC414R</th>
+<th class="r Header" scope="col">R32C414R</th>
+<th class="r Header" scope="col">R33C414R</th>
+<th class="r Header" scope="col">R3DC414R</th>
+<th class="r Header" scope="col">R3EC414R</th>
+<th class="r Header" scope="col">R3GC414R</th>
+<th class="r Header" scope="col">R3NC414R</th>
+<th class="r Header" scope="col">R42C414R</th>
+<th class="r Header" scope="col">R43C414R</th>
+<th class="r Header" scope="col">R4DC414R</th>
+<th class="r Header" scope="col">R4EC414R</th>
+<th class="r Header" scope="col">R4GC414R</th>
+<th class="r Header" scope="col">R4NC414R</th>
+<th class="r Header" scope="col">RA2C414R</th>
+<th class="r Header" scope="col">RA3C414R</th>
+<th class="r Header" scope="col">RADC414R</th>
+<th class="r Header" scope="col">RAEC414R</th>
+<th class="r Header" scope="col">RAGC414R</th>
+<th class="r Header" scope="col">RANC414R</th>
+<th class="r Header" scope="col">RB2C414R</th>
+<th class="r Header" scope="col">RB3C414R</th>
+<th class="r Header" scope="col">RBDC414R</th>
+<th class="r Header" scope="col">RBEC414R</th>
+<th class="r Header" scope="col">RBGC414R</th>
+<th class="r Header" scope="col">RBNC414R</th>
+<th class="r Header" scope="col">RE2C414R</th>
+<th class="r Header" scope="col">RE3C414R</th>
+<th class="r Header" scope="col">REDC414R</th>
+<th class="r Header" scope="col">REEC414R</th>
+<th class="r Header" scope="col">REGC414R</th>
+<th class="r Header" scope="col">RENC414R</th>
+<th class="r Header" scope="col">RF2C414R</th>
+<th class="r Header" scope="col">RF3C414R</th>
+<th class="r Header" scope="col">RFDC414R</th>
+<th class="r Header" scope="col">RFEC414R</th>
+<th class="r Header" scope="col">RFGC414R</th>
+<th class="r Header" scope="col">RFNC414R</th>
+<th class="r Header" scope="col">RH2C414R</th>
+<th class="r Header" scope="col">RH3C414R</th>
+<th class="r Header" scope="col">RHDC414R</th>
+<th class="r Header" scope="col">RHEC414R</th>
+<th class="r Header" scope="col">RHGC414R</th>
+<th class="r Header" scope="col">RHNC414R</th>
+<th class="r Header" scope="col">RI2C414R</th>
+<th class="r Header" scope="col">RI3C414R</th>
+<th class="r Header" scope="col">RIDC414R</th>
+<th class="r Header" scope="col">RIEC414R</th>
+<th class="r Header" scope="col">RIGC414R</th>
+<th class="r Header" scope="col">RINC414R</th>
+<th class="r Header" scope="col">RL2C414R</th>
+<th class="r Header" scope="col">RL3C414R</th>
+<th class="r Header" scope="col">RLDC414R</th>
+<th class="r Header" scope="col">RLEC414R</th>
+<th class="r Header" scope="col">RLGC414R</th>
+<th class="r Header" scope="col">RLNC414R</th>
+<th class="r Header" scope="col">RM2C414R</th>
+<th class="r Header" scope="col">RM3C414R</th>
+<th class="r Header" scope="col">RMDC414R</th>
+<th class="r Header" scope="col">RMEC414R</th>
+<th class="r Header" scope="col">RMGC414R</th>
+<th class="r Header" scope="col">RMNC414R</th>
+<th class="r Header" scope="col">RR2C414R</th>
+<th class="r Header" scope="col">RR3C414R</th>
+<th class="r Header" scope="col">RRDC414R</th>
+<th class="r Header" scope="col">RREC414R</th>
+<th class="r Header" scope="col">RRGC414R</th>
+<th class="r Header" scope="col">RRNC414R</th>
+<th class="r Header" scope="col">RS2C414R</th>
+<th class="r Header" scope="col">RS3C414R</th>
+<th class="r Header" scope="col">RSDC414R</th>
+<th class="r Header" scope="col">RSEC414R</th>
+<th class="r Header" scope="col">RSGC414R</th>
+<th class="r Header" scope="col">RSNC414R</th>
+<th class="r Header" scope="col">RW2C414R</th>
+<th class="r Header" scope="col">RW3C414R</th>
+<th class="r Header" scope="col">RWDC414R</th>
+<th class="r Header" scope="col">RWEC414R</th>
+<th class="r Header" scope="col">RWGC414R</th>
+<th class="r Header" scope="col">RWNC414R</th>
+<th class="r Header" scope="col">R22C413R</th>
+<th class="r Header" scope="col">R23C413R</th>
+<th class="r Header" scope="col">R2DC413R</th>
+<th class="r Header" scope="col">R2EC413R</th>
+<th class="r Header" scope="col">R2GC413R</th>
+<th class="r Header" scope="col">R2NC413R</th>
+<th class="r Header" scope="col">R32C413R</th>
+<th class="r Header" scope="col">R33C413R</th>
+<th class="r Header" scope="col">R3DC413R</th>
+<th class="r Header" scope="col">R3EC413R</th>
+<th class="r Header" scope="col">R3GC413R</th>
+<th class="r Header" scope="col">R3NC413R</th>
+<th class="r Header" scope="col">R42C413R</th>
+<th class="r Header" scope="col">R43C413R</th>
+<th class="r Header" scope="col">R4DC413R</th>
+<th class="r Header" scope="col">R4EC413R</th>
+<th class="r Header" scope="col">R4GC413R</th>
+<th class="r Header" scope="col">R4NC413R</th>
+<th class="r Header" scope="col">RA2C413R</th>
+<th class="r Header" scope="col">RA3C413R</th>
+<th class="r Header" scope="col">RADC413R</th>
+<th class="r Header" scope="col">RAEC413R</th>
+<th class="r Header" scope="col">RAGC413R</th>
+<th class="r Header" scope="col">RANC413R</th>
+<th class="r Header" scope="col">RB2C413R</th>
+<th class="r Header" scope="col">RB3C413R</th>
+<th class="r Header" scope="col">RBDC413R</th>
+<th class="r Header" scope="col">RBEC413R</th>
+<th class="r Header" scope="col">RBGC413R</th>
+<th class="r Header" scope="col">RBNC413R</th>
+<th class="r Header" scope="col">RE2C413R</th>
+<th class="r Header" scope="col">RE3C413R</th>
+<th class="r Header" scope="col">REDC413R</th>
+<th class="r Header" scope="col">REEC413R</th>
+<th class="r Header" scope="col">REGC413R</th>
+<th class="r Header" scope="col">RENC413R</th>
+<th class="r Header" scope="col">RF2C413R</th>
+<th class="r Header" scope="col">RF3C413R</th>
+<th class="r Header" scope="col">RFDC413R</th>
+<th class="r Header" scope="col">RFEC413R</th>
+<th class="r Header" scope="col">RFGC413R</th>
+<th class="r Header" scope="col">RFNC413R</th>
+<th class="r Header" scope="col">RH2C413R</th>
+<th class="r Header" scope="col">RH3C413R</th>
+<th class="r Header" scope="col">RHDC413R</th>
+<th class="r Header" scope="col">RHEC413R</th>
+<th class="r Header" scope="col">RHGC413R</th>
+<th class="r Header" scope="col">RHNC413R</th>
+<th class="r Header" scope="col">RI2C413R</th>
+<th class="r Header" scope="col">RI3C413R</th>
+<th class="r Header" scope="col">RIDC413R</th>
+<th class="r Header" scope="col">RIEC413R</th>
+<th class="r Header" scope="col">RIGC413R</th>
+<th class="r Header" scope="col">RINC413R</th>
+<th class="r Header" scope="col">RL2C413R</th>
+<th class="r Header" scope="col">RL3C413R</th>
+<th class="r Header" scope="col">RLDC413R</th>
+<th class="r Header" scope="col">RLEC413R</th>
+<th class="r Header" scope="col">RLGC413R</th>
+<th class="r Header" scope="col">RLNC413R</th>
+<th class="r Header" scope="col">RM2C413R</th>
+<th class="r Header" scope="col">RM3C413R</th>
+<th class="r Header" scope="col">RMDC413R</th>
+<th class="r Header" scope="col">RMEC413R</th>
+<th class="r Header" scope="col">RMGC413R</th>
+<th class="r Header" scope="col">RMNC413R</th>
+<th class="r Header" scope="col">RR2C413R</th>
+<th class="r Header" scope="col">RR3C413R</th>
+<th class="r Header" scope="col">RRDC413R</th>
+<th class="r Header" scope="col">RREC413R</th>
+<th class="r Header" scope="col">RRGC413R</th>
+<th class="r Header" scope="col">RRNC413R</th>
+<th class="r Header" scope="col">RS2C413R</th>
+<th class="r Header" scope="col">RS3C413R</th>
+<th class="r Header" scope="col">RSDC413R</th>
+<th class="r Header" scope="col">RSEC413R</th>
+<th class="r Header" scope="col">RSGC413R</th>
+<th class="r Header" scope="col">RSNC413R</th>
+<th class="r Header" scope="col">RW2C413R</th>
+<th class="r Header" scope="col">RW3C413R</th>
+<th class="r Header" scope="col">RWDC413R</th>
+<th class="r Header" scope="col">RWEC413R</th>
+<th class="r Header" scope="col">RWGC413R</th>
+<th class="r Header" scope="col">RWNC413R</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="l Data">&#39;01</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">5.9</td>
+<td class="r Data">94.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 97.7</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 0.6</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">93.1</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">87.3</td>
+<td class="r Data">5.3</td>
+<td class="r Data">97.5</td>
+<td class="r Data">92.5</td>
+<td class="r Data"> 2.5</td>
+<td class="r Data">5.0</td>
+<td class="r Data">87.5</td>
+<td class="r Data">5.0</td>
+<td class="r Data">92.6</td>
+<td class="r Data">87.4</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">0.4</td>
+<td class="r Data">87.0</td>
+<td class="r Data">5.2</td>
+<td class="r Data">94.2</td>
+<td class="r Data">89.3</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.4</td>
+<td class="r Data">89.0</td>
+<td class="r Data">4.9</td>
+<td class="r Data">93.0</td>
+<td class="r Data">87.6</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">0.4</td>
+<td class="r Data">87.2</td>
+<td class="r Data">5.3</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">73.7</td>
+<td class="r Data">59.5</td>
+<td class="r Data">26.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">59.1</td>
+<td class="r Data">14.2</td>
+<td class="r Data">91.9</td>
+<td class="r Data">86.3</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">85.7</td>
+<td class="r Data">5.6</td>
+<td class="r Data">90.4</td>
+<td class="r Data">82.1</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">81.6</td>
+<td class="r Data"> 8.4</td>
+<td class="r Data">89.2</td>
+<td class="r Data">78.6</td>
+<td class="r Data">10.8</td>
+<td class="r Data">0.3</td>
+<td class="r Data">78.2</td>
+<td class="r Data">10.7</td>
+<td class="r Data">95.6</td>
+<td class="r Data">92.2</td>
+<td class="r Data">4.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">91.2</td>
+<td class="r Data">3.5</td>
+<td class="r Data"> 95.7</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">4.3</td>
+<td class="r Data">87.0</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data"> 97.0</td>
+<td class="r Data"> 95.3</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 95.3</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">93.5</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">87.3</td>
+<td class="r Data">5.6</td>
+<td class="r Data">91.2</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">3.5</td>
+<td class="r Data">84.2</td>
+<td class="r Data"> 3.5</td>
+<td class="r Data">93.3</td>
+<td class="r Data">87.3</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">86.8</td>
+<td class="r Data">6.0</td>
+<td class="r Data">94.6</td>
+<td class="r Data">89.8</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">0.4</td>
+<td class="r Data">89.3</td>
+<td class="r Data">4.9</td>
+<td class="r Data">93.4</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">87.2</td>
+<td class="r Data">5.7</td>
+<td class="r Data"> 88.2</td>
+<td class="r Data"> 82.4</td>
+<td class="r Data">11.8</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">76.5</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">76.4</td>
+<td class="r Data">63.4</td>
+<td class="r Data">23.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">62.9</td>
+<td class="r Data">13.0</td>
+<td class="r Data">92.4</td>
+<td class="r Data">86.0</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">0.7</td>
+<td class="r Data">85.4</td>
+<td class="r Data">6.3</td>
+<td class="r Data">91.4</td>
+<td class="r Data">82.8</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">82.2</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">89.8</td>
+<td class="r Data">78.6</td>
+<td class="r Data">10.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">78.3</td>
+<td class="r Data">11.2</td>
+<td class="r Data">96.4</td>
+<td class="r Data">92.0</td>
+<td class="r Data">3.6</td>
+<td class="r Data">1.3</td>
+<td class="r Data">90.8</td>
+<td class="r Data">4.3</td>
+</tr>
+<tr>
+<td class="l Data">&#39;02</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 91.0</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">89.7</td>
+<td class="r Data">3.8</td>
+<td class="r Data"> 97.7</td>
+<td class="r Data"> 95.5</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 95.5</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">90.2</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data">1.5</td>
+<td class="r Data">85.2</td>
+<td class="r Data">3.5</td>
+<td class="r Data">87.8</td>
+<td class="r Data">84.3</td>
+<td class="r Data">12.2</td>
+<td class="r Data">0.4</td>
+<td class="r Data">83.8</td>
+<td class="r Data">3.5</td>
+<td class="r Data">86.3</td>
+<td class="r Data">82.1</td>
+<td class="r Data">13.7</td>
+<td class="r Data">1.8</td>
+<td class="r Data">80.3</td>
+<td class="r Data">4.2</td>
+<td class="r Data">92.0</td>
+<td class="r Data">88.8</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">1.4</td>
+<td class="r Data">87.4</td>
+<td class="r Data">3.2</td>
+<td class="r Data">88.5</td>
+<td class="r Data">84.6</td>
+<td class="r Data">11.5</td>
+<td class="r Data">1.7</td>
+<td class="r Data">83.0</td>
+<td class="r Data">3.9</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 89.5</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data"> 84.2</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">66.7</td>
+<td class="r Data">58.3</td>
+<td class="r Data">33.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">58.3</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">88.5</td>
+<td class="r Data">84.8</td>
+<td class="r Data">11.5</td>
+<td class="r Data">1.7</td>
+<td class="r Data">83.1</td>
+<td class="r Data">3.8</td>
+<td class="r Data">86.4</td>
+<td class="r Data">81.8</td>
+<td class="r Data">13.6</td>
+<td class="r Data">2.1</td>
+<td class="r Data">79.7</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">81.8</td>
+<td class="r Data">72.3</td>
+<td class="r Data">18.2</td>
+<td class="r Data">0.4</td>
+<td class="r Data">71.9</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">95.4</td>
+<td class="r Data">93.1</td>
+<td class="r Data">4.6</td>
+<td class="r Data">1.4</td>
+<td class="r Data">91.8</td>
+<td class="r Data">2.3</td>
+<td class="r Data"> 93.7</td>
+<td class="r Data">92.4</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">92.4</td>
+<td class="r Data"> 1.3</td>
+<td class="r Data"> 94.2</td>
+<td class="r Data"> 94.2</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">1.4</td>
+<td class="r Data"> 92.8</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  80.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  80.0</td>
+<td class="r Data"> 20.0</td>
+<td class="r Data">90.4</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">1.6</td>
+<td class="r Data">85.1</td>
+<td class="r Data">3.7</td>
+<td class="r Data">89.0</td>
+<td class="r Data">86.3</td>
+<td class="r Data">11.0</td>
+<td class="r Data">1.8</td>
+<td class="r Data">84.5</td>
+<td class="r Data"> 2.7</td>
+<td class="r Data">87.6</td>
+<td class="r Data">83.4</td>
+<td class="r Data">12.4</td>
+<td class="r Data">1.9</td>
+<td class="r Data">81.5</td>
+<td class="r Data">4.2</td>
+<td class="r Data">91.8</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">87.5</td>
+<td class="r Data">2.9</td>
+<td class="r Data">88.7</td>
+<td class="r Data">84.5</td>
+<td class="r Data">11.3</td>
+<td class="r Data">1.7</td>
+<td class="r Data">82.8</td>
+<td class="r Data">4.2</td>
+<td class="r Data"> 84.2</td>
+<td class="r Data"> 78.9</td>
+<td class="r Data">15.8</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">78.9</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">69.2</td>
+<td class="r Data">67.3</td>
+<td class="r Data">30.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">67.3</td>
+<td class="r Data"> 1.9</td>
+<td class="r Data">89.1</td>
+<td class="r Data">84.7</td>
+<td class="r Data">10.9</td>
+<td class="r Data">1.9</td>
+<td class="r Data">82.8</td>
+<td class="r Data">4.4</td>
+<td class="r Data">85.8</td>
+<td class="r Data">80.8</td>
+<td class="r Data">14.2</td>
+<td class="r Data">2.3</td>
+<td class="r Data">78.5</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">84.9</td>
+<td class="r Data">76.4</td>
+<td class="r Data">15.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data">76.1</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">95.9</td>
+<td class="r Data">93.5</td>
+<td class="r Data">4.1</td>
+<td class="r Data">1.5</td>
+<td class="r Data">92.0</td>
+<td class="r Data">2.4</td>
+</tr>
+<tr>
+<td class="l Data">&#39;03</td>
+<td class="r Data"> 94.4</td>
+<td class="r Data"> 88.9</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">88.9</td>
+<td class="r Data">5.6</td>
+<td class="r Data"> 95.1</td>
+<td class="r Data"> 93.4</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 93.4</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data">    . </td>
+<td class="r Data">    . </td>
+<td class="r Data">   . </td>
+<td class="r Data">  . </td>
+<td class="r Data">    . </td>
+<td class="r Data">   . </td>
+<td class="r Data">94.4</td>
+<td class="r Data">92.0</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">1.1</td>
+<td class="r Data">90.8</td>
+<td class="r Data">2.5</td>
+<td class="r Data">94.0</td>
+<td class="r Data">90.3</td>
+<td class="r Data"> 6.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">89.7</td>
+<td class="r Data">3.6</td>
+<td class="r Data">93.5</td>
+<td class="r Data">90.8</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">89.9</td>
+<td class="r Data">2.7</td>
+<td class="r Data">95.2</td>
+<td class="r Data">92.9</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data">91.9</td>
+<td class="r Data">2.3</td>
+<td class="r Data">91.9</td>
+<td class="r Data">88.6</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">87.3</td>
+<td class="r Data">3.4</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">11.1</td>
+<td class="r Data"> 88.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">76.2</td>
+<td class="r Data">66.7</td>
+<td class="r Data">23.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">66.7</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">93.7</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">1.2</td>
+<td class="r Data">89.8</td>
+<td class="r Data">2.7</td>
+<td class="r Data">90.0</td>
+<td class="r Data">85.9</td>
+<td class="r Data">10.0</td>
+<td class="r Data">1.4</td>
+<td class="r Data">84.5</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">92.5</td>
+<td class="r Data">88.4</td>
+<td class="r Data"> 7.5</td>
+<td class="r Data">1.0</td>
+<td class="r Data">87.3</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">97.3</td>
+<td class="r Data">96.0</td>
+<td class="r Data">2.7</td>
+<td class="r Data">1.1</td>
+<td class="r Data">94.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">100.0</td>
+<td class="r Data">97.6</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">97.6</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">94.2</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data">90.4</td>
+<td class="r Data">2.8</td>
+<td class="r Data">92.1</td>
+<td class="r Data">87.0</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">87.0</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">93.8</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data">89.7</td>
+<td class="r Data">3.4</td>
+<td class="r Data">96.0</td>
+<td class="r Data">93.8</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">92.8</td>
+<td class="r Data">2.2</td>
+<td class="r Data">91.8</td>
+<td class="r Data">88.5</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">87.2</td>
+<td class="r Data">3.3</td>
+<td class="r Data"> 83.3</td>
+<td class="r Data"> 75.0</td>
+<td class="r Data">16.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">75.0</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">83.0</td>
+<td class="r Data">74.5</td>
+<td class="r Data">17.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">74.5</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">92.4</td>
+<td class="r Data">89.0</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">88.3</td>
+<td class="r Data">3.4</td>
+<td class="r Data">90.8</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data">1.0</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">93.0</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 6.0</td>
+<td class="r Data">97.0</td>
+<td class="r Data">95.0</td>
+<td class="r Data">3.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">94.3</td>
+<td class="r Data">2.0</td>
+</tr>
+<tr>
+<td class="l Data">&#39;04</td>
+<td class="r Data"> 94.8</td>
+<td class="r Data"> 92.7</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">92.1</td>
+<td class="r Data">2.2</td>
+<td class="r Data"> 98.3</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data"> 1.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 96.2</td>
+<td class="r Data"> 2.0</td>
+<td class="r Data">  89.5</td>
+<td class="r Data">  86.0</td>
+<td class="r Data"> 10.5</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  86.0</td>
+<td class="r Data">  3.5</td>
+<td class="r Data">93.0</td>
+<td class="r Data">88.5</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">87.8</td>
+<td class="r Data">4.6</td>
+<td class="r Data">89.5</td>
+<td class="r Data">84.3</td>
+<td class="r Data">10.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">83.6</td>
+<td class="r Data">5.2</td>
+<td class="r Data">90.8</td>
+<td class="r Data">86.0</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data">85.3</td>
+<td class="r Data">4.8</td>
+<td class="r Data">94.3</td>
+<td class="r Data">90.7</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">90.3</td>
+<td class="r Data">3.6</td>
+<td class="r Data">91.6</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 8.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">85.1</td>
+<td class="r Data">5.9</td>
+<td class="r Data"> 88.8</td>
+<td class="r Data"> 85.6</td>
+<td class="r Data">11.2</td>
+<td class="r Data"> 0.4</td>
+<td class="r Data"> 85.2</td>
+<td class="r Data"> 3.2</td>
+<td class="r Data">69.1</td>
+<td class="r Data">50.6</td>
+<td class="r Data">30.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">50.1</td>
+<td class="r Data">18.5</td>
+<td class="r Data">91.8</td>
+<td class="r Data">86.3</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data">85.4</td>
+<td class="r Data">5.5</td>
+<td class="r Data">88.9</td>
+<td class="r Data">80.4</td>
+<td class="r Data">11.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">79.5</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">87.1</td>
+<td class="r Data">73.9</td>
+<td class="r Data">12.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">73.5</td>
+<td class="r Data">13.2</td>
+<td class="r Data">96.6</td>
+<td class="r Data">93.9</td>
+<td class="r Data">3.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">93.0</td>
+<td class="r Data">2.7</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data">93.8</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">93.0</td>
+<td class="r Data"> 2.5</td>
+<td class="r Data"> 97.8</td>
+<td class="r Data"> 95.1</td>
+<td class="r Data"> 2.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 95.0</td>
+<td class="r Data"> 2.7</td>
+<td class="r Data">  96.5</td>
+<td class="r Data">  90.6</td>
+<td class="r Data">  3.5</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  90.6</td>
+<td class="r Data">  5.9</td>
+<td class="r Data">92.9</td>
+<td class="r Data">88.1</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">87.4</td>
+<td class="r Data">4.7</td>
+<td class="r Data">89.1</td>
+<td class="r Data">83.9</td>
+<td class="r Data">10.9</td>
+<td class="r Data">0.6</td>
+<td class="r Data">83.3</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">91.4</td>
+<td class="r Data">86.3</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">85.5</td>
+<td class="r Data">5.1</td>
+<td class="r Data">94.1</td>
+<td class="r Data">90.5</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">90.0</td>
+<td class="r Data">3.6</td>
+<td class="r Data">91.3</td>
+<td class="r Data">85.2</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data">84.4</td>
+<td class="r Data">6.2</td>
+<td class="r Data"> 91.8</td>
+<td class="r Data"> 87.6</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data"> 1.0</td>
+<td class="r Data">86.6</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">69.9</td>
+<td class="r Data">50.2</td>
+<td class="r Data">30.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">49.7</td>
+<td class="r Data">19.7</td>
+<td class="r Data">91.7</td>
+<td class="r Data">85.9</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">1.0</td>
+<td class="r Data">84.9</td>
+<td class="r Data">5.9</td>
+<td class="r Data">89.1</td>
+<td class="r Data">80.8</td>
+<td class="r Data">10.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data">79.9</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">87.1</td>
+<td class="r Data">74.8</td>
+<td class="r Data">12.9</td>
+<td class="r Data">0.6</td>
+<td class="r Data">74.2</td>
+<td class="r Data">12.3</td>
+<td class="r Data">96.8</td>
+<td class="r Data">94.0</td>
+<td class="r Data">3.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data">93.1</td>
+<td class="r Data">2.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;05</td>
+<td class="r Data"> 96.1</td>
+<td class="r Data"> 92.2</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">92.2</td>
+<td class="r Data">3.9</td>
+<td class="r Data"> 98.2</td>
+<td class="r Data"> 96.4</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 95.9</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">93.5</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">89.7</td>
+<td class="r Data">3.1</td>
+<td class="r Data">88.5</td>
+<td class="r Data">83.9</td>
+<td class="r Data">11.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">83.7</td>
+<td class="r Data">4.7</td>
+<td class="r Data">90.5</td>
+<td class="r Data">87.2</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">0.8</td>
+<td class="r Data">86.4</td>
+<td class="r Data">3.2</td>
+<td class="r Data">94.2</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">91.4</td>
+<td class="r Data">2.2</td>
+<td class="r Data">92.0</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">87.4</td>
+<td class="r Data">4.4</td>
+<td class="r Data"> 84.8</td>
+<td class="r Data"> 78.8</td>
+<td class="r Data">15.2</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 78.8</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">67.0</td>
+<td class="r Data">61.4</td>
+<td class="r Data">33.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">61.4</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">92.9</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">88.0</td>
+<td class="r Data">3.9</td>
+<td class="r Data">89.3</td>
+<td class="r Data">84.0</td>
+<td class="r Data">10.7</td>
+<td class="r Data">1.0</td>
+<td class="r Data">83.0</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">91.2</td>
+<td class="r Data">82.3</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">81.8</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">96.2</td>
+<td class="r Data">94.2</td>
+<td class="r Data">3.8</td>
+<td class="r Data">1.2</td>
+<td class="r Data">93.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data"> 91.2</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">1.8</td>
+<td class="r Data">86.0</td>
+<td class="r Data"> 3.5</td>
+<td class="r Data"> 98.5</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data"> 1.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data"> 95.6</td>
+<td class="r Data"> 2.2</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 16.7</td>
+<td class="r Data">  83.3</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">95.1</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">0.6</td>
+<td class="r Data">91.3</td>
+<td class="r Data">3.2</td>
+<td class="r Data">92.3</td>
+<td class="r Data">88.2</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">87.9</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">93.1</td>
+<td class="r Data">89.7</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">0.7</td>
+<td class="r Data">89.1</td>
+<td class="r Data">3.4</td>
+<td class="r Data">95.6</td>
+<td class="r Data">93.5</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">0.5</td>
+<td class="r Data">93.0</td>
+<td class="r Data">2.2</td>
+<td class="r Data">95.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.5</td>
+<td class="r Data">4.2</td>
+<td class="r Data"> 89.3</td>
+<td class="r Data"> 89.3</td>
+<td class="r Data">10.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">89.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">89.1</td>
+<td class="r Data">78.3</td>
+<td class="r Data">10.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">78.3</td>
+<td class="r Data">10.9</td>
+<td class="r Data">94.6</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">89.6</td>
+<td class="r Data">4.2</td>
+<td class="r Data">92.6</td>
+<td class="r Data">87.5</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">92.1</td>
+<td class="r Data">80.9</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">0.2</td>
+<td class="r Data">80.7</td>
+<td class="r Data">11.1</td>
+<td class="r Data">96.5</td>
+<td class="r Data">93.9</td>
+<td class="r Data">3.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">93.2</td>
+<td class="r Data">2.6</td>
+</tr>
+<tr>
+<td class="l Data">&#39;06</td>
+<td class="r Data"> 93.8</td>
+<td class="r Data"> 91.2</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">2.2</td>
+<td class="r Data">89.0</td>
+<td class="r Data">2.6</td>
+<td class="r Data"> 99.2</td>
+<td class="r Data"> 97.1</td>
+<td class="r Data"> 0.8</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 96.7</td>
+<td class="r Data"> 2.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  88.9</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  88.9</td>
+<td class="r Data"> 11.1</td>
+<td class="r Data">94.7</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">1.7</td>
+<td class="r Data">89.6</td>
+<td class="r Data">3.4</td>
+<td class="r Data">88.5</td>
+<td class="r Data">84.0</td>
+<td class="r Data">11.5</td>
+<td class="r Data">2.2</td>
+<td class="r Data">81.8</td>
+<td class="r Data">4.6</td>
+<td class="r Data">91.1</td>
+<td class="r Data">87.0</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">2.8</td>
+<td class="r Data">84.3</td>
+<td class="r Data">4.1</td>
+<td class="r Data">95.8</td>
+<td class="r Data">93.0</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">92.2</td>
+<td class="r Data">2.8</td>
+<td class="r Data">93.3</td>
+<td class="r Data">88.4</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">2.0</td>
+<td class="r Data">86.4</td>
+<td class="r Data">4.9</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 96.4</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 96.4</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data">81.5</td>
+<td class="r Data">67.1</td>
+<td class="r Data">18.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data">67.1</td>
+<td class="r Data">14.4</td>
+<td class="r Data">93.6</td>
+<td class="r Data">89.6</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">2.5</td>
+<td class="r Data">87.2</td>
+<td class="r Data">3.9</td>
+<td class="r Data">90.6</td>
+<td class="r Data">84.7</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">2.5</td>
+<td class="r Data">82.1</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">90.7</td>
+<td class="r Data">81.0</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">80.0</td>
+<td class="r Data"> 9.7</td>
+<td class="r Data">96.4</td>
+<td class="r Data">94.0</td>
+<td class="r Data">3.6</td>
+<td class="r Data">1.4</td>
+<td class="r Data">92.5</td>
+<td class="r Data">2.4</td>
+<td class="r Data"> 96.1</td>
+<td class="r Data">93.8</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">1.9</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data"> 98.2</td>
+<td class="r Data"> 97.4</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 96.9</td>
+<td class="r Data"> 0.9</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">94.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">1.5</td>
+<td class="r Data">89.6</td>
+<td class="r Data">3.2</td>
+<td class="r Data">89.4</td>
+<td class="r Data">86.0</td>
+<td class="r Data">10.6</td>
+<td class="r Data">1.8</td>
+<td class="r Data">84.2</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">90.6</td>
+<td class="r Data">87.1</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">2.4</td>
+<td class="r Data">84.7</td>
+<td class="r Data">3.5</td>
+<td class="r Data">95.9</td>
+<td class="r Data">93.4</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">0.8</td>
+<td class="r Data">92.6</td>
+<td class="r Data">2.5</td>
+<td class="r Data">92.7</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">1.9</td>
+<td class="r Data">86.1</td>
+<td class="r Data">4.7</td>
+<td class="r Data"> 92.7</td>
+<td class="r Data"> 89.1</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">87.3</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data">84.1</td>
+<td class="r Data">73.6</td>
+<td class="r Data">15.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">73.6</td>
+<td class="r Data">10.6</td>
+<td class="r Data">92.7</td>
+<td class="r Data">88.8</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">2.1</td>
+<td class="r Data">86.7</td>
+<td class="r Data">3.9</td>
+<td class="r Data">90.0</td>
+<td class="r Data">84.2</td>
+<td class="r Data">10.0</td>
+<td class="r Data">2.5</td>
+<td class="r Data">81.7</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">88.9</td>
+<td class="r Data">80.4</td>
+<td class="r Data">11.1</td>
+<td class="r Data">0.8</td>
+<td class="r Data">79.6</td>
+<td class="r Data"> 8.4</td>
+<td class="r Data">95.8</td>
+<td class="r Data">93.2</td>
+<td class="r Data">4.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">92.0</td>
+<td class="r Data">2.6</td>
+</tr>
+<tr>
+<td class="l Data">&#39;07</td>
+<td class="r Data"> 95.2</td>
+<td class="r Data"> 92.6</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data">91.7</td>
+<td class="r Data">2.6</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 93.2</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 92.3</td>
+<td class="r Data"> 1.7</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">95.5</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 4.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">92.7</td>
+<td class="r Data">2.2</td>
+<td class="r Data">93.8</td>
+<td class="r Data">91.1</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data">2.7</td>
+<td class="r Data">93.9</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">90.7</td>
+<td class="r Data">2.4</td>
+<td class="r Data">96.4</td>
+<td class="r Data">94.6</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">94.1</td>
+<td class="r Data">1.8</td>
+<td class="r Data">94.9</td>
+<td class="r Data">92.0</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">91.6</td>
+<td class="r Data">2.8</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data"> 95.2</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">81.4</td>
+<td class="r Data">74.7</td>
+<td class="r Data">18.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">74.7</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">94.6</td>
+<td class="r Data">92.1</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">91.3</td>
+<td class="r Data">2.5</td>
+<td class="r Data">93.1</td>
+<td class="r Data">89.8</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">0.7</td>
+<td class="r Data">89.0</td>
+<td class="r Data"> 3.3</td>
+<td class="r Data">93.7</td>
+<td class="r Data">86.4</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">86.2</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">96.3</td>
+<td class="r Data">94.5</td>
+<td class="r Data">3.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">93.6</td>
+<td class="r Data">1.8</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data">93.5</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">92.6</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data"> 96.2</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data"> 92.4</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">95.3</td>
+<td class="r Data">93.1</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">92.5</td>
+<td class="r Data">2.2</td>
+<td class="r Data">93.2</td>
+<td class="r Data">90.3</td>
+<td class="r Data"> 6.8</td>
+<td class="r Data">0.4</td>
+<td class="r Data">89.8</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data">93.6</td>
+<td class="r Data">90.8</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">90.2</td>
+<td class="r Data">2.8</td>
+<td class="r Data">96.3</td>
+<td class="r Data">94.6</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data">93.9</td>
+<td class="r Data">1.7</td>
+<td class="r Data">93.4</td>
+<td class="r Data">89.9</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">0.3</td>
+<td class="r Data">89.6</td>
+<td class="r Data">3.6</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data"> 86.7</td>
+<td class="r Data">10.0</td>
+<td class="r Data"> 1.7</td>
+<td class="r Data">85.0</td>
+<td class="r Data"> 3.3</td>
+<td class="r Data">78.6</td>
+<td class="r Data">67.3</td>
+<td class="r Data">21.4</td>
+<td class="r Data">1.0</td>
+<td class="r Data">66.3</td>
+<td class="r Data">11.2</td>
+<td class="r Data">94.4</td>
+<td class="r Data">91.7</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">91.2</td>
+<td class="r Data">2.7</td>
+<td class="r Data">92.3</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">88.3</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">94.3</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">0.0</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">96.7</td>
+<td class="r Data">95.1</td>
+<td class="r Data">3.3</td>
+<td class="r Data">0.7</td>
+<td class="r Data">94.4</td>
+<td class="r Data">1.5</td>
+</tr>
+<tr>
+<td class="l Data">&#39;08</td>
+<td class="r Data"> 95.7</td>
+<td class="r Data"> 94.6</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">94.6</td>
+<td class="r Data">1.1</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">96.7</td>
+<td class="r Data">95.4</td>
+<td class="r Data"> 3.3</td>
+<td class="r Data">1.3</td>
+<td class="r Data">94.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">94.9</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">92.6</td>
+<td class="r Data">1.6</td>
+<td class="r Data">95.6</td>
+<td class="r Data">94.1</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">1.3</td>
+<td class="r Data">92.8</td>
+<td class="r Data">1.5</td>
+<td class="r Data">97.1</td>
+<td class="r Data">96.2</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data">95.2</td>
+<td class="r Data">1.0</td>
+<td class="r Data">97.9</td>
+<td class="r Data">95.7</td>
+<td class="r Data"> 2.1</td>
+<td class="r Data">1.0</td>
+<td class="r Data">94.7</td>
+<td class="r Data">2.2</td>
+<td class="r Data"> 92.9</td>
+<td class="r Data"> 92.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data"> 89.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">94.4</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">96.3</td>
+<td class="r Data">94.7</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">1.6</td>
+<td class="r Data">93.1</td>
+<td class="r Data">1.6</td>
+<td class="r Data">95.1</td>
+<td class="r Data">93.2</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">1.5</td>
+<td class="r Data">91.6</td>
+<td class="r Data"> 1.9</td>
+<td class="r Data">94.8</td>
+<td class="r Data">91.2</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">97.1</td>
+<td class="r Data">96.2</td>
+<td class="r Data">2.9</td>
+<td class="r Data">1.7</td>
+<td class="r Data">94.5</td>
+<td class="r Data">1.0</td>
+<td class="r Data"> 98.4</td>
+<td class="r Data">96.7</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">96.7</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">97.3</td>
+<td class="r Data">95.7</td>
+<td class="r Data"> 2.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">94.8</td>
+<td class="r Data">1.6</td>
+<td class="r Data">95.7</td>
+<td class="r Data">94.0</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">0.6</td>
+<td class="r Data">93.4</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data">96.0</td>
+<td class="r Data">94.2</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">1.2</td>
+<td class="r Data">93.0</td>
+<td class="r Data">1.8</td>
+<td class="r Data">97.6</td>
+<td class="r Data">96.4</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">95.5</td>
+<td class="r Data">1.2</td>
+<td class="r Data">97.8</td>
+<td class="r Data">95.5</td>
+<td class="r Data"> 2.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">95.0</td>
+<td class="r Data">2.2</td>
+<td class="r Data"> 89.7</td>
+<td class="r Data"> 89.7</td>
+<td class="r Data">10.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">89.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">90.2</td>
+<td class="r Data">88.5</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data">1.6</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data">97.0</td>
+<td class="r Data">95.0</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">94.0</td>
+<td class="r Data">2.0</td>
+<td class="r Data">94.9</td>
+<td class="r Data">92.9</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">1.0</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 2.0</td>
+<td class="r Data">95.3</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">97.8</td>
+<td class="r Data">96.3</td>
+<td class="r Data">2.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">95.1</td>
+<td class="r Data">1.5</td>
+</tr>
+<tr>
+<td class="l Data">&#39;09</td>
+<td class="r Data"> 97.1</td>
+<td class="r Data"> 92.9</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data">2.9</td>
+<td class="r Data">90.0</td>
+<td class="r Data">4.3</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">96.9</td>
+<td class="r Data">95.5</td>
+<td class="r Data"> 3.1</td>
+<td class="r Data">1.4</td>
+<td class="r Data">94.0</td>
+<td class="r Data">1.5</td>
+<td class="r Data">96.4</td>
+<td class="r Data">94.8</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data">1.6</td>
+<td class="r Data">93.3</td>
+<td class="r Data">1.6</td>
+<td class="r Data">95.3</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">2.2</td>
+<td class="r Data">91.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">97.9</td>
+<td class="r Data">96.7</td>
+<td class="r Data"> 2.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">95.4</td>
+<td class="r Data">1.1</td>
+<td class="r Data">96.7</td>
+<td class="r Data">95.4</td>
+<td class="r Data"> 3.3</td>
+<td class="r Data">2.7</td>
+<td class="r Data">92.6</td>
+<td class="r Data">1.4</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">91.7</td>
+<td class="r Data">83.3</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">83.3</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">96.1</td>
+<td class="r Data">94.3</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">1.6</td>
+<td class="r Data">92.7</td>
+<td class="r Data">1.8</td>
+<td class="r Data">95.7</td>
+<td class="r Data">93.8</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">2.1</td>
+<td class="r Data">91.7</td>
+<td class="r Data"> 1.9</td>
+<td class="r Data">95.9</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">97.0</td>
+<td class="r Data">95.7</td>
+<td class="r Data">3.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">94.8</td>
+<td class="r Data">1.3</td>
+<td class="r Data"> 93.9</td>
+<td class="r Data">93.9</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">1.5</td>
+<td class="r Data">92.4</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">96.6</td>
+<td class="r Data">95.1</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">1.3</td>
+<td class="r Data">93.7</td>
+<td class="r Data">1.5</td>
+<td class="r Data">95.9</td>
+<td class="r Data">94.8</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">2.1</td>
+<td class="r Data">92.7</td>
+<td class="r Data"> 1.0</td>
+<td class="r Data">95.4</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">1.9</td>
+<td class="r Data">91.4</td>
+<td class="r Data">2.1</td>
+<td class="r Data">97.0</td>
+<td class="r Data">96.0</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">1.1</td>
+<td class="r Data">94.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data">94.7</td>
+<td class="r Data">92.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">1.8</td>
+<td class="r Data">90.5</td>
+<td class="r Data">2.4</td>
+<td class="r Data"> 93.1</td>
+<td class="r Data"> 93.1</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">93.1</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">87.5</td>
+<td class="r Data">83.3</td>
+<td class="r Data">12.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data">83.3</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">96.2</td>
+<td class="r Data">94.3</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data">1.6</td>
+<td class="r Data">92.7</td>
+<td class="r Data">1.9</td>
+<td class="r Data">94.3</td>
+<td class="r Data">92.5</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">2.5</td>
+<td class="r Data">90.0</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">95.0</td>
+<td class="r Data">91.4</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data">97.4</td>
+<td class="r Data">96.0</td>
+<td class="r Data">2.6</td>
+<td class="r Data">1.1</td>
+<td class="r Data">94.9</td>
+<td class="r Data">1.4</td>
+</tr>
+<tr>
+<td class="l Data">&#39;10</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 90.8</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data">90.5</td>
+<td class="r Data">4.1</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data"> 94.3</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.3</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">  98.6</td>
+<td class="r Data">  97.1</td>
+<td class="r Data">  1.4</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  97.1</td>
+<td class="r Data">  1.4</td>
+<td class="r Data">93.3</td>
+<td class="r Data">88.1</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">87.7</td>
+<td class="r Data">5.2</td>
+<td class="r Data">89.9</td>
+<td class="r Data">83.2</td>
+<td class="r Data">10.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">82.7</td>
+<td class="r Data">6.8</td>
+<td class="r Data">90.7</td>
+<td class="r Data">84.2</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">83.8</td>
+<td class="r Data">6.4</td>
+<td class="r Data">94.5</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data">0.3</td>
+<td class="r Data">90.2</td>
+<td class="r Data">4.1</td>
+<td class="r Data">91.5</td>
+<td class="r Data">84.8</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">0.3</td>
+<td class="r Data">84.5</td>
+<td class="r Data">6.7</td>
+<td class="r Data"> 90.8</td>
+<td class="r Data"> 86.2</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data"> 0.9</td>
+<td class="r Data"> 85.3</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">77.5</td>
+<td class="r Data">66.5</td>
+<td class="r Data">22.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">66.4</td>
+<td class="r Data">10.9</td>
+<td class="r Data">92.0</td>
+<td class="r Data">85.8</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">85.2</td>
+<td class="r Data">6.3</td>
+<td class="r Data">89.3</td>
+<td class="r Data">80.4</td>
+<td class="r Data">10.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">79.8</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">88.7</td>
+<td class="r Data">76.6</td>
+<td class="r Data">11.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">76.3</td>
+<td class="r Data">12.1</td>
+<td class="r Data">96.4</td>
+<td class="r Data">93.5</td>
+<td class="r Data">3.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">93.0</td>
+<td class="r Data">2.9</td>
+<td class="r Data"> 95.4</td>
+<td class="r Data">91.6</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">0.9</td>
+<td class="r Data">90.7</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data"> 97.5</td>
+<td class="r Data"> 94.4</td>
+<td class="r Data"> 2.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 94.3</td>
+<td class="r Data"> 3.1</td>
+<td class="r Data">  87.3</td>
+<td class="r Data">  85.7</td>
+<td class="r Data"> 12.7</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  85.7</td>
+<td class="r Data">  1.6</td>
+<td class="r Data">93.6</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">0.5</td>
+<td class="r Data">87.5</td>
+<td class="r Data">5.6</td>
+<td class="r Data">90.1</td>
+<td class="r Data">83.5</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">83.0</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">91.7</td>
+<td class="r Data">84.7</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">84.2</td>
+<td class="r Data">6.9</td>
+<td class="r Data">94.8</td>
+<td class="r Data">90.3</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">90.0</td>
+<td class="r Data">4.5</td>
+<td class="r Data">91.9</td>
+<td class="r Data">83.9</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">83.5</td>
+<td class="r Data">8.0</td>
+<td class="r Data"> 93.4</td>
+<td class="r Data"> 87.9</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data"> 0.3</td>
+<td class="r Data">87.6</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data">80.3</td>
+<td class="r Data">66.8</td>
+<td class="r Data">19.7</td>
+<td class="r Data">0.2</td>
+<td class="r Data">66.5</td>
+<td class="r Data">13.5</td>
+<td class="r Data">92.4</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">85.1</td>
+<td class="r Data">6.7</td>
+<td class="r Data">90.5</td>
+<td class="r Data">80.6</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">80.0</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">89.0</td>
+<td class="r Data">77.3</td>
+<td class="r Data">11.0</td>
+<td class="r Data">0.4</td>
+<td class="r Data">76.9</td>
+<td class="r Data">11.7</td>
+<td class="r Data">96.8</td>
+<td class="r Data">94.0</td>
+<td class="r Data">3.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">93.4</td>
+<td class="r Data">2.9</td>
+</tr>
+<tr>
+<td class="l Data">&#39;11</td>
+<td class="r Data"> 95.3</td>
+<td class="r Data"> 91.9</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">91.3</td>
+<td class="r Data">3.4</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 93.2</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">  92.5</td>
+<td class="r Data">  89.2</td>
+<td class="r Data">  7.5</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  89.2</td>
+<td class="r Data">  3.2</td>
+<td class="r Data">93.6</td>
+<td class="r Data">89.4</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">88.7</td>
+<td class="r Data">4.2</td>
+<td class="r Data">89.6</td>
+<td class="r Data">84.9</td>
+<td class="r Data">10.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">84.3</td>
+<td class="r Data">4.7</td>
+<td class="r Data">90.6</td>
+<td class="r Data">84.3</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">83.7</td>
+<td class="r Data">6.3</td>
+<td class="r Data">94.8</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.8</td>
+<td class="r Data">3.5</td>
+<td class="r Data">90.8</td>
+<td class="r Data">84.3</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">83.8</td>
+<td class="r Data">6.5</td>
+<td class="r Data"> 94.2</td>
+<td class="r Data"> 91.1</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data"> 0.4</td>
+<td class="r Data"> 90.6</td>
+<td class="r Data"> 3.1</td>
+<td class="r Data">75.6</td>
+<td class="r Data">61.1</td>
+<td class="r Data">24.4</td>
+<td class="r Data">0.3</td>
+<td class="r Data">60.8</td>
+<td class="r Data">14.5</td>
+<td class="r Data">92.5</td>
+<td class="r Data">87.5</td>
+<td class="r Data"> 7.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">86.6</td>
+<td class="r Data">5.0</td>
+<td class="r Data">89.6</td>
+<td class="r Data">81.5</td>
+<td class="r Data">10.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">80.7</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">88.0</td>
+<td class="r Data">74.7</td>
+<td class="r Data">12.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">74.4</td>
+<td class="r Data">13.3</td>
+<td class="r Data">96.3</td>
+<td class="r Data">93.5</td>
+<td class="r Data">3.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">92.6</td>
+<td class="r Data">2.8</td>
+<td class="r Data"> 93.9</td>
+<td class="r Data">90.3</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data">90.1</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data"> 95.3</td>
+<td class="r Data"> 91.9</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 91.8</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">  95.3</td>
+<td class="r Data">  89.5</td>
+<td class="r Data">  4.7</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  89.5</td>
+<td class="r Data">  5.8</td>
+<td class="r Data">93.4</td>
+<td class="r Data">89.1</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">88.3</td>
+<td class="r Data">4.3</td>
+<td class="r Data">89.0</td>
+<td class="r Data">83.9</td>
+<td class="r Data">11.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">83.3</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">90.4</td>
+<td class="r Data">83.1</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">0.9</td>
+<td class="r Data">82.3</td>
+<td class="r Data">7.3</td>
+<td class="r Data">94.7</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">0.6</td>
+<td class="r Data">90.7</td>
+<td class="r Data">3.4</td>
+<td class="r Data">90.6</td>
+<td class="r Data">84.0</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">83.1</td>
+<td class="r Data">6.6</td>
+<td class="r Data"> 94.4</td>
+<td class="r Data"> 89.8</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">89.8</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">77.2</td>
+<td class="r Data">64.2</td>
+<td class="r Data">22.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">63.7</td>
+<td class="r Data">13.1</td>
+<td class="r Data">92.1</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data">85.9</td>
+<td class="r Data">5.1</td>
+<td class="r Data">89.9</td>
+<td class="r Data">82.0</td>
+<td class="r Data">10.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">80.9</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">89.1</td>
+<td class="r Data">77.4</td>
+<td class="r Data">10.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">77.0</td>
+<td class="r Data">11.7</td>
+<td class="r Data">96.1</td>
+<td class="r Data">93.4</td>
+<td class="r Data">3.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">92.6</td>
+<td class="r Data">2.7</td>
+</tr>
+<tr>
+<td class="l Data">&#39;12</td>
+<td class="r Data"> 94.3</td>
+<td class="r Data"> 89.9</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">0.0</td>
+<td class="r Data">89.9</td>
+<td class="r Data">4.5</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data"> 95.2</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 94.6</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">  88.4</td>
+<td class="r Data">  81.4</td>
+<td class="r Data"> 11.6</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  81.4</td>
+<td class="r Data">  7.0</td>
+<td class="r Data">94.6</td>
+<td class="r Data">90.0</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">89.4</td>
+<td class="r Data">4.6</td>
+<td class="r Data">92.5</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 7.5</td>
+<td class="r Data">0.5</td>
+<td class="r Data">86.5</td>
+<td class="r Data">5.5</td>
+<td class="r Data">92.9</td>
+<td class="r Data">86.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.8</td>
+<td class="r Data">86.0</td>
+<td class="r Data">6.1</td>
+<td class="r Data">95.2</td>
+<td class="r Data">91.4</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">0.4</td>
+<td class="r Data">90.9</td>
+<td class="r Data">3.8</td>
+<td class="r Data">93.3</td>
+<td class="r Data">85.9</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">85.3</td>
+<td class="r Data">7.4</td>
+<td class="r Data"> 88.5</td>
+<td class="r Data"> 81.6</td>
+<td class="r Data">11.5</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 81.6</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">76.7</td>
+<td class="r Data">69.3</td>
+<td class="r Data">23.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">68.8</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">94.2</td>
+<td class="r Data">88.7</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">88.0</td>
+<td class="r Data">5.5</td>
+<td class="r Data">92.4</td>
+<td class="r Data">85.4</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">84.6</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">91.1</td>
+<td class="r Data">84.4</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">83.9</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">96.6</td>
+<td class="r Data">94.1</td>
+<td class="r Data">3.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">93.5</td>
+<td class="r Data">2.5</td>
+<td class="r Data"> 95.7</td>
+<td class="r Data">91.8</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">1.2</td>
+<td class="r Data">90.6</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data"> 94.5</td>
+<td class="r Data"> 93.9</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 93.9</td>
+<td class="r Data"> 0.6</td>
+<td class="r Data">  96.9</td>
+<td class="r Data">  93.8</td>
+<td class="r Data">  3.1</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  93.8</td>
+<td class="r Data">  3.1</td>
+<td class="r Data">94.6</td>
+<td class="r Data">90.2</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">89.5</td>
+<td class="r Data">4.4</td>
+<td class="r Data">91.3</td>
+<td class="r Data">85.3</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">84.9</td>
+<td class="r Data"> 6.0</td>
+<td class="r Data">92.8</td>
+<td class="r Data">87.3</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">86.7</td>
+<td class="r Data">5.5</td>
+<td class="r Data">95.0</td>
+<td class="r Data">91.2</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.7</td>
+<td class="r Data">3.7</td>
+<td class="r Data">94.0</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 6.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">87.2</td>
+<td class="r Data">6.2</td>
+<td class="r Data"> 86.0</td>
+<td class="r Data"> 84.2</td>
+<td class="r Data">14.0</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">82.5</td>
+<td class="r Data"> 1.8</td>
+<td class="r Data">78.9</td>
+<td class="r Data">68.3</td>
+<td class="r Data">21.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">68.3</td>
+<td class="r Data">10.6</td>
+<td class="r Data">94.2</td>
+<td class="r Data">89.2</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.8</td>
+<td class="r Data">88.4</td>
+<td class="r Data">5.0</td>
+<td class="r Data">92.3</td>
+<td class="r Data">86.5</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">92.6</td>
+<td class="r Data">83.4</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">0.5</td>
+<td class="r Data">82.9</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data">96.5</td>
+<td class="r Data">93.7</td>
+<td class="r Data">3.5</td>
+<td class="r Data">0.8</td>
+<td class="r Data">93.0</td>
+<td class="r Data">2.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;13</td>
+<td class="r Data"> 96.7</td>
+<td class="r Data"> 94.2</td>
+<td class="r Data"> 3.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">93.9</td>
+<td class="r Data">2.5</td>
+<td class="r Data"> 98.5</td>
+<td class="r Data"> 95.9</td>
+<td class="r Data"> 1.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 95.7</td>
+<td class="r Data"> 2.6</td>
+<td class="r Data">  94.4</td>
+<td class="r Data">  88.9</td>
+<td class="r Data">  5.6</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">  86.1</td>
+<td class="r Data">  5.6</td>
+<td class="r Data">95.6</td>
+<td class="r Data">92.1</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">91.5</td>
+<td class="r Data">3.5</td>
+<td class="r Data">93.2</td>
+<td class="r Data">88.4</td>
+<td class="r Data"> 6.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">87.6</td>
+<td class="r Data">4.9</td>
+<td class="r Data">92.1</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">87.1</td>
+<td class="r Data">4.2</td>
+<td class="r Data">96.3</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">92.8</td>
+<td class="r Data">3.0</td>
+<td class="r Data">93.5</td>
+<td class="r Data">88.5</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">87.9</td>
+<td class="r Data">4.9</td>
+<td class="r Data"> 94.4</td>
+<td class="r Data"> 91.7</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data"> 1.9</td>
+<td class="r Data"> 89.8</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">77.2</td>
+<td class="r Data">62.6</td>
+<td class="r Data">22.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">62.5</td>
+<td class="r Data">14.5</td>
+<td class="r Data">95.0</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">0.8</td>
+<td class="r Data">90.2</td>
+<td class="r Data">4.0</td>
+<td class="r Data">93.1</td>
+<td class="r Data">86.3</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data">85.4</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">91.2</td>
+<td class="r Data">79.1</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">0.6</td>
+<td class="r Data">78.5</td>
+<td class="r Data">12.0</td>
+<td class="r Data">97.7</td>
+<td class="r Data">95.7</td>
+<td class="r Data">2.3</td>
+<td class="r Data">0.7</td>
+<td class="r Data">95.0</td>
+<td class="r Data">2.0</td>
+<td class="r Data"> 97.4</td>
+<td class="r Data">94.4</td>
+<td class="r Data"> 2.6</td>
+<td class="r Data">1.2</td>
+<td class="r Data">93.2</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data"> 98.0</td>
+<td class="r Data"> 94.8</td>
+<td class="r Data"> 2.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.8</td>
+<td class="r Data"> 3.2</td>
+<td class="r Data">  97.4</td>
+<td class="r Data">  97.4</td>
+<td class="r Data">  2.6</td>
+<td class="r Data">  2.6</td>
+<td class="r Data">  94.7</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">95.2</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">0.8</td>
+<td class="r Data">90.7</td>
+<td class="r Data">3.7</td>
+<td class="r Data">93.6</td>
+<td class="r Data">88.2</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">0.7</td>
+<td class="r Data">87.5</td>
+<td class="r Data"> 5.4</td>
+<td class="r Data">92.4</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">1.1</td>
+<td class="r Data">86.7</td>
+<td class="r Data">4.6</td>
+<td class="r Data">96.3</td>
+<td class="r Data">93.1</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data">92.4</td>
+<td class="r Data">3.2</td>
+<td class="r Data">92.9</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.8</td>
+<td class="r Data">87.0</td>
+<td class="r Data">5.1</td>
+<td class="r Data"> 94.1</td>
+<td class="r Data"> 91.2</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data"> 1.0</td>
+<td class="r Data">90.2</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data">77.7</td>
+<td class="r Data">65.5</td>
+<td class="r Data">22.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">65.2</td>
+<td class="r Data">12.2</td>
+<td class="r Data">94.2</td>
+<td class="r Data">89.9</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data">89.1</td>
+<td class="r Data">4.3</td>
+<td class="r Data">92.6</td>
+<td class="r Data">85.2</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">1.2</td>
+<td class="r Data">84.0</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">90.1</td>
+<td class="r Data">76.8</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">76.0</td>
+<td class="r Data">13.3</td>
+<td class="r Data">97.3</td>
+<td class="r Data">95.0</td>
+<td class="r Data">2.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">94.2</td>
+<td class="r Data">2.3</td>
+</tr>
+<tr>
+<td class="l Data">&#39;14</td>
+<td class="r Data"> 96.2</td>
+<td class="r Data"> 89.7</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data">1.3</td>
+<td class="r Data">88.5</td>
+<td class="r Data">6.4</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 96.3</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">    . </td>
+<td class="r Data">    . </td>
+<td class="r Data">   . </td>
+<td class="r Data">  . </td>
+<td class="r Data">    . </td>
+<td class="r Data">   . </td>
+<td class="r Data">93.3</td>
+<td class="r Data">89.1</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">2.0</td>
+<td class="r Data">87.1</td>
+<td class="r Data">4.2</td>
+<td class="r Data">88.2</td>
+<td class="r Data">79.3</td>
+<td class="r Data">11.8</td>
+<td class="r Data">1.2</td>
+<td class="r Data">78.0</td>
+<td class="r Data">8.9</td>
+<td class="r Data">89.2</td>
+<td class="r Data">84.9</td>
+<td class="r Data">10.8</td>
+<td class="r Data">1.7</td>
+<td class="r Data">83.1</td>
+<td class="r Data">4.4</td>
+<td class="r Data">94.3</td>
+<td class="r Data">89.7</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">1.7</td>
+<td class="r Data">87.9</td>
+<td class="r Data">4.7</td>
+<td class="r Data">91.3</td>
+<td class="r Data">87.1</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">1.9</td>
+<td class="r Data">85.2</td>
+<td class="r Data">4.3</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">78.8</td>
+<td class="r Data">69.7</td>
+<td class="r Data">21.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data">69.7</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">92.2</td>
+<td class="r Data">88.5</td>
+<td class="r Data"> 7.8</td>
+<td class="r Data">2.2</td>
+<td class="r Data">86.3</td>
+<td class="r Data">3.7</td>
+<td class="r Data">90.0</td>
+<td class="r Data">84.5</td>
+<td class="r Data">10.0</td>
+<td class="r Data">2.3</td>
+<td class="r Data">82.2</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data">90.9</td>
+<td class="r Data">86.2</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">94.7</td>
+<td class="r Data">91.2</td>
+<td class="r Data">5.3</td>
+<td class="r Data">2.1</td>
+<td class="r Data">89.1</td>
+<td class="r Data">3.5</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data">94.0</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">1.2</td>
+<td class="r Data">92.9</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 82.1</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">2.6</td>
+<td class="r Data"> 79.5</td>
+<td class="r Data">12.8</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">95.1</td>
+<td class="r Data">91.6</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">1.5</td>
+<td class="r Data">90.1</td>
+<td class="r Data">3.4</td>
+<td class="r Data">94.0</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 6.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">86.2</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">91.9</td>
+<td class="r Data">87.4</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">1.4</td>
+<td class="r Data">86.0</td>
+<td class="r Data">4.5</td>
+<td class="r Data">95.3</td>
+<td class="r Data">91.7</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">1.2</td>
+<td class="r Data">90.5</td>
+<td class="r Data">3.6</td>
+<td class="r Data">93.6</td>
+<td class="r Data">90.5</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">1.2</td>
+<td class="r Data">89.2</td>
+<td class="r Data">3.1</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">90.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">88.2</td>
+<td class="r Data">55.9</td>
+<td class="r Data">11.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">55.9</td>
+<td class="r Data">32.4</td>
+<td class="r Data">94.8</td>
+<td class="r Data">91.6</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">1.9</td>
+<td class="r Data">89.6</td>
+<td class="r Data">3.3</td>
+<td class="r Data">93.6</td>
+<td class="r Data">89.3</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">1.4</td>
+<td class="r Data">87.9</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">93.3</td>
+<td class="r Data">86.6</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">0.2</td>
+<td class="r Data">86.4</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">95.8</td>
+<td class="r Data">92.9</td>
+<td class="r Data">4.2</td>
+<td class="r Data">1.8</td>
+<td class="r Data">91.1</td>
+<td class="r Data">2.9</td>
+</tr>
+<tr>
+<td class="l Data">&#39;15</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">97.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">95.0</td>
+<td class="r Data">92.5</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">92.0</td>
+<td class="r Data">2.6</td>
+<td class="r Data">85.5</td>
+<td class="r Data">78.3</td>
+<td class="r Data">14.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data">78.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">92.9</td>
+<td class="r Data">90.5</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.0</td>
+<td class="r Data">2.3</td>
+<td class="r Data">96.0</td>
+<td class="r Data">94.0</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">93.8</td>
+<td class="r Data">2.0</td>
+<td class="r Data">94.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.5</td>
+<td class="r Data">3.2</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data">10.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">76.4</td>
+<td class="r Data">67.3</td>
+<td class="r Data">23.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">67.3</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">94.1</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">90.3</td>
+<td class="r Data">3.1</td>
+<td class="r Data">93.7</td>
+<td class="r Data">90.9</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">90.5</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">95.4</td>
+<td class="r Data">91.7</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">91.7</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">96.7</td>
+<td class="r Data">95.1</td>
+<td class="r Data">3.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">94.6</td>
+<td class="r Data">1.6</td>
+<td class="r Data"> 97.6</td>
+<td class="r Data">97.6</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">0.0</td>
+<td class="r Data">97.6</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">5.0</td>
+<td class="r Data"> 95.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">96.0</td>
+<td class="r Data">93.4</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">92.9</td>
+<td class="r Data">2.6</td>
+<td class="r Data">92.0</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">94.8</td>
+<td class="r Data">92.4</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">91.8</td>
+<td class="r Data">2.5</td>
+<td class="r Data">96.6</td>
+<td class="r Data">94.5</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data">0.4</td>
+<td class="r Data">94.1</td>
+<td class="r Data">2.2</td>
+<td class="r Data">94.7</td>
+<td class="r Data">91.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">90.8</td>
+<td class="r Data">3.4</td>
+<td class="r Data"> 82.4</td>
+<td class="r Data"> 82.4</td>
+<td class="r Data">17.6</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">82.4</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">83.3</td>
+<td class="r Data">76.2</td>
+<td class="r Data">16.7</td>
+<td class="r Data">2.4</td>
+<td class="r Data">73.8</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">95.3</td>
+<td class="r Data">92.3</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">91.7</td>
+<td class="r Data">3.0</td>
+<td class="r Data">95.0</td>
+<td class="r Data">91.1</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">94.4</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">97.9</td>
+<td class="r Data">96.2</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">95.8</td>
+<td class="r Data">1.6</td>
+</tr>
+<tr>
+<td class="l Data">&#39;16</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 90.7</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">2.8</td>
+<td class="r Data">88.0</td>
+<td class="r Data">6.5</td>
+<td class="r Data"> 82.5</td>
+<td class="r Data"> 68.3</td>
+<td class="r Data">17.5</td>
+<td class="r Data">0.8</td>
+<td class="r Data"> 67.5</td>
+<td class="r Data">14.2</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">95.4</td>
+<td class="r Data">91.4</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">2.1</td>
+<td class="r Data">89.3</td>
+<td class="r Data">4.1</td>
+<td class="r Data">90.9</td>
+<td class="r Data">81.2</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">3.2</td>
+<td class="r Data">77.9</td>
+<td class="r Data">9.7</td>
+<td class="r Data">92.7</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">3.3</td>
+<td class="r Data">84.7</td>
+<td class="r Data">4.7</td>
+<td class="r Data">95.7</td>
+<td class="r Data">92.4</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">1.7</td>
+<td class="r Data">90.7</td>
+<td class="r Data">3.3</td>
+<td class="r Data">94.9</td>
+<td class="r Data">89.6</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">87.7</td>
+<td class="r Data">5.3</td>
+<td class="r Data"> 97.0</td>
+<td class="r Data"> 90.9</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data"> 87.9</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">66.5</td>
+<td class="r Data">60.2</td>
+<td class="r Data">33.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">59.6</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">95.1</td>
+<td class="r Data">90.3</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">2.4</td>
+<td class="r Data">87.9</td>
+<td class="r Data">4.8</td>
+<td class="r Data">93.0</td>
+<td class="r Data">84.3</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">3.4</td>
+<td class="r Data">80.9</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">92.8</td>
+<td class="r Data">87.3</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">86.7</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">96.8</td>
+<td class="r Data">95.0</td>
+<td class="r Data">3.2</td>
+<td class="r Data">2.1</td>
+<td class="r Data">92.9</td>
+<td class="r Data">1.8</td>
+<td class="r Data"> 97.8</td>
+<td class="r Data">93.3</td>
+<td class="r Data"> 2.2</td>
+<td class="r Data">3.3</td>
+<td class="r Data">90.0</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data"> 81.0</td>
+<td class="r Data"> 67.5</td>
+<td class="r Data">19.0</td>
+<td class="r Data">0.8</td>
+<td class="r Data"> 66.7</td>
+<td class="r Data">13.5</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">95.1</td>
+<td class="r Data">90.4</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">1.9</td>
+<td class="r Data">88.5</td>
+<td class="r Data">4.7</td>
+<td class="r Data">91.0</td>
+<td class="r Data">78.8</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">2.5</td>
+<td class="r Data">76.3</td>
+<td class="r Data">12.2</td>
+<td class="r Data">92.1</td>
+<td class="r Data">87.4</td>
+<td class="r Data"> 7.9</td>
+<td class="r Data">2.4</td>
+<td class="r Data">85.0</td>
+<td class="r Data">4.7</td>
+<td class="r Data">95.7</td>
+<td class="r Data">91.0</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">1.6</td>
+<td class="r Data">89.3</td>
+<td class="r Data">4.7</td>
+<td class="r Data">95.1</td>
+<td class="r Data">89.6</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">1.7</td>
+<td class="r Data">87.9</td>
+<td class="r Data">5.5</td>
+<td class="r Data"> 92.9</td>
+<td class="r Data"> 92.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">92.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">69.5</td>
+<td class="r Data">50.3</td>
+<td class="r Data">30.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data">50.3</td>
+<td class="r Data">19.2</td>
+<td class="r Data">94.5</td>
+<td class="r Data">89.9</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data">2.2</td>
+<td class="r Data">87.6</td>
+<td class="r Data">4.6</td>
+<td class="r Data">91.9</td>
+<td class="r Data">82.2</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">2.9</td>
+<td class="r Data">79.4</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">92.2</td>
+<td class="r Data">84.8</td>
+<td class="r Data"> 7.8</td>
+<td class="r Data">1.1</td>
+<td class="r Data">83.7</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">96.1</td>
+<td class="r Data">93.1</td>
+<td class="r Data">3.9</td>
+<td class="r Data">2.2</td>
+<td class="r Data">91.0</td>
+<td class="r Data">2.9</td>
+</tr>
+<tr>
+<td class="l Data">&#39;17</td>
+<td class="r Data"> 95.2</td>
+<td class="r Data"> 95.2</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">1.6</td>
+<td class="r Data">93.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 91.5</td>
+<td class="r Data"> 89.8</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 89.8</td>
+<td class="r Data"> 1.7</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">93.8</td>
+<td class="r Data">91.2</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">90.8</td>
+<td class="r Data">2.6</td>
+<td class="r Data">87.1</td>
+<td class="r Data">80.9</td>
+<td class="r Data">12.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">80.9</td>
+<td class="r Data">6.2</td>
+<td class="r Data">90.4</td>
+<td class="r Data">87.4</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">87.0</td>
+<td class="r Data">3.0</td>
+<td class="r Data">94.7</td>
+<td class="r Data">92.3</td>
+<td class="r Data"> 5.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">92.0</td>
+<td class="r Data">2.5</td>
+<td class="r Data">92.3</td>
+<td class="r Data">89.1</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">88.8</td>
+<td class="r Data">3.2</td>
+<td class="r Data"> 97.1</td>
+<td class="r Data"> 97.1</td>
+<td class="r Data"> 2.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 97.1</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">77.9</td>
+<td class="r Data">70.1</td>
+<td class="r Data">22.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">70.1</td>
+<td class="r Data"> 7.8</td>
+<td class="r Data">92.9</td>
+<td class="r Data">90.1</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">89.7</td>
+<td class="r Data">2.8</td>
+<td class="r Data">89.3</td>
+<td class="r Data">84.9</td>
+<td class="r Data">10.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">84.3</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">90.1</td>
+<td class="r Data">83.9</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">83.9</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">97.0</td>
+<td class="r Data">95.6</td>
+<td class="r Data">3.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">95.1</td>
+<td class="r Data">1.4</td>
+<td class="r Data"> 96.1</td>
+<td class="r Data">94.7</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">1.3</td>
+<td class="r Data">93.4</td>
+<td class="r Data"> 1.3</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data">10.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  60.0</td>
+<td class="r Data">  60.0</td>
+<td class="r Data"> 40.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  60.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">93.1</td>
+<td class="r Data">90.0</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">0.2</td>
+<td class="r Data">89.8</td>
+<td class="r Data">3.1</td>
+<td class="r Data">87.0</td>
+<td class="r Data">80.9</td>
+<td class="r Data">13.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">80.3</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">89.7</td>
+<td class="r Data">86.0</td>
+<td class="r Data">10.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">85.6</td>
+<td class="r Data">3.8</td>
+<td class="r Data">94.2</td>
+<td class="r Data">91.8</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">0.2</td>
+<td class="r Data">91.6</td>
+<td class="r Data">2.4</td>
+<td class="r Data">91.3</td>
+<td class="r Data">87.5</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data">87.4</td>
+<td class="r Data">3.8</td>
+<td class="r Data"> 88.9</td>
+<td class="r Data"> 88.9</td>
+<td class="r Data">11.1</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">88.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">91.0</td>
+<td class="r Data">84.6</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">84.6</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">91.9</td>
+<td class="r Data">88.2</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data">88.0</td>
+<td class="r Data">3.7</td>
+<td class="r Data">89.3</td>
+<td class="r Data">83.6</td>
+<td class="r Data">10.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">83.2</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">90.0</td>
+<td class="r Data">83.9</td>
+<td class="r Data">10.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">83.8</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">96.6</td>
+<td class="r Data">94.9</td>
+<td class="r Data">3.4</td>
+<td class="r Data">0.3</td>
+<td class="r Data">94.6</td>
+<td class="r Data">1.7</td>
+</tr>
+<tr>
+<td class="l Data">&#39;18</td>
+<td class="r Data"> 89.4</td>
+<td class="r Data"> 85.1</td>
+<td class="r Data">10.6</td>
+<td class="r Data">4.3</td>
+<td class="r Data">80.9</td>
+<td class="r Data">4.3</td>
+<td class="r Data"> 87.0</td>
+<td class="r Data"> 85.5</td>
+<td class="r Data">13.0</td>
+<td class="r Data">1.4</td>
+<td class="r Data"> 84.1</td>
+<td class="r Data"> 1.4</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">87.6</td>
+<td class="r Data">83.7</td>
+<td class="r Data">12.4</td>
+<td class="r Data">1.7</td>
+<td class="r Data">82.0</td>
+<td class="r Data">3.9</td>
+<td class="r Data">80.6</td>
+<td class="r Data">73.7</td>
+<td class="r Data">19.4</td>
+<td class="r Data">1.6</td>
+<td class="r Data">72.1</td>
+<td class="r Data">6.9</td>
+<td class="r Data">82.7</td>
+<td class="r Data">79.2</td>
+<td class="r Data">17.3</td>
+<td class="r Data">3.3</td>
+<td class="r Data">75.9</td>
+<td class="r Data">3.4</td>
+<td class="r Data">89.5</td>
+<td class="r Data">85.9</td>
+<td class="r Data">10.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">85.0</td>
+<td class="r Data">3.6</td>
+<td class="r Data">86.8</td>
+<td class="r Data">82.0</td>
+<td class="r Data">13.2</td>
+<td class="r Data">1.4</td>
+<td class="r Data">80.6</td>
+<td class="r Data">4.8</td>
+<td class="r Data"> 82.6</td>
+<td class="r Data"> 73.9</td>
+<td class="r Data">17.4</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data"> 69.6</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">65.1</td>
+<td class="r Data">58.7</td>
+<td class="r Data">34.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">57.9</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">85.9</td>
+<td class="r Data">81.7</td>
+<td class="r Data">14.1</td>
+<td class="r Data">2.4</td>
+<td class="r Data">79.3</td>
+<td class="r Data">4.3</td>
+<td class="r Data">83.6</td>
+<td class="r Data">77.4</td>
+<td class="r Data">16.4</td>
+<td class="r Data">1.6</td>
+<td class="r Data">75.8</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data">82.5</td>
+<td class="r Data">78.1</td>
+<td class="r Data">17.5</td>
+<td class="r Data">1.9</td>
+<td class="r Data">76.2</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">90.4</td>
+<td class="r Data">88.5</td>
+<td class="r Data">9.6</td>
+<td class="r Data">2.2</td>
+<td class="r Data">86.3</td>
+<td class="r Data">1.8</td>
+<td class="r Data"> 90.0</td>
+<td class="r Data">74.0</td>
+<td class="r Data">10.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">74.0</td>
+<td class="r Data">16.0</td>
+<td class="r Data"> 84.8</td>
+<td class="r Data"> 80.4</td>
+<td class="r Data">15.2</td>
+<td class="r Data">4.3</td>
+<td class="r Data"> 76.1</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data" nowrap>  -1.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">86.6</td>
+<td class="r Data">81.6</td>
+<td class="r Data">13.4</td>
+<td class="r Data">1.5</td>
+<td class="r Data">80.1</td>
+<td class="r Data">5.0</td>
+<td class="r Data">79.9</td>
+<td class="r Data">73.6</td>
+<td class="r Data">20.1</td>
+<td class="r Data">2.8</td>
+<td class="r Data">70.9</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">80.3</td>
+<td class="r Data">74.3</td>
+<td class="r Data">19.7</td>
+<td class="r Data">2.5</td>
+<td class="r Data">71.8</td>
+<td class="r Data">6.0</td>
+<td class="r Data">89.0</td>
+<td class="r Data">85.1</td>
+<td class="r Data">11.0</td>
+<td class="r Data">0.8</td>
+<td class="r Data">84.3</td>
+<td class="r Data">3.9</td>
+<td class="r Data">84.3</td>
+<td class="r Data">78.4</td>
+<td class="r Data">15.7</td>
+<td class="r Data">1.1</td>
+<td class="r Data">77.3</td>
+<td class="r Data">6.0</td>
+<td class="r Data"> 82.1</td>
+<td class="r Data"> 75.0</td>
+<td class="r Data">17.9</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">75.0</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">60.3</td>
+<td class="r Data">48.8</td>
+<td class="r Data">39.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">47.9</td>
+<td class="r Data">11.6</td>
+<td class="r Data">84.3</td>
+<td class="r Data">78.2</td>
+<td class="r Data">15.7</td>
+<td class="r Data">2.1</td>
+<td class="r Data">76.0</td>
+<td class="r Data">6.1</td>
+<td class="r Data">80.5</td>
+<td class="r Data">71.9</td>
+<td class="r Data">19.5</td>
+<td class="r Data">1.9</td>
+<td class="r Data">70.0</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">80.9</td>
+<td class="r Data">73.3</td>
+<td class="r Data">19.1</td>
+<td class="r Data">1.2</td>
+<td class="r Data">72.1</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">91.9</td>
+<td class="r Data">89.1</td>
+<td class="r Data">8.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">87.1</td>
+<td class="r Data">2.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;19</td>
+<td class="r Data"> 91.4</td>
+<td class="r Data"> 88.6</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">1.4</td>
+<td class="r Data">87.1</td>
+<td class="r Data">2.9</td>
+<td class="r Data"> 96.2</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data"> 1.3</td>
+<td class="r Data">  86.7</td>
+<td class="r Data">  86.7</td>
+<td class="r Data"> 13.3</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">  80.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">92.0</td>
+<td class="r Data">85.0</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">1.5</td>
+<td class="r Data">83.5</td>
+<td class="r Data">7.0</td>
+<td class="r Data">93.0</td>
+<td class="r Data">84.4</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">83.4</td>
+<td class="r Data">8.6</td>
+<td class="r Data">90.9</td>
+<td class="r Data">84.2</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">1.5</td>
+<td class="r Data">82.7</td>
+<td class="r Data">6.7</td>
+<td class="r Data">93.1</td>
+<td class="r Data">87.9</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">1.1</td>
+<td class="r Data">86.8</td>
+<td class="r Data">5.2</td>
+<td class="r Data">91.9</td>
+<td class="r Data">84.7</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">1.6</td>
+<td class="r Data">83.1</td>
+<td class="r Data">7.2</td>
+<td class="r Data"> 91.7</td>
+<td class="r Data"> 79.2</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data"> 79.2</td>
+<td class="r Data">12.5</td>
+<td class="r Data">74.3</td>
+<td class="r Data">59.4</td>
+<td class="r Data">25.7</td>
+<td class="r Data">2.1</td>
+<td class="r Data">57.3</td>
+<td class="r Data">14.9</td>
+<td class="r Data">90.9</td>
+<td class="r Data">82.2</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">1.9</td>
+<td class="r Data">80.3</td>
+<td class="r Data">8.7</td>
+<td class="r Data">89.3</td>
+<td class="r Data">78.5</td>
+<td class="r Data">10.7</td>
+<td class="r Data">1.8</td>
+<td class="r Data">76.7</td>
+<td class="r Data">10.7</td>
+<td class="r Data">87.8</td>
+<td class="r Data">72.5</td>
+<td class="r Data">12.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">71.7</td>
+<td class="r Data">15.3</td>
+<td class="r Data">93.3</td>
+<td class="r Data">88.6</td>
+<td class="r Data">6.7</td>
+<td class="r Data">1.1</td>
+<td class="r Data">87.5</td>
+<td class="r Data">4.7</td>
+<td class="r Data"> 94.9</td>
+<td class="r Data">91.5</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">89.8</td>
+<td class="r Data"> 3.4</td>
+<td class="r Data"> 94.8</td>
+<td class="r Data"> 92.2</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 92.2</td>
+<td class="r Data"> 2.6</td>
+<td class="r Data">  95.0</td>
+<td class="r Data">  90.0</td>
+<td class="r Data">  5.0</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  90.0</td>
+<td class="r Data">  5.0</td>
+<td class="r Data">92.9</td>
+<td class="r Data">85.3</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">83.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">91.5</td>
+<td class="r Data">87.7</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">1.6</td>
+<td class="r Data">86.1</td>
+<td class="r Data"> 3.8</td>
+<td class="r Data">92.8</td>
+<td class="r Data">84.5</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">1.6</td>
+<td class="r Data">82.9</td>
+<td class="r Data">8.3</td>
+<td class="r Data">94.1</td>
+<td class="r Data">88.4</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data">1.1</td>
+<td class="r Data">87.3</td>
+<td class="r Data">5.7</td>
+<td class="r Data">92.9</td>
+<td class="r Data">85.1</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">83.4</td>
+<td class="r Data">7.8</td>
+<td class="r Data"> 84.0</td>
+<td class="r Data"> 72.0</td>
+<td class="r Data">16.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">72.0</td>
+<td class="r Data">12.0</td>
+<td class="r Data">75.9</td>
+<td class="r Data">59.0</td>
+<td class="r Data">24.1</td>
+<td class="r Data">2.2</td>
+<td class="r Data">56.7</td>
+<td class="r Data">16.9</td>
+<td class="r Data">91.7</td>
+<td class="r Data">82.5</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">2.2</td>
+<td class="r Data">80.3</td>
+<td class="r Data">9.2</td>
+<td class="r Data">89.9</td>
+<td class="r Data">78.7</td>
+<td class="r Data">10.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">76.7</td>
+<td class="r Data">11.2</td>
+<td class="r Data">88.2</td>
+<td class="r Data">69.6</td>
+<td class="r Data">11.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">69.1</td>
+<td class="r Data">18.7</td>
+<td class="r Data">92.8</td>
+<td class="r Data">86.7</td>
+<td class="r Data">7.2</td>
+<td class="r Data">2.2</td>
+<td class="r Data">84.5</td>
+<td class="r Data">6.1</td>
+</tr>
+<tr>
+<td class="l Data">&#39;20</td>
+<td class="r Data"> 95.3</td>
+<td class="r Data"> 91.8</td>
+<td class="r Data"> 4.7</td>
+<td class="r Data">1.1</td>
+<td class="r Data">90.7</td>
+<td class="r Data">3.5</td>
+<td class="r Data"> 97.2</td>
+<td class="r Data"> 93.5</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data"> 93.5</td>
+<td class="r Data"> 3.6</td>
+<td class="r Data"> 100.0</td>
+<td class="r Data">  95.5</td>
+<td class="r Data">  0.0</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">  95.5</td>
+<td class="r Data">  4.5</td>
+<td class="r Data">91.9</td>
+<td class="r Data">87.8</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">86.9</td>
+<td class="r Data">4.1</td>
+<td class="r Data">89.6</td>
+<td class="r Data">85.4</td>
+<td class="r Data">10.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">84.6</td>
+<td class="r Data">4.2</td>
+<td class="r Data">88.7</td>
+<td class="r Data">84.7</td>
+<td class="r Data">11.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">83.6</td>
+<td class="r Data">4.0</td>
+<td class="r Data">92.8</td>
+<td class="r Data">89.6</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">88.8</td>
+<td class="r Data">3.2</td>
+<td class="r Data">90.5</td>
+<td class="r Data">86.0</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">85.2</td>
+<td class="r Data">4.5</td>
+<td class="r Data"> 89.1</td>
+<td class="r Data"> 82.8</td>
+<td class="r Data">10.9</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data"> 81.3</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">74.6</td>
+<td class="r Data">66.0</td>
+<td class="r Data">25.4</td>
+<td class="r Data">0.4</td>
+<td class="r Data">65.6</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">91.0</td>
+<td class="r Data">86.1</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">85.1</td>
+<td class="r Data">4.9</td>
+<td class="r Data">89.7</td>
+<td class="r Data">83.9</td>
+<td class="r Data">10.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">82.8</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">85.3</td>
+<td class="r Data">74.0</td>
+<td class="r Data">14.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">73.1</td>
+<td class="r Data">11.4</td>
+<td class="r Data">96.0</td>
+<td class="r Data">93.4</td>
+<td class="r Data">4.0</td>
+<td class="r Data">1.2</td>
+<td class="r Data">92.2</td>
+<td class="r Data">2.7</td>
+<td class="r Data"> 94.8</td>
+<td class="r Data">92.5</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">91.9</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data"> 96.8</td>
+<td class="r Data"> 92.5</td>
+<td class="r Data"> 3.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 92.3</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data">  95.8</td>
+<td class="r Data">  89.6</td>
+<td class="r Data">  4.2</td>
+<td class="r Data">  0.0</td>
+<td class="r Data">  89.6</td>
+<td class="r Data">  6.3</td>
+<td class="r Data">91.8</td>
+<td class="r Data">87.5</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">1.0</td>
+<td class="r Data">86.5</td>
+<td class="r Data">4.2</td>
+<td class="r Data">88.5</td>
+<td class="r Data">83.3</td>
+<td class="r Data">11.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">82.3</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">88.8</td>
+<td class="r Data">84.4</td>
+<td class="r Data">11.2</td>
+<td class="r Data">1.1</td>
+<td class="r Data">83.3</td>
+<td class="r Data">4.4</td>
+<td class="r Data">92.8</td>
+<td class="r Data">89.4</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">88.7</td>
+<td class="r Data">3.3</td>
+<td class="r Data">90.6</td>
+<td class="r Data">86.0</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">85.0</td>
+<td class="r Data">4.6</td>
+<td class="r Data"> 86.9</td>
+<td class="r Data"> 77.4</td>
+<td class="r Data">13.1</td>
+<td class="r Data">11.9</td>
+<td class="r Data">65.5</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">75.8</td>
+<td class="r Data">70.0</td>
+<td class="r Data">24.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">68.9</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">90.8</td>
+<td class="r Data">85.7</td>
+<td class="r Data"> 9.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">84.5</td>
+<td class="r Data">5.1</td>
+<td class="r Data">88.0</td>
+<td class="r Data">80.7</td>
+<td class="r Data">12.0</td>
+<td class="r Data">1.1</td>
+<td class="r Data">79.7</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">84.2</td>
+<td class="r Data">74.7</td>
+<td class="r Data">15.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">74.0</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">95.9</td>
+<td class="r Data">93.0</td>
+<td class="r Data">4.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">91.9</td>
+<td class="r Data">2.9</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

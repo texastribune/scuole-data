@@ -1,0 +1,2742 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.Batch
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.ByContentFolder
+{
+  margin-left: 6pt;
+}
+.BylineContainer
+{
+  width: 100%;
+}
+.ContentFolder
+{
+  margin-left: 6pt;
+}
+.ContentItem
+{
+  margin-left: 6pt;
+}
+.Contents
+{
+}
+.FolderAction
+{
+  margin-left: 6pt;
+}
+.Graph
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.IndexAction
+{
+  margin-left: 6pt;
+}
+.IndexItem
+{
+  margin-left: 6pt;
+}
+.List
+{
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.Output
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.Pages
+{
+}
+.PagesItem
+{
+  margin-left: 6pt;
+}
+.Paragraph
+{
+  width: 100%;
+  text-align: left;
+}
+.SysTitleAndFooterContainer
+{
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  width: 100%;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="Table" cellspacing="1" cellpadding="7" rules="all" frame="box" border="1" summary="Procedure Print: Data Set WORK.TMPAEI1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="l Header" scope="col">REGION</th>
+<th class="r Header" scope="col">RA0GP14R</th>
+<th class="r Header" scope="col">RB0GP14R</th>
+<th class="r Header" scope="col">RH0GP14R</th>
+<th class="r Header" scope="col">RW0GP14R</th>
+<th class="r Header" scope="col">RI0GP14R</th>
+<th class="r Header" scope="col">R30GP14R</th>
+<th class="r Header" scope="col">R40GP14R</th>
+<th class="r Header" scope="col">R20GP14R</th>
+<th class="r Header" scope="col">RM0GP14R</th>
+<th class="r Header" scope="col">RF0GP14R</th>
+<th class="r Header" scope="col">RE0GP14R</th>
+<th class="r Header" scope="col">RS0GP14R</th>
+<th class="r Header" scope="col">RL0GP14R</th>
+<th class="r Header" scope="col">RR0GP14R</th>
+<th class="r Header" scope="col">RA0GV14R</th>
+<th class="r Header" scope="col">RB0GV14R</th>
+<th class="r Header" scope="col">RH0GV14R</th>
+<th class="r Header" scope="col">RW0GV14R</th>
+<th class="r Header" scope="col">RI0GV14R</th>
+<th class="r Header" scope="col">R30GV14R</th>
+<th class="r Header" scope="col">R40GV14R</th>
+<th class="r Header" scope="col">R20GV14R</th>
+<th class="r Header" scope="col">RM0GV14R</th>
+<th class="r Header" scope="col">RF0GV14R</th>
+<th class="r Header" scope="col">RE0GV14R</th>
+<th class="r Header" scope="col">RS0GV14R</th>
+<th class="r Header" scope="col">RL0GV14R</th>
+<th class="r Header" scope="col">RR0GV14R</th>
+<th class="r Header" scope="col">RACRM14R</th>
+<th class="r Header" scope="col">RACRR14R</th>
+<th class="r Header" scope="col">RACRB14R</th>
+<th class="r Header" scope="col">RICRM14R</th>
+<th class="r Header" scope="col">RICRR14R</th>
+<th class="r Header" scope="col">RICRB14R</th>
+<th class="r Header" scope="col">R4CRM14R</th>
+<th class="r Header" scope="col">R4CRR14R</th>
+<th class="r Header" scope="col">R4CRB14R</th>
+<th class="r Header" scope="col">RBCRM14R</th>
+<th class="r Header" scope="col">RBCRR14R</th>
+<th class="r Header" scope="col">RBCRB14R</th>
+<th class="r Header" scope="col">RHCRM14R</th>
+<th class="r Header" scope="col">RHCRR14R</th>
+<th class="r Header" scope="col">RHCRB14R</th>
+<th class="r Header" scope="col">RWCRM14R</th>
+<th class="r Header" scope="col">RWCRR14R</th>
+<th class="r Header" scope="col">RWCRB14R</th>
+<th class="r Header" scope="col">R2CRM14R</th>
+<th class="r Header" scope="col">R2CRR14R</th>
+<th class="r Header" scope="col">R2CRB14R</th>
+<th class="r Header" scope="col">R3CRM14R</th>
+<th class="r Header" scope="col">R3CRR14R</th>
+<th class="r Header" scope="col">R3CRB14R</th>
+<th class="r Header" scope="col">RMCRM14R</th>
+<th class="r Header" scope="col">RMCRR14R</th>
+<th class="r Header" scope="col">RMCRB14R</th>
+<th class="r Header" scope="col">RFCRM14R</th>
+<th class="r Header" scope="col">RFCRR14R</th>
+<th class="r Header" scope="col">RFCRB14R</th>
+<th class="r Header" scope="col">RSCRM14R</th>
+<th class="r Header" scope="col">RSCRR14R</th>
+<th class="r Header" scope="col">RSCRB14R</th>
+<th class="r Header" scope="col">RECRM14R</th>
+<th class="r Header" scope="col">RECRR14R</th>
+<th class="r Header" scope="col">RECRB14R</th>
+<th class="r Header" scope="col">RLCRM14R</th>
+<th class="r Header" scope="col">RLCRR14R</th>
+<th class="r Header" scope="col">RLCRB14R</th>
+<th class="r Header" scope="col">RRCRM14R</th>
+<th class="r Header" scope="col">RRCRR14R</th>
+<th class="r Header" scope="col">RRCRB14R</th>
+<th class="r Header" scope="col">RACRM13R</th>
+<th class="r Header" scope="col">RACRR13R</th>
+<th class="r Header" scope="col">RACRB13R</th>
+<th class="r Header" scope="col">RICRM13R</th>
+<th class="r Header" scope="col">RICRR13R</th>
+<th class="r Header" scope="col">RICRB13R</th>
+<th class="r Header" scope="col">R4CRM13R</th>
+<th class="r Header" scope="col">R4CRR13R</th>
+<th class="r Header" scope="col">R4CRB13R</th>
+<th class="r Header" scope="col">RBCRM13R</th>
+<th class="r Header" scope="col">RBCRR13R</th>
+<th class="r Header" scope="col">RBCRB13R</th>
+<th class="r Header" scope="col">RHCRM13R</th>
+<th class="r Header" scope="col">RHCRR13R</th>
+<th class="r Header" scope="col">RHCRB13R</th>
+<th class="r Header" scope="col">RWCRM13R</th>
+<th class="r Header" scope="col">RWCRR13R</th>
+<th class="r Header" scope="col">RWCRB13R</th>
+<th class="r Header" scope="col">R2CRM13R</th>
+<th class="r Header" scope="col">R2CRR13R</th>
+<th class="r Header" scope="col">R2CRB13R</th>
+<th class="r Header" scope="col">R3CRM13R</th>
+<th class="r Header" scope="col">R3CRR13R</th>
+<th class="r Header" scope="col">R3CRB13R</th>
+<th class="r Header" scope="col">RMCRM13R</th>
+<th class="r Header" scope="col">RMCRR13R</th>
+<th class="r Header" scope="col">RMCRB13R</th>
+<th class="r Header" scope="col">RFCRM13R</th>
+<th class="r Header" scope="col">RFCRR13R</th>
+<th class="r Header" scope="col">RFCRB13R</th>
+<th class="r Header" scope="col">RSCRM13R</th>
+<th class="r Header" scope="col">RSCRR13R</th>
+<th class="r Header" scope="col">RSCRB13R</th>
+<th class="r Header" scope="col">RECRM13R</th>
+<th class="r Header" scope="col">RECRR13R</th>
+<th class="r Header" scope="col">RECRB13R</th>
+<th class="r Header" scope="col">RLCRM13R</th>
+<th class="r Header" scope="col">RLCRR13R</th>
+<th class="r Header" scope="col">RLCRB13R</th>
+<th class="r Header" scope="col">RRCRM13R</th>
+<th class="r Header" scope="col">RRCRR13R</th>
+<th class="r Header" scope="col">RRCRB13R</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="l Data">&#39;01</td>
+<td class="r Data">83.3</td>
+<td class="r Data">89.2</td>
+<td class="r Data">83.1</td>
+<td class="r Data">87.6</td>
+<td class="r Data"> 63.6</td>
+<td class="r Data"> 98.2</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">84.2</td>
+<td class="r Data">81.6</td>
+<td class="r Data">85.0</td>
+<td class="r Data">82.1</td>
+<td class="r Data">60.4</td>
+<td class="r Data">61.7</td>
+<td class="r Data">75.5</td>
+<td class="r Data">68.0</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">66.0</td>
+<td class="r Data"> 1.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">33.4</td>
+<td class="r Data">34.6</td>
+<td class="r Data">54.7</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">3.3</td>
+<td class="r Data">30.8</td>
+<td class="r Data">63</td>
+<td class="r Data">60</td>
+<td class="r Data">46</td>
+<td class="r Data">11</td>
+<td class="r Data">33</td>
+<td class="r Data"> 0</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">51</td>
+<td class="r Data">63</td>
+<td class="r Data">43</td>
+<td class="r Data">62</td>
+<td class="r Data">59</td>
+<td class="r Data">46</td>
+<td class="r Data">75</td>
+<td class="r Data">74</td>
+<td class="r Data">63</td>
+<td class="r Data">65</td>
+<td class="r Data">65</td>
+<td class="r Data">53</td>
+<td class="r Data">93</td>
+<td class="r Data">85</td>
+<td class="r Data">82</td>
+<td class="r Data">64</td>
+<td class="r Data">54</td>
+<td class="r Data">43</td>
+<td class="r Data">62</td>
+<td class="r Data">66</td>
+<td class="r Data">49</td>
+<td class="r Data">13</td>
+<td class="r Data">11</td>
+<td class="r Data"> 5</td>
+<td class="r Data">61</td>
+<td class="r Data">57</td>
+<td class="r Data">43</td>
+<td class="r Data">32</td>
+<td class="r Data"> 9</td>
+<td class="r Data"> 6</td>
+<td class="r Data">43</td>
+<td class="r Data">41</td>
+<td class="r Data">24</td>
+<td class="r Data">70</td>
+<td class="r Data">56</td>
+<td class="r Data">48</td>
+<td class="r Data"> 85</td>
+<td class="r Data">54</td>
+<td class="r Data">54</td>
+<td class="r Data"> 83</td>
+<td class="r Data">  67</td>
+<td class="r Data"> 67</td>
+<td class="r Data">64</td>
+<td class="r Data">71</td>
+<td class="r Data">61</td>
+<td class="r Data">70</td>
+<td class="r Data">56</td>
+<td class="r Data">47</td>
+<td class="r Data">79</td>
+<td class="r Data">73</td>
+<td class="r Data">65</td>
+<td class="r Data">83</td>
+<td class="r Data">72</td>
+<td class="r Data">72</td>
+<td class="r Data">93</td>
+<td class="r Data">83</td>
+<td class="r Data">80</td>
+<td class="r Data">71</td>
+<td class="r Data">50</td>
+<td class="r Data">44</td>
+<td class="r Data">69</td>
+<td class="r Data">62</td>
+<td class="r Data">51</td>
+<td class="r Data">13</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 3</td>
+<td class="r Data">69</td>
+<td class="r Data">53</td>
+<td class="r Data">45</td>
+<td class="r Data">38</td>
+<td class="r Data"> 8</td>
+<td class="r Data"> 6</td>
+<td class="r Data">51</td>
+<td class="r Data">38</td>
+<td class="r Data">25</td>
+</tr>
+<tr>
+<td class="l Data">&#39;02</td>
+<td class="r Data">75.4</td>
+<td class="r Data">61.8</td>
+<td class="r Data">74.2</td>
+<td class="r Data">80.6</td>
+<td class="r Data"> 77.8</td>
+<td class="r Data"> 82.5</td>
+<td class="r Data"> 80.0</td>
+<td class="r Data">70.9</td>
+<td class="r Data">73.2</td>
+<td class="r Data">77.7</td>
+<td class="r Data">71.2</td>
+<td class="r Data">48.9</td>
+<td class="r Data">51.4</td>
+<td class="r Data">62.2</td>
+<td class="r Data">48.1</td>
+<td class="r Data"> 0.9</td>
+<td class="r Data">35.5</td>
+<td class="r Data">10.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">24.3</td>
+<td class="r Data">23.8</td>
+<td class="r Data">24.0</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">21.7</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">49</td>
+<td class="r Data">73</td>
+<td class="r Data">87</td>
+<td class="r Data">67</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">52</td>
+<td class="r Data">62</td>
+<td class="r Data">39</td>
+<td class="r Data">55</td>
+<td class="r Data">65</td>
+<td class="r Data">43</td>
+<td class="r Data">74</td>
+<td class="r Data">75</td>
+<td class="r Data">62</td>
+<td class="r Data">79</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">82</td>
+<td class="r Data">78</td>
+<td class="r Data">70</td>
+<td class="r Data">61</td>
+<td class="r Data">60</td>
+<td class="r Data">45</td>
+<td class="r Data">59</td>
+<td class="r Data">75</td>
+<td class="r Data">52</td>
+<td class="r Data">11</td>
+<td class="r Data">17</td>
+<td class="r Data"> 6</td>
+<td class="r Data">52</td>
+<td class="r Data">60</td>
+<td class="r Data">39</td>
+<td class="r Data">25</td>
+<td class="r Data"> 0</td>
+<td class="r Data"> 0</td>
+<td class="r Data">35</td>
+<td class="r Data">51</td>
+<td class="r Data">23</td>
+<td class="r Data">66</td>
+<td class="r Data">62</td>
+<td class="r Data">50</td>
+<td class="r Data"> 67</td>
+<td class="r Data">55</td>
+<td class="r Data">45</td>
+<td class="r Data"> 50</td>
+<td class="r Data"> 100</td>
+<td class="r Data"> 50</td>
+<td class="r Data">59</td>
+<td class="r Data">58</td>
+<td class="r Data">42</td>
+<td class="r Data">61</td>
+<td class="r Data">59</td>
+<td class="r Data">45</td>
+<td class="r Data">78</td>
+<td class="r Data">70</td>
+<td class="r Data">63</td>
+<td class="r Data">79</td>
+<td class="r Data">74</td>
+<td class="r Data">63</td>
+<td class="r Data">78</td>
+<td class="r Data">75</td>
+<td class="r Data">61</td>
+<td class="r Data">67</td>
+<td class="r Data">57</td>
+<td class="r Data">47</td>
+<td class="r Data">64</td>
+<td class="r Data">69</td>
+<td class="r Data">52</td>
+<td class="r Data">17</td>
+<td class="r Data">16</td>
+<td class="r Data"> 7</td>
+<td class="r Data">58</td>
+<td class="r Data">56</td>
+<td class="r Data">42</td>
+<td class="r Data">45</td>
+<td class="r Data"> 5</td>
+<td class="r Data"> 5</td>
+<td class="r Data">38</td>
+<td class="r Data">42</td>
+<td class="r Data">22</td>
+</tr>
+<tr>
+<td class="l Data">&#39;03</td>
+<td class="r Data">80.3</td>
+<td class="r Data">66.3</td>
+<td class="r Data">76.5</td>
+<td class="r Data">86.9</td>
+<td class="r Data">100.0</td>
+<td class="r Data"> 90.2</td>
+<td class="r Data">   . </td>
+<td class="r Data">82.1</td>
+<td class="r Data">79.7</td>
+<td class="r Data">80.9</td>
+<td class="r Data">72.5</td>
+<td class="r Data">64.0</td>
+<td class="r Data">46.4</td>
+<td class="r Data">67.7</td>
+<td class="r Data">60.3</td>
+<td class="r Data"> 4.8</td>
+<td class="r Data">27.1</td>
+<td class="r Data">27.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data">  . </td>
+<td class="r Data">0.5</td>
+<td class="r Data">31.7</td>
+<td class="r Data">28.7</td>
+<td class="r Data">23.0</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">22.6</td>
+<td class="r Data">62</td>
+<td class="r Data">65</td>
+<td class="r Data">49</td>
+<td class="r Data">57</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">   .</td>
+<td class="r Data">   .</td>
+<td class="r Data">  .</td>
+<td class="r Data">42</td>
+<td class="r Data">50</td>
+<td class="r Data">30</td>
+<td class="r Data">53</td>
+<td class="r Data">59</td>
+<td class="r Data">40</td>
+<td class="r Data">74</td>
+<td class="r Data">72</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">80</td>
+<td class="r Data">50</td>
+<td class="r Data">86</td>
+<td class="r Data">80</td>
+<td class="r Data">76</td>
+<td class="r Data">62</td>
+<td class="r Data">57</td>
+<td class="r Data">45</td>
+<td class="r Data">62</td>
+<td class="r Data">72</td>
+<td class="r Data">54</td>
+<td class="r Data">14</td>
+<td class="r Data">14</td>
+<td class="r Data"> 3</td>
+<td class="r Data">49</td>
+<td class="r Data">54</td>
+<td class="r Data">34</td>
+<td class="r Data">25</td>
+<td class="r Data"> 5</td>
+<td class="r Data"> 5</td>
+<td class="r Data">33</td>
+<td class="r Data">46</td>
+<td class="r Data">21</td>
+<td class="r Data">67</td>
+<td class="r Data">62</td>
+<td class="r Data">50</td>
+<td class="r Data">100</td>
+<td class="r Data">71</td>
+<td class="r Data">71</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">45</td>
+<td class="r Data">50</td>
+<td class="r Data">30</td>
+<td class="r Data">60</td>
+<td class="r Data">57</td>
+<td class="r Data">42</td>
+<td class="r Data">80</td>
+<td class="r Data">71</td>
+<td class="r Data">63</td>
+<td class="r Data">71</td>
+<td class="r Data">71</td>
+<td class="r Data">65</td>
+<td class="r Data">79</td>
+<td class="r Data">60</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">57</td>
+<td class="r Data">48</td>
+<td class="r Data">66</td>
+<td class="r Data">67</td>
+<td class="r Data">53</td>
+<td class="r Data">18</td>
+<td class="r Data">11</td>
+<td class="r Data"> 4</td>
+<td class="r Data">56</td>
+<td class="r Data">51</td>
+<td class="r Data">37</td>
+<td class="r Data">18</td>
+<td class="r Data"> 0</td>
+<td class="r Data"> 0</td>
+<td class="r Data">39</td>
+<td class="r Data">43</td>
+<td class="r Data">23</td>
+</tr>
+<tr>
+<td class="l Data">&#39;04</td>
+<td class="r Data">78.9</td>
+<td class="r Data">69.3</td>
+<td class="r Data">76.7</td>
+<td class="r Data">85.3</td>
+<td class="r Data"> 73.6</td>
+<td class="r Data"> 91.3</td>
+<td class="r Data"> 64.1</td>
+<td class="r Data">82.7</td>
+<td class="r Data">76.4</td>
+<td class="r Data">81.4</td>
+<td class="r Data">73.7</td>
+<td class="r Data">44.3</td>
+<td class="r Data">41.4</td>
+<td class="r Data">64.3</td>
+<td class="r Data">43.5</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">20.5</td>
+<td class="r Data">11.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.8</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">21.7</td>
+<td class="r Data">21.8</td>
+<td class="r Data">21.4</td>
+<td class="r Data"> 2.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data">16.9</td>
+<td class="r Data">69</td>
+<td class="r Data">68</td>
+<td class="r Data">56</td>
+<td class="r Data">67</td>
+<td class="r Data">66</td>
+<td class="r Data">53</td>
+<td class="r Data">  65</td>
+<td class="r Data">  65</td>
+<td class="r Data"> 52</td>
+<td class="r Data">53</td>
+<td class="r Data">56</td>
+<td class="r Data">39</td>
+<td class="r Data">65</td>
+<td class="r Data">62</td>
+<td class="r Data">48</td>
+<td class="r Data">81</td>
+<td class="r Data">79</td>
+<td class="r Data">70</td>
+<td class="r Data">77</td>
+<td class="r Data">78</td>
+<td class="r Data">67</td>
+<td class="r Data">89</td>
+<td class="r Data">83</td>
+<td class="r Data">79</td>
+<td class="r Data">71</td>
+<td class="r Data">63</td>
+<td class="r Data">54</td>
+<td class="r Data">68</td>
+<td class="r Data">73</td>
+<td class="r Data">57</td>
+<td class="r Data">20</td>
+<td class="r Data">19</td>
+<td class="r Data"> 8</td>
+<td class="r Data">61</td>
+<td class="r Data">58</td>
+<td class="r Data">44</td>
+<td class="r Data">31</td>
+<td class="r Data"> 6</td>
+<td class="r Data"> 4</td>
+<td class="r Data">45</td>
+<td class="r Data">47</td>
+<td class="r Data">27</td>
+<td class="r Data">76</td>
+<td class="r Data">65</td>
+<td class="r Data">57</td>
+<td class="r Data"> 74</td>
+<td class="r Data">57</td>
+<td class="r Data">50</td>
+<td class="r Data"> 73</td>
+<td class="r Data">  63</td>
+<td class="r Data"> 59</td>
+<td class="r Data">63</td>
+<td class="r Data">53</td>
+<td class="r Data">41</td>
+<td class="r Data">73</td>
+<td class="r Data">59</td>
+<td class="r Data">51</td>
+<td class="r Data">85</td>
+<td class="r Data">77</td>
+<td class="r Data">71</td>
+<td class="r Data">83</td>
+<td class="r Data">77</td>
+<td class="r Data">69</td>
+<td class="r Data">91</td>
+<td class="r Data">80</td>
+<td class="r Data">77</td>
+<td class="r Data">77</td>
+<td class="r Data">60</td>
+<td class="r Data">55</td>
+<td class="r Data">75</td>
+<td class="r Data">69</td>
+<td class="r Data">60</td>
+<td class="r Data">24</td>
+<td class="r Data">16</td>
+<td class="r Data"> 9</td>
+<td class="r Data">70</td>
+<td class="r Data">55</td>
+<td class="r Data">46</td>
+<td class="r Data">38</td>
+<td class="r Data"> 6</td>
+<td class="r Data"> 5</td>
+<td class="r Data">56</td>
+<td class="r Data">44</td>
+<td class="r Data">31</td>
+</tr>
+<tr>
+<td class="l Data">&#39;05</td>
+<td class="r Data">79.2</td>
+<td class="r Data">65.2</td>
+<td class="r Data">79.1</td>
+<td class="r Data">85.2</td>
+<td class="r Data"> 69.2</td>
+<td class="r Data"> 89.2</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">87.3</td>
+<td class="r Data">77.1</td>
+<td class="r Data">81.6</td>
+<td class="r Data">72.6</td>
+<td class="r Data">62.7</td>
+<td class="r Data">64.9</td>
+<td class="r Data">68.3</td>
+<td class="r Data">52.6</td>
+<td class="r Data">10.8</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">32.3</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.5</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.8</td>
+<td class="r Data">27.2</td>
+<td class="r Data">25.4</td>
+<td class="r Data">23.2</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">0.6</td>
+<td class="r Data">20.1</td>
+<td class="r Data">67</td>
+<td class="r Data">64</td>
+<td class="r Data">51</td>
+<td class="r Data">48</td>
+<td class="r Data">71</td>
+<td class="r Data">47</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">52</td>
+<td class="r Data">47</td>
+<td class="r Data">32</td>
+<td class="r Data">69</td>
+<td class="r Data">62</td>
+<td class="r Data">49</td>
+<td class="r Data">72</td>
+<td class="r Data">72</td>
+<td class="r Data">60</td>
+<td class="r Data">69</td>
+<td class="r Data">72</td>
+<td class="r Data">62</td>
+<td class="r Data">83</td>
+<td class="r Data">75</td>
+<td class="r Data">69</td>
+<td class="r Data">66</td>
+<td class="r Data">58</td>
+<td class="r Data">48</td>
+<td class="r Data">67</td>
+<td class="r Data">71</td>
+<td class="r Data">55</td>
+<td class="r Data">18</td>
+<td class="r Data">16</td>
+<td class="r Data"> 5</td>
+<td class="r Data">58</td>
+<td class="r Data">53</td>
+<td class="r Data">38</td>
+<td class="r Data">53</td>
+<td class="r Data">22</td>
+<td class="r Data">18</td>
+<td class="r Data">44</td>
+<td class="r Data">45</td>
+<td class="r Data">27</td>
+<td class="r Data">73</td>
+<td class="r Data">59</td>
+<td class="r Data">51</td>
+<td class="r Data"> 68</td>
+<td class="r Data">46</td>
+<td class="r Data">42</td>
+<td class="r Data"> 40</td>
+<td class="r Data">  20</td>
+<td class="r Data"> 20</td>
+<td class="r Data">62</td>
+<td class="r Data">46</td>
+<td class="r Data">35</td>
+<td class="r Data">71</td>
+<td class="r Data">50</td>
+<td class="r Data">43</td>
+<td class="r Data">78</td>
+<td class="r Data">67</td>
+<td class="r Data">60</td>
+<td class="r Data">75</td>
+<td class="r Data">72</td>
+<td class="r Data">68</td>
+<td class="r Data">90</td>
+<td class="r Data">69</td>
+<td class="r Data">67</td>
+<td class="r Data">73</td>
+<td class="r Data">52</td>
+<td class="r Data">46</td>
+<td class="r Data">73</td>
+<td class="r Data">66</td>
+<td class="r Data">56</td>
+<td class="r Data">19</td>
+<td class="r Data">12</td>
+<td class="r Data"> 5</td>
+<td class="r Data">66</td>
+<td class="r Data">49</td>
+<td class="r Data">40</td>
+<td class="r Data">67</td>
+<td class="r Data">17</td>
+<td class="r Data">17</td>
+<td class="r Data">53</td>
+<td class="r Data">40</td>
+<td class="r Data">29</td>
+</tr>
+<tr>
+<td class="l Data">&#39;06</td>
+<td class="r Data">77.6</td>
+<td class="r Data">58.0</td>
+<td class="r Data">72.5</td>
+<td class="r Data">82.9</td>
+<td class="r Data"> 72.9</td>
+<td class="r Data"> 95.0</td>
+<td class="r Data"> 66.7</td>
+<td class="r Data">77.6</td>
+<td class="r Data">75.5</td>
+<td class="r Data">79.7</td>
+<td class="r Data">69.1</td>
+<td class="r Data">50.3</td>
+<td class="r Data">39.2</td>
+<td class="r Data">59.2</td>
+<td class="r Data">43.0</td>
+<td class="r Data"> 3.7</td>
+<td class="r Data">11.4</td>
+<td class="r Data">26.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">21.3</td>
+<td class="r Data">21.8</td>
+<td class="r Data">17.2</td>
+<td class="r Data"> 4.0</td>
+<td class="r Data">0.4</td>
+<td class="r Data">14.6</td>
+<td class="r Data">68</td>
+<td class="r Data">70</td>
+<td class="r Data">56</td>
+<td class="r Data">67</td>
+<td class="r Data">70</td>
+<td class="r Data">59</td>
+<td class="r Data"> 100</td>
+<td class="r Data">  67</td>
+<td class="r Data"> 67</td>
+<td class="r Data">45</td>
+<td class="r Data">52</td>
+<td class="r Data">31</td>
+<td class="r Data">59</td>
+<td class="r Data">63</td>
+<td class="r Data">47</td>
+<td class="r Data">74</td>
+<td class="r Data">75</td>
+<td class="r Data">64</td>
+<td class="r Data">70</td>
+<td class="r Data">74</td>
+<td class="r Data">58</td>
+<td class="r Data">93</td>
+<td class="r Data">82</td>
+<td class="r Data">81</td>
+<td class="r Data">69</td>
+<td class="r Data">65</td>
+<td class="r Data">55</td>
+<td class="r Data">67</td>
+<td class="r Data">75</td>
+<td class="r Data">58</td>
+<td class="r Data">19</td>
+<td class="r Data">21</td>
+<td class="r Data">11</td>
+<td class="r Data">54</td>
+<td class="r Data">57</td>
+<td class="r Data">39</td>
+<td class="r Data">26</td>
+<td class="r Data">10</td>
+<td class="r Data"> 7</td>
+<td class="r Data">38</td>
+<td class="r Data">47</td>
+<td class="r Data">25</td>
+<td class="r Data">76</td>
+<td class="r Data">67</td>
+<td class="r Data">59</td>
+<td class="r Data"> 80</td>
+<td class="r Data">69</td>
+<td class="r Data">57</td>
+<td class="r Data"> 70</td>
+<td class="r Data">  70</td>
+<td class="r Data"> 50</td>
+<td class="r Data">57</td>
+<td class="r Data">49</td>
+<td class="r Data">36</td>
+<td class="r Data">69</td>
+<td class="r Data">59</td>
+<td class="r Data">49</td>
+<td class="r Data">81</td>
+<td class="r Data">73</td>
+<td class="r Data">66</td>
+<td class="r Data">75</td>
+<td class="r Data">73</td>
+<td class="r Data">63</td>
+<td class="r Data">93</td>
+<td class="r Data">83</td>
+<td class="r Data">80</td>
+<td class="r Data">77</td>
+<td class="r Data">63</td>
+<td class="r Data">57</td>
+<td class="r Data">74</td>
+<td class="r Data">72</td>
+<td class="r Data">61</td>
+<td class="r Data">26</td>
+<td class="r Data">18</td>
+<td class="r Data"> 9</td>
+<td class="r Data">66</td>
+<td class="r Data">53</td>
+<td class="r Data">43</td>
+<td class="r Data">34</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 5</td>
+<td class="r Data">48</td>
+<td class="r Data">43</td>
+<td class="r Data">27</td>
+</tr>
+<tr>
+<td class="l Data">&#39;07</td>
+<td class="r Data">81.3</td>
+<td class="r Data">69.5</td>
+<td class="r Data">75.2</td>
+<td class="r Data">87.2</td>
+<td class="r Data"> 70.7</td>
+<td class="r Data"> 82.6</td>
+<td class="r Data"> 85.7</td>
+<td class="r Data">83.2</td>
+<td class="r Data">80.0</td>
+<td class="r Data">82.7</td>
+<td class="r Data">75.0</td>
+<td class="r Data">60.9</td>
+<td class="r Data">42.8</td>
+<td class="r Data">69.4</td>
+<td class="r Data">58.6</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">11.8</td>
+<td class="r Data">36.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">1.2</td>
+<td class="r Data">30.7</td>
+<td class="r Data">27.9</td>
+<td class="r Data">26.5</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">21.5</td>
+<td class="r Data">65</td>
+<td class="r Data">65</td>
+<td class="r Data">51</td>
+<td class="r Data">76</td>
+<td class="r Data">50</td>
+<td class="r Data">47</td>
+<td class="r Data">  83</td>
+<td class="r Data">  83</td>
+<td class="r Data"> 67</td>
+<td class="r Data">48</td>
+<td class="r Data">52</td>
+<td class="r Data">34</td>
+<td class="r Data">58</td>
+<td class="r Data">60</td>
+<td class="r Data">43</td>
+<td class="r Data">72</td>
+<td class="r Data">71</td>
+<td class="r Data">59</td>
+<td class="r Data">64</td>
+<td class="r Data">69</td>
+<td class="r Data">51</td>
+<td class="r Data">77</td>
+<td class="r Data">74</td>
+<td class="r Data">66</td>
+<td class="r Data">66</td>
+<td class="r Data">58</td>
+<td class="r Data">47</td>
+<td class="r Data">65</td>
+<td class="r Data">73</td>
+<td class="r Data">55</td>
+<td class="r Data">18</td>
+<td class="r Data">16</td>
+<td class="r Data"> 7</td>
+<td class="r Data">57</td>
+<td class="r Data">57</td>
+<td class="r Data">41</td>
+<td class="r Data">23</td>
+<td class="r Data"> 8</td>
+<td class="r Data"> 2</td>
+<td class="r Data">39</td>
+<td class="r Data">44</td>
+<td class="r Data">23</td>
+<td class="r Data">73</td>
+<td class="r Data">63</td>
+<td class="r Data">54</td>
+<td class="r Data"> 80</td>
+<td class="r Data">71</td>
+<td class="r Data">61</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">55</td>
+<td class="r Data">50</td>
+<td class="r Data">35</td>
+<td class="r Data">69</td>
+<td class="r Data">53</td>
+<td class="r Data">44</td>
+<td class="r Data">78</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data">71</td>
+<td class="r Data">59</td>
+<td class="r Data">49</td>
+<td class="r Data">85</td>
+<td class="r Data">80</td>
+<td class="r Data">76</td>
+<td class="r Data">73</td>
+<td class="r Data">57</td>
+<td class="r Data">50</td>
+<td class="r Data">72</td>
+<td class="r Data">69</td>
+<td class="r Data">57</td>
+<td class="r Data">22</td>
+<td class="r Data">18</td>
+<td class="r Data"> 9</td>
+<td class="r Data">64</td>
+<td class="r Data">53</td>
+<td class="r Data">42</td>
+<td class="r Data">29</td>
+<td class="r Data"> 4</td>
+<td class="r Data"> 0</td>
+<td class="r Data">50</td>
+<td class="r Data">44</td>
+<td class="r Data">28</td>
+</tr>
+<tr>
+<td class="l Data">&#39;08</td>
+<td class="r Data">89.0</td>
+<td class="r Data">84.5</td>
+<td class="r Data">85.4</td>
+<td class="r Data">92.2</td>
+<td class="r Data"> 96.0</td>
+<td class="r Data"> 87.5</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">82.2</td>
+<td class="r Data">88.4</td>
+<td class="r Data">89.7</td>
+<td class="r Data">86.6</td>
+<td class="r Data">79.8</td>
+<td class="r Data">71.4</td>
+<td class="r Data">82.8</td>
+<td class="r Data">78.6</td>
+<td class="r Data">16.8</td>
+<td class="r Data">13.1</td>
+<td class="r Data">45.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.6</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">2.0</td>
+<td class="r Data">40.3</td>
+<td class="r Data">38.3</td>
+<td class="r Data">41.1</td>
+<td class="r Data">10.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">30.0</td>
+<td class="r Data">65</td>
+<td class="r Data">66</td>
+<td class="r Data">51</td>
+<td class="r Data">78</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">47</td>
+<td class="r Data">53</td>
+<td class="r Data">32</td>
+<td class="r Data">61</td>
+<td class="r Data">54</td>
+<td class="r Data">41</td>
+<td class="r Data">72</td>
+<td class="r Data">74</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">72</td>
+<td class="r Data">53</td>
+<td class="r Data">83</td>
+<td class="r Data">57</td>
+<td class="r Data">57</td>
+<td class="r Data">65</td>
+<td class="r Data">61</td>
+<td class="r Data">48</td>
+<td class="r Data">64</td>
+<td class="r Data">71</td>
+<td class="r Data">54</td>
+<td class="r Data">19</td>
+<td class="r Data">22</td>
+<td class="r Data"> 5</td>
+<td class="r Data">56</td>
+<td class="r Data">55</td>
+<td class="r Data">39</td>
+<td class="r Data">36</td>
+<td class="r Data"> 3</td>
+<td class="r Data"> 3</td>
+<td class="r Data">40</td>
+<td class="r Data">48</td>
+<td class="r Data">25</td>
+<td class="r Data">70</td>
+<td class="r Data">64</td>
+<td class="r Data">53</td>
+<td class="r Data"> 59</td>
+<td class="r Data">55</td>
+<td class="r Data">36</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">52</td>
+<td class="r Data">52</td>
+<td class="r Data">36</td>
+<td class="r Data">70</td>
+<td class="r Data">55</td>
+<td class="r Data">46</td>
+<td class="r Data">76</td>
+<td class="r Data">70</td>
+<td class="r Data">61</td>
+<td class="r Data">62</td>
+<td class="r Data">71</td>
+<td class="r Data">49</td>
+<td class="r Data">79</td>
+<td class="r Data">79</td>
+<td class="r Data">78</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">50</td>
+<td class="r Data">69</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">17</td>
+<td class="r Data">14</td>
+<td class="r Data"> 3</td>
+<td class="r Data">62</td>
+<td class="r Data">55</td>
+<td class="r Data">43</td>
+<td class="r Data">34</td>
+<td class="r Data"> 9</td>
+<td class="r Data">10</td>
+<td class="r Data">43</td>
+<td class="r Data">43</td>
+<td class="r Data">26</td>
+</tr>
+<tr>
+<td class="l Data">&#39;09</td>
+<td class="r Data">85.4</td>
+<td class="r Data">77.9</td>
+<td class="r Data">83.2</td>
+<td class="r Data">87.4</td>
+<td class="r Data"> 75.9</td>
+<td class="r Data">100.0</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">77.4</td>
+<td class="r Data">85.4</td>
+<td class="r Data">85.4</td>
+<td class="r Data">81.7</td>
+<td class="r Data">73.3</td>
+<td class="r Data">61.9</td>
+<td class="r Data">77.3</td>
+<td class="r Data">63.5</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">14.9</td>
+<td class="r Data">41.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">1.3</td>
+<td class="r Data">33.8</td>
+<td class="r Data">29.6</td>
+<td class="r Data">29.8</td>
+<td class="r Data"> 8.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">25.0</td>
+<td class="r Data">68</td>
+<td class="r Data">68</td>
+<td class="r Data">54</td>
+<td class="r Data">64</td>
+<td class="r Data">58</td>
+<td class="r Data">39</td>
+<td class="r Data">   .</td>
+<td class="r Data">   .</td>
+<td class="r Data">  .</td>
+<td class="r Data">43</td>
+<td class="r Data">47</td>
+<td class="r Data">28</td>
+<td class="r Data">59</td>
+<td class="r Data">62</td>
+<td class="r Data">46</td>
+<td class="r Data">73</td>
+<td class="r Data">72</td>
+<td class="r Data">59</td>
+<td class="r Data">71</td>
+<td class="r Data">67</td>
+<td class="r Data">50</td>
+<td class="r Data">91</td>
+<td class="r Data">84</td>
+<td class="r Data">78</td>
+<td class="r Data">70</td>
+<td class="r Data">61</td>
+<td class="r Data">52</td>
+<td class="r Data">65</td>
+<td class="r Data">75</td>
+<td class="r Data">56</td>
+<td class="r Data">18</td>
+<td class="r Data">22</td>
+<td class="r Data"> 6</td>
+<td class="r Data">57</td>
+<td class="r Data">58</td>
+<td class="r Data">41</td>
+<td class="r Data">31</td>
+<td class="r Data">18</td>
+<td class="r Data"> 6</td>
+<td class="r Data">36</td>
+<td class="r Data">46</td>
+<td class="r Data">22</td>
+<td class="r Data">74</td>
+<td class="r Data">65</td>
+<td class="r Data">56</td>
+<td class="r Data"> 91</td>
+<td class="r Data">73</td>
+<td class="r Data">68</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">54</td>
+<td class="r Data">44</td>
+<td class="r Data">31</td>
+<td class="r Data">64</td>
+<td class="r Data">56</td>
+<td class="r Data">44</td>
+<td class="r Data">79</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data">72</td>
+<td class="r Data">63</td>
+<td class="r Data">55</td>
+<td class="r Data">93</td>
+<td class="r Data">85</td>
+<td class="r Data">81</td>
+<td class="r Data">76</td>
+<td class="r Data">59</td>
+<td class="r Data">53</td>
+<td class="r Data">72</td>
+<td class="r Data">71</td>
+<td class="r Data">60</td>
+<td class="r Data">30</td>
+<td class="r Data">22</td>
+<td class="r Data">12</td>
+<td class="r Data">65</td>
+<td class="r Data">53</td>
+<td class="r Data">44</td>
+<td class="r Data">32</td>
+<td class="r Data"> 5</td>
+<td class="r Data"> 5</td>
+<td class="r Data">43</td>
+<td class="r Data">41</td>
+<td class="r Data">24</td>
+</tr>
+<tr>
+<td class="l Data">&#39;10</td>
+<td class="r Data">78.2</td>
+<td class="r Data">66.9</td>
+<td class="r Data">72.0</td>
+<td class="r Data">88.0</td>
+<td class="r Data"> 81.2</td>
+<td class="r Data"> 92.5</td>
+<td class="r Data"> 83.8</td>
+<td class="r Data">84.1</td>
+<td class="r Data">76.1</td>
+<td class="r Data">80.2</td>
+<td class="r Data">70.3</td>
+<td class="r Data">49.3</td>
+<td class="r Data">45.8</td>
+<td class="r Data">58.8</td>
+<td class="r Data">45.1</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">16.6</td>
+<td class="r Data">17.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">2.5</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">22.2</td>
+<td class="r Data">22.9</td>
+<td class="r Data">19.9</td>
+<td class="r Data"> 3.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">14.4</td>
+<td class="r Data">70</td>
+<td class="r Data">71</td>
+<td class="r Data">58</td>
+<td class="r Data">71</td>
+<td class="r Data">71</td>
+<td class="r Data">58</td>
+<td class="r Data">  69</td>
+<td class="r Data">  84</td>
+<td class="r Data"> 61</td>
+<td class="r Data">54</td>
+<td class="r Data">59</td>
+<td class="r Data">41</td>
+<td class="r Data">63</td>
+<td class="r Data">64</td>
+<td class="r Data">48</td>
+<td class="r Data">81</td>
+<td class="r Data">81</td>
+<td class="r Data">72</td>
+<td class="r Data">76</td>
+<td class="r Data">78</td>
+<td class="r Data">65</td>
+<td class="r Data">89</td>
+<td class="r Data">84</td>
+<td class="r Data">80</td>
+<td class="r Data">72</td>
+<td class="r Data">66</td>
+<td class="r Data">56</td>
+<td class="r Data">68</td>
+<td class="r Data">75</td>
+<td class="r Data">59</td>
+<td class="r Data">22</td>
+<td class="r Data">23</td>
+<td class="r Data">11</td>
+<td class="r Data">60</td>
+<td class="r Data">61</td>
+<td class="r Data">44</td>
+<td class="r Data">39</td>
+<td class="r Data">22</td>
+<td class="r Data">13</td>
+<td class="r Data">43</td>
+<td class="r Data">48</td>
+<td class="r Data">27</td>
+<td class="r Data">77</td>
+<td class="r Data">68</td>
+<td class="r Data">59</td>
+<td class="r Data"> 84</td>
+<td class="r Data">72</td>
+<td class="r Data">66</td>
+<td class="r Data"> 78</td>
+<td class="r Data">  71</td>
+<td class="r Data"> 67</td>
+<td class="r Data">63</td>
+<td class="r Data">55</td>
+<td class="r Data">43</td>
+<td class="r Data">71</td>
+<td class="r Data">60</td>
+<td class="r Data">49</td>
+<td class="r Data">86</td>
+<td class="r Data">79</td>
+<td class="r Data">73</td>
+<td class="r Data">81</td>
+<td class="r Data">75</td>
+<td class="r Data">67</td>
+<td class="r Data">91</td>
+<td class="r Data">84</td>
+<td class="r Data">81</td>
+<td class="r Data">78</td>
+<td class="r Data">63</td>
+<td class="r Data">57</td>
+<td class="r Data">75</td>
+<td class="r Data">72</td>
+<td class="r Data">62</td>
+<td class="r Data">26</td>
+<td class="r Data">21</td>
+<td class="r Data">12</td>
+<td class="r Data">68</td>
+<td class="r Data">57</td>
+<td class="r Data">46</td>
+<td class="r Data">46</td>
+<td class="r Data">19</td>
+<td class="r Data">13</td>
+<td class="r Data">53</td>
+<td class="r Data">45</td>
+<td class="r Data">30</td>
+</tr>
+<tr>
+<td class="l Data">&#39;11</td>
+<td class="r Data">76.3</td>
+<td class="r Data">62.1</td>
+<td class="r Data">70.2</td>
+<td class="r Data">82.5</td>
+<td class="r Data"> 75.8</td>
+<td class="r Data"> 88.2</td>
+<td class="r Data"> 75.6</td>
+<td class="r Data">77.4</td>
+<td class="r Data">74.1</td>
+<td class="r Data">78.5</td>
+<td class="r Data">68.0</td>
+<td class="r Data">44.5</td>
+<td class="r Data">39.6</td>
+<td class="r Data">57.8</td>
+<td class="r Data">36.3</td>
+<td class="r Data"> 3.5</td>
+<td class="r Data">11.2</td>
+<td class="r Data">19.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">1.6</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">18.4</td>
+<td class="r Data">17.9</td>
+<td class="r Data">13.5</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">12.3</td>
+<td class="r Data">69</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">70</td>
+<td class="r Data">71</td>
+<td class="r Data">55</td>
+<td class="r Data">  64</td>
+<td class="r Data">  68</td>
+<td class="r Data"> 54</td>
+<td class="r Data">48</td>
+<td class="r Data">57</td>
+<td class="r Data">36</td>
+<td class="r Data">61</td>
+<td class="r Data">63</td>
+<td class="r Data">46</td>
+<td class="r Data">77</td>
+<td class="r Data">77</td>
+<td class="r Data">67</td>
+<td class="r Data">72</td>
+<td class="r Data">75</td>
+<td class="r Data">62</td>
+<td class="r Data">85</td>
+<td class="r Data">79</td>
+<td class="r Data">72</td>
+<td class="r Data">71</td>
+<td class="r Data">66</td>
+<td class="r Data">56</td>
+<td class="r Data">67</td>
+<td class="r Data">75</td>
+<td class="r Data">58</td>
+<td class="r Data">20</td>
+<td class="r Data">21</td>
+<td class="r Data"> 9</td>
+<td class="r Data">57</td>
+<td class="r Data">58</td>
+<td class="r Data">42</td>
+<td class="r Data">33</td>
+<td class="r Data">22</td>
+<td class="r Data">12</td>
+<td class="r Data">40</td>
+<td class="r Data">49</td>
+<td class="r Data">26</td>
+<td class="r Data">76</td>
+<td class="r Data">69</td>
+<td class="r Data">60</td>
+<td class="r Data"> 79</td>
+<td class="r Data">63</td>
+<td class="r Data">57</td>
+<td class="r Data"> 69</td>
+<td class="r Data">  56</td>
+<td class="r Data"> 51</td>
+<td class="r Data">59</td>
+<td class="r Data">58</td>
+<td class="r Data">43</td>
+<td class="r Data">68</td>
+<td class="r Data">60</td>
+<td class="r Data">49</td>
+<td class="r Data">83</td>
+<td class="r Data">76</td>
+<td class="r Data">69</td>
+<td class="r Data">81</td>
+<td class="r Data">76</td>
+<td class="r Data">69</td>
+<td class="r Data">88</td>
+<td class="r Data">76</td>
+<td class="r Data">72</td>
+<td class="r Data">78</td>
+<td class="r Data">64</td>
+<td class="r Data">58</td>
+<td class="r Data">74</td>
+<td class="r Data">74</td>
+<td class="r Data">63</td>
+<td class="r Data">29</td>
+<td class="r Data">19</td>
+<td class="r Data">11</td>
+<td class="r Data">65</td>
+<td class="r Data">57</td>
+<td class="r Data">46</td>
+<td class="r Data">44</td>
+<td class="r Data">20</td>
+<td class="r Data">14</td>
+<td class="r Data">51</td>
+<td class="r Data">47</td>
+<td class="r Data">31</td>
+</tr>
+<tr>
+<td class="l Data">&#39;12</td>
+<td class="r Data">71.4</td>
+<td class="r Data">57.1</td>
+<td class="r Data">70.0</td>
+<td class="r Data">77.9</td>
+<td class="r Data"> 82.4</td>
+<td class="r Data"> 86.3</td>
+<td class="r Data"> 51.3</td>
+<td class="r Data">72.9</td>
+<td class="r Data">69.3</td>
+<td class="r Data">73.6</td>
+<td class="r Data">65.2</td>
+<td class="r Data">43.4</td>
+<td class="r Data">42.5</td>
+<td class="r Data">55.7</td>
+<td class="r Data">41.9</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">12.1</td>
+<td class="r Data">21.0</td>
+<td class="r Data">0.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">21.3</td>
+<td class="r Data">20.6</td>
+<td class="r Data">19.5</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">0.5</td>
+<td class="r Data">16.2</td>
+<td class="r Data">64</td>
+<td class="r Data">66</td>
+<td class="r Data">50</td>
+<td class="r Data">69</td>
+<td class="r Data">72</td>
+<td class="r Data">56</td>
+<td class="r Data">  63</td>
+<td class="r Data">  60</td>
+<td class="r Data"> 50</td>
+<td class="r Data">45</td>
+<td class="r Data">56</td>
+<td class="r Data">34</td>
+<td class="r Data">59</td>
+<td class="r Data">63</td>
+<td class="r Data">44</td>
+<td class="r Data">73</td>
+<td class="r Data">72</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">67</td>
+<td class="r Data">55</td>
+<td class="r Data">78</td>
+<td class="r Data">76</td>
+<td class="r Data">68</td>
+<td class="r Data">65</td>
+<td class="r Data">61</td>
+<td class="r Data">48</td>
+<td class="r Data">63</td>
+<td class="r Data">71</td>
+<td class="r Data">53</td>
+<td class="r Data">18</td>
+<td class="r Data">19</td>
+<td class="r Data"> 7</td>
+<td class="r Data">54</td>
+<td class="r Data">58</td>
+<td class="r Data">38</td>
+<td class="r Data">24</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 5</td>
+<td class="r Data">37</td>
+<td class="r Data">47</td>
+<td class="r Data">23</td>
+<td class="r Data">71</td>
+<td class="r Data">60</td>
+<td class="r Data">51</td>
+<td class="r Data"> 60</td>
+<td class="r Data">61</td>
+<td class="r Data">46</td>
+<td class="r Data"> 48</td>
+<td class="r Data">  33</td>
+<td class="r Data"> 29</td>
+<td class="r Data">56</td>
+<td class="r Data">47</td>
+<td class="r Data">35</td>
+<td class="r Data">66</td>
+<td class="r Data">55</td>
+<td class="r Data">45</td>
+<td class="r Data">79</td>
+<td class="r Data">68</td>
+<td class="r Data">61</td>
+<td class="r Data">80</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data">86</td>
+<td class="r Data">66</td>
+<td class="r Data">61</td>
+<td class="r Data">72</td>
+<td class="r Data">54</td>
+<td class="r Data">48</td>
+<td class="r Data">70</td>
+<td class="r Data">67</td>
+<td class="r Data">55</td>
+<td class="r Data">20</td>
+<td class="r Data">13</td>
+<td class="r Data"> 6</td>
+<td class="r Data">63</td>
+<td class="r Data">52</td>
+<td class="r Data">42</td>
+<td class="r Data">26</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 2</td>
+<td class="r Data">48</td>
+<td class="r Data">40</td>
+<td class="r Data">26</td>
+</tr>
+<tr>
+<td class="l Data">&#39;13</td>
+<td class="r Data">79.0</td>
+<td class="r Data">65.2</td>
+<td class="r Data">73.7</td>
+<td class="r Data">84.5</td>
+<td class="r Data"> 75.8</td>
+<td class="r Data"> 91.8</td>
+<td class="r Data"> 81.5</td>
+<td class="r Data">83.6</td>
+<td class="r Data">76.7</td>
+<td class="r Data">81.6</td>
+<td class="r Data">69.8</td>
+<td class="r Data">42.0</td>
+<td class="r Data">49.5</td>
+<td class="r Data">61.2</td>
+<td class="r Data">40.4</td>
+<td class="r Data"> 3.2</td>
+<td class="r Data">17.0</td>
+<td class="r Data">17.4</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.7</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.9</td>
+<td class="r Data">21.5</td>
+<td class="r Data">18.9</td>
+<td class="r Data">15.8</td>
+<td class="r Data"> 2.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">14.5</td>
+<td class="r Data">72</td>
+<td class="r Data">73</td>
+<td class="r Data">61</td>
+<td class="r Data">74</td>
+<td class="r Data">67</td>
+<td class="r Data">55</td>
+<td class="r Data">  80</td>
+<td class="r Data">  92</td>
+<td class="r Data"> 76</td>
+<td class="r Data">47</td>
+<td class="r Data">56</td>
+<td class="r Data">37</td>
+<td class="r Data">61</td>
+<td class="r Data">63</td>
+<td class="r Data">48</td>
+<td class="r Data">82</td>
+<td class="r Data">81</td>
+<td class="r Data">73</td>
+<td class="r Data">81</td>
+<td class="r Data">77</td>
+<td class="r Data">69</td>
+<td class="r Data">90</td>
+<td class="r Data">84</td>
+<td class="r Data">81</td>
+<td class="r Data">73</td>
+<td class="r Data">68</td>
+<td class="r Data">59</td>
+<td class="r Data">70</td>
+<td class="r Data">77</td>
+<td class="r Data">63</td>
+<td class="r Data">22</td>
+<td class="r Data">23</td>
+<td class="r Data">11</td>
+<td class="r Data">56</td>
+<td class="r Data">57</td>
+<td class="r Data">42</td>
+<td class="r Data">28</td>
+<td class="r Data"> 9</td>
+<td class="r Data"> 4</td>
+<td class="r Data">42</td>
+<td class="r Data">49</td>
+<td class="r Data">28</td>
+<td class="r Data">77</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data"> 80</td>
+<td class="r Data">72</td>
+<td class="r Data">67</td>
+<td class="r Data"> 65</td>
+<td class="r Data">  65</td>
+<td class="r Data"> 58</td>
+<td class="r Data">55</td>
+<td class="r Data">53</td>
+<td class="r Data">38</td>
+<td class="r Data">69</td>
+<td class="r Data">60</td>
+<td class="r Data">50</td>
+<td class="r Data">86</td>
+<td class="r Data">79</td>
+<td class="r Data">74</td>
+<td class="r Data">82</td>
+<td class="r Data">76</td>
+<td class="r Data">71</td>
+<td class="r Data">93</td>
+<td class="r Data">86</td>
+<td class="r Data">84</td>
+<td class="r Data">78</td>
+<td class="r Data">65</td>
+<td class="r Data">59</td>
+<td class="r Data">76</td>
+<td class="r Data">75</td>
+<td class="r Data">65</td>
+<td class="r Data">26</td>
+<td class="r Data">20</td>
+<td class="r Data">11</td>
+<td class="r Data">65</td>
+<td class="r Data">55</td>
+<td class="r Data">44</td>
+<td class="r Data">38</td>
+<td class="r Data">10</td>
+<td class="r Data"> 6</td>
+<td class="r Data">54</td>
+<td class="r Data">47</td>
+<td class="r Data">34</td>
+</tr>
+<tr>
+<td class="l Data">&#39;14</td>
+<td class="r Data">76.1</td>
+<td class="r Data">48.7</td>
+<td class="r Data">69.8</td>
+<td class="r Data">82.0</td>
+<td class="r Data"> 93.3</td>
+<td class="r Data"> 64.5</td>
+<td class="r Data">   . </td>
+<td class="r Data">80.9</td>
+<td class="r Data">76.4</td>
+<td class="r Data">75.8</td>
+<td class="r Data">66.8</td>
+<td class="r Data">45.2</td>
+<td class="r Data">46.7</td>
+<td class="r Data">57.7</td>
+<td class="r Data">46.9</td>
+<td class="r Data"> 1.1</td>
+<td class="r Data">13.2</td>
+<td class="r Data">31.4</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">  . </td>
+<td class="r Data">0.7</td>
+<td class="r Data">24.7</td>
+<td class="r Data">22.2</td>
+<td class="r Data">17.7</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data">14.3</td>
+<td class="r Data">69</td>
+<td class="r Data">67</td>
+<td class="r Data">55</td>
+<td class="r Data">67</td>
+<td class="r Data">92</td>
+<td class="r Data">67</td>
+<td class="r Data">   .</td>
+<td class="r Data">   .</td>
+<td class="r Data">  .</td>
+<td class="r Data">46</td>
+<td class="r Data">48</td>
+<td class="r Data">33</td>
+<td class="r Data">59</td>
+<td class="r Data">58</td>
+<td class="r Data">43</td>
+<td class="r Data">75</td>
+<td class="r Data">72</td>
+<td class="r Data">62</td>
+<td class="r Data">70</td>
+<td class="r Data">77</td>
+<td class="r Data">66</td>
+<td class="r Data">77</td>
+<td class="r Data">73</td>
+<td class="r Data">68</td>
+<td class="r Data">70</td>
+<td class="r Data">63</td>
+<td class="r Data">54</td>
+<td class="r Data">67</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">13</td>
+<td class="r Data">16</td>
+<td class="r Data"> 8</td>
+<td class="r Data">58</td>
+<td class="r Data">54</td>
+<td class="r Data">42</td>
+<td class="r Data">19</td>
+<td class="r Data"> 5</td>
+<td class="r Data"> 5</td>
+<td class="r Data">38</td>
+<td class="r Data">42</td>
+<td class="r Data">24</td>
+<td class="r Data">72</td>
+<td class="r Data">66</td>
+<td class="r Data">55</td>
+<td class="r Data"> 50</td>
+<td class="r Data">60</td>
+<td class="r Data">50</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">50</td>
+<td class="r Data">46</td>
+<td class="r Data">35</td>
+<td class="r Data">67</td>
+<td class="r Data">56</td>
+<td class="r Data">43</td>
+<td class="r Data">77</td>
+<td class="r Data">72</td>
+<td class="r Data">63</td>
+<td class="r Data">72</td>
+<td class="r Data">74</td>
+<td class="r Data">60</td>
+<td class="r Data">68</td>
+<td class="r Data">68</td>
+<td class="r Data">61</td>
+<td class="r Data">74</td>
+<td class="r Data">60</td>
+<td class="r Data">52</td>
+<td class="r Data">70</td>
+<td class="r Data">71</td>
+<td class="r Data">58</td>
+<td class="r Data">22</td>
+<td class="r Data">21</td>
+<td class="r Data"> 9</td>
+<td class="r Data">62</td>
+<td class="r Data">55</td>
+<td class="r Data">43</td>
+<td class="r Data">28</td>
+<td class="r Data">12</td>
+<td class="r Data">12</td>
+<td class="r Data">47</td>
+<td class="r Data">45</td>
+<td class="r Data">28</td>
+</tr>
+<tr>
+<td class="l Data">&#39;15</td>
+<td class="r Data">81.7</td>
+<td class="r Data">65.2</td>
+<td class="r Data">79.5</td>
+<td class="r Data">85.6</td>
+<td class="r Data"> 88.9</td>
+<td class="r Data"> 88.2</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">69.4</td>
+<td class="r Data">80.3</td>
+<td class="r Data">83.1</td>
+<td class="r Data">78.0</td>
+<td class="r Data">58.7</td>
+<td class="r Data">65.7</td>
+<td class="r Data">76.0</td>
+<td class="r Data">60.7</td>
+<td class="r Data"> 1.3</td>
+<td class="r Data">33.5</td>
+<td class="r Data">24.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">30.1</td>
+<td class="r Data">30.6</td>
+<td class="r Data">27.8</td>
+<td class="r Data"> 5.6</td>
+<td class="r Data">0.7</td>
+<td class="r Data">29.1</td>
+<td class="r Data">65</td>
+<td class="r Data">68</td>
+<td class="r Data">52</td>
+<td class="r Data">88</td>
+<td class="r Data">88</td>
+<td class="r Data">75</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">47</td>
+<td class="r Data">60</td>
+<td class="r Data">38</td>
+<td class="r Data">57</td>
+<td class="r Data">62</td>
+<td class="r Data">43</td>
+<td class="r Data">75</td>
+<td class="r Data">75</td>
+<td class="r Data">64</td>
+<td class="r Data">63</td>
+<td class="r Data">59</td>
+<td class="r Data">47</td>
+<td class="r Data">80</td>
+<td class="r Data">73</td>
+<td class="r Data">67</td>
+<td class="r Data">67</td>
+<td class="r Data">62</td>
+<td class="r Data">50</td>
+<td class="r Data">64</td>
+<td class="r Data">74</td>
+<td class="r Data">55</td>
+<td class="r Data">19</td>
+<td class="r Data">20</td>
+<td class="r Data"> 6</td>
+<td class="r Data">56</td>
+<td class="r Data">61</td>
+<td class="r Data">42</td>
+<td class="r Data">45</td>
+<td class="r Data">11</td>
+<td class="r Data">12</td>
+<td class="r Data">47</td>
+<td class="r Data">54</td>
+<td class="r Data">33</td>
+<td class="r Data">69</td>
+<td class="r Data">62</td>
+<td class="r Data">52</td>
+<td class="r Data"> 75</td>
+<td class="r Data">83</td>
+<td class="r Data">58</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">46</td>
+<td class="r Data">57</td>
+<td class="r Data">37</td>
+<td class="r Data">63</td>
+<td class="r Data">56</td>
+<td class="r Data">43</td>
+<td class="r Data">78</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data">86</td>
+<td class="r Data">68</td>
+<td class="r Data">69</td>
+<td class="r Data">65</td>
+<td class="r Data">55</td>
+<td class="r Data">55</td>
+<td class="r Data">70</td>
+<td class="r Data">56</td>
+<td class="r Data">49</td>
+<td class="r Data">69</td>
+<td class="r Data">69</td>
+<td class="r Data">55</td>
+<td class="r Data">24</td>
+<td class="r Data">13</td>
+<td class="r Data"> 8</td>
+<td class="r Data">62</td>
+<td class="r Data">54</td>
+<td class="r Data">42</td>
+<td class="r Data">20</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 3</td>
+<td class="r Data">52</td>
+<td class="r Data">47</td>
+<td class="r Data">34</td>
+</tr>
+<tr>
+<td class="l Data">&#39;16</td>
+<td class="r Data">68.9</td>
+<td class="r Data">41.2</td>
+<td class="r Data">64.9</td>
+<td class="r Data">75.0</td>
+<td class="r Data"> 74.2</td>
+<td class="r Data"> 58.1</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">67.7</td>
+<td class="r Data">67.7</td>
+<td class="r Data">70.1</td>
+<td class="r Data">60.4</td>
+<td class="r Data">44.4</td>
+<td class="r Data">18.5</td>
+<td class="r Data">50.9</td>
+<td class="r Data">34.1</td>
+<td class="r Data"> 0.6</td>
+<td class="r Data">15.0</td>
+<td class="r Data">17.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.6</td>
+<td class="r Data">18.4</td>
+<td class="r Data">15.7</td>
+<td class="r Data">14.3</td>
+<td class="r Data"> 3.5</td>
+<td class="r Data">0.3</td>
+<td class="r Data">12.3</td>
+<td class="r Data">63</td>
+<td class="r Data">64</td>
+<td class="r Data">50</td>
+<td class="r Data">62</td>
+<td class="r Data">70</td>
+<td class="r Data">54</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">44</td>
+<td class="r Data">42</td>
+<td class="r Data">30</td>
+<td class="r Data">53</td>
+<td class="r Data">58</td>
+<td class="r Data">39</td>
+<td class="r Data">73</td>
+<td class="r Data">70</td>
+<td class="r Data">60</td>
+<td class="r Data">72</td>
+<td class="r Data">77</td>
+<td class="r Data">61</td>
+<td class="r Data">69</td>
+<td class="r Data">56</td>
+<td class="r Data">52</td>
+<td class="r Data">65</td>
+<td class="r Data">57</td>
+<td class="r Data">47</td>
+<td class="r Data">62</td>
+<td class="r Data">71</td>
+<td class="r Data">53</td>
+<td class="r Data">18</td>
+<td class="r Data">15</td>
+<td class="r Data"> 5</td>
+<td class="r Data">52</td>
+<td class="r Data">53</td>
+<td class="r Data">36</td>
+<td class="r Data">19</td>
+<td class="r Data"> 0</td>
+<td class="r Data"> 0</td>
+<td class="r Data">33</td>
+<td class="r Data">42</td>
+<td class="r Data">20</td>
+<td class="r Data">69</td>
+<td class="r Data">63</td>
+<td class="r Data">52</td>
+<td class="r Data"> 80</td>
+<td class="r Data">77</td>
+<td class="r Data">66</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">45</td>
+<td class="r Data">37</td>
+<td class="r Data">24</td>
+<td class="r Data">61</td>
+<td class="r Data">55</td>
+<td class="r Data">42</td>
+<td class="r Data">76</td>
+<td class="r Data">71</td>
+<td class="r Data">62</td>
+<td class="r Data">76</td>
+<td class="r Data">69</td>
+<td class="r Data">58</td>
+<td class="r Data">75</td>
+<td class="r Data">54</td>
+<td class="r Data">52</td>
+<td class="r Data">70</td>
+<td class="r Data">58</td>
+<td class="r Data">50</td>
+<td class="r Data">68</td>
+<td class="r Data">68</td>
+<td class="r Data">54</td>
+<td class="r Data">16</td>
+<td class="r Data">12</td>
+<td class="r Data"> 7</td>
+<td class="r Data">59</td>
+<td class="r Data">53</td>
+<td class="r Data">41</td>
+<td class="r Data">13</td>
+<td class="r Data"> 0</td>
+<td class="r Data"> 0</td>
+<td class="r Data">38</td>
+<td class="r Data">37</td>
+<td class="r Data">21</td>
+</tr>
+<tr>
+<td class="l Data">&#39;17</td>
+<td class="r Data">84.3</td>
+<td class="r Data">65.2</td>
+<td class="r Data">80.9</td>
+<td class="r Data">91.2</td>
+<td class="r Data"> 90.6</td>
+<td class="r Data"> 92.7</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">85.7</td>
+<td class="r Data">84.1</td>
+<td class="r Data">84.6</td>
+<td class="r Data">78.1</td>
+<td class="r Data">68.6</td>
+<td class="r Data">63.0</td>
+<td class="r Data">72.3</td>
+<td class="r Data">66.9</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">34.9</td>
+<td class="r Data">27.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.5</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">34.2</td>
+<td class="r Data">32.7</td>
+<td class="r Data">29.2</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">23.2</td>
+<td class="r Data">61</td>
+<td class="r Data">67</td>
+<td class="r Data">50</td>
+<td class="r Data">53</td>
+<td class="r Data">68</td>
+<td class="r Data">50</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">36</td>
+<td class="r Data">51</td>
+<td class="r Data">27</td>
+<td class="r Data">50</td>
+<td class="r Data">60</td>
+<td class="r Data">38</td>
+<td class="r Data">77</td>
+<td class="r Data">77</td>
+<td class="r Data">66</td>
+<td class="r Data">68</td>
+<td class="r Data">67</td>
+<td class="r Data">55</td>
+<td class="r Data">88</td>
+<td class="r Data">80</td>
+<td class="r Data">76</td>
+<td class="r Data">64</td>
+<td class="r Data">63</td>
+<td class="r Data">49</td>
+<td class="r Data">59</td>
+<td class="r Data">71</td>
+<td class="r Data">50</td>
+<td class="r Data">15</td>
+<td class="r Data">13</td>
+<td class="r Data"> 5</td>
+<td class="r Data">47</td>
+<td class="r Data">56</td>
+<td class="r Data">34</td>
+<td class="r Data">18</td>
+<td class="r Data">12</td>
+<td class="r Data"> 4</td>
+<td class="r Data">32</td>
+<td class="r Data">43</td>
+<td class="r Data">20</td>
+<td class="r Data">68</td>
+<td class="r Data">66</td>
+<td class="r Data">53</td>
+<td class="r Data"> 63</td>
+<td class="r Data">50</td>
+<td class="r Data">44</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">41</td>
+<td class="r Data">54</td>
+<td class="r Data">33</td>
+<td class="r Data">59</td>
+<td class="r Data">59</td>
+<td class="r Data">43</td>
+<td class="r Data">82</td>
+<td class="r Data">76</td>
+<td class="r Data">68</td>
+<td class="r Data">72</td>
+<td class="r Data">71</td>
+<td class="r Data">58</td>
+<td class="r Data">77</td>
+<td class="r Data">73</td>
+<td class="r Data">69</td>
+<td class="r Data">69</td>
+<td class="r Data">60</td>
+<td class="r Data">51</td>
+<td class="r Data">66</td>
+<td class="r Data">71</td>
+<td class="r Data">55</td>
+<td class="r Data">15</td>
+<td class="r Data">15</td>
+<td class="r Data"> 5</td>
+<td class="r Data">55</td>
+<td class="r Data">55</td>
+<td class="r Data">39</td>
+<td class="r Data">32</td>
+<td class="r Data">13</td>
+<td class="r Data"> 8</td>
+<td class="r Data">40</td>
+<td class="r Data">42</td>
+<td class="r Data">24</td>
+</tr>
+<tr>
+<td class="l Data">&#39;18</td>
+<td class="r Data">71.3</td>
+<td class="r Data">56.5</td>
+<td class="r Data">68.3</td>
+<td class="r Data">78.6</td>
+<td class="r Data"> 47.4</td>
+<td class="r Data"> 79.7</td>
+<td class="r Data" nowrap> -1.0</td>
+<td class="r Data">76.3</td>
+<td class="r Data">68.5</td>
+<td class="r Data">74.1</td>
+<td class="r Data">63.7</td>
+<td class="r Data">44.5</td>
+<td class="r Data">43.2</td>
+<td class="r Data">55.6</td>
+<td class="r Data">34.4</td>
+<td class="r Data"> 0.8</td>
+<td class="r Data">23.0</td>
+<td class="r Data">10.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.3</td>
+<td class="r Data" nowrap>-1.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">18.9</td>
+<td class="r Data">15.5</td>
+<td class="r Data">11.4</td>
+<td class="r Data"> 2.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">16.7</td>
+<td class="r Data">59</td>
+<td class="r Data">61</td>
+<td class="r Data">45</td>
+<td class="r Data">53</td>
+<td class="r Data">47</td>
+<td class="r Data">35</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">44</td>
+<td class="r Data">52</td>
+<td class="r Data">30</td>
+<td class="r Data">54</td>
+<td class="r Data">56</td>
+<td class="r Data">39</td>
+<td class="r Data">69</td>
+<td class="r Data">72</td>
+<td class="r Data">57</td>
+<td class="r Data">69</td>
+<td class="r Data">76</td>
+<td class="r Data">61</td>
+<td class="r Data">79</td>
+<td class="r Data">64</td>
+<td class="r Data">60</td>
+<td class="r Data">60</td>
+<td class="r Data">55</td>
+<td class="r Data">43</td>
+<td class="r Data">58</td>
+<td class="r Data">68</td>
+<td class="r Data">48</td>
+<td class="r Data"> 7</td>
+<td class="r Data">12</td>
+<td class="r Data"> 3</td>
+<td class="r Data">52</td>
+<td class="r Data">51</td>
+<td class="r Data">35</td>
+<td class="r Data">25</td>
+<td class="r Data"> 2</td>
+<td class="r Data"> 2</td>
+<td class="r Data">32</td>
+<td class="r Data">44</td>
+<td class="r Data">20</td>
+<td class="r Data">67</td>
+<td class="r Data">61</td>
+<td class="r Data">49</td>
+<td class="r Data"> 72</td>
+<td class="r Data">82</td>
+<td class="r Data">59</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data" nowrap>  -1</td>
+<td class="r Data" nowrap> -1</td>
+<td class="r Data">47</td>
+<td class="r Data">53</td>
+<td class="r Data">33</td>
+<td class="r Data">61</td>
+<td class="r Data">53</td>
+<td class="r Data">40</td>
+<td class="r Data">78</td>
+<td class="r Data">73</td>
+<td class="r Data">63</td>
+<td class="r Data">75</td>
+<td class="r Data">74</td>
+<td class="r Data">68</td>
+<td class="r Data">89</td>
+<td class="r Data">60</td>
+<td class="r Data">60</td>
+<td class="r Data">69</td>
+<td class="r Data">57</td>
+<td class="r Data">48</td>
+<td class="r Data">65</td>
+<td class="r Data">64</td>
+<td class="r Data">50</td>
+<td class="r Data">13</td>
+<td class="r Data">10</td>
+<td class="r Data"> 5</td>
+<td class="r Data">57</td>
+<td class="r Data">49</td>
+<td class="r Data">36</td>
+<td class="r Data">41</td>
+<td class="r Data"> 9</td>
+<td class="r Data"> 7</td>
+<td class="r Data">39</td>
+<td class="r Data">40</td>
+<td class="r Data">21</td>
+</tr>
+<tr>
+<td class="l Data">&#39;19</td>
+<td class="r Data">76.1</td>
+<td class="r Data">74.2</td>
+<td class="r Data">75.9</td>
+<td class="r Data">78.6</td>
+<td class="r Data"> 61.9</td>
+<td class="r Data"> 85.5</td>
+<td class="r Data"> 61.5</td>
+<td class="r Data">85.5</td>
+<td class="r Data">73.3</td>
+<td class="r Data">78.9</td>
+<td class="r Data">75.4</td>
+<td class="r Data">56.0</td>
+<td class="r Data">50.0</td>
+<td class="r Data">63.3</td>
+<td class="r Data">44.2</td>
+<td class="r Data"> 0.7</td>
+<td class="r Data">41.1</td>
+<td class="r Data"> 2.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 0.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">22.0</td>
+<td class="r Data">22.2</td>
+<td class="r Data">31.7</td>
+<td class="r Data"> 3.0</td>
+<td class="r Data">1.9</td>
+<td class="r Data">18.0</td>
+<td class="r Data">65</td>
+<td class="r Data">61</td>
+<td class="r Data">48</td>
+<td class="r Data">56</td>
+<td class="r Data">56</td>
+<td class="r Data">33</td>
+<td class="r Data">  70</td>
+<td class="r Data"> 100</td>
+<td class="r Data"> 70</td>
+<td class="r Data">55</td>
+<td class="r Data">61</td>
+<td class="r Data">43</td>
+<td class="r Data">65</td>
+<td class="r Data">60</td>
+<td class="r Data">47</td>
+<td class="r Data">74</td>
+<td class="r Data">71</td>
+<td class="r Data">63</td>
+<td class="r Data">79</td>
+<td class="r Data">79</td>
+<td class="r Data">66</td>
+<td class="r Data">83</td>
+<td class="r Data">75</td>
+<td class="r Data">72</td>
+<td class="r Data">68</td>
+<td class="r Data">55</td>
+<td class="r Data">46</td>
+<td class="r Data">63</td>
+<td class="r Data">66</td>
+<td class="r Data">50</td>
+<td class="r Data">13</td>
+<td class="r Data">16</td>
+<td class="r Data"> 6</td>
+<td class="r Data">62</td>
+<td class="r Data">56</td>
+<td class="r Data">43</td>
+<td class="r Data">33</td>
+<td class="r Data"> 4</td>
+<td class="r Data"> 3</td>
+<td class="r Data">45</td>
+<td class="r Data">43</td>
+<td class="r Data">26</td>
+<td class="r Data">71</td>
+<td class="r Data">57</td>
+<td class="r Data">49</td>
+<td class="r Data"> 71</td>
+<td class="r Data">57</td>
+<td class="r Data">43</td>
+<td class="r Data"> 59</td>
+<td class="r Data">  47</td>
+<td class="r Data"> 35</td>
+<td class="r Data">58</td>
+<td class="r Data">57</td>
+<td class="r Data">46</td>
+<td class="r Data">71</td>
+<td class="r Data">56</td>
+<td class="r Data">48</td>
+<td class="r Data">79</td>
+<td class="r Data">67</td>
+<td class="r Data">60</td>
+<td class="r Data">80</td>
+<td class="r Data">66</td>
+<td class="r Data">58</td>
+<td class="r Data">91</td>
+<td class="r Data">83</td>
+<td class="r Data">77</td>
+<td class="r Data">73</td>
+<td class="r Data">52</td>
+<td class="r Data">47</td>
+<td class="r Data">70</td>
+<td class="r Data">62</td>
+<td class="r Data">52</td>
+<td class="r Data">12</td>
+<td class="r Data">10</td>
+<td class="r Data"> 3</td>
+<td class="r Data">69</td>
+<td class="r Data">51</td>
+<td class="r Data">44</td>
+<td class="r Data">36</td>
+<td class="r Data"> 5</td>
+<td class="r Data"> 3</td>
+<td class="r Data">53</td>
+<td class="r Data">38</td>
+<td class="r Data">27</td>
+</tr>
+<tr>
+<td class="l Data">&#39;20</td>
+<td class="r Data">77.9</td>
+<td class="r Data">68.2</td>
+<td class="r Data">76.9</td>
+<td class="r Data">83.0</td>
+<td class="r Data"> 65.2</td>
+<td class="r Data"> 83.2</td>
+<td class="r Data"> 76.6</td>
+<td class="r Data">82.1</td>
+<td class="r Data">75.8</td>
+<td class="r Data">80.1</td>
+<td class="r Data">74.1</td>
+<td class="r Data">48.0</td>
+<td class="r Data">57.6</td>
+<td class="r Data">66.7</td>
+<td class="r Data">43.6</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">31.3</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">22.3</td>
+<td class="r Data">21.4</td>
+<td class="r Data">25.0</td>
+<td class="r Data"> 3.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">21.5</td>
+<td class="r Data">65</td>
+<td class="r Data">69</td>
+<td class="r Data">54</td>
+<td class="r Data">75</td>
+<td class="r Data">69</td>
+<td class="r Data">56</td>
+<td class="r Data">  75</td>
+<td class="r Data">  77</td>
+<td class="r Data"> 61</td>
+<td class="r Data">54</td>
+<td class="r Data">61</td>
+<td class="r Data">41</td>
+<td class="r Data">61</td>
+<td class="r Data">66</td>
+<td class="r Data">48</td>
+<td class="r Data">79</td>
+<td class="r Data">78</td>
+<td class="r Data">69</td>
+<td class="r Data">77</td>
+<td class="r Data">78</td>
+<td class="r Data">67</td>
+<td class="r Data">81</td>
+<td class="r Data">77</td>
+<td class="r Data">71</td>
+<td class="r Data">67</td>
+<td class="r Data">64</td>
+<td class="r Data">52</td>
+<td class="r Data">63</td>
+<td class="r Data">75</td>
+<td class="r Data">55</td>
+<td class="r Data">19</td>
+<td class="r Data">21</td>
+<td class="r Data"> 8</td>
+<td class="r Data">56</td>
+<td class="r Data">61</td>
+<td class="r Data">43</td>
+<td class="r Data">30</td>
+<td class="r Data">17</td>
+<td class="r Data"> 9</td>
+<td class="r Data">42</td>
+<td class="r Data">52</td>
+<td class="r Data">28</td>
+<td class="r Data">72</td>
+<td class="r Data">66</td>
+<td class="r Data">56</td>
+<td class="r Data"> 83</td>
+<td class="r Data">56</td>
+<td class="r Data">50</td>
+<td class="r Data"> 76</td>
+<td class="r Data">  63</td>
+<td class="r Data"> 57</td>
+<td class="r Data">60</td>
+<td class="r Data">55</td>
+<td class="r Data">42</td>
+<td class="r Data">68</td>
+<td class="r Data">63</td>
+<td class="r Data">51</td>
+<td class="r Data">84</td>
+<td class="r Data">77</td>
+<td class="r Data">71</td>
+<td class="r Data">81</td>
+<td class="r Data">77</td>
+<td class="r Data">70</td>
+<td class="r Data">87</td>
+<td class="r Data">78</td>
+<td class="r Data">75</td>
+<td class="r Data">74</td>
+<td class="r Data">61</td>
+<td class="r Data">54</td>
+<td class="r Data">71</td>
+<td class="r Data">72</td>
+<td class="r Data">59</td>
+<td class="r Data">23</td>
+<td class="r Data">19</td>
+<td class="r Data">10</td>
+<td class="r Data">63</td>
+<td class="r Data">57</td>
+<td class="r Data">45</td>
+<td class="r Data">36</td>
+<td class="r Data">12</td>
+<td class="r Data"> 8</td>
+<td class="r Data">47</td>
+<td class="r Data">44</td>
+<td class="r Data">28</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>

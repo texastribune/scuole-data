@@ -1,0 +1,2676 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.2, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.Batch
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.ByContentFolder
+{
+  margin-left: 6pt;
+}
+.BylineContainer
+{
+  width: 100%;
+}
+.ContentFolder
+{
+  margin-left: 6pt;
+}
+.ContentItem
+{
+  margin-left: 6pt;
+}
+.Contents
+{
+}
+.FolderAction
+{
+  margin-left: 6pt;
+}
+.Graph
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.IndexAction
+{
+  margin-left: 6pt;
+}
+.IndexItem
+{
+  margin-left: 6pt;
+}
+.List
+{
+  list-style-type: disc;
+  width: 100%;
+  text-align: left;
+}
+.List10
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List2
+{
+  list-style-type: circle;
+  width: 100%;
+  text-align: left;
+}
+.List3
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List4
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List5
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List6
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List7
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List8
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.List9
+{
+  list-style-type: square;
+  width: 100%;
+  text-align: left;
+}
+.Output
+{
+  padding: 7px;
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.Pages
+{
+}
+.PagesItem
+{
+  margin-left: 6pt;
+}
+.Paragraph
+{
+  width: 100%;
+  text-align: left;
+}
+.SysTitleAndFooterContainer
+{
+  width: 100%;
+}
+.Table
+{
+  border-collapse: separate;
+  border-spacing: 1px;
+  border: 1px solid #000000;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+}
+.TitleAndNoteContainer
+{
+  width: 100%;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="Body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<div>
+<div align="center">
+<table class="Table" cellspacing="1" cellpadding="7" rules="all" frame="box" border="1" summary="Procedure Print: Data Set WORK.TMPAEI1">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="l Header" scope="col">REGION</th>
+<th class="r Header" scope="col">RA0GR14N</th>
+<th class="r Header" scope="col">RA0GM14N</th>
+<th class="r Header" scope="col">RA0GH14N</th>
+<th class="r Header" scope="col">RA0GF14N</th>
+<th class="r Header" scope="col">RB0GR14N</th>
+<th class="r Header" scope="col">RH0GR14N</th>
+<th class="r Header" scope="col">RW0GR14N</th>
+<th class="r Header" scope="col">RI0GR14N</th>
+<th class="r Header" scope="col">R30GR14N</th>
+<th class="r Header" scope="col">R40GR14N</th>
+<th class="r Header" scope="col">R20GR14N</th>
+<th class="r Header" scope="col">RS0GR14N</th>
+<th class="r Header" scope="col">RA0GR14R</th>
+<th class="r Header" scope="col">RA0GM14P</th>
+<th class="r Header" scope="col">RA0GF14P</th>
+<th class="r Header" scope="col">RB0GR14R</th>
+<th class="r Header" scope="col">RH0GR14R</th>
+<th class="r Header" scope="col">RW0GR14R</th>
+<th class="r Header" scope="col">RI0GR14R</th>
+<th class="r Header" scope="col">R30GR14R</th>
+<th class="r Header" scope="col">R40GR14R</th>
+<th class="r Header" scope="col">R20GR14R</th>
+<th class="r Header" scope="col">RS0GR14R</th>
+<th class="r Header" scope="col">RPETALLC</th>
+<th class="r Header" scope="col">RPETSPEC</th>
+<th class="r Header" scope="col">RPETLEPC</th>
+<th class="r Header" scope="col">RPETECOC</th>
+<th class="r Header" scope="col">RPETNEDC</th>
+<th class="r Header" scope="col">RPETGIFC</th>
+<th class="r Header" scope="col">RPETVOCC</th>
+<th class="r Header" scope="col">RPETBILC</th>
+<th class="r Header" scope="col">RPETRSKC</th>
+<th class="r Header" scope="col">RPETGEEC</th>
+<th class="r Header" scope="col">RPETGPKC</th>
+<th class="r Header" scope="col">RPETGKNC</th>
+<th class="r Header" scope="col">RPETG01C</th>
+<th class="r Header" scope="col">RPETG02C</th>
+<th class="r Header" scope="col">RPETG03C</th>
+<th class="r Header" scope="col">RPETG04C</th>
+<th class="r Header" scope="col">RPETG05C</th>
+<th class="r Header" scope="col">RPETG06C</th>
+<th class="r Header" scope="col">RPETG07C</th>
+<th class="r Header" scope="col">RPETG08C</th>
+<th class="r Header" scope="col">RPETG09C</th>
+<th class="r Header" scope="col">RPETG10C</th>
+<th class="r Header" scope="col">RPETG11C</th>
+<th class="r Header" scope="col">RPETG12C</th>
+<th class="r Header" scope="col">RPETHISC</th>
+<th class="r Header" scope="col">RPETBLAC</th>
+<th class="r Header" scope="col">RPETWHIC</th>
+<th class="r Header" scope="col">RPETINDC</th>
+<th class="r Header" scope="col">RPETASIC</th>
+<th class="r Header" scope="col">RPETPCIC</th>
+<th class="r Header" scope="col">RPETTWOC</th>
+<th class="r Header" scope="col">RAPID15N</th>
+<th class="r Header" scope="col">RAUND14C</th>
+<th class="r Header" scope="col">RAUND14R</th>
+<th class="r Header" scope="col">RPETDISC</th>
+<th class="r Header" scope="col">RPETDISP</th>
+<th class="r Header" scope="col">RPERRAKR</th>
+<th class="r Header" scope="col">RPERRA1R</th>
+<th class="r Header" scope="col">RPERRA2R</th>
+<th class="r Header" scope="col">RPERRA3R</th>
+<th class="r Header" scope="col">RPERRA4R</th>
+<th class="r Header" scope="col">RPERRA5R</th>
+<th class="r Header" scope="col">RPERRA6R</th>
+<th class="r Header" scope="col">RPERRA7R</th>
+<th class="r Header" scope="col">RPERRA8R</th>
+<th class="r Header" scope="col">RPERSAKR</th>
+<th class="r Header" scope="col">RPERSA1R</th>
+<th class="r Header" scope="col">RPERSA2R</th>
+<th class="r Header" scope="col">RPERSA3R</th>
+<th class="r Header" scope="col">RPERSA4R</th>
+<th class="r Header" scope="col">RPERSA5R</th>
+<th class="r Header" scope="col">RPERSA6R</th>
+<th class="r Header" scope="col">RPERSA7R</th>
+<th class="r Header" scope="col">RPERSA8R</th>
+<th class="r Header" scope="col">RPETWHIP</th>
+<th class="r Header" scope="col">RPETBLAP</th>
+<th class="r Header" scope="col">RPETHISP</th>
+<th class="r Header" scope="col">RPETINDP</th>
+<th class="r Header" scope="col">RPETASIP</th>
+<th class="r Header" scope="col">RPETPCIP</th>
+<th class="r Header" scope="col">RPETTWOP</th>
+<th class="r Header" scope="col">RPETECOP</th>
+<th class="r Header" scope="col">RPETNEDP</th>
+<th class="r Header" scope="col">RPETRSKP</th>
+<th class="r Header" scope="col">RPETLEPP</th>
+<th class="r Header" scope="col">RPETSPEP</th>
+<th class="r Header" scope="col">RPETVOCP</th>
+<th class="r Header" scope="col">RPETBILP</th>
+<th class="r Header" scope="col">RPETGIFP</th>
+<th class="r Header" scope="col">RPETGEEP</th>
+<th class="r Header" scope="col">RPETGPKP</th>
+<th class="r Header" scope="col">RPETGKNP</th>
+<th class="r Header" scope="col">RPETG01P</th>
+<th class="r Header" scope="col">RPETG02P</th>
+<th class="r Header" scope="col">RPETG03P</th>
+<th class="r Header" scope="col">RPETG04P</th>
+<th class="r Header" scope="col">RPETG05P</th>
+<th class="r Header" scope="col">RPETG06P</th>
+<th class="r Header" scope="col">RPETG07P</th>
+<th class="r Header" scope="col">RPETG08P</th>
+<th class="r Header" scope="col">RPETG09P</th>
+<th class="r Header" scope="col">RPETG10P</th>
+<th class="r Header" scope="col">RPETG11P</th>
+<th class="r Header" scope="col">RPETG12P</th>
+<th class="r Header" scope="col">RAPID15R</th>
+<th class="r Header" scope="col">RA0GH14P</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="l Data">&#39;01</td>
+<td class="r Data">24784</td>
+<td class="r Data"> 2115</td>
+<td class="r Data">22627</td>
+<td class="r Data">  42</td>
+<td class="r Data">   37</td>
+<td class="r Data">24032</td>
+<td class="r Data">  517</td>
+<td class="r Data"> 11</td>
+<td class="r Data"> 164</td>
+<td class="r Data"> 4</td>
+<td class="r Data">  19</td>
+<td class="r Data">1818</td>
+<td class="r Data">100</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 0.1</td>
+<td class="r Data">97.0</td>
+<td class="r Data"> 2.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">  422894</td>
+<td class="r Data">   30668</td>
+<td class="r Data">  154668</td>
+<td class="r Data">  354163</td>
+<td class="r Data">   68731</td>
+<td class="r Data">   35583</td>
+<td class="r Data">  108103</td>
+<td class="r Data">  154480</td>
+<td class="r Data">  278308</td>
+<td class="r Data">     404</td>
+<td class="r Data">   23710</td>
+<td class="r Data">   30214</td>
+<td class="r Data">   32590</td>
+<td class="r Data">   32164</td>
+<td class="r Data">   31057</td>
+<td class="r Data">   30916</td>
+<td class="r Data">   30569</td>
+<td class="r Data">   31034</td>
+<td class="r Data">   31512</td>
+<td class="r Data">   31908</td>
+<td class="r Data">   35090</td>
+<td class="r Data">   30071</td>
+<td class="r Data">   26990</td>
+<td class="r Data">   24665</td>
+<td class="r Data">  412505</td>
+<td class="r Data">     962</td>
+<td class="r Data">    6884</td>
+<td class="r Data">     244</td>
+<td class="r Data">    1874</td>
+<td class="r Data">      47</td>
+<td class="r Data">     378</td>
+<td class="r Data"> 289</td>
+<td class="r Data"> 834</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 7237</td>
+<td class="r Data">1.7</td>
+<td class="r Data">1.5</td>
+<td class="r Data">6.4</td>
+<td class="r Data">4.9</td>
+<td class="r Data">2.5</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.5</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data">4.0</td>
+<td class="r Data">1.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.4</td>
+<td class="r Data"> 1.6</td>
+<td class="r Data"> 0.2</td>
+<td class="r Data">97.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">0.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">83.7</td>
+<td class="r Data">16.3</td>
+<td class="r Data">65.8</td>
+<td class="r Data">36.6</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">25.6</td>
+<td class="r Data">36.5</td>
+<td class="r Data">8.4</td>
+<td class="r Data">0.1</td>
+<td class="r Data">5.6</td>
+<td class="r Data">7.1</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.3</td>
+<td class="r Data">7.1</td>
+<td class="r Data">6.4</td>
+<td class="r Data">5.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">91.3</td>
+</tr>
+<tr>
+<td class="l Data">&#39;02</td>
+<td class="r Data"> 6348</td>
+<td class="r Data"> 1116</td>
+<td class="r Data"> 4965</td>
+<td class="r Data"> 267</td>
+<td class="r Data">  199</td>
+<td class="r Data"> 4401</td>
+<td class="r Data"> 1549</td>
+<td class="r Data"> 18</td>
+<td class="r Data">  97</td>
+<td class="r Data"> 5</td>
+<td class="r Data">  79</td>
+<td class="r Data"> 575</td>
+<td class="r Data">100</td>
+<td class="r Data">17.6</td>
+<td class="r Data">4.2</td>
+<td class="r Data"> 3.1</td>
+<td class="r Data">69.3</td>
+<td class="r Data">24.4</td>
+<td class="r Data">0.3</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.2</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">  105301</td>
+<td class="r Data">    9510</td>
+<td class="r Data">    4430</td>
+<td class="r Data">   66267</td>
+<td class="r Data">   39034</td>
+<td class="r Data">    5446</td>
+<td class="r Data">   24524</td>
+<td class="r Data">    4138</td>
+<td class="r Data">   54194</td>
+<td class="r Data">     131</td>
+<td class="r Data">    3599</td>
+<td class="r Data">    7782</td>
+<td class="r Data">    8438</td>
+<td class="r Data">    8212</td>
+<td class="r Data">    8093</td>
+<td class="r Data">    7924</td>
+<td class="r Data">    7798</td>
+<td class="r Data">    7706</td>
+<td class="r Data">    8069</td>
+<td class="r Data">    8164</td>
+<td class="r Data">    8880</td>
+<td class="r Data">    7470</td>
+<td class="r Data">    6775</td>
+<td class="r Data">    6260</td>
+<td class="r Data">   78327</td>
+<td class="r Data">    2704</td>
+<td class="r Data">   21593</td>
+<td class="r Data">     250</td>
+<td class="r Data">    1213</td>
+<td class="r Data">      75</td>
+<td class="r Data">    1139</td>
+<td class="r Data">  25</td>
+<td class="r Data"> 101</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 2510</td>
+<td class="r Data">2.3</td>
+<td class="r Data">2.4</td>
+<td class="r Data">6.8</td>
+<td class="r Data">3.9</td>
+<td class="r Data">4.3</td>
+<td class="r Data">2.4</td>
+<td class="r Data">2.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">2.1</td>
+<td class="r Data">2.2</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">10.9</td>
+<td class="r Data">5.4</td>
+<td class="r Data">2.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.8</td>
+<td class="r Data">1.7</td>
+<td class="r Data">20.5</td>
+<td class="r Data"> 2.6</td>
+<td class="r Data">74.4</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">62.9</td>
+<td class="r Data">37.1</td>
+<td class="r Data">51.5</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">23.3</td>
+<td class="r Data"> 3.9</td>
+<td class="r Data">5.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data">3.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.8</td>
+<td class="r Data">8.4</td>
+<td class="r Data">7.1</td>
+<td class="r Data">6.4</td>
+<td class="r Data">5.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">78.2</td>
+</tr>
+<tr>
+<td class="l Data">&#39;03</td>
+<td class="r Data"> 3184</td>
+<td class="r Data">  664</td>
+<td class="r Data"> 2451</td>
+<td class="r Data">  69</td>
+<td class="r Data">  303</td>
+<td class="r Data"> 1441</td>
+<td class="r Data"> 1354</td>
+<td class="r Data">  7</td>
+<td class="r Data">  51</td>
+<td class="r Data"> 0</td>
+<td class="r Data">  28</td>
+<td class="r Data"> 314</td>
+<td class="r Data">100</td>
+<td class="r Data">20.9</td>
+<td class="r Data">2.2</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">45.3</td>
+<td class="r Data">42.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">   54146</td>
+<td class="r Data">    4809</td>
+<td class="r Data">    4197</td>
+<td class="r Data">   32594</td>
+<td class="r Data">   21552</td>
+<td class="r Data">    2951</td>
+<td class="r Data">   13435</td>
+<td class="r Data">    4068</td>
+<td class="r Data">   25209</td>
+<td class="r Data">     134</td>
+<td class="r Data">    2329</td>
+<td class="r Data">    4029</td>
+<td class="r Data">    4402</td>
+<td class="r Data">    4340</td>
+<td class="r Data">    4078</td>
+<td class="r Data">    4006</td>
+<td class="r Data">    3933</td>
+<td class="r Data">    3982</td>
+<td class="r Data">    4024</td>
+<td class="r Data">    4085</td>
+<td class="r Data">    4378</td>
+<td class="r Data">    3881</td>
+<td class="r Data">    3370</td>
+<td class="r Data">    3175</td>
+<td class="r Data">   30435</td>
+<td class="r Data">    4788</td>
+<td class="r Data">   17461</td>
+<td class="r Data">      76</td>
+<td class="r Data">     607</td>
+<td class="r Data">      20</td>
+<td class="r Data">     759</td>
+<td class="r Data">  19</td>
+<td class="r Data"> 134</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 1206</td>
+<td class="r Data">2.1</td>
+<td class="r Data">3.8</td>
+<td class="r Data">5.0</td>
+<td class="r Data">3.4</td>
+<td class="r Data">2.8</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data">13.2</td>
+<td class="r Data">10.1</td>
+<td class="r Data">4.5</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">1.7</td>
+<td class="r Data">1.5</td>
+<td class="r Data">2.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">32.2</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">56.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">1.4</td>
+<td class="r Data">60.2</td>
+<td class="r Data">39.8</td>
+<td class="r Data">46.6</td>
+<td class="r Data"> 7.8</td>
+<td class="r Data"> 8.9</td>
+<td class="r Data">24.8</td>
+<td class="r Data"> 7.5</td>
+<td class="r Data">5.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data">4.3</td>
+<td class="r Data">7.4</td>
+<td class="r Data">8.1</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.1</td>
+<td class="r Data">7.2</td>
+<td class="r Data">6.2</td>
+<td class="r Data">5.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">77.0</td>
+</tr>
+<tr>
+<td class="l Data">&#39;04</td>
+<td class="r Data">65201</td>
+<td class="r Data">11283</td>
+<td class="r Data">52913</td>
+<td class="r Data">1005</td>
+<td class="r Data">12448</td>
+<td class="r Data">28227</td>
+<td class="r Data">18192</td>
+<td class="r Data">216</td>
+<td class="r Data">4972</td>
+<td class="r Data">78</td>
+<td class="r Data">1068</td>
+<td class="r Data">4463</td>
+<td class="r Data">100</td>
+<td class="r Data">17.3</td>
+<td class="r Data">1.5</td>
+<td class="r Data">19.1</td>
+<td class="r Data">43.3</td>
+<td class="r Data">27.9</td>
+<td class="r Data">0.3</td>
+<td class="r Data">7.6</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.6</td>
+<td class="r Data"> 6.8</td>
+<td class="r Data"> 1170896</td>
+<td class="r Data">   90242</td>
+<td class="r Data">  252326</td>
+<td class="r Data">  678932</td>
+<td class="r Data">  491964</td>
+<td class="r Data">   89588</td>
+<td class="r Data">  254342</td>
+<td class="r Data">  243221</td>
+<td class="r Data">  634819</td>
+<td class="r Data">    3021</td>
+<td class="r Data">   52356</td>
+<td class="r Data">   88888</td>
+<td class="r Data">   93251</td>
+<td class="r Data">   92231</td>
+<td class="r Data">   89131</td>
+<td class="r Data">   87085</td>
+<td class="r Data">   86551</td>
+<td class="r Data">   86193</td>
+<td class="r Data">   85423</td>
+<td class="r Data">   85694</td>
+<td class="r Data">   94430</td>
+<td class="r Data">   82226</td>
+<td class="r Data">   76097</td>
+<td class="r Data">   68319</td>
+<td class="r Data">  585032</td>
+<td class="r Data">  222066</td>
+<td class="r Data">  260869</td>
+<td class="r Data">    5343</td>
+<td class="r Data">   76642</td>
+<td class="r Data">    1281</td>
+<td class="r Data">   19663</td>
+<td class="r Data">1399</td>
+<td class="r Data">1122</td>
+<td class="r Data">0.2</td>
+<td class="r Data">15399</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.3</td>
+<td class="r Data">4.5</td>
+<td class="r Data">3.1</td>
+<td class="r Data">2.9</td>
+<td class="r Data">1.5</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">3.8</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.9</td>
+<td class="r Data">22.3</td>
+<td class="r Data">19.0</td>
+<td class="r Data">50.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">6.5</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">58.0</td>
+<td class="r Data">42.0</td>
+<td class="r Data">54.2</td>
+<td class="r Data">21.5</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">21.7</td>
+<td class="r Data">20.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">4.5</td>
+<td class="r Data">7.6</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.3</td>
+<td class="r Data">8.1</td>
+<td class="r Data">7.0</td>
+<td class="r Data">6.5</td>
+<td class="r Data">5.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">81.2</td>
+</tr>
+<tr>
+<td class="l Data">&#39;05</td>
+<td class="r Data"> 4986</td>
+<td class="r Data"> 1079</td>
+<td class="r Data"> 3901</td>
+<td class="r Data">   6</td>
+<td class="r Data"> 1296</td>
+<td class="r Data">  685</td>
+<td class="r Data"> 2738</td>
+<td class="r Data"> 26</td>
+<td class="r Data"> 167</td>
+<td class="r Data"> 3</td>
+<td class="r Data">  71</td>
+<td class="r Data"> 620</td>
+<td class="r Data">100</td>
+<td class="r Data">21.6</td>
+<td class="r Data">0.1</td>
+<td class="r Data">26.0</td>
+<td class="r Data">13.7</td>
+<td class="r Data">54.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">3.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.4</td>
+<td class="r Data">12.4</td>
+<td class="r Data">   81462</td>
+<td class="r Data">    7171</td>
+<td class="r Data">    6233</td>
+<td class="r Data">   47098</td>
+<td class="r Data">   34364</td>
+<td class="r Data">    4310</td>
+<td class="r Data">   21204</td>
+<td class="r Data">    5133</td>
+<td class="r Data">   34814</td>
+<td class="r Data">     274</td>
+<td class="r Data">    3779</td>
+<td class="r Data">    6393</td>
+<td class="r Data">    6451</td>
+<td class="r Data">    6412</td>
+<td class="r Data">    6130</td>
+<td class="r Data">    5913</td>
+<td class="r Data">    5903</td>
+<td class="r Data">    5775</td>
+<td class="r Data">    5850</td>
+<td class="r Data">    5943</td>
+<td class="r Data">    6291</td>
+<td class="r Data">    5882</td>
+<td class="r Data">    5333</td>
+<td class="r Data">    5133</td>
+<td class="r Data">   15289</td>
+<td class="r Data">   21676</td>
+<td class="r Data">   40383</td>
+<td class="r Data">     528</td>
+<td class="r Data">    1856</td>
+<td class="r Data">      63</td>
+<td class="r Data">    1667</td>
+<td class="r Data">  63</td>
+<td class="r Data"> 114</td>
+<td class="r Data">0.3</td>
+<td class="r Data"> 1609</td>
+<td class="r Data">1.9</td>
+<td class="r Data">3.3</td>
+<td class="r Data">5.0</td>
+<td class="r Data">3.0</td>
+<td class="r Data">2.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.5</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.7</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">11.7</td>
+<td class="r Data">5.4</td>
+<td class="r Data">2.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.8</td>
+<td class="r Data">1.1</td>
+<td class="r Data">49.6</td>
+<td class="r Data">26.6</td>
+<td class="r Data">18.8</td>
+<td class="r Data">0.6</td>
+<td class="r Data">2.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">57.8</td>
+<td class="r Data">42.2</td>
+<td class="r Data">42.7</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">26.0</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data">5.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">4.6</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.1</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.2</td>
+<td class="r Data">6.5</td>
+<td class="r Data">6.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">78.2</td>
+</tr>
+<tr>
+<td class="l Data">&#39;06</td>
+<td class="r Data">10814</td>
+<td class="r Data"> 1781</td>
+<td class="r Data"> 8930</td>
+<td class="r Data"> 103</td>
+<td class="r Data"> 1107</td>
+<td class="r Data"> 2944</td>
+<td class="r Data"> 6248</td>
+<td class="r Data"> 59</td>
+<td class="r Data"> 242</td>
+<td class="r Data"> 9</td>
+<td class="r Data"> 205</td>
+<td class="r Data"> 942</td>
+<td class="r Data">100</td>
+<td class="r Data">16.5</td>
+<td class="r Data">1.0</td>
+<td class="r Data">10.2</td>
+<td class="r Data">27.2</td>
+<td class="r Data">57.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">2.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.9</td>
+<td class="r Data"> 8.7</td>
+<td class="r Data">  184524</td>
+<td class="r Data">   15052</td>
+<td class="r Data">   24135</td>
+<td class="r Data">   92168</td>
+<td class="r Data">   92356</td>
+<td class="r Data">   12529</td>
+<td class="r Data">   42942</td>
+<td class="r Data">   24569</td>
+<td class="r Data">   79876</td>
+<td class="r Data">     379</td>
+<td class="r Data">    6394</td>
+<td class="r Data">   13902</td>
+<td class="r Data">   14765</td>
+<td class="r Data">   14410</td>
+<td class="r Data">   13949</td>
+<td class="r Data">   13981</td>
+<td class="r Data">   13683</td>
+<td class="r Data">   13684</td>
+<td class="r Data">   13727</td>
+<td class="r Data">   14096</td>
+<td class="r Data">   15066</td>
+<td class="r Data">   13509</td>
+<td class="r Data">   12073</td>
+<td class="r Data">   10906</td>
+<td class="r Data">   63226</td>
+<td class="r Data">   19828</td>
+<td class="r Data">   92466</td>
+<td class="r Data">     839</td>
+<td class="r Data">    3850</td>
+<td class="r Data">     175</td>
+<td class="r Data">    4140</td>
+<td class="r Data">  83</td>
+<td class="r Data"> 802</td>
+<td class="r Data">1.0</td>
+<td class="r Data"> 3004</td>
+<td class="r Data">1.6</td>
+<td class="r Data">2.6</td>
+<td class="r Data">5.7</td>
+<td class="r Data">3.7</td>
+<td class="r Data">2.5</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data">10.9</td>
+<td class="r Data">5.9</td>
+<td class="r Data">1.6</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.6</td>
+<td class="r Data">50.1</td>
+<td class="r Data">10.7</td>
+<td class="r Data">34.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.2</td>
+<td class="r Data">49.9</td>
+<td class="r Data">50.1</td>
+<td class="r Data">43.3</td>
+<td class="r Data">13.1</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">23.3</td>
+<td class="r Data">13.3</td>
+<td class="r Data">6.8</td>
+<td class="r Data">0.2</td>
+<td class="r Data">3.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.6</td>
+<td class="r Data">8.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">6.5</td>
+<td class="r Data">5.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">82.6</td>
+</tr>
+<tr>
+<td class="l Data">&#39;07</td>
+<td class="r Data">10077</td>
+<td class="r Data"> 1821</td>
+<td class="r Data"> 8143</td>
+<td class="r Data"> 113</td>
+<td class="r Data"> 1730</td>
+<td class="r Data"> 2204</td>
+<td class="r Data"> 5772</td>
+<td class="r Data"> 41</td>
+<td class="r Data"> 109</td>
+<td class="r Data"> 7</td>
+<td class="r Data"> 214</td>
+<td class="r Data"> 994</td>
+<td class="r Data">100</td>
+<td class="r Data">18.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">17.2</td>
+<td class="r Data">21.9</td>
+<td class="r Data">57.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.1</td>
+<td class="r Data"> 9.9</td>
+<td class="r Data">  171224</td>
+<td class="r Data">   14775</td>
+<td class="r Data">   21107</td>
+<td class="r Data">  104205</td>
+<td class="r Data">   67019</td>
+<td class="r Data">   11231</td>
+<td class="r Data">   45090</td>
+<td class="r Data">   20494</td>
+<td class="r Data">   86149</td>
+<td class="r Data">     283</td>
+<td class="r Data">    7635</td>
+<td class="r Data">   12962</td>
+<td class="r Data">   13485</td>
+<td class="r Data">   13584</td>
+<td class="r Data">   12988</td>
+<td class="r Data">   12768</td>
+<td class="r Data">   12575</td>
+<td class="r Data">   12569</td>
+<td class="r Data">   12560</td>
+<td class="r Data">   12802</td>
+<td class="r Data">   13155</td>
+<td class="r Data">   12187</td>
+<td class="r Data">   11340</td>
+<td class="r Data">   10331</td>
+<td class="r Data">   46087</td>
+<td class="r Data">   29835</td>
+<td class="r Data">   88286</td>
+<td class="r Data">     728</td>
+<td class="r Data">    1703</td>
+<td class="r Data">     134</td>
+<td class="r Data">    4451</td>
+<td class="r Data"> 137</td>
+<td class="r Data"> 281</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 2698</td>
+<td class="r Data">1.5</td>
+<td class="r Data">3.3</td>
+<td class="r Data">4.8</td>
+<td class="r Data">3.7</td>
+<td class="r Data">2.3</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.2</td>
+<td class="r Data">11.3</td>
+<td class="r Data">10.5</td>
+<td class="r Data">5.8</td>
+<td class="r Data">2.3</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data">2.1</td>
+<td class="r Data">51.6</td>
+<td class="r Data">17.4</td>
+<td class="r Data">26.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.6</td>
+<td class="r Data">60.9</td>
+<td class="r Data">39.1</td>
+<td class="r Data">50.3</td>
+<td class="r Data">12.3</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">26.3</td>
+<td class="r Data">12.0</td>
+<td class="r Data">6.6</td>
+<td class="r Data">0.2</td>
+<td class="r Data">4.5</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.1</td>
+<td class="r Data">6.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">80.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;08</td>
+<td class="r Data"> 3253</td>
+<td class="r Data">  712</td>
+<td class="r Data"> 2518</td>
+<td class="r Data">  23</td>
+<td class="r Data">  708</td>
+<td class="r Data">  553</td>
+<td class="r Data"> 1851</td>
+<td class="r Data"> 25</td>
+<td class="r Data">  24</td>
+<td class="r Data"> 2</td>
+<td class="r Data">  90</td>
+<td class="r Data"> 435</td>
+<td class="r Data">100</td>
+<td class="r Data">21.9</td>
+<td class="r Data">0.7</td>
+<td class="r Data">21.8</td>
+<td class="r Data">17.0</td>
+<td class="r Data">56.9</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.8</td>
+<td class="r Data">13.4</td>
+<td class="r Data">   56352</td>
+<td class="r Data">    5760</td>
+<td class="r Data">    5241</td>
+<td class="r Data">   36242</td>
+<td class="r Data">   20110</td>
+<td class="r Data">    3754</td>
+<td class="r Data">   14982</td>
+<td class="r Data">    4970</td>
+<td class="r Data">   26806</td>
+<td class="r Data">     183</td>
+<td class="r Data">    3322</td>
+<td class="r Data">    4225</td>
+<td class="r Data">    4467</td>
+<td class="r Data">    4293</td>
+<td class="r Data">    4107</td>
+<td class="r Data">    4069</td>
+<td class="r Data">    4050</td>
+<td class="r Data">    4019</td>
+<td class="r Data">    4065</td>
+<td class="r Data">    4114</td>
+<td class="r Data">    4170</td>
+<td class="r Data">    4049</td>
+<td class="r Data">    3724</td>
+<td class="r Data">    3495</td>
+<td class="r Data">   11406</td>
+<td class="r Data">   11336</td>
+<td class="r Data">   30750</td>
+<td class="r Data">     366</td>
+<td class="r Data">     437</td>
+<td class="r Data">      44</td>
+<td class="r Data">    2013</td>
+<td class="r Data">  13</td>
+<td class="r Data"> 338</td>
+<td class="r Data">1.3</td>
+<td class="r Data"> 1118</td>
+<td class="r Data">1.9</td>
+<td class="r Data">5.5</td>
+<td class="r Data">5.5</td>
+<td class="r Data">2.8</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.4</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">16.2</td>
+<td class="r Data"> 8.2</td>
+<td class="r Data">4.7</td>
+<td class="r Data">1.9</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data">54.6</td>
+<td class="r Data">20.1</td>
+<td class="r Data">20.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">3.6</td>
+<td class="r Data">64.3</td>
+<td class="r Data">35.7</td>
+<td class="r Data">47.6</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">10.2</td>
+<td class="r Data">26.6</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">6.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">5.9</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.1</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.2</td>
+<td class="r Data">6.6</td>
+<td class="r Data">6.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data">77.4</td>
+</tr>
+<tr>
+<td class="l Data">&#39;09</td>
+<td class="r Data"> 2439</td>
+<td class="r Data">  459</td>
+<td class="r Data"> 1956</td>
+<td class="r Data">  24</td>
+<td class="r Data">  181</td>
+<td class="r Data">  552</td>
+<td class="r Data"> 1582</td>
+<td class="r Data"> 29</td>
+<td class="r Data">  32</td>
+<td class="r Data"> 1</td>
+<td class="r Data">  62</td>
+<td class="r Data"> 285</td>
+<td class="r Data">100</td>
+<td class="r Data">18.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">22.6</td>
+<td class="r Data">64.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">0.0</td>
+<td class="r Data">2.5</td>
+<td class="r Data">11.7</td>
+<td class="r Data">   37821</td>
+<td class="r Data">    4231</td>
+<td class="r Data">    1961</td>
+<td class="r Data">   21776</td>
+<td class="r Data">   16045</td>
+<td class="r Data">    1784</td>
+<td class="r Data">    9217</td>
+<td class="r Data">    1843</td>
+<td class="r Data">   18049</td>
+<td class="r Data">     140</td>
+<td class="r Data">    2047</td>
+<td class="r Data">    2935</td>
+<td class="r Data">    2986</td>
+<td class="r Data">    2840</td>
+<td class="r Data">    2779</td>
+<td class="r Data">    2725</td>
+<td class="r Data">    2867</td>
+<td class="r Data">    2639</td>
+<td class="r Data">    2748</td>
+<td class="r Data">    2711</td>
+<td class="r Data">    2788</td>
+<td class="r Data">    2647</td>
+<td class="r Data">    2564</td>
+<td class="r Data">    2405</td>
+<td class="r Data">   10098</td>
+<td class="r Data">    2791</td>
+<td class="r Data">   22713</td>
+<td class="r Data">     317</td>
+<td class="r Data">     502</td>
+<td class="r Data">      48</td>
+<td class="r Data">    1352</td>
+<td class="r Data">  39</td>
+<td class="r Data"> 101</td>
+<td class="r Data">0.6</td>
+<td class="r Data">  608</td>
+<td class="r Data">1.5</td>
+<td class="r Data">3.2</td>
+<td class="r Data">3.2</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">3.2</td>
+<td class="r Data">0.4</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.0</td>
+<td class="r Data">10.4</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">3.4</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.9</td>
+<td class="r Data">60.1</td>
+<td class="r Data"> 7.4</td>
+<td class="r Data">26.7</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">3.6</td>
+<td class="r Data">57.6</td>
+<td class="r Data">42.4</td>
+<td class="r Data">47.7</td>
+<td class="r Data"> 5.2</td>
+<td class="r Data">11.2</td>
+<td class="r Data">24.4</td>
+<td class="r Data"> 4.9</td>
+<td class="r Data">4.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">5.4</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.0</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.0</td>
+<td class="r Data">6.8</td>
+<td class="r Data">6.4</td>
+<td class="r Data">0.1</td>
+<td class="r Data">80.2</td>
+</tr>
+<tr>
+<td class="l Data">&#39;10</td>
+<td class="r Data">47532</td>
+<td class="r Data"> 8125</td>
+<td class="r Data">39224</td>
+<td class="r Data"> 183</td>
+<td class="r Data"> 8957</td>
+<td class="r Data">17860</td>
+<td class="r Data">16595</td>
+<td class="r Data">287</td>
+<td class="r Data">2885</td>
+<td class="r Data">68</td>
+<td class="r Data"> 880</td>
+<td class="r Data">3483</td>
+<td class="r Data">100</td>
+<td class="r Data">17.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">18.8</td>
+<td class="r Data">37.6</td>
+<td class="r Data">34.9</td>
+<td class="r Data">0.6</td>
+<td class="r Data">6.1</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.9</td>
+<td class="r Data"> 7.3</td>
+<td class="r Data">  810622</td>
+<td class="r Data">   69562</td>
+<td class="r Data">  174191</td>
+<td class="r Data">  458944</td>
+<td class="r Data">  351678</td>
+<td class="r Data">   76038</td>
+<td class="r Data">  181310</td>
+<td class="r Data">  169905</td>
+<td class="r Data">  393623</td>
+<td class="r Data">    2030</td>
+<td class="r Data">   29566</td>
+<td class="r Data">   61100</td>
+<td class="r Data">   64245</td>
+<td class="r Data">   64220</td>
+<td class="r Data">   62798</td>
+<td class="r Data">   61590</td>
+<td class="r Data">   60988</td>
+<td class="r Data">   59986</td>
+<td class="r Data">   59660</td>
+<td class="r Data">   60296</td>
+<td class="r Data">   64419</td>
+<td class="r Data">   57891</td>
+<td class="r Data">   53240</td>
+<td class="r Data">   48593</td>
+<td class="r Data">  347965</td>
+<td class="r Data">  149725</td>
+<td class="r Data">  237810</td>
+<td class="r Data">    5173</td>
+<td class="r Data">   52046</td>
+<td class="r Data">     903</td>
+<td class="r Data">   17000</td>
+<td class="r Data">1006</td>
+<td class="r Data">1309</td>
+<td class="r Data">0.4</td>
+<td class="r Data">10552</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.7</td>
+<td class="r Data">2.7</td>
+<td class="r Data">2.0</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.2</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">3.0</td>
+<td class="r Data">1.3</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.3</td>
+<td class="r Data">29.3</td>
+<td class="r Data">18.5</td>
+<td class="r Data">42.9</td>
+<td class="r Data">0.6</td>
+<td class="r Data">6.4</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.1</td>
+<td class="r Data">56.6</td>
+<td class="r Data">43.4</td>
+<td class="r Data">48.6</td>
+<td class="r Data">21.5</td>
+<td class="r Data"> 8.6</td>
+<td class="r Data">22.4</td>
+<td class="r Data">21.0</td>
+<td class="r Data">9.4</td>
+<td class="r Data">0.3</td>
+<td class="r Data">3.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.1</td>
+<td class="r Data">6.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">82.5</td>
+</tr>
+<tr>
+<td class="l Data">&#39;11</td>
+<td class="r Data">34525</td>
+<td class="r Data"> 5723</td>
+<td class="r Data">28462</td>
+<td class="r Data"> 340</td>
+<td class="r Data"> 4486</td>
+<td class="r Data">10326</td>
+<td class="r Data">16992</td>
+<td class="r Data">207</td>
+<td class="r Data">1689</td>
+<td class="r Data">86</td>
+<td class="r Data"> 739</td>
+<td class="r Data">2292</td>
+<td class="r Data">100</td>
+<td class="r Data">16.6</td>
+<td class="r Data">1.0</td>
+<td class="r Data">13.0</td>
+<td class="r Data">29.9</td>
+<td class="r Data">49.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">4.9</td>
+<td class="r Data">0.2</td>
+<td class="r Data">2.1</td>
+<td class="r Data"> 6.6</td>
+<td class="r Data">  569487</td>
+<td class="r Data">   47654</td>
+<td class="r Data">   91400</td>
+<td class="r Data">  281062</td>
+<td class="r Data">  288425</td>
+<td class="r Data">   47181</td>
+<td class="r Data">  128978</td>
+<td class="r Data">   90817</td>
+<td class="r Data">  269006</td>
+<td class="r Data">    1263</td>
+<td class="r Data">   19416</td>
+<td class="r Data">   41387</td>
+<td class="r Data">   43966</td>
+<td class="r Data">   43943</td>
+<td class="r Data">   43465</td>
+<td class="r Data">   42768</td>
+<td class="r Data">   42760</td>
+<td class="r Data">   42375</td>
+<td class="r Data">   41934</td>
+<td class="r Data">   42849</td>
+<td class="r Data">   46884</td>
+<td class="r Data">   42184</td>
+<td class="r Data">   38879</td>
+<td class="r Data">   35414</td>
+<td class="r Data">  202649</td>
+<td class="r Data">   81621</td>
+<td class="r Data">  239482</td>
+<td class="r Data">    2868</td>
+<td class="r Data">   26049</td>
+<td class="r Data">    1499</td>
+<td class="r Data">   15319</td>
+<td class="r Data"> 690</td>
+<td class="r Data">1002</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 8439</td>
+<td class="r Data">1.4</td>
+<td class="r Data">2.1</td>
+<td class="r Data">3.4</td>
+<td class="r Data">2.2</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data"> 6.7</td>
+<td class="r Data">2.7</td>
+<td class="r Data">1.4</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">1.2</td>
+<td class="r Data">42.1</td>
+<td class="r Data">14.3</td>
+<td class="r Data">35.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">4.6</td>
+<td class="r Data">0.3</td>
+<td class="r Data">2.7</td>
+<td class="r Data">49.4</td>
+<td class="r Data">50.6</td>
+<td class="r Data">47.2</td>
+<td class="r Data">16.0</td>
+<td class="r Data"> 8.4</td>
+<td class="r Data">22.6</td>
+<td class="r Data">15.9</td>
+<td class="r Data">8.3</td>
+<td class="r Data">0.2</td>
+<td class="r Data">3.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.2</td>
+<td class="r Data">7.4</td>
+<td class="r Data">6.8</td>
+<td class="r Data">6.2</td>
+<td class="r Data">0.1</td>
+<td class="r Data">82.4</td>
+</tr>
+<tr>
+<td class="l Data">&#39;12</td>
+<td class="r Data"> 9386</td>
+<td class="r Data"> 2040</td>
+<td class="r Data"> 7301</td>
+<td class="r Data">  45</td>
+<td class="r Data"> 1872</td>
+<td class="r Data"> 2613</td>
+<td class="r Data"> 4323</td>
+<td class="r Data"> 68</td>
+<td class="r Data"> 161</td>
+<td class="r Data">39</td>
+<td class="r Data"> 310</td>
+<td class="r Data"> 990</td>
+<td class="r Data">100</td>
+<td class="r Data">21.7</td>
+<td class="r Data">0.5</td>
+<td class="r Data">19.9</td>
+<td class="r Data">27.8</td>
+<td class="r Data">46.1</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.7</td>
+<td class="r Data">0.4</td>
+<td class="r Data">3.3</td>
+<td class="r Data">10.5</td>
+<td class="r Data">  169637</td>
+<td class="r Data">   15869</td>
+<td class="r Data">   15709</td>
+<td class="r Data">   99941</td>
+<td class="r Data">   69696</td>
+<td class="r Data">   10585</td>
+<td class="r Data">   39138</td>
+<td class="r Data">   15231</td>
+<td class="r Data">   85193</td>
+<td class="r Data">     344</td>
+<td class="r Data">    8866</td>
+<td class="r Data">   13016</td>
+<td class="r Data">   13733</td>
+<td class="r Data">   13433</td>
+<td class="r Data">   12927</td>
+<td class="r Data">   12517</td>
+<td class="r Data">   12125</td>
+<td class="r Data">   12391</td>
+<td class="r Data">   12234</td>
+<td class="r Data">   12343</td>
+<td class="r Data">   13293</td>
+<td class="r Data">   11845</td>
+<td class="r Data">   10780</td>
+<td class="r Data">    9790</td>
+<td class="r Data">   55959</td>
+<td class="r Data">   33347</td>
+<td class="r Data">   68354</td>
+<td class="r Data">     816</td>
+<td class="r Data">    3373</td>
+<td class="r Data">    1122</td>
+<td class="r Data">    6666</td>
+<td class="r Data">  77</td>
+<td class="r Data"> 336</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 3212</td>
+<td class="r Data">1.8</td>
+<td class="r Data">2.0</td>
+<td class="r Data">4.9</td>
+<td class="r Data">3.0</td>
+<td class="r Data">2.4</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.0</td>
+<td class="r Data"> 9.6</td>
+<td class="r Data">10.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">2.9</td>
+<td class="r Data">1.6</td>
+<td class="r Data">1.7</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.4</td>
+<td class="r Data">40.3</td>
+<td class="r Data">19.7</td>
+<td class="r Data">33.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">2.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">3.9</td>
+<td class="r Data">58.9</td>
+<td class="r Data">41.1</td>
+<td class="r Data">50.2</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data"> 9.4</td>
+<td class="r Data">23.1</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">6.2</td>
+<td class="r Data">0.2</td>
+<td class="r Data">5.2</td>
+<td class="r Data">7.7</td>
+<td class="r Data">8.1</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.1</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.0</td>
+<td class="r Data">6.4</td>
+<td class="r Data">5.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">77.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;13</td>
+<td class="r Data">22754</td>
+<td class="r Data"> 3024</td>
+<td class="r Data">19403</td>
+<td class="r Data"> 327</td>
+<td class="r Data"> 1816</td>
+<td class="r Data"> 8815</td>
+<td class="r Data">10433</td>
+<td class="r Data"> 91</td>
+<td class="r Data"> 992</td>
+<td class="r Data">27</td>
+<td class="r Data"> 580</td>
+<td class="r Data">1756</td>
+<td class="r Data">100</td>
+<td class="r Data">13.3</td>
+<td class="r Data">1.4</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">38.7</td>
+<td class="r Data">45.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">4.4</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.5</td>
+<td class="r Data"> 7.7</td>
+<td class="r Data">  394846</td>
+<td class="r Data">   36823</td>
+<td class="r Data">   63018</td>
+<td class="r Data">  186688</td>
+<td class="r Data">  208158</td>
+<td class="r Data">   34098</td>
+<td class="r Data">   95035</td>
+<td class="r Data">   63305</td>
+<td class="r Data">  176793</td>
+<td class="r Data">    1249</td>
+<td class="r Data">   13133</td>
+<td class="r Data">   29796</td>
+<td class="r Data">   31450</td>
+<td class="r Data">   30946</td>
+<td class="r Data">   30530</td>
+<td class="r Data">   30143</td>
+<td class="r Data">   30307</td>
+<td class="r Data">   29314</td>
+<td class="r Data">   29220</td>
+<td class="r Data">   29423</td>
+<td class="r Data">   31601</td>
+<td class="r Data">   28178</td>
+<td class="r Data">   25962</td>
+<td class="r Data">   23594</td>
+<td class="r Data">  185141</td>
+<td class="r Data">   27490</td>
+<td class="r Data">  152481</td>
+<td class="r Data">    1081</td>
+<td class="r Data">   17019</td>
+<td class="r Data">     425</td>
+<td class="r Data">   11209</td>
+<td class="r Data"> 389</td>
+<td class="r Data"> 689</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 5953</td>
+<td class="r Data">1.5</td>
+<td class="r Data">1.6</td>
+<td class="r Data">2.1</td>
+<td class="r Data">1.3</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 6.3</td>
+<td class="r Data"> 5.1</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.9</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.0</td>
+<td class="r Data">38.6</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">46.9</td>
+<td class="r Data">0.3</td>
+<td class="r Data">4.3</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.8</td>
+<td class="r Data">47.3</td>
+<td class="r Data">52.7</td>
+<td class="r Data">44.8</td>
+<td class="r Data">16.0</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">24.1</td>
+<td class="r Data">16.0</td>
+<td class="r Data">8.6</td>
+<td class="r Data">0.3</td>
+<td class="r Data">3.3</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.0</td>
+<td class="r Data">7.1</td>
+<td class="r Data">6.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">85.3</td>
+</tr>
+<tr>
+<td class="l Data">&#39;14</td>
+<td class="r Data"> 2863</td>
+<td class="r Data">  552</td>
+<td class="r Data"> 2297</td>
+<td class="r Data">  14</td>
+<td class="r Data">  187</td>
+<td class="r Data">  837</td>
+<td class="r Data"> 1725</td>
+<td class="r Data"> 15</td>
+<td class="r Data">  31</td>
+<td class="r Data"> 0</td>
+<td class="r Data">  68</td>
+<td class="r Data"> 352</td>
+<td class="r Data">100</td>
+<td class="r Data">19.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">29.2</td>
+<td class="r Data">60.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">2.4</td>
+<td class="r Data">12.3</td>
+<td class="r Data">   59871</td>
+<td class="r Data">    5456</td>
+<td class="r Data">    2546</td>
+<td class="r Data">   30206</td>
+<td class="r Data">   29665</td>
+<td class="r Data">    2372</td>
+<td class="r Data">   13466</td>
+<td class="r Data">    2493</td>
+<td class="r Data">   20847</td>
+<td class="r Data">     236</td>
+<td class="r Data">    2382</td>
+<td class="r Data">    4460</td>
+<td class="r Data">    4688</td>
+<td class="r Data">    4529</td>
+<td class="r Data">    4657</td>
+<td class="r Data">    4616</td>
+<td class="r Data">    4585</td>
+<td class="r Data">    4493</td>
+<td class="r Data">    4519</td>
+<td class="r Data">    4753</td>
+<td class="r Data">    4995</td>
+<td class="r Data">    4212</td>
+<td class="r Data">    3694</td>
+<td class="r Data">    3052</td>
+<td class="r Data">   20985</td>
+<td class="r Data">    4524</td>
+<td class="r Data">   31092</td>
+<td class="r Data">     268</td>
+<td class="r Data">    1131</td>
+<td class="r Data">      53</td>
+<td class="r Data">    1818</td>
+<td class="r Data">  11</td>
+<td class="r Data">  51</td>
+<td class="r Data">0.2</td>
+<td class="r Data">  863</td>
+<td class="r Data">1.3</td>
+<td class="r Data">6.4</td>
+<td class="r Data">6.4</td>
+<td class="r Data">3.4</td>
+<td class="r Data">2.8</td>
+<td class="r Data">1.6</td>
+<td class="r Data">2.8</td>
+<td class="r Data">1.4</td>
+<td class="r Data">2.4</td>
+<td class="r Data">2.8</td>
+<td class="r Data">21.8</td>
+<td class="r Data">11.8</td>
+<td class="r Data">5.9</td>
+<td class="r Data">4.0</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.3</td>
+<td class="r Data">2.9</td>
+<td class="r Data">2.6</td>
+<td class="r Data">51.9</td>
+<td class="r Data"> 7.6</td>
+<td class="r Data">35.1</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.9</td>
+<td class="r Data">0.1</td>
+<td class="r Data">3.0</td>
+<td class="r Data">50.5</td>
+<td class="r Data">49.5</td>
+<td class="r Data">34.8</td>
+<td class="r Data"> 4.3</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">22.5</td>
+<td class="r Data"> 4.2</td>
+<td class="r Data">4.0</td>
+<td class="r Data">0.4</td>
+<td class="r Data">4.0</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.9</td>
+<td class="r Data">8.3</td>
+<td class="r Data">7.0</td>
+<td class="r Data">6.2</td>
+<td class="r Data">5.1</td>
+<td class="r Data">0.0</td>
+<td class="r Data">80.2</td>
+</tr>
+<tr>
+<td class="l Data">&#39;15</td>
+<td class="r Data"> 2939</td>
+<td class="r Data">  573</td>
+<td class="r Data"> 2339</td>
+<td class="r Data">  27</td>
+<td class="r Data">   69</td>
+<td class="r Data"> 1539</td>
+<td class="r Data"> 1265</td>
+<td class="r Data">  9</td>
+<td class="r Data">  17</td>
+<td class="r Data"> 4</td>
+<td class="r Data">  36</td>
+<td class="r Data"> 298</td>
+<td class="r Data">100</td>
+<td class="r Data">19.5</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 2.3</td>
+<td class="r Data">52.4</td>
+<td class="r Data">43.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.2</td>
+<td class="r Data">10.1</td>
+<td class="r Data">   49364</td>
+<td class="r Data">    4436</td>
+<td class="r Data">    3575</td>
+<td class="r Data">   29554</td>
+<td class="r Data">   19810</td>
+<td class="r Data">    2836</td>
+<td class="r Data">   12556</td>
+<td class="r Data">    3490</td>
+<td class="r Data">   23753</td>
+<td class="r Data">     141</td>
+<td class="r Data">    1681</td>
+<td class="r Data">    3852</td>
+<td class="r Data">    4140</td>
+<td class="r Data">    3850</td>
+<td class="r Data">    3722</td>
+<td class="r Data">    3784</td>
+<td class="r Data">    3717</td>
+<td class="r Data">    3600</td>
+<td class="r Data">    3563</td>
+<td class="r Data">    3612</td>
+<td class="r Data">    3799</td>
+<td class="r Data">    3665</td>
+<td class="r Data">    3281</td>
+<td class="r Data">    2957</td>
+<td class="r Data">   28325</td>
+<td class="r Data">    1281</td>
+<td class="r Data">   18607</td>
+<td class="r Data">     127</td>
+<td class="r Data">     286</td>
+<td class="r Data">      21</td>
+<td class="r Data">     717</td>
+<td class="r Data">  17</td>
+<td class="r Data">  56</td>
+<td class="r Data">0.3</td>
+<td class="r Data">  589</td>
+<td class="r Data">1.1</td>
+<td class="r Data">3.6</td>
+<td class="r Data">4.9</td>
+<td class="r Data">2.5</td>
+<td class="r Data">2.4</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.8</td>
+<td class="r Data">15.0</td>
+<td class="r Data">12.3</td>
+<td class="r Data">5.8</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data">1.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.4</td>
+<td class="r Data">37.7</td>
+<td class="r Data"> 2.6</td>
+<td class="r Data">57.4</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.0</td>
+<td class="r Data">1.5</td>
+<td class="r Data">59.9</td>
+<td class="r Data">40.1</td>
+<td class="r Data">48.1</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data"> 9.0</td>
+<td class="r Data">25.4</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">5.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">3.4</td>
+<td class="r Data">7.8</td>
+<td class="r Data">8.4</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.4</td>
+<td class="r Data">6.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">0.0</td>
+<td class="r Data">79.6</td>
+</tr>
+<tr>
+<td class="l Data">&#39;16</td>
+<td class="r Data"> 5258</td>
+<td class="r Data"> 1077</td>
+<td class="r Data"> 4161</td>
+<td class="r Data">  20</td>
+<td class="r Data">  243</td>
+<td class="r Data"> 2144</td>
+<td class="r Data"> 2652</td>
+<td class="r Data"> 31</td>
+<td class="r Data">  86</td>
+<td class="r Data"> 3</td>
+<td class="r Data">  99</td>
+<td class="r Data"> 446</td>
+<td class="r Data">100</td>
+<td class="r Data">20.5</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 4.6</td>
+<td class="r Data">40.8</td>
+<td class="r Data">50.4</td>
+<td class="r Data">0.6</td>
+<td class="r Data">1.6</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.9</td>
+<td class="r Data"> 8.5</td>
+<td class="r Data">   85739</td>
+<td class="r Data">    7766</td>
+<td class="r Data">   11224</td>
+<td class="r Data">   50207</td>
+<td class="r Data">   35532</td>
+<td class="r Data">    3856</td>
+<td class="r Data">   22656</td>
+<td class="r Data">   11051</td>
+<td class="r Data">   40031</td>
+<td class="r Data">     191</td>
+<td class="r Data">    4463</td>
+<td class="r Data">    6738</td>
+<td class="r Data">    6738</td>
+<td class="r Data">    6755</td>
+<td class="r Data">    6405</td>
+<td class="r Data">    6550</td>
+<td class="r Data">    6367</td>
+<td class="r Data">    6292</td>
+<td class="r Data">    6089</td>
+<td class="r Data">    6222</td>
+<td class="r Data">    6351</td>
+<td class="r Data">    6019</td>
+<td class="r Data">    5557</td>
+<td class="r Data">    5002</td>
+<td class="r Data">   39670</td>
+<td class="r Data">    4313</td>
+<td class="r Data">   37149</td>
+<td class="r Data">     443</td>
+<td class="r Data">    2426</td>
+<td class="r Data">      65</td>
+<td class="r Data">    1673</td>
+<td class="r Data">  34</td>
+<td class="r Data"> 265</td>
+<td class="r Data">0.7</td>
+<td class="r Data"> 1231</td>
+<td class="r Data">1.4</td>
+<td class="r Data">3.9</td>
+<td class="r Data">3.3</td>
+<td class="r Data">2.5</td>
+<td class="r Data">2.2</td>
+<td class="r Data">1.3</td>
+<td class="r Data">1.9</td>
+<td class="r Data">0.4</td>
+<td class="r Data">0.8</td>
+<td class="r Data">1.3</td>
+<td class="r Data">17.3</td>
+<td class="r Data"> 7.2</td>
+<td class="r Data">5.5</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">2.1</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.5</td>
+<td class="r Data">4.6</td>
+<td class="r Data">43.3</td>
+<td class="r Data"> 5.0</td>
+<td class="r Data">46.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">2.8</td>
+<td class="r Data">0.1</td>
+<td class="r Data">2.0</td>
+<td class="r Data">58.6</td>
+<td class="r Data">41.4</td>
+<td class="r Data">46.7</td>
+<td class="r Data">13.1</td>
+<td class="r Data"> 9.1</td>
+<td class="r Data">26.4</td>
+<td class="r Data">12.9</td>
+<td class="r Data">4.5</td>
+<td class="r Data">0.2</td>
+<td class="r Data">5.2</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.1</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.0</td>
+<td class="r Data">6.5</td>
+<td class="r Data">5.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">79.1</td>
+</tr>
+<tr>
+<td class="l Data">&#39;17</td>
+<td class="r Data"> 4682</td>
+<td class="r Data">  805</td>
+<td class="r Data"> 3837</td>
+<td class="r Data">  40</td>
+<td class="r Data">  273</td>
+<td class="r Data"> 2401</td>
+<td class="r Data"> 1857</td>
+<td class="r Data"> 32</td>
+<td class="r Data">  55</td>
+<td class="r Data"> 1</td>
+<td class="r Data">  63</td>
+<td class="r Data"> 458</td>
+<td class="r Data">100</td>
+<td class="r Data">17.2</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 5.8</td>
+<td class="r Data">51.3</td>
+<td class="r Data">39.7</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.2</td>
+<td class="r Data">0.0</td>
+<td class="r Data">1.3</td>
+<td class="r Data"> 9.8</td>
+<td class="r Data">   83903</td>
+<td class="r Data">    7836</td>
+<td class="r Data">    4620</td>
+<td class="r Data">   50480</td>
+<td class="r Data">   33423</td>
+<td class="r Data">    4089</td>
+<td class="r Data">   21843</td>
+<td class="r Data">    4799</td>
+<td class="r Data">   38224</td>
+<td class="r Data">     199</td>
+<td class="r Data">    4225</td>
+<td class="r Data">    6811</td>
+<td class="r Data">    7015</td>
+<td class="r Data">    7082</td>
+<td class="r Data">    6282</td>
+<td class="r Data">    6234</td>
+<td class="r Data">    6176</td>
+<td class="r Data">    6136</td>
+<td class="r Data">    5914</td>
+<td class="r Data">    6029</td>
+<td class="r Data">    6151</td>
+<td class="r Data">    5640</td>
+<td class="r Data">    5212</td>
+<td class="r Data">    4797</td>
+<td class="r Data">   48243</td>
+<td class="r Data">    5784</td>
+<td class="r Data">   27327</td>
+<td class="r Data">     277</td>
+<td class="r Data">     935</td>
+<td class="r Data">      53</td>
+<td class="r Data">    1284</td>
+<td class="r Data">  28</td>
+<td class="r Data">  71</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 1595</td>
+<td class="r Data">1.8</td>
+<td class="r Data">3.7</td>
+<td class="r Data">4.8</td>
+<td class="r Data">3.7</td>
+<td class="r Data">2.2</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">13.2</td>
+<td class="r Data"> 8.8</td>
+<td class="r Data">4.8</td>
+<td class="r Data">1.9</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.8</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.7</td>
+<td class="r Data">32.6</td>
+<td class="r Data"> 6.9</td>
+<td class="r Data">57.5</td>
+<td class="r Data">0.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.5</td>
+<td class="r Data">60.2</td>
+<td class="r Data">39.8</td>
+<td class="r Data">45.6</td>
+<td class="r Data"> 5.5</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">26.0</td>
+<td class="r Data"> 5.7</td>
+<td class="r Data">4.9</td>
+<td class="r Data">0.2</td>
+<td class="r Data">5.0</td>
+<td class="r Data">8.1</td>
+<td class="r Data">8.4</td>
+<td class="r Data">8.4</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.0</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">6.7</td>
+<td class="r Data">6.2</td>
+<td class="r Data">5.7</td>
+<td class="r Data">0.0</td>
+<td class="r Data">82.0</td>
+</tr>
+<tr>
+<td class="l Data">&#39;18</td>
+<td class="r Data"> 4368</td>
+<td class="r Data">  754</td>
+<td class="r Data"> 3465</td>
+<td class="r Data"> 149</td>
+<td class="r Data">  177</td>
+<td class="r Data"> 2658</td>
+<td class="r Data"> 1413</td>
+<td class="r Data"> 19</td>
+<td class="r Data">  59</td>
+<td class="r Data"> 4</td>
+<td class="r Data">  38</td>
+<td class="r Data"> 310</td>
+<td class="r Data">100</td>
+<td class="r Data">17.3</td>
+<td class="r Data">3.4</td>
+<td class="r Data"> 4.1</td>
+<td class="r Data">60.9</td>
+<td class="r Data">32.3</td>
+<td class="r Data">0.4</td>
+<td class="r Data">1.4</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">   87686</td>
+<td class="r Data">    6197</td>
+<td class="r Data">   11343</td>
+<td class="r Data">   41496</td>
+<td class="r Data">   46190</td>
+<td class="r Data">    5302</td>
+<td class="r Data">   17807</td>
+<td class="r Data">   11058</td>
+<td class="r Data">   48509</td>
+<td class="r Data">     131</td>
+<td class="r Data">    3088</td>
+<td class="r Data">    7412</td>
+<td class="r Data">    7586</td>
+<td class="r Data">    7456</td>
+<td class="r Data">    6917</td>
+<td class="r Data">    6802</td>
+<td class="r Data">    6753</td>
+<td class="r Data">    6573</td>
+<td class="r Data">    6509</td>
+<td class="r Data">    6523</td>
+<td class="r Data">    6508</td>
+<td class="r Data">    5968</td>
+<td class="r Data">    5146</td>
+<td class="r Data">    4314</td>
+<td class="r Data">   59354</td>
+<td class="r Data">    3830</td>
+<td class="r Data">   22229</td>
+<td class="r Data">     263</td>
+<td class="r Data">     931</td>
+<td class="r Data">      80</td>
+<td class="r Data">     999</td>
+<td class="r Data">  28</td>
+<td class="r Data"> 157</td>
+<td class="r Data">0.4</td>
+<td class="r Data"> 1697</td>
+<td class="r Data">1.9</td>
+<td class="r Data">2.4</td>
+<td class="r Data">3.7</td>
+<td class="r Data">2.6</td>
+<td class="r Data">1.8</td>
+<td class="r Data">1.0</td>
+<td class="r Data">2.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">2.7</td>
+<td class="r Data">1.8</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">11.3</td>
+<td class="r Data">4.5</td>
+<td class="r Data">1.5</td>
+<td class="r Data">0.7</td>
+<td class="r Data">1.7</td>
+<td class="r Data">1.0</td>
+<td class="r Data">1.8</td>
+<td class="r Data">4.4</td>
+<td class="r Data">25.4</td>
+<td class="r Data"> 4.4</td>
+<td class="r Data">67.7</td>
+<td class="r Data">0.3</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.1</td>
+<td class="r Data">1.1</td>
+<td class="r Data">47.3</td>
+<td class="r Data">52.7</td>
+<td class="r Data">55.3</td>
+<td class="r Data">12.9</td>
+<td class="r Data"> 7.1</td>
+<td class="r Data">20.3</td>
+<td class="r Data">12.6</td>
+<td class="r Data">6.0</td>
+<td class="r Data">0.1</td>
+<td class="r Data">3.5</td>
+<td class="r Data">8.5</td>
+<td class="r Data">8.7</td>
+<td class="r Data">8.5</td>
+<td class="r Data">7.9</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.4</td>
+<td class="r Data">6.8</td>
+<td class="r Data">5.9</td>
+<td class="r Data">4.9</td>
+<td class="r Data">0.0</td>
+<td class="r Data">79.3</td>
+</tr>
+<tr>
+<td class="l Data">&#39;19</td>
+<td class="r Data">11895</td>
+<td class="r Data">  836</td>
+<td class="r Data">11036</td>
+<td class="r Data">  23</td>
+<td class="r Data">  267</td>
+<td class="r Data">10689</td>
+<td class="r Data">  767</td>
+<td class="r Data"> 21</td>
+<td class="r Data">  76</td>
+<td class="r Data">13</td>
+<td class="r Data">  62</td>
+<td class="r Data"> 722</td>
+<td class="r Data">100</td>
+<td class="r Data"> 7.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data"> 2.2</td>
+<td class="r Data">89.9</td>
+<td class="r Data"> 6.4</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.1</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">  179096</td>
+<td class="r Data">   16719</td>
+<td class="r Data">   46312</td>
+<td class="r Data">  133512</td>
+<td class="r Data">   45584</td>
+<td class="r Data">   14630</td>
+<td class="r Data">   48893</td>
+<td class="r Data">   45735</td>
+<td class="r Data">  102963</td>
+<td class="r Data">     476</td>
+<td class="r Data">    7283</td>
+<td class="r Data">   12374</td>
+<td class="r Data">   13398</td>
+<td class="r Data">   13391</td>
+<td class="r Data">   13042</td>
+<td class="r Data">   12891</td>
+<td class="r Data">   13068</td>
+<td class="r Data">   12865</td>
+<td class="r Data">   12830</td>
+<td class="r Data">   13502</td>
+<td class="r Data">   15323</td>
+<td class="r Data">   13714</td>
+<td class="r Data">   12860</td>
+<td class="r Data">   12079</td>
+<td class="r Data">  160430</td>
+<td class="r Data">    4283</td>
+<td class="r Data">   11129</td>
+<td class="r Data">     369</td>
+<td class="r Data">    1177</td>
+<td class="r Data">     309</td>
+<td class="r Data">    1399</td>
+<td class="r Data"> 323</td>
+<td class="r Data"> 228</td>
+<td class="r Data">0.3</td>
+<td class="r Data"> 3142</td>
+<td class="r Data">1.7</td>
+<td class="r Data">1.1</td>
+<td class="r Data">4.6</td>
+<td class="r Data">2.8</td>
+<td class="r Data">1.9</td>
+<td class="r Data">1.1</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.5</td>
+<td class="r Data">0.6</td>
+<td class="r Data">0.5</td>
+<td class="r Data"> 8.4</td>
+<td class="r Data">11.5</td>
+<td class="r Data">5.1</td>
+<td class="r Data">2.1</td>
+<td class="r Data">1.0</td>
+<td class="r Data">1.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">0.9</td>
+<td class="r Data"> 6.2</td>
+<td class="r Data"> 2.4</td>
+<td class="r Data">89.6</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.2</td>
+<td class="r Data">0.8</td>
+<td class="r Data">74.5</td>
+<td class="r Data">25.5</td>
+<td class="r Data">57.5</td>
+<td class="r Data">25.9</td>
+<td class="r Data"> 9.3</td>
+<td class="r Data">27.3</td>
+<td class="r Data">25.5</td>
+<td class="r Data">8.2</td>
+<td class="r Data">0.3</td>
+<td class="r Data">4.1</td>
+<td class="r Data">6.9</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.6</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.2</td>
+<td class="r Data">6.7</td>
+<td class="r Data">0.2</td>
+<td class="r Data">92.8</td>
+</tr>
+<tr>
+<td class="l Data">&#39;20</td>
+<td class="r Data">25821</td>
+<td class="r Data"> 3896</td>
+<td class="r Data">21225</td>
+<td class="r Data"> 700</td>
+<td class="r Data"> 1690</td>
+<td class="r Data">16986</td>
+<td class="r Data"> 5939</td>
+<td class="r Data"> 66</td>
+<td class="r Data"> 511</td>
+<td class="r Data">47</td>
+<td class="r Data"> 582</td>
+<td class="r Data">2101</td>
+<td class="r Data">100</td>
+<td class="r Data">15.1</td>
+<td class="r Data">2.7</td>
+<td class="r Data"> 6.5</td>
+<td class="r Data">65.8</td>
+<td class="r Data">23.0</td>
+<td class="r Data">0.3</td>
+<td class="r Data">2.0</td>
+<td class="r Data">0.2</td>
+<td class="r Data">2.3</td>
+<td class="r Data"> 8.1</td>
+<td class="r Data">  440411</td>
+<td class="r Data">   41940</td>
+<td class="r Data">   50155</td>
+<td class="r Data">  273285</td>
+<td class="r Data">  167126</td>
+<td class="r Data">   28996</td>
+<td class="r Data">   94263</td>
+<td class="r Data">   49937</td>
+<td class="r Data">  231424</td>
+<td class="r Data">     992</td>
+<td class="r Data">   19951</td>
+<td class="r Data">   32000</td>
+<td class="r Data">   34350</td>
+<td class="r Data">   33805</td>
+<td class="r Data">   33051</td>
+<td class="r Data">   33069</td>
+<td class="r Data">   33326</td>
+<td class="r Data">   31861</td>
+<td class="r Data">   32388</td>
+<td class="r Data">   33121</td>
+<td class="r Data">   36143</td>
+<td class="r Data">   31750</td>
+<td class="r Data">   28847</td>
+<td class="r Data">   25757</td>
+<td class="r Data">  313140</td>
+<td class="r Data">   26890</td>
+<td class="r Data">   82490</td>
+<td class="r Data">    1035</td>
+<td class="r Data">    7681</td>
+<td class="r Data">     668</td>
+<td class="r Data">    8507</td>
+<td class="r Data">  18</td>
+<td class="r Data"> 526</td>
+<td class="r Data">0.3</td>
+<td class="r Data"> 6644</td>
+<td class="r Data">1.4</td>
+<td class="r Data">2.0</td>
+<td class="r Data">5.2</td>
+<td class="r Data">3.3</td>
+<td class="r Data">2.7</td>
+<td class="r Data">1.4</td>
+<td class="r Data">2.0</td>
+<td class="r Data">0.7</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.3</td>
+<td class="r Data"> 5.9</td>
+<td class="r Data"> 8.0</td>
+<td class="r Data">3.9</td>
+<td class="r Data">2.0</td>
+<td class="r Data">1.1</td>
+<td class="r Data">0.9</td>
+<td class="r Data">0.9</td>
+<td class="r Data">1.2</td>
+<td class="r Data">1.4</td>
+<td class="r Data">18.7</td>
+<td class="r Data"> 6.1</td>
+<td class="r Data">71.1</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.7</td>
+<td class="r Data">0.2</td>
+<td class="r Data">1.9</td>
+<td class="r Data">62.1</td>
+<td class="r Data">37.9</td>
+<td class="r Data">52.5</td>
+<td class="r Data">11.4</td>
+<td class="r Data"> 9.5</td>
+<td class="r Data">21.4</td>
+<td class="r Data">11.3</td>
+<td class="r Data">6.6</td>
+<td class="r Data">0.2</td>
+<td class="r Data">4.5</td>
+<td class="r Data">7.3</td>
+<td class="r Data">7.8</td>
+<td class="r Data">7.7</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.5</td>
+<td class="r Data">7.6</td>
+<td class="r Data">7.2</td>
+<td class="r Data">7.4</td>
+<td class="r Data">7.5</td>
+<td class="r Data">8.2</td>
+<td class="r Data">7.2</td>
+<td class="r Data">6.6</td>
+<td class="r Data">5.8</td>
+<td class="r Data">0.0</td>
+<td class="r Data">82.2</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>
