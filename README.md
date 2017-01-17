@@ -38,3 +38,20 @@ For campuses and districts that have changed their names have been removed or ar
 - New campuses and districts
 - Campuses and districts that have changed their name
 
+### District boundaries
+
+TEA also provides shape files for each district that can be found on the [TEA Data Download](http://tea.texas.gov/Texas_Schools/General_Information/School_District_Locator/School_District_Locator/) page. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
+
+We convert the TEA provided shapefile into a geojson file using [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html) with the command:
+
+For school districts:
+
+```sh
+$ ogr2ogr -f GeoJSON -t_srs crs:84 districts.geojson [tea-provided-file-name].shp
+```
+
+For campuses:
+
+```sh
+$ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
+```
