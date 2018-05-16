@@ -62,8 +62,8 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 
 First, [download the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=F2CBE4A0-C90B-11E5-8D610050560100A9)
 
-Then, Create a folder in this repository. Name it the year (YYYY) that the data cooresponds. Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB. Copy and paste that data into a new spreadsheet. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. Be sure the data matches the header, and save it as `regionState.csv`.
+Then, Create a folder in this repository. Name it the year (YYYY) to which the data cooresponds. Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB. Copy and paste that data into a new spreadsheet. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. Be sure the data matches the header, and save it as `regionState.csv`.
 
 Copy and paste the data found in `Region Cty Gender`, `Region Cty Econ` and `Region Cty Ethnicity` into individual csv files. Name them `countyGender.csv`, `countyEcon.csv` and `countyEthnicity.csv`, respectively. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. 
 
-Be sure to remove any notes found at the top and bottom of all `.xlsx` files. 
+Be sure to remove any notes found at the top and bottom of all `.xlsx` files and make sure all counts are integers and all percents are floats (this might require changing their format in excel 😬). 
