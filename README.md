@@ -1,4 +1,5 @@
 # scuole-data
+
 A repository of data sets used in the [scuole](https://github.com/texastribune/scuole) project.
 
 ## Common Core of Data (ccd)
@@ -7,7 +8,7 @@ Summary data for districts and campus via the [National Center of Education Stat
 
 ## AskTED Data
 
-Superintendents, Principals and directory information for all schools and districts. 
+Superintendents, Principals and directory information for all schools and districts.
 
 To download directory data, go to the [AskTED homepage](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/Home.aspx) and download the School and District File with Site Address.
 
@@ -15,9 +16,9 @@ To download superintents and principals data, go to the [AskTED Download Personn
 
 ## TAPR Data
 
-All stats collected by the [Texas Education Agency](http://tea.texas.gov/). This data is released annually in late November/early December. 
+All stats collected by the [Texas Education Agency](http://tea.texas.gov/). This data is released annually in late November/early December.
 
-To download TAPR data, go to the [Texas Academic Performance Report homepage](https://rptsvr1.tea.texas.gov/perfreport/tapr/) and find the most recent release. Click the `Data Download` link and go to the `Advanced TAPR Data (Numerators, Denominators & Rates)` option. 
+To download TAPR data, go to the [Texas Academic Performance Report homepage](https://rptsvr1.tea.texas.gov/perfreport/tapr/) and find the most recent release. Click the `Data Download` link and go to the `Advanced TAPR Data (Numerators, Denominators & Rates)` option.
 
 This app requires sheets for `Postsecondary Readiness & Non-STAAR Performance Indicators`, `Longitudinal Rate (4-Year, 5-Year, & 6-Year)`, and `Staff & Student Information` for Campus, District, Region and State. The `Reference Information, Accountability Rating and Special Education Determination Status` sheet is only required for Campus, District and Region.
 
@@ -64,6 +65,6 @@ First, [download the data from THECB](http://www.txhighereddata.org/index.cfm?ob
 
 Then, Create a folder in this repository. Name it the year (YYYY) to which the data cooresponds. Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB. Copy and paste that data into a new spreadsheet. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. Be sure the data matches the header, and save it as `regionState.csv`.
 
-Copy and paste the data found in `Region Cty Gender`, `Region Cty Econ` and `Region Cty Ethnicity` into individual csv files. Name them `countyGender.csv`, `countyEcon.csv` and `countyEthnicity.csv`, respectively. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. 
+Copy and paste the data found in `Region Cty Gender`, `Region Cty Econ` and `Region Cty Ethnicity` into individual csv files. Name them `countyGender.csv`, `countyEcon.csv` and `countyEthnicity.csv`, respectively. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data.
 
-Be sure to remove any notes found at the top and bottom of all `.xlsx` files and make sure all counts are integers and all percents are floats (this might require changing their format in excel 😬). 
+Be sure to remove any notes found at the top and bottom of all `.xlsx` files and make sure all counts are integers and all percents are floats (this might require changing their format in excel 😬).
