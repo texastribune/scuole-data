@@ -63,7 +63,7 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 
 1) First, [download the latest year of the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=F2CBE4A0-C90B-11E5-8D610050560100A9). The latest year should be 11 years from the current year.
 
-2) Then, create a folder in the `cohorts/` folder. Name it the year (YYYY) to which the data cooresponds. 
+2) Then, create a folder in the `cohorts/` folder. Name it the year (YYYY) to which the data corresponds. 
 
 3) Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB by going to `Format -> Sheet -> Unhide --> Master Raw Data`. 
 
