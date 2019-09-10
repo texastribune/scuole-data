@@ -2,6 +2,8 @@
 
 A repository of data sets used in the [scuole](https://github.com/texastribune/scuole) project.
 
+A walkthrough on how to update the data for the project is available [on this Confluence page](https://wiki.texastribune.org/pages/viewpage.action?pageId=12420757)
+
 ## Common Core of Data (ccd)
 
 Summary data for districts and campus via the [National Center of Education Statistics](https://nces.ed.gov/) [Common Core of Data](https://nces.ed.gov/ccd/ccddata.asp) program.
