@@ -2,8 +2,6 @@
 
 A repository of data sets used in the [scuole](https://github.com/texastribune/scuole) project.
 
-A walkthrough on how to update the data for the project is available [on this Confluence page](https://wiki.texastribune.org/pages/viewpage.action?pageId=12420757)
-
 ## Common Core of Data (ccd)
 
 Summary data for districts and campus via the [National Center of Education Statistics](https://nces.ed.gov/) [Common Core of Data](https://nces.ed.gov/ccd/ccddata.asp) program.
@@ -17,6 +15,8 @@ To download directory data, go to the [AskTED homepage](http://mansfield.tea.sta
 To download superintents and principals data, go to the [AskTED Download Personnel File page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx). Check the box for either `Include Principals` or `Include Superintendents` and indicate `None` on both `Include District Staff` and `Include ESC Staff`. Sort by Organization Number and `Download File`.
 
 ## TAPR Data
+
+A walkthrough on how to update the TAPR data is available [on this Confluence page](https://wiki.texastribune.org/pages/viewpage.action?pageId=12420757).
 
 All stats collected by the [Texas Education Agency](http://tea.texas.gov/). This data is released annually in late November/early December.
 
@@ -41,7 +41,7 @@ For campuses and districts that have changed their names have been removed or ar
 - New campuses and districts
 - Campuses and districts that have changed their name
 
-### District boundaries
+## District boundaries
 
 TEA also provides shape files for each district that can be found on the [TEA Data Download](http://tea.texas.gov/Texas_Schools/General_Information/School_District_Locator/School_District_Locator/) page. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
 
@@ -59,7 +59,7 @@ For campuses:
 $ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
 ```
 
-### Cohorts
+## Cohorts
 
 The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the Higher Ed Outcomes section of the app every year in late April/early May. To obtain and clean the data:
 
