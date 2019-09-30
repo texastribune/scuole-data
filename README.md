@@ -8,11 +8,9 @@ Summary data for districts and campus via the [National Center of Education Stat
 
 ## AskTED Data
 
-Superintendents, Principals and directory information for all schools and districts.
+AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and update them in `scuole-data`. 
 
-To download directory data, go to the [AskTED homepage](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/Home.aspx) and download the School and District File with Site Address.
-
-To download superintents and principals data, go to the [AskTED Download Personnel File page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx). Check the box for either `Include Principals` or `Include Superintendents` and indicate `None` on both `Include District Staff` and `Include ESC Staff`. Sort by Organization Number and `Download File`.
+We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
 
 ## TAPR Data
 
