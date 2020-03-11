@@ -14,7 +14,7 @@ We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.
 
 ## TAPR Data
 
-A walkthrough on how to update the TAPR data is available [on this Confluence page](https://wiki.texastribune.org/pages/viewpage.action?pageId=12420757).
+A walkthrough on how to update the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
 
 All stats collected by the [Texas Education Agency](http://tea.texas.gov/). This data is released annually in late November/early December.
 
