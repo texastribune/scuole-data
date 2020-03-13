@@ -35,9 +35,11 @@ Note: These are tables for 2012-2013. We use the campus tables to collect the co
 
 ### TAPR Campus and district names
 
-Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create the models for districts and campuses.
+Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create models for districts and campuses.
 
-Instructions on how to create a new `entities.csv` are in the `new_entities` Jupyter Notebook.
+Instructions on how to create a new `entities.csv` are in the `new_entities` Jupyter Notebook — we should be doing this every year.
+
+We do some district and campus name re-formatting in the Jupyter Notebook (i.e. Cayuga H S --> Cayuga High School). Abbreviations, the Regex for those abbreviations, and the string to replace them with are in `campus_name_abbrev_guidelines.xlsx`.
 
 For campuses and districts that have changed their names have been removed or are new in the current year, email Lauren Callahan at `lauren dot callahan at tea dot texas dot gov` and ask for a CSV or Excel spreadsheet of:
 
