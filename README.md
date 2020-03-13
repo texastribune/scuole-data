@@ -10,6 +10,8 @@ Summary data for districts and campus via the [National Center of Education Stat
 
 AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and update them in `scuole-data`. 
 
+Instructions on what commands to run to update AskTED are in the [`scuole` repo README](https://github.com/texastribune/scuole).
+
 We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
 
 ## TAPR Data
@@ -31,7 +33,11 @@ The data is referenced and mapped in the schema using the [Master reference of T
 
 Note: These are tables for 2012-2013. We use the campus tables to collect the codes used in the TAPR tables and later remove the prefixes for state (S), region (R), district (D), campus (C) and the suffixes -- if there are any -- indicating year Usually year suffixes are included for fields like college ready graduates where there are two graduation times within the school year, but not for demographic data which is representative of the entire year. Prefixes and suffixes are both handled in the data loaders. Codes do not change from year to year.
 
-### TAPR Updates
+### TAPR Campus and district names
+
+Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create the models for districts and campuses.
+
+Instructions on how to create a new `entities.csv` are in the `new_entities` Jupyter Notebook.
 
 For campuses and districts that have changed their names have been removed or are new in the current year, email Lauren Callahan at `lauren dot callahan at tea dot texas dot gov` and ask for a CSV or Excel spreadsheet of:
 
