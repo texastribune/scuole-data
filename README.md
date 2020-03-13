@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [scuole-data](#scuole-data)
+  - [Common Core of Data (ccd)](#common-core-of-data-ccd)
+  - [AskTED Data](#askted-data)
+  - [TAPR Data](#tapr-data)
+    - [TAPR Campus and district names](#tapr-campus-and-district-names)
+  - [District boundaries and campus coordinates](#district-boundaries-and-campus-coordinates)
+    - [District boundaries](#district-boundaries)
+    - [Campus coordinates](#campus-coordinates)
+    - [Converting the shapefile](#converting-the-shapefile)
+  - [Cohorts](#cohorts)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # scuole-data
 
 A repository of data sets used in the [scuole](https://github.com/texastribune/scuole) project.
@@ -47,12 +64,15 @@ For campuses and districts that have changed their names have been removed or ar
 - New campuses and districts
 - Campuses and districts that have changed their name
 
-## District boundaries
+## District boundaries and campus coordinates
 
+### District boundaries
 TEA also provides shape files for each district that can be found on the [TEA Data Download](http://tea.texas.gov/Texas_Schools/General_Information/School_District_Locator/School_District_Locator/) page. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
 
+### Campus coordinates
 The latest shapefile `campuses_03-10-2020.shp` (fetched March 10, 2020) is for the 2018-2019 school year. It was downloaded as an `.sd` file, and unzipped with Unarchiver (a Mac program). The unzipped version yields a `schools.gdb` folder, which can be opened in QGIS ([instructions](https://gis.stackexchange.com/questions/26285/installing-file-geodatabase-gdb-support-in-qgis)). 
 
+### Converting the shapefile
 We convert the TEA provided shapefile into a geojson file using [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html) with the command:
 
 For school districts:
