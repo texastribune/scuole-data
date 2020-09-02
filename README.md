@@ -91,7 +91,7 @@ $ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
 
 The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the Higher Ed Outcomes section of the app every year in late April/early May. To obtain and clean the data:
 
-1) First, [download the latest year of the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=F2CBE4A0-C90B-11E5-8D610050560100A9). The latest year should be 11 years from the current year.
+1) First, [download the latest year of the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9). The latest year should be 11 years from the current year.
 
 2) Then, create a folder in the `cohorts/` folder. Name it the year (YYYY) to which the data corresponds. 
 
