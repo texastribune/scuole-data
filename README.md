@@ -4,9 +4,9 @@
 
 - [scuole-data](#scuole-data)
   - [Common Core of Data (ccd)](#common-core-of-data-ccd)
-  - [AskTED Data](#askted-data)
-  - [TAPR Data](#tapr-data)
-    - [TAPR Campus and district names](#tapr-campus-and-district-names)
+  - [AskTED](#askted)
+  - [TAPR](#tapr)
+  - [District and campus models](#district-and-campus-models)
   - [District boundaries and campus coordinates](#district-boundaries-and-campus-coordinates)
     - [District boundaries](#district-boundaries)
     - [Campus coordinates](#campus-coordinates)
@@ -23,19 +23,19 @@ A repository of data sets used in the [scuole](https://github.com/texastribune/s
 
 Summary data for districts and campus via the [National Center of Education Statistics](https://nces.ed.gov/) [Common Core of Data](https://nces.ed.gov/ccd/ccddata.asp) program.
 
-## AskTED Data
+## AskTED
+**Released: as information is updated**
 
-AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and update them in `scuole-data`. 
+AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
 
-Instructions on what commands to run to update AskTED are in the [`scuole` repo README](https://github.com/texastribune/scuole).
+Instructions on what commands to run to update AskTED are in the [`scuole` README](https://github.com/texastribune/scuole).
 
 We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
 
-## TAPR Data
+## TAPR
+**Released: Annually in late November/early December**
 
-A walkthrough on how to update the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
-
-All stats collected by the [Texas Education Agency](http://tea.texas.gov/). This data is released annually in late November/early December.
+All stats are collected by the [Texas Education Agency](http://tea.texas.gov/).
 
 To download TAPR data, go to the [Texas Academic Performance Report homepage](https://rptsvr1.tea.texas.gov/perfreport/tapr/) and find the most recent release. Click the `Data Download` link and go to the `Advanced TAPR Data (Numerators, Denominators & Rates)` option.
 
@@ -50,7 +50,9 @@ The data is referenced and mapped in the schema using the [Master reference of T
 
 Note: These are tables for 2012-2013. We use the campus tables to collect the codes used in the TAPR tables and later remove the prefixes for state (S), region (R), district (D), campus (C) and the suffixes -- if there are any -- indicating year Usually year suffixes are included for fields like college ready graduates where there are two graduation times within the school year, but not for demographic data which is representative of the entire year. Prefixes and suffixes are both handled in the data loaders. Codes do not change from year to year.
 
-### TAPR Campus and district names
+A detailed walkthrough on how to download and format the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
+
+## District and campus models
 
 Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create models for districts and campuses.
 
@@ -88,8 +90,9 @@ $ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
 ```
 
 ## Cohorts
+**Released: Annually in late April/early May**
 
-The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the Higher Ed Outcomes section of the app every year in late April/early May. To obtain and clean the data:
+The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the Higher Ed Outcomes section of the app. To obtain and clean the data:
 
 1) First, [download the latest year of the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9). The latest year should be 11 years from the current year.
 
