@@ -50,7 +50,7 @@ The data is referenced and mapped in the schema using the [Master reference of T
 
 **FYI, dropout rates, AP/IB participation, AP/IB performance and college-ready graduates data are one year behind.**
 
-Note: These are tables for 2012-2013. We use the campus tables to collect the codes used in the TAPR tables and later remove the prefixes for state (S), region (R), district (D), campus (C) and the suffixes -- if there are any -- indicating year Usually year suffixes are included for fields like college ready graduates where there are two graduation times within the school year, but not for demographic data which is representative of the entire year. Prefixes and suffixes are both handled in the data loaders. Codes do not change from year to year.
+Note: These are tables for 2012-2013. We use the campus tables to collect the codes used in the TAPR tables and later remove the prefixes for state (S), region (R), district (D), campus (C) and the suffixes -- if there are any -- indicating year. Usually year suffixes are included for fields like college ready graduates where there are two graduation times within the school year, but not for demographic data which is representative of the entire year. Prefixes and suffixes are both handled in the data loaders. Codes do not change from year to year.
 
 A detailed walkthrough on how to download and format the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
 
@@ -58,7 +58,7 @@ A detailed walkthrough on how to download and format the TAPR data is available 
 
 Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create models for districts and campuses.
 
-Instructions on how to create a new `entities.csv` are in the `new_entities` Jupyter Notebook — we should be doing this every year.
+Instructions on how to create a new `entities.csv` are in the `format_new_entities` Jupyter Notebook — we should be doing this every year.
 
 We do some district and campus name re-formatting in the Jupyter Notebook (i.e. Cayuga H S --> Cayuga High School). Abbreviations, the Regex for those abbreviations, and the string to replace them with are in `campus_name_abbrev_guidelines.xlsx`.
 
@@ -70,13 +70,19 @@ For campuses and districts that have changed their names have been removed or ar
 
 ## District boundaries and campus coordinates
 
+TEA provides district boundaries and campus coordinates on [their open data site](https://schoolsdata2-tea-texas.opendata.arcgis.com/), which you can get to via the [School District Locator page](https://tea.texas.gov/texas-schools/general-information/school-district-locator). The latest district boundaries are listed under "Current Districts" and campus coordinates under "Current Campuses". Depending on what year you are updating for, you'll go to "Archived Schools Data" and click the school year you are updating for.
+
+Put the GeoJSON boundaries and coordinates in the respective folder: `tapr/reference/district/shapes/` or `tapr/reference/campus/shapes/`.
+
 ### District boundaries
-TEA also provides shape files for each district that can be found on the [TEA Data Download](http://tea.texas.gov/Texas_Schools/General_Information/School_District_Locator/School_District_Locator/) page. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
+This was last updated for the 2020-21 school year. TEA provided the files as GeoJSONs. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
 
 ### Campus coordinates
-The latest shapefile `campuses_03-10-2020.shp` (fetched March 10, 2020) is for the 2018-2019 school year. It was downloaded as an `.sd` file, and unzipped with Unarchiver (a Mac program). The unzipped version yields a `schools.gdb` folder, which can be opened in QGIS ([instructions](https://gis.stackexchange.com/questions/26285/installing-file-geodatabase-gdb-support-in-qgis)). 
+This was last updated for the 2020-21 school year. TEA provided the files as GeoJSONs.
 
-### Converting the shapefile
+#### Older update instructions
+The latest shapefile `campuses_03-10-2020.shp` (fetched March 10, 2020) is for the 2018-2019 school year. It was downloaded as an `.sd` file, and unzipped with Unarchiver (a Mac program). The unzipped version yields a `schools.gdb` folder, which can be opened in QGIS ([instructions](https://gis.stackexchange.com/questions/26285/installing-file-geodatabase-gdb-support-in-qgis)).
+
 We convert the TEA provided shapefile into a geojson file using [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html) with the command:
 
 For school districts:
