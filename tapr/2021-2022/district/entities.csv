@@ -1,0 +1,1208 @@
+COUNTY,REGION,DISTRICT,DISTNAME,CNTYNAME,DFLCHART,DFLALTED,DAD_POST,OUTCOME,asvab_status,DISTNAME_CLEAN
+1,7,1902,CAYUGA ISD,ANDERSON,N,N,1,Meets Requirements, ,Cayuga ISD
+1,7,1903,ELKHART ISD,ANDERSON,N,N,0,Meets Requirements, ,Elkhart ISD
+1,7,1904,FRANKSTON ISD,ANDERSON,N,N,0,Meets Requirements,ASVAB Alternative Test Offered,Frankston ISD
+1,7,1906,NECHES ISD,ANDERSON,N,N,1,Meets Requirements, ,Neches ISD
+1,7,1907,PALESTINE ISD,ANDERSON,N,N,0,Needs Assistance, ,Palestine ISD
+1,7,1908,WESTWOOD ISD,ANDERSON,N,N,0,Needs Assistance, ,Westwood ISD
+1,7,1909,SLOCUM ISD,ANDERSON,N,N,0,Meets Requirements, ,Slocum ISD
+2,18,2901,ANDREWS ISD,ANDREWS,N,N,0,Needs Assistance, ,Andrews ISD
+3,7,3801,PINEYWOODS COMMUNITY ACADEMY,ANGELINA,Y,N,1,Meets Requirements, ,Pineywoods Community Academy
+3,7,3902,HUDSON ISD,ANGELINA,N,N,0,Meets Requirements, ,Hudson ISD
+3,7,3903,LUFKIN ISD,ANGELINA,N,N,1,Needs Assistance, ,Lufkin ISD
+3,7,3904,HUNTINGTON ISD,ANGELINA,N,N,0,Needs Assistance, ,Huntington ISD
+3,7,3905,DIBOLL ISD,ANGELINA,N,N, ,Meets Requirements, ,Diboll ISD
+3,7,3906,ZAVALLA ISD,ANGELINA,N,N,0,Meets Requirements, ,Zavalla ISD
+3,7,3907,CENTRAL ISD,ANGELINA,N,N,0,Meets Requirements, ,Central ISD
+4,2,4901,ARANSAS COUNTY ISD,ARANSAS,N,N,0,Needs Assistance, ,Aransas County ISD
+5,9,5901,ARCHER CITY ISD,ARCHER,N,N,1,Meets Requirements, ,Archer City ISD
+5,9,5902,HOLLIDAY ISD,ARCHER,N,N,0,Meets Requirements, ,Holliday ISD
+5,9,5904,WINDTHORST ISD,ARCHER,N,N,0,Meets Requirements, ,Windthorst ISD
+6,16,6902,CLAUDE ISD,ARMSTRONG,N,N, ,Meets Requirements, ,Claude ISD
+7,20,7901,CHARLOTTE ISD,ATASCOSA,N,N,0,Meets Requirements, ,Charlotte ISD
+7,20,7902,JOURDANTON ISD,ATASCOSA,N,N,0,Meets Requirements, ,Jourdanton ISD
+7,20,7904,LYTLE ISD,ATASCOSA,N,N,0,Needs Assistance, ,Lytle ISD
+7,20,7905,PLEASANTON ISD,ATASCOSA,N,N,0,Needs Assistance, ,Pleasanton ISD
+7,20,7906,POTEET ISD,ATASCOSA,N,N,0,Needs Assistance, ,Poteet ISD
+8,6,8901,BELLVILLE ISD,AUSTIN,N,N,0,Needs Intervention, ,Bellville ISD
+8,6,8902,SEALY ISD,AUSTIN,N,N,0,Meets Requirements, ,Sealy ISD
+8,6,8903,BRAZOS ISD,AUSTIN,N,N,0,Meets Requirements, ,Brazos ISD
+9,17,9901,MULESHOE ISD,BAILEY,N,N,0,Meets Requirements, ,Muleshoe ISD
+10,20,10901,MEDINA ISD,BANDERA,N,N, ,Meets Requirements, ,Medina ISD
+10,20,10902,BANDERA ISD,BANDERA,N,N,0,Needs Assistance, ,Bandera ISD
+11,13,11901,BASTROP ISD,BASTROP,N,N,0,Needs Intervention, ,Bastrop ISD
+11,13,11902,ELGIN ISD,BASTROP,N,N,0,Needs Intervention, ,Elgin ISD
+11,13,11904,SMITHVILLE ISD,BASTROP,N,N,0,Needs Assistance, ,Smithville ISD
+11,13,11905,MCDADE ISD,BASTROP,N,N,0,Meets Requirements, ,McDade ISD
+12,9,12901,SEYMOUR ISD,BAYLOR,N,N,1,Meets Requirements, ,Seymour ISD
+13,2,13801,ST MARY'S ACADEMY CHARTER SCHOOL,BEE,Y,N, ,Meets Requirements, ,St Mary's Academy Charter School
+13,2,13901,BEEVILLE ISD,BEE,N,N,0,Needs Assistance, ,Beeville ISD
+13,2,13902,PAWNEE ISD,BEE,N,N, ,Meets Requirements, ,Pawnee ISD
+13,2,13903,PETTUS ISD,BEE,N,N,0,Meets Requirements, ,Pettus ISD
+13,2,13905,SKIDMORE-TYNAN ISD,BEE,N,N, ,Meets Requirements, ,Skidmore-Tynan ISD
+14,20,14801,RICHARD MILBURN ALTER HIGH SCHOOL - KILLEEN,BELL,Y,Y, ,Needs Intervention, ,Richard Milburn Alter High School - Killeen
+14,12,14803,PRIORITY CHARTER SCHOOLS,BELL,Y,N,0,Meets Requirements, ,Priority Charter Schools
+14,12,14804,ORENDA CHARTER SCHOOL,BELL,Y,N,0,Meets Requirements, ,Orenda Charter School
+14,12,14901,ACADEMY ISD,BELL,N,N,0,Meets Requirements, ,Academy ISD
+14,13,14902,BARTLETT ISD,BELL,N,N, ,Meets Requirements, ,Bartlett ISD
+14,12,14903,BELTON ISD,BELL,N,N,0,Needs Assistance, ,Belton ISD
+14,12,14905,HOLLAND ISD,BELL,N,N,0,Meets Requirements, ,Holland ISD
+14,12,14906,KILLEEN ISD,BELL,N,N,0,Needs Assistance, ,Killeen ISD
+14,12,14907,ROGERS ISD,BELL,N,N,0,Meets Requirements, ,Rogers ISD
+14,12,14908,SALADO ISD,BELL,N,N,0,Meets Requirements, ,Salado ISD
+14,12,14909,TEMPLE ISD,BELL,N,N,0,Needs Assistance, ,Temple ISD
+14,12,14910,TROY ISD,BELL,N,N,0,Meets Requirements, ,Troy ISD
+15,20,15801,POR VIDA ACADEMY,BEXAR,Y,Y, ,Meets Requirements, ,Por Vida Academy
+15,20,15802,GEORGE GERVIN ACADEMY,BEXAR,Y,N, ,Meets Requirements, ,George Gervin Academy
+15,20,15805,NEW FRONTIERS PUBLIC SCHOOLS INC,BEXAR,Y,N, ,Meets Requirements, ,New Frontiers Public Schools Inc
+15,20,15806,LEGACY TRADITIONAL SCHOOLS - TEXAS,BEXAR,Y,N,0,Needs Assistance, ,Legacy Traditional Schools - Texas
+15,20,15807,SOUTHWEST PREPARATORY SCHOOL,BEXAR,Y,N,0,Meets Requirements, ,Southwest Preparatory School
+15,20,15808,INSPIRE ACADEMIES,BEXAR,Y,N, ,Meets Requirements,ASVAB Test not Offered,Inspire Academies
+15,20,15809,BEXAR COUNTY ACADEMY,BEXAR,Y,N, ,Meets Requirements, ,Bexar County Academy
+15,20,15814,POSITIVE SOLUTIONS CHARTER SCHOOL,BEXAR,Y,Y, ,Meets Requirements, ,Positive Solutions Charter School
+15,20,15815,HERITAGE ACADEMY,BEXAR,Y,Y, ,Meets Requirements, ,Heritage Academy
+15,20,15822,JUBILEE ACADEMIES,BEXAR,Y,N,0,Needs Assistance, ,Jubilee Academies
+15,20,15825,LIGHTHOUSE PUBLIC SCHOOLS,BEXAR,Y,N, ,Meets Requirements,ASVAB Test not Offered,Lighthouse Public Schools
+15,20,15827,SCHOOL OF SCIENCE AND TECHNOLOGY,BEXAR,Y,N,0,Meets Requirements, ,School Of Science And Technology
+15,20,15828,HARMONY PUBLIC SCHOOLS - SOUTH TEXAS,BEXAR,Y,N,0,Needs Assistance, ,Harmony Public Schools - South Texas
+15,20,15830,BROOKS ACADEMIES OF TEXAS,BEXAR,Y,N,0,Meets Requirements, ,Brooks Academies Of Texas
+15,20,15831,SCHOOL OF SCIENCE AND TECHNOLOGY DISCOVERY,BEXAR,Y,N,0,Meets Requirements, ,School Of Science And Technology Discovery
+15,20,15833,HENRY FORD ACADEMY ALAMEDA SCHOOL FOR ART + DESIGN,BEXAR,Y,N, ,Meets Requirements, ,Henry Ford Academy Alameda School For Art + Design
+15,20,15834,BASIS TEXAS,BEXAR,Y,N,1,Meets Requirements, ,Basis Texas
+15,20,15835,GREAT HEARTS TEXAS,BEXAR,Y,N,0,Meets Requirements,ASVAB Test not Offered,Great Hearts Texas
+15,20,15836,ELEANOR KOLITZ HEBREW LANGUAGE ACADEMY,BEXAR,Y,N, ,Meets Requirements, ,Eleanor Kolitz Hebrew Language Academy
+15,20,15838,COMPASS ROSE PUBLIC SCHOOLS,BEXAR,Y,N,0,Needs Assistance,ASVAB Test not Offered,Compass Rose Public Schools
+15,20,15839,PROMESA ACADEMY CHARTER SCHOOL,BEXAR,Y,N, ,Meets Requirements, ,Promesa Academy Charter School
+15,20,15840,SAN ANTONIO PREPARATORY SCHOOLS,BEXAR,Y,N, ,Meets Requirements, ,San Antonio Preparatory Schools
+15,20,15841,THE GATHERING PLACE,BEXAR,Y,N, ,Meets Requirements, ,The Gathering Place
+15,20,15842,ROYAL PUBLIC SCHOOLS,BEXAR,Y,N, ,Meets Requirements, ,Royal Public Schools
+15,20,15843,PRELUDE PREPARATORY CHARTER SCHOOL,BEXAR,Y,N, ,Meets Requirements, ,Prelude Preparatory Charter School
+15,20,15901,ALAMO HEIGHTS ISD,BEXAR,N,N,0,Meets Requirements, ,Alamo Heights ISD
+15,20,15904,HARLANDALE ISD,BEXAR,N,N,0,Needs Intervention, ,Harlandale ISD
+15,20,15905,EDGEWOOD ISD,BEXAR,N,N,0,Needs Intervention, ,Edgewood ISD
+15,20,15906,RANDOLPH FIELD ISD,BEXAR,N,N,0,Meets Requirements, ,Randolph Field ISD
+15,20,15907,SAN ANTONIO ISD,BEXAR,N,N,0,Needs Assistance, ,San Antonio ISD
+15,20,15908,SOUTH SAN ANTONIO ISD,BEXAR,N,N,0,Needs Intervention, ,South San Antonio ISD
+15,20,15909,SOMERSET ISD,BEXAR,N,N, ,Meets Requirements, ,Somerset ISD
+15,20,15910,NORTH EAST ISD,BEXAR,N,N,0,Meets Requirements, ,North East ISD
+15,20,15911,EAST CENTRAL ISD,BEXAR,N,N,0,Needs Intervention, ,East Central ISD
+15,20,15912,SOUTHWEST ISD,BEXAR,N,N,0,Needs Assistance, ,Southwest ISD
+15,20,15913,LACKLAND ISD,BEXAR,N,N,0,Meets Requirements, ,Lackland ISD
+15,20,15914,FT SAM HOUSTON ISD,BEXAR,N,N,0,Meets Requirements, ,Ft Sam Houston ISD
+15,20,15915,NORTHSIDE ISD,BEXAR,N,N,0,Meets Requirements,ASVAB Alternative Test Offered,Northside ISD
+15,20,15916,JUDSON ISD,BEXAR,N,N,0,Needs Assistance, ,Judson ISD
+15,20,15917,SOUTHSIDE ISD,BEXAR,N,N,0,Needs Assistance, ,Southside ISD
+16,13,16901,JOHNSON CITY ISD,BLANCO,N,N,0,Meets Requirements, ,Johnson City ISD
+16,13,16902,BLANCO ISD,BLANCO,N,N,0,Meets Requirements, ,Blanco ISD
+17,17,17901,BORDEN COUNTY ISD,BORDEN,N,N, ,Meets Requirements, ,Borden County ISD
+18,12,18901,CLIFTON ISD,BOSQUE,N,N,0,Meets Requirements, ,Clifton ISD
+18,12,18902,MERIDIAN ISD,BOSQUE,N,N,0,Meets Requirements, ,Meridian ISD
+18,12,18903,MORGAN ISD,BOSQUE,N,N, ,Meets Requirements, ,Morgan ISD
+18,12,18904,VALLEY MILLS ISD,BOSQUE,N,N,0,Meets Requirements, ,Valley Mills ISD
+18,12,18905,WALNUT SPRINGS ISD,BOSQUE,N,N, ,Meets Requirements, ,Walnut Springs ISD
+18,12,18906,IREDELL ISD,BOSQUE,N,N, ,Meets Requirements, ,Iredell ISD
+18,12,18907,KOPPERL ISD,BOSQUE,N,N, ,Meets Requirements, ,Kopperl ISD
+18,12,18908,CRANFILLS GAP ISD,BOSQUE,N,N, ,Meets Requirements, ,Cranfills Gap ISD
+19,8,19901,DEKALB ISD,BOWIE,N,N,0,Meets Requirements, ,Dekalb ISD
+19,8,19902,HOOKS ISD,BOWIE,N,N,0,Meets Requirements, ,Hooks ISD
+19,8,19903,MAUD ISD,BOWIE,N,N, ,Meets Requirements, ,Maud ISD
+19,8,19905,NEW BOSTON ISD,BOWIE,N,N,0,Meets Requirements, ,New Boston ISD
+19,8,19906,REDWATER ISD,BOWIE,N,N,0,Meets Requirements, ,Redwater ISD
+19,8,19907,TEXARKANA ISD,BOWIE,N,N,0,Needs Intervention, ,Texarkana ISD
+19,8,19908,LIBERTY-EYLAU ISD,BOWIE,N,N,0,Needs Substantial Intervention, ,Liberty-Eylau ISD
+19,8,19909,SIMMS ISD,BOWIE,N,N,0,Meets Requirements, ,Simms ISD
+19,8,19910,MALTA ISD,BOWIE,N,N, ,Meets Requirements, ,Malta ISD
+19,8,19911,RED LICK ISD,BOWIE,N,N, ,Meets Requirements, ,Red Lick ISD
+19,8,19912,PLEASANT GROVE ISD,BOWIE,N,N,0,Meets Requirements, ,Pleasant Grove ISD
+19,8,19913,HUBBARD ISD,BOWIE,N,N, ,Meets Requirements, ,Hubbard ISD
+19,8,19914,LEARY ISD,BOWIE,N,N, ,Meets Requirements, ,Leary ISD
+20,4,20901,ALVIN ISD,BRAZORIA,N,N,0,Meets Requirements, ,Alvin ISD
+20,4,20902,ANGLETON ISD,BRAZORIA,N,N,1,Needs Assistance, ,Angleton ISD
+20,4,20904,DANBURY ISD,BRAZORIA,N,N,0,Meets Requirements, ,Danbury ISD
+20,4,20905,BRAZOSPORT ISD,BRAZORIA,N,N,1,Needs Assistance, ,Brazosport ISD
+20,4,20906,SWEENY ISD,BRAZORIA,N,N,0,Meets Requirements, ,Sweeny ISD
+20,4,20907,COLUMBIA-BRAZORIA ISD,BRAZORIA,N,N,0,Needs Assistance, ,Columbia-Brazoria ISD
+20,4,20908,PEARLAND ISD,BRAZORIA,N,N,0,Meets Requirements, ,Pearland ISD
+20,4,20910,DAMON ISD,BRAZORIA,N,N, ,Needs Assistance, ,Damon ISD
+21,6,21803,BRAZOS SCHOOL FOR INQUIRY & CREATIVITY,BRAZOS,Y,N, ,Meets Requirements, ,Brazos School For Inquiry & Creativity
+21,6,21805,ARROW ACADEMY,BRAZOS,Y,N,0,Meets Requirements, ,Arrow Academy
+21,6,21901,COLLEGE STATION ISD,BRAZOS,N,N,0,Needs Assistance, ,College Station ISD
+21,6,21902,BRYAN ISD,BRAZOS,N,N,0,Needs Assistance, ,Bryan ISD
+22,18,22004,TERLINGUA CSD,BREWSTER,N,N, ,Meets Requirements, ,Terlingua CSD
+22,18,22901,ALPINE ISD,BREWSTER,N,N,0,Meets Requirements, ,Alpine ISD
+22,18,22902,MARATHON ISD,BREWSTER,N,N, ,Meets Requirements, ,Marathon ISD
+22,18,22903,SAN VICENTE ISD,BREWSTER,N,N, ,Meets Requirements, ,San Vicente ISD
+23,16,23902,SILVERTON ISD,BRISCOE,N,N, ,Meets Requirements, ,Silverton ISD
+24,1,24901,BROOKS COUNTY ISD,BROOKS,N,N,0,Meets Requirements, ,Brooks County ISD
+25,15,25901,BANGS ISD,BROWN,N,N,0,Meets Requirements, ,Bangs ISD
+25,15,25902,BROWNWOOD ISD,BROWN,N,N,0,Needs Assistance, ,Brownwood ISD
+25,15,25904,BLANKET ISD,BROWN,N,N, ,Meets Requirements, ,Blanket ISD
+25,15,25905,MAY ISD,BROWN,N,N,0,Meets Requirements, ,May ISD
+25,15,25906,ZEPHYR ISD,BROWN,N,N, ,Meets Requirements, ,Zephyr ISD
+25,15,25908,BROOKESMITH ISD,BROWN,N,N,0,Meets Requirements, ,Brookesmith ISD
+25,15,25909,EARLY ISD,BROWN,N,N,0,Meets Requirements, ,Early ISD
+26,6,26901,CALDWELL ISD,BURLESON,N,N,0,Meets Requirements, ,Caldwell ISD
+26,6,26902,SOMERVILLE ISD,BURLESON,N,N,0,Meets Requirements, ,Somerville ISD
+26,6,26903,SNOOK ISD,BURLESON,N,N,0,Meets Requirements, ,Snook ISD
+27,13,27903,BURNET CISD,BURNET,N,N,0,Needs Assistance, ,Burnet CISD
+27,13,27904,MARBLE FALLS ISD,BURNET,N,N,0,Needs Assistance, ,Marble Falls ISD
+28,13,28902,LOCKHART ISD,CALDWELL,N,N,0,Needs Intervention, ,Lockhart ISD
+28,20,28903,LULING ISD,CALDWELL,N,N,0,Needs Assistance, ,Luling ISD
+28,13,28906,PRAIRIE LEA ISD,CALDWELL,N,N, ,Meets Requirements, ,Prairie Lea ISD
+29,3,29901,CALHOUN COUNTY ISD,CALHOUN,N,N,0,Needs Assistance, ,Calhoun County ISD
+30,14,30901,CROSS PLAINS ISD,CALLAHAN,N,N,0,Meets Requirements, ,Cross Plains ISD
+30,14,30902,CLYDE CISD,CALLAHAN,N,N,0,Meets Requirements, ,Clyde CISD
+30,14,30903,BAIRD ISD,CALLAHAN,N,N,0,Meets Requirements, ,Baird ISD
+30,14,30906,EULA ISD,CALLAHAN,N,N,1,Meets Requirements, ,Eula ISD
+31,1,31901,BROWNSVILLE ISD,CAMERON,N,N, ,Meets Requirements, ,Brownsville ISD
+31,1,31903,HARLINGEN CISD,CAMERON,N,N,0,Needs Assistance, ,Harlingen CISD
+31,1,31905,LA FERIA ISD,CAMERON,N,N,0,Meets Requirements, ,La Feria ISD
+31,1,31906,LOS FRESNOS CISD,CAMERON,N,N,1,Meets Requirements, ,Los Fresnos CISD
+31,1,31909,POINT ISABEL ISD,CAMERON,N,N,0,Meets Requirements, ,Point Isabel ISD
+31,1,31911,RIO HONDO ISD,CAMERON,N,N,0,Needs Assistance, ,Rio Hondo ISD
+31,1,31912,SAN BENITO CISD,CAMERON,N,N,0,Needs Assistance, ,San Benito CISD
+31,1,31913,SANTA MARIA ISD,CAMERON,N,N,0,Meets Requirements, ,Santa Maria ISD
+31,1,31914,SANTA ROSA ISD,CAMERON,N,N,0,Meets Requirements, ,Santa Rosa ISD
+31,1,31916,SOUTH TEXAS ISD,CAMERON,N,N,1,Meets Requirements,ASVAB Test not Offered,South Texas ISD
+32,8,32902,PITTSBURG ISD,CAMP,N,N,1,Meets Requirements, ,Pittsburg ISD
+33,16,33901,GROOM ISD,CARSON,N,N, ,Meets Requirements, ,Groom ISD
+33,16,33902,PANHANDLE ISD,CARSON,N,N,1,Meets Requirements, ,Panhandle ISD
+33,16,33904,WHITE DEER ISD,CARSON,N,N,0,Meets Requirements, ,White Deer ISD
+34,8,34901,ATLANTA ISD,CASS,N,N,0,Meets Requirements, ,Atlanta ISD
+34,8,34902,AVINGER ISD,CASS,N,N, ,Meets Requirements, ,Avinger ISD
+34,8,34903,HUGHES SPRINGS ISD,CASS,N,N,0,Meets Requirements, ,Hughes Springs ISD
+34,8,34905,LINDEN-KILDARE CISD,CASS,N,N,0,Meets Requirements, ,Linden-Kildare CISD
+34,8,34906,MCLEOD ISD,CASS,N,N,0,Meets Requirements, ,McLeod ISD
+34,8,34907,QUEEN CITY ISD,CASS,N,N,1,Meets Requirements, ,Queen City ISD
+34,8,34909,BLOOMBURG ISD,CASS,N,N, ,Meets Requirements, ,Bloomburg ISD
+35,16,35901,DIMMITT ISD,CASTRO,N,N,0,Needs Assistance, ,Dimmitt ISD
+35,16,35902,HART ISD,CASTRO,N,N, ,Meets Requirements, ,Hart ISD
+35,16,35903,NAZARETH ISD,CASTRO,N,N, ,Meets Requirements, ,Nazareth ISD
+36,4,36901,ANAHUAC ISD,CHAMBERS,N,N,0,Meets Requirements, ,Anahuac ISD
+36,4,36902,BARBERS HILL ISD,CHAMBERS,N,N,1,Meets Requirements, ,Barbers Hill ISD
+36,5,36903,EAST CHAMBERS ISD,CHAMBERS,N,N,0,Meets Requirements, ,East Chambers ISD
+37,7,37901,ALTO ISD,CHEROKEE,N,N,0,Meets Requirements, ,Alto ISD
+37,7,37904,JACKSONVILLE ISD,CHEROKEE,N,N,0,Needs Assistance, ,Jacksonville ISD
+37,7,37907,RUSK ISD,CHEROKEE,N,N,0,Needs Assistance, ,Rusk ISD
+37,7,37908,NEW SUMMERFIELD ISD,CHEROKEE,N,N, ,Meets Requirements, ,New Summerfield ISD
+37,7,37909,WELLS ISD,CHEROKEE,N,N, ,Meets Requirements, ,Wells ISD
+38,16,38901,CHILDRESS ISD,CHILDRESS,N,N,0,Meets Requirements, ,Childress ISD
+39,9,39902,HENRIETTA ISD,CLAY,N,N,0,Meets Requirements, ,Henrietta ISD
+39,9,39903,PETROLIA CISD,CLAY,N,N,0,Meets Requirements, ,Petrolia CISD
+39,9,39904,BELLEVUE ISD,CLAY,N,N, ,Meets Requirements, ,Bellevue ISD
+39,9,39905,MIDWAY ISD,CLAY,N,N, ,Meets Requirements, ,Midway ISD
+40,17,40901,MORTON ISD,COCHRAN,N,N, ,Meets Requirements, ,Morton ISD
+40,17,40902,WHITEFACE CISD,COCHRAN,N,N, ,Meets Requirements, ,Whiteface CISD
+41,15,41901,BRONTE ISD,COKE,N,N, ,Meets Requirements, ,Bronte ISD
+41,15,41902,ROBERT LEE ISD,COKE,N,N,0,Meets Requirements, ,Robert Lee ISD
+42,15,42901,COLEMAN ISD,COLEMAN,N,N,0,Meets Requirements, ,Coleman ISD
+42,15,42903,SANTA ANNA ISD,COLEMAN,N,N,1,Meets Requirements, ,Santa Anna ISD
+42,15,42905,PANTHER CREEK CISD,COLEMAN,N,N, ,Meets Requirements, ,Panther Creek CISD
+43,10,43801,IMAGINE INTERNATIONAL ACADEMY OF NORTH TEXAS,COLLIN,Y,N, ,Meets Requirements, ,Imagine International Academy Of North Texas
+43,10,43802,LONE STAR LANGUAGE ACADEMY,COLLIN,Y,N, ,Meets Requirements, ,Lone Star Language Academy
+43,10,43901,ALLEN ISD,COLLIN,N,N,0,Meets Requirements, ,Allen ISD
+43,10,43902,ANNA ISD,COLLIN,N,N,0,Meets Requirements, ,Anna ISD
+43,10,43903,CELINA ISD,COLLIN,N,N,0,Meets Requirements, ,Celina ISD
+43,10,43904,FARMERSVILLE ISD,COLLIN,N,N,0,Meets Requirements, ,Farmersville ISD
+43,10,43905,FRISCO ISD,COLLIN,N,N,0,Meets Requirements, ,Frisco ISD
+43,10,43907,MCKINNEY ISD,COLLIN,N,N,0,Meets Requirements, ,McKinney ISD
+43,10,43908,MELISSA ISD,COLLIN,N,N,0,Meets Requirements, ,Melissa ISD
+43,10,43910,PLANO ISD,COLLIN,N,N,0,Meets Requirements, ,Plano ISD
+43,10,43911,PRINCETON ISD,COLLIN,N,N,0,Needs Assistance, ,Princeton ISD
+43,10,43912,PROSPER ISD,COLLIN,N,N,0,Meets Requirements, ,Prosper ISD
+43,10,43914,WYLIE ISD,COLLIN,N,N, ,Meets Requirements, ,Wylie ISD
+43,10,43917,BLUE RIDGE ISD,COLLIN,N,N,0,Meets Requirements, ,Blue Ridge ISD
+43,10,43918,COMMUNITY ISD,COLLIN,N,N,0,Meets Requirements, ,Community ISD
+43,10,43919,LOVEJOY ISD,COLLIN,N,N,1,Meets Requirements, ,Lovejoy ISD
+44,16,44902,WELLINGTON ISD,COLLINGSWORTH,N,N,0,Meets Requirements, ,Wellington ISD
+45,4,45902,COLUMBUS ISD,COLORADO,N,N,0,Needs Assistance, ,Columbus ISD
+45,3,45903,RICE CISD,COLORADO,N,N,0,Needs Assistance, ,Rice CISD
+45,3,45905,WEIMAR ISD,COLORADO,N,N,1,Meets Requirements,ASVAB Alternative Test Offered,Weimar ISD
+46,20,46802,TRINITY CHARTER SCHOOL,COMAL,Y,Y, ,Meets Requirements, ,Trinity Charter School
+46,20,46901,NEW BRAUNFELS ISD,COMAL,N,N,0,Meets Requirements, ,New Braunfels ISD
+46,20,46902,COMAL ISD,COMAL,N,N,0,Meets Requirements, ,Comal ISD
+47,14,47901,COMANCHE ISD,COMANCHE,N,N,0,Meets Requirements, ,Comanche ISD
+47,14,47902,DE LEON ISD,COMANCHE,N,N,0,Meets Requirements, ,De Leon ISD
+47,14,47903,GUSTINE ISD,COMANCHE,N,N, ,Meets Requirements, ,Gustine ISD
+47,14,47905,SIDNEY ISD,COMANCHE,N,N, ,Meets Requirements, ,Sidney ISD
+48,15,48901,EDEN CISD,CONCHO,N,N,0,Meets Requirements, ,Eden CISD
+48,15,48903,PAINT ROCK ISD,CONCHO,N,N,0,Meets Requirements, ,Paint Rock ISD
+49,11,49901,GAINESVILLE ISD,COOKE,N,N,0,Needs Assistance, ,Gainesville ISD
+49,11,49902,MUENSTER ISD,COOKE,N,N,1,Meets Requirements, ,Muenster ISD
+49,11,49903,VALLEY VIEW ISD,COOKE,N,N,0,Meets Requirements, ,Valley View ISD
+49,11,49905,CALLISBURG ISD,COOKE,N,N,0,Meets Requirements, ,Callisburg ISD
+49,11,49906,ERA ISD,COOKE,N,N, ,Meets Requirements, ,Era ISD
+49,11,49907,LINDSAY ISD,COOKE,N,N,0,Meets Requirements, ,Lindsay ISD
+49,11,49908,WALNUT BEND ISD,COOKE,N,N, ,Meets Requirements, ,Walnut Bend ISD
+49,11,49909,SIVELLS BEND ISD,COOKE,N,N, ,Meets Requirements, ,Sivells Bend ISD
+50,12,50901,EVANT ISD,CORYELL,N,N,0,Meets Requirements, ,Evant ISD
+50,12,50902,GATESVILLE ISD,CORYELL,N,N,0,Meets Requirements, ,Gatesville ISD
+50,12,50904,OGLESBY ISD,CORYELL,N,N, ,Meets Requirements, ,Oglesby ISD
+50,12,50909,JONESBORO ISD,CORYELL,N,N, ,Meets Requirements, ,Jonesboro ISD
+50,12,50910,COPPERAS COVE ISD,CORYELL,N,N,0,Needs Assistance, ,Copperas Cove ISD
+51,17,51901,PADUCAH ISD,COTTLE,N,N, ,Meets Requirements, ,Paducah ISD
+52,15,52901,CRANE ISD,CRANE,N,N,0,Meets Requirements, ,Crane ISD
+53,15,53001,CROCKETT COUNTY CONSOLIDATED CSD,CROCKETT,N,N,0,Meets Requirements, ,Crockett County Consolidated CSD
+54,17,54901,CROSBYTON CISD,CROSBY,N,N,0,Meets Requirements, ,Crosbyton CISD
+54,17,54902,LORENZO ISD,CROSBY,N,N, ,Meets Requirements, ,Lorenzo ISD
+54,17,54903,RALLS ISD,CROSBY,N,N,0,Meets Requirements, ,Ralls ISD
+55,18,55901,CULBERSON COUNTY-ALLAMOORE ISD,CULBERSON,N,N, ,Meets Requirements, ,Culberson County-Allamoore ISD
+56,16,56901,DALHART ISD,DALLAM,N,N,0,Meets Requirements, ,Dalhart ISD
+56,16,56902,TEXLINE ISD,DALLAM,N,N, ,Meets Requirements, ,Texline ISD
+57,10,57802,PEGASUS SCHOOL OF LIBERAL ARTS AND SCIENCES,DALLAS,Y,N, ,Meets Requirements, ,Pegasus School Of Liberal Arts And Sciences
+57,10,57803,UPLIFT EDUCATION,DALLAS,Y,N,0,Meets Requirements,ASVAB Test not Offered,Uplift Education
+57,10,57804,TEXANS CAN ACADEMIES,DALLAS,Y,Y, ,Needs Assistance,ASVAB Test not Offered,Texans Can Academies
+57,10,57805,LUMIN EDUCATION,DALLAS,Y,N, ,Meets Requirements, ,Lumin Education
+57,10,57806,ADVANTAGE ACADEMY,DALLAS,Y,N, ,Needs Assistance, ,Advantage Academy
+57,10,57807,LIFE SCHOOL,DALLAS,Y,N,0,Needs Assistance, ,Life School
+57,10,57808,UNIVERSAL ACADEMY,DALLAS,Y,N,0,Meets Requirements, ,Universal Academy
+57,10,57809,NOVA ACADEMY,DALLAS,Y,N, ,Meets Requirements, ,Nova Academy
+57,10,57810,ACADEMY OF DALLAS,DALLAS,Y,N, ,Meets Requirements, ,Academy Of Dallas
+57,10,57813,TRINITY BASIN PREPARATORY,DALLAS,Y,N,0,Meets Requirements, ,Trinity Basin Preparatory
+57,10,57814,ACADEMY FOR ACADEMIC EXCELLENCE,DALLAS,Y,Y, ,Needs Assistance,ASVAB Test not Offered,Academy For Academic Excellence
+57,10,57816,A W BROWN LEADERSHIP ACADEMY,DALLAS,Y,N, ,Meets Requirements, ,A W Brown Leadership Academy
+57,10,57819,JEAN MASSIEU ACADEMY,DALLAS,Y,N, ,Meets Requirements, ,Jean Massieu Academy
+57,10,57827,NOVA ACADEMY SOUTHEAST,DALLAS,Y,N, ,Meets Requirements, ,Nova Academy Southeast
+57,10,57828,WINFREE ACADEMY CHARTER SCHOOLS,DALLAS,Y,Y, ,Needs Assistance, ,Winfree Academy Charter Schools
+57,10,57829,A+ ACADEMY,DALLAS,Y,N,0,Needs Assistance, ,A+ Academy
+57,10,57830,INSPIRED VISION ACADEMY,DALLAS,Y,N,0,Meets Requirements, ,Inspired Vision Academy
+57,10,57831,GATEWAY CHARTER ACADEMY,DALLAS,Y,N, ,Meets Requirements,ASVAB Test not Offered,Gateway Charter Academy
+57,10,57833,EDUCATION CENTER INTERNATIONAL ACADEMY,DALLAS,Y,N,0,Meets Requirements, ,Education Center International Academy
+57,10,57834,EVOLUTION ACADEMY CHARTER SCHOOL,DALLAS,Y,Y, ,Needs Assistance, ,Evolution Academy Charter School
+57,10,57835,GOLDEN RULE CHARTER SCHOOL,DALLAS,Y,N,0,Meets Requirements,ASVAB Test not Offered,Golden Rule Charter School
+57,10,57836,ST ANTHONY SCHOOL,DALLAS,Y,N, ,Meets Requirements, ,St Anthony School
+57,10,57839,LA ACADEMIA DE ESTRELLAS,DALLAS,Y,N, ,Meets Requirements, ,La Academia De Estrellas
+57,10,57840,RICHLAND COLLEGIATE HIGH SCHOOL,DALLAS,Y,N, ,Meets Requirements,ASVAB Alternative Test Offered,Richland Collegiate High School
+57,10,57841,CITYSCAPE SCHOOLS,DALLAS,Y,N, ,Meets Requirements, ,Cityscape Schools
+57,10,57844,MANARA ACADEMY,DALLAS,Y,N,0,Needs Assistance,ASVAB Test not Offered,Manara Academy
+57,10,57845,UME PREPARATORY ACADEMY,DALLAS,Y,N,0,Meets Requirements, ,Ume Preparatory Academy
+57,10,57846,LEGACY PREPARATORY,DALLAS,Y,N,0,Meets Requirements, ,Legacy Preparatory
+57,10,57847,VILLAGE TECH SCHOOLS,DALLAS,Y,N, ,Meets Requirements, ,Village Tech Schools
+57,10,57848,INTERNATIONAL LEADERSHIP OF TEXAS (ILTEXAS),DALLAS,Y,N,0,Needs Intervention, ,International Leadership Of Texas (Iltexas)
+57,10,57850,PIONEER TECHNOLOGY & ARTS ACADEMY,DALLAS,Y,N,0,Meets Requirements,ASVAB Test not Offered,Pioneer Technology & Arts Academy
+57,10,57851,BRIDGEWAY PREPARATORY ACADEMY,DALLAS,Y,N, ,Meets Requirements, ,Bridgeway Preparatory Academy
+57,10,57903,CARROLLTON-FARMERS BRANCH ISD,DALLAS,N,N,0,Needs Assistance, ,Carrollton-Farmers Branch ISD
+57,10,57904,CEDAR HILL ISD,DALLAS,N,N,0,Needs Substantial Intervention, ,Cedar Hill ISD
+57,10,57905,DALLAS ISD,DALLAS,N,N,0,Needs Assistance, ,Dallas ISD
+57,10,57906,DESOTO ISD,DALLAS,N,N,0,Needs Intervention, ,Desoto ISD
+57,10,57907,DUNCANVILLE ISD,DALLAS,N,N,0,Needs Intervention, ,Duncanville ISD
+57,10,57909,GARLAND ISD,DALLAS,N,N,0,Needs Assistance, ,Garland ISD
+57,10,57910,GRAND PRAIRIE ISD,DALLAS,N,N, ,Needs Assistance, ,Grand Prairie ISD
+57,10,57911,HIGHLAND PARK ISD,DALLAS,N,N,0,Meets Requirements, ,Highland Park ISD
+57,10,57912,IRVING ISD,DALLAS,N,N,0,Needs Assistance, ,Irving ISD
+57,10,57913,LANCASTER ISD,DALLAS,N,N,0,Needs Assistance, ,Lancaster ISD
+57,10,57914,MESQUITE ISD,DALLAS,N,N,0,Meets Requirements, ,Mesquite ISD
+57,10,57916,RICHARDSON ISD,DALLAS,N,N,0,Meets Requirements, ,Richardson ISD
+57,10,57919,SUNNYVALE ISD,DALLAS,N,N,0,Meets Requirements, ,Sunnyvale ISD
+57,10,57922,COPPELL ISD,DALLAS,N,N,0,Meets Requirements, ,Coppell ISD
+58,17,58902,DAWSON ISD,DAWSON,N,N, ,Meets Requirements, ,Dawson ISD
+58,17,58905,KLONDIKE ISD,DAWSON,N,N, ,Meets Requirements, ,Klondike ISD
+58,17,58906,LAMESA ISD,DAWSON,N,N, ,Needs Intervention, ,Lamesa ISD
+58,17,58909,SANDS CISD,DAWSON,N,N, ,Meets Requirements, ,Sands CISD
+59,16,59901,HEREFORD ISD,DEAF SMITH,N,N,0,Meets Requirements, ,Hereford ISD
+59,16,59902,WALCOTT ISD,DEAF SMITH,N,N, ,Meets Requirements, ,Walcott ISD
+60,8,60902,COOPER ISD,DELTA,N,N,0,Meets Requirements, ,Cooper ISD
+60,8,60914,FANNINDEL ISD,DELTA,N,N,0,Meets Requirements, ,Fannindel ISD
+61,11,61802,NORTH TEXAS COLLEGIATE ACADEMY,DENTON,Y,N,0,Meets Requirements, ,North Texas Collegiate Academy
+61,10,61804,LEADERSHIP PREP SCHOOL,DENTON,Y,N,0,Meets Requirements, ,Leadership Prep School
+61,11,61805,TRIVIUM ACADEMY,DENTON,Y,N, ,Meets Requirements, ,Trivium Academy
+61,11,61901,DENTON ISD,DENTON,N,N,0,Needs Assistance, ,Denton ISD
+61,11,61902,LEWISVILLE ISD,DENTON,N,N,0,Meets Requirements, ,Lewisville ISD
+61,11,61903,PILOT POINT ISD,DENTON,N,N,0,Meets Requirements, ,Pilot Point ISD
+61,11,61905,KRUM ISD,DENTON,N,N,0,Needs Assistance, ,Krum ISD
+61,11,61906,PONDER ISD,DENTON,N,N,0,Meets Requirements, ,Ponder ISD
+61,11,61907,AUBREY ISD,DENTON,N,N,0,Meets Requirements, ,Aubrey ISD
+61,11,61908,SANGER ISD,DENTON,N,N,0,Meets Requirements, ,Sanger ISD
+61,11,61910,ARGYLE ISD,DENTON,N,N,0,Meets Requirements, ,Argyle ISD
+61,11,61911,NORTHWEST ISD,DENTON,N,N,0,Meets Requirements, ,Northwest ISD
+61,11,61912,LAKE DALLAS ISD,DENTON,N,N,0,Meets Requirements, ,Lake Dallas ISD
+61,11,61914,LITTLE ELM ISD,DENTON,N,N,0,Needs Assistance, ,Little Elm ISD
+62,3,62901,CUERO ISD,DEWITT,N,N, ,Needs Assistance, ,Cuero ISD
+62,3,62902,NORDHEIM ISD,DEWITT,N,N, ,Meets Requirements, ,Nordheim ISD
+62,3,62903,YOAKUM ISD,DEWITT,N,N,0,Meets Requirements, ,Yoakum ISD
+62,3,62904,YORKTOWN ISD,DEWITT,N,N,0,Meets Requirements, ,Yorktown ISD
+62,3,62905,WESTHOFF ISD,DEWITT,N,N, ,Meets Requirements, ,Westhoff ISD
+62,3,62906,MEYERSVILLE ISD,DEWITT,N,N, ,Meets Requirements, ,Meyersville ISD
+63,17,63903,SPUR ISD,DICKENS,N,N, ,Meets Requirements, ,Spur ISD
+63,17,63906,PATTON SPRINGS ISD,DICKENS,N,N, ,Meets Requirements, ,Patton Springs ISD
+64,20,64903,CARRIZO SPRINGS CISD,DIMMIT,N,N,0,Needs Assistance, ,Carrizo Springs CISD
+65,16,65901,CLARENDON ISD,DONLEY,N,N,0,Meets Requirements, ,Clarendon ISD
+65,16,65902,HEDLEY ISD,DONLEY,N,N, ,Meets Requirements, ,Hedley ISD
+66,2,66005,RAMIREZ CSD,DUVAL,N,N, ,Meets Requirements, ,Ramirez CSD
+66,2,66901,BENAVIDES ISD,DUVAL,N,N,0,Meets Requirements, ,Benavides ISD
+66,2,66902,SAN DIEGO ISD,DUVAL,N,N,0,Needs Assistance, ,San Diego ISD
+66,2,66903,FREER ISD,DUVAL,N,N,0,Meets Requirements, ,Freer ISD
+67,14,67902,CISCO ISD,EASTLAND,N,N,1,Meets Requirements, ,Cisco ISD
+67,14,67903,EASTLAND ISD,EASTLAND,N,N,0,Meets Requirements, ,Eastland ISD
+67,14,67904,GORMAN ISD,EASTLAND,N,N,0,Meets Requirements, ,Gorman ISD
+67,14,67907,RANGER ISD,EASTLAND,N,N,0,Meets Requirements, ,Ranger ISD
+67,14,67908,RISING STAR ISD,EASTLAND,N,N,0,Meets Requirements, ,Rising Star ISD
+68,18,68802,COMPASS ACADEMY CHARTER SCHOOL,ECTOR,Y,N, ,Meets Requirements, ,Compass Academy Charter School
+68,18,68803,UTPB STEM ACADEMY,ECTOR,Y,N, ,Meets Requirements, ,Utpb Stem Academy
+68,18,68901,ECTOR COUNTY ISD,ECTOR,N,N,0,Needs Intervention, ,Ector County ISD
+69,15,69901,ROCKSPRINGS ISD,EDWARDS,N,N, ,Meets Requirements, ,Rocksprings ISD
+69,15,69902,NUECES CANYON CISD,EDWARDS,N,N,0,Meets Requirements, ,Nueces Canyon CISD
+70,10,70801,WAXAHACHIE FAITH FAMILY ACADEMY,ELLIS,Y,N,0,Needs Intervention, ,Waxahachie Faith Family Academy
+70,10,70901,AVALON ISD,ELLIS,N,N, ,Meets Requirements, ,Avalon ISD
+70,10,70903,ENNIS ISD,ELLIS,N,N,1,Needs Assistance, ,Ennis ISD
+70,10,70905,FERRIS ISD,ELLIS,N,N,0,Needs Assistance, ,Ferris ISD
+70,10,70907,ITALY ISD,ELLIS,N,N,0,Meets Requirements, ,Italy ISD
+70,10,70908,MIDLOTHIAN ISD,ELLIS,N,N,0,Meets Requirements, ,Midlothian ISD
+70,10,70909,MILFORD ISD,ELLIS,N,N, ,Meets Requirements, ,Milford ISD
+70,10,70910,PALMER ISD,ELLIS,N,N,0,Meets Requirements, ,Palmer ISD
+70,10,70911,RED OAK ISD,ELLIS,N,N,0,Needs Intervention, ,Red Oak ISD
+70,10,70912,WAXAHACHIE ISD,ELLIS,N,N,0,Meets Requirements, ,Waxahachie ISD
+70,10,70915,MAYPEARL ISD,ELLIS,N,N,0,Meets Requirements, ,Maypearl ISD
+71,19,71801,BURNHAM WOOD CHARTER SCHOOL DISTRICT,EL PASO,Y,N,0,Meets Requirements, ,Burnham Wood Charter School District
+71,19,71803,TRIUMPH PUBLIC HIGH SCHOOLS-EL PASO,EL PASO,Y,Y, ,Meets Requirements, ,Triumph Public High Schools-El Paso
+71,19,71804,EL PASO ACADEMY,EL PASO,Y,Y, ,Meets Requirements, ,El Paso Academy
+71,19,71806,HARMONY PUBLIC SCHOOLS - WEST TEXAS,EL PASO,Y,N,0,Meets Requirements, ,Harmony Public Schools - West Texas
+71,19,71807,LA FE PREPARATORY SCHOOL,EL PASO,Y,N, ,Meets Requirements, ,La Fe Preparatory School
+71,19,71809,VISTA DEL FUTURO CHARTER SCHOOL,EL PASO,Y,N, ,Meets Requirements, ,Vista Del Futuro Charter School
+71,19,71810,EL PASO LEADERSHIP ACADEMY,EL PASO,Y,N,0,Meets Requirements, ,El Paso Leadership Academy
+71,19,71901,CLINT ISD,EL PASO,N,N,0,Needs Assistance, ,Clint ISD
+71,19,71902,EL PASO ISD,EL PASO,N,N,0,Needs Assistance, ,El Paso ISD
+71,19,71903,FABENS ISD,EL PASO,N,N,0,Needs Intervention, ,Fabens ISD
+71,19,71904,SAN ELIZARIO ISD,EL PASO,N,N,0,Needs Intervention, ,San Elizario ISD
+71,19,71905,YSLETA ISD,EL PASO,N,N,0,Meets Requirements, ,Ysleta ISD
+71,19,71906,ANTHONY ISD,EL PASO,N,N,0,Meets Requirements, ,Anthony ISD
+71,19,71907,CANUTILLO ISD,EL PASO,N,N,0,Needs Assistance, ,Canutillo ISD
+71,19,71908,TORNILLO ISD,EL PASO,N,N,0,Meets Requirements, ,Tornillo ISD
+71,19,71909,SOCORRO ISD,EL PASO,N,N,0,Needs Assistance, ,Socorro ISD
+72,11,72801,PREMIER HIGH SCHOOLS,ERATH,Y,Y, ,Needs Assistance,ASVAB Alternative Test Offered,Premier High Schools
+72,11,72802,ERATH EXCELS ACADEMY INC,ERATH,Y,Y, ,Meets Requirements, ,Erath Excels Academy Inc
+72,11,72901,THREE WAY ISD,ERATH,N,N, ,Meets Requirements,ASVAB Alternative Test Offered,Three Way ISD
+72,11,72902,DUBLIN ISD,ERATH,N,N,1,Meets Requirements, ,Dublin ISD
+72,11,72903,STEPHENVILLE ISD,ERATH,N,N,0,Meets Requirements, ,Stephenville ISD
+72,11,72904,BLUFF DALE ISD,ERATH,N,N, ,Meets Requirements, ,Bluff Dale ISD
+72,11,72908,HUCKABAY ISD,ERATH,N,N, ,Meets Requirements, ,Huckabay ISD
+72,11,72909,LINGLEVILLE ISD,ERATH,N,N, ,Meets Requirements, ,Lingleville ISD
+72,11,72910,MORGAN MILL ISD,ERATH,N,N, ,Meets Requirements, ,Morgan Mill ISD
+73,12,73901,CHILTON ISD,FALLS,N,N, ,Meets Requirements, ,Chilton ISD
+73,12,73903,MARLIN ISD,FALLS,N,N, ,Meets Requirements, ,Marlin ISD
+73,12,73904,WESTPHALIA ISD,FALLS,N,N, ,Meets Requirements, ,Westphalia ISD
+73,12,73905,ROSEBUD-LOTT ISD,FALLS,N,N,0,Meets Requirements, ,Rosebud-Lott ISD
+74,10,74903,BONHAM ISD,FANNIN,N,N,0,Meets Requirements, ,Bonham ISD
+74,10,74904,DODD CITY ISD,FANNIN,N,N, ,Meets Requirements, ,Dodd City ISD
+74,10,74905,ECTOR ISD,FANNIN,N,N,0,Meets Requirements, ,Ector ISD
+74,8,74907,HONEY GROVE ISD,FANNIN,N,N,1,Meets Requirements, ,Honey Grove ISD
+74,10,74909,LEONARD ISD,FANNIN,N,N,0,Meets Requirements, ,Leonard ISD
+74,10,74911,SAVOY ISD,FANNIN,N,N,0,Meets Requirements, ,Savoy ISD
+74,10,74912,TRENTON ISD,FANNIN,N,N,0,Meets Requirements, ,Trenton ISD
+74,10,74917,SAM RAYBURN ISD,FANNIN,N,N,0,Meets Requirements, ,Sam Rayburn ISD
+75,13,75901,FLATONIA ISD,FAYETTE,N,N,1,Meets Requirements, ,Flatonia ISD
+75,13,75902,LA GRANGE ISD,FAYETTE,N,N,0,Meets Requirements, ,La Grange ISD
+75,13,75903,SCHULENBURG ISD,FAYETTE,N,N,0,Meets Requirements, ,Schulenburg ISD
+75,13,75906,FAYETTEVILLE ISD,FAYETTE,N,N, ,Meets Requirements, ,Fayetteville ISD
+75,13,75908,ROUND TOP-CARMINE ISD,FAYETTE,N,N,1,Meets Requirements, ,Round Top-Carmine ISD
+76,14,76903,ROBY CISD,FISHER,N,N, ,Meets Requirements, ,Roby CISD
+76,14,76904,ROTAN ISD,FISHER,N,N, ,Meets Requirements, ,Rotan ISD
+77,17,77901,FLOYDADA COLLEGIATE ISD,FLOYD,N,N,0,Meets Requirements, ,Floydada Collegiate ISD
+77,17,77902,LOCKNEY ISD,FLOYD,N,N,0,Meets Requirements, ,Lockney ISD
+78,9,78901,CROWELL ISD,FOARD,N,N, ,Meets Requirements, ,Crowell ISD
+79,4,79901,LAMAR CISD,FORT BEND,N,N,0,Needs Assistance, ,Lamar CISD
+79,4,79906,NEEDVILLE ISD,FORT BEND,N,N,0,Meets Requirements, ,Needville ISD
+79,4,79907,FORT BEND ISD,FORT BEND,N,N,0,Needs Assistance, ,Fort Bend ISD
+79,4,79910,STAFFORD MSD,FORT BEND,N,N,0,Needs Assistance, ,Stafford Msd
+80,8,80901,MOUNT VERNON ISD,FRANKLIN,N,N,0,Meets Requirements, ,Mount Vernon ISD
+81,12,81902,FAIRFIELD ISD,FREESTONE,N,N,0,Meets Requirements, ,Fairfield ISD
+81,12,81904,TEAGUE ISD,FREESTONE,N,N,1,Meets Requirements, ,Teague ISD
+81,12,81905,WORTHAM ISD,FREESTONE,N,N,0,Meets Requirements, ,Wortham ISD
+81,12,81906,DEW ISD,FREESTONE,N,N, ,Meets Requirements, ,Dew ISD
+82,20,82902,DILLEY ISD,FRIO,N,N,0,Needs Assistance, ,Dilley ISD
+82,20,82903,PEARSALL ISD,FRIO,N,N, ,Needs Assistance, ,Pearsall ISD
+83,17,83901,SEAGRAVES ISD,GAINES,N,N, ,Meets Requirements, ,Seagraves ISD
+83,17,83902,LOOP ISD,GAINES,N,N, ,Meets Requirements, ,Loop ISD
+83,17,83903,SEMINOLE ISD,GAINES,N,N,1,Meets Requirements, ,Seminole ISD
+84,4,84802,ODYSSEY ACADEMY INC,GALVESTON,Y,N,0,Meets Requirements, ,Odyssey Academy Inc
+84,4,84804,AMBASSADORS PREPARATORY ACADEMY,GALVESTON,Y,N, ,Meets Requirements, ,Ambassadors Preparatory Academy
+84,4,84901,DICKINSON ISD,GALVESTON,N,N,0,Meets Requirements, ,Dickinson ISD
+84,4,84902,GALVESTON ISD,GALVESTON,N,N,0,Needs Assistance,ASVAB Test not Offered,Galveston ISD
+84,5,84903,HIGH ISLAND ISD,GALVESTON,N,N, ,Meets Requirements, ,High Island ISD
+84,4,84906,TEXAS CITY ISD,GALVESTON,N,N,0,Needs Assistance, ,Texas City ISD
+84,4,84908,HITCHCOCK ISD,GALVESTON,N,N,0,Needs Assistance, ,Hitchcock ISD
+84,4,84909,SANTA FE ISD,GALVESTON,N,N,0,Meets Requirements, ,Santa Fe ISD
+84,4,84910,CLEAR CREEK ISD,GALVESTON,N,N,0,Meets Requirements, ,Clear Creek ISD
+84,4,84911,FRIENDSWOOD ISD,GALVESTON,N,N,0,Meets Requirements, ,Friendswood ISD
+85,17,85902,POST ISD,GARZA,N,N,0,Meets Requirements, ,Post ISD
+85,17,85903,SOUTHLAND ISD,GARZA,N,N, ,Meets Requirements, ,Southland ISD
+86,13,86024,DOSS CONSOLIDATED CSD,GILLESPIE,N,N, ,Meets Requirements, ,Doss Consolidated CSD
+86,13,86901,FREDERICKSBURG ISD,GILLESPIE,N,N,0,Needs Assistance, ,Fredericksburg ISD
+86,15,86902,HARPER ISD,GILLESPIE,N,N,0,Meets Requirements, ,Harper ISD
+87,18,87901,GLASSCOCK COUNTY ISD,GLASSCOCK,N,N,1,Meets Requirements, ,Glasscock County ISD
+88,3,88902,GOLIAD ISD,GOLIAD,N,N,0,Needs Assistance, ,Goliad ISD
+89,13,89901,GONZALES ISD,GONZALES,N,N,0,Needs Assistance, ,Gonzales ISD
+89,13,89903,NIXON-SMILEY CISD,GONZALES,N,N,0,Meets Requirements, ,Nixon-Smiley CISD
+89,13,89905,WAELDER ISD,GONZALES,N,N, ,Needs Assistance, ,Waelder ISD
+90,16,90902,LEFORS ISD,GRAY,N,N, ,Meets Requirements, ,Lefors ISD
+90,16,90903,MCLEAN ISD,GRAY,N,N, ,Meets Requirements, ,McLean ISD
+90,16,90904,PAMPA ISD,GRAY,N,N,0,Needs Assistance, ,Pampa ISD
+90,16,90905,GRANDVIEW-HOPKINS ISD,GRAY,N,N, ,Meets Requirements, ,Grandview-Hopkins ISD
+91,10,91901,BELLS ISD,GRAYSON,N,N,1,Meets Requirements, ,Bells ISD
+91,10,91902,COLLINSVILLE ISD,GRAYSON,N,N,0,Meets Requirements, ,Collinsville ISD
+91,10,91903,DENISON ISD,GRAYSON,N,N,0,Meets Requirements, ,Denison ISD
+91,10,91905,HOWE ISD,GRAYSON,N,N,0,Meets Requirements, ,Howe ISD
+91,10,91906,SHERMAN ISD,GRAYSON,N,N,0,Needs Intervention, ,Sherman ISD
+91,10,91907,TIOGA ISD,GRAYSON,N,N, ,Meets Requirements, ,Tioga ISD
+91,10,91908,VAN ALSTYNE ISD,GRAYSON,N,N,1,Meets Requirements, ,Van Alstyne ISD
+91,10,91909,WHITESBORO ISD,GRAYSON,N,N,0,Meets Requirements, ,Whitesboro ISD
+91,10,91910,WHITEWRIGHT ISD,GRAYSON,N,N,0,Meets Requirements, ,Whitewright ISD
+91,10,91913,POTTSBORO ISD,GRAYSON,N,N,0,Meets Requirements, ,Pottsboro ISD
+91,10,91914,S AND S CISD,GRAYSON,N,N,0,Meets Requirements, ,S And S CISD
+91,10,91917,GUNTER ISD,GRAYSON,N,N,1,Meets Requirements, ,Gunter ISD
+91,10,91918,TOM BEAN ISD,GRAYSON,N,N,0,Meets Requirements, ,Tom Bean ISD
+92,7,92801,EAST TEXAS CHARTER SCHOOLS,GREGG,Y,Y, ,Meets Requirements, ,East Texas Charter Schools
+92,7,92901,GLADEWATER ISD,GREGG,N,N,0,Needs Assistance, ,Gladewater ISD
+92,7,92902,KILGORE ISD,GREGG,N,N,0,Needs Substantial Intervention, ,Kilgore ISD
+92,7,92903,LONGVIEW ISD,GREGG,N,N,1,Meets Requirements, ,Longview ISD
+92,7,92904,PINE TREE ISD,GREGG,N,N,0,Meets Requirements, ,Pine Tree ISD
+92,7,92906,SABINE ISD,GREGG,N,N,0,Meets Requirements, ,Sabine ISD
+92,7,92907,SPRING HILL ISD,GREGG,N,N,1,Meets Requirements, ,Spring Hill ISD
+92,7,92908,WHITE OAK ISD,GREGG,N,N,0,Needs Assistance, ,White Oak ISD
+93,6,93901,ANDERSON-SHIRO CISD,GRIMES,N,N,0,Meets Requirements, ,Anderson-Shiro CISD
+93,6,93903,IOLA ISD,GRIMES,N,N,0,Meets Requirements, ,Iola ISD
+93,6,93904,NAVASOTA ISD,GRIMES,N,N,0,Needs Intervention, ,Navasota ISD
+93,6,93905,RICHARDS ISD,GRIMES,N,N, ,Meets Requirements, ,Richards ISD
+94,20,94901,SEGUIN ISD,GUADALUPE,N,N,0,Needs Assistance, ,Seguin ISD
+94,20,94902,SCHERTZ-CIBOLO-U CITY ISD,GUADALUPE,N,N,0,Meets Requirements, ,Schertz-Cibolo-U City ISD
+94,20,94903,NAVARRO ISD,GUADALUPE,N,N,0,Meets Requirements, ,Navarro ISD
+94,20,94904,MARION ISD,GUADALUPE,N,N,0,Meets Requirements, ,Marion ISD
+95,17,95901,ABERNATHY ISD,HALE,N,N,0,Meets Requirements, ,Abernathy ISD
+95,17,95902,COTTON CENTER ISD,HALE,N,N, ,Meets Requirements, ,Cotton Center ISD
+95,17,95903,HALE CENTER ISD,HALE,N,N,0,Meets Requirements,ASVAB Alternative Test Offered,Hale Center ISD
+95,17,95904,PETERSBURG ISD,HALE,N,N, ,Meets Requirements, ,Petersburg ISD
+95,17,95905,PLAINVIEW ISD,HALE,N,N,0,Needs Assistance, ,Plainview ISD
+96,16,96904,MEMPHIS ISD,HALL,N,N,0,Meets Requirements, ,Memphis ISD
+96,16,96905,TURKEY-QUITAQUE ISD,HALL,N,N, ,Meets Requirements, ,Turkey-Quitaque ISD
+97,12,97902,HAMILTON ISD,HAMILTON,N,N,0,Meets Requirements, ,Hamilton ISD
+97,12,97903,HICO ISD,HAMILTON,N,N,0,Meets Requirements, ,Hico ISD
+98,16,98901,GRUVER ISD,HANSFORD,N,N,0,Meets Requirements, ,Gruver ISD
+98,16,98903,PRINGLE-MORSE CISD,HANSFORD,N,N, ,Meets Requirements,ASVAB Test not Offered,Pringle-Morse CISD
+98,16,98904,SPEARMAN ISD,HANSFORD,N,N,1,Meets Requirements, ,Spearman ISD
+99,9,99902,CHILLICOTHE ISD,HARDEMAN,N,N, ,Meets Requirements, ,Chillicothe ISD
+99,9,99903,QUANAH ISD,HARDEMAN,N,N, ,Meets Requirements, ,Quanah ISD
+100,5,100903,KOUNTZE ISD,HARDIN,N,N,0,Needs Assistance, ,Kountze ISD
+100,5,100904,SILSBEE ISD,HARDIN,N,N,0,Needs Substantial Intervention, ,Silsbee ISD
+100,5,100905,HARDIN-JEFFERSON ISD,HARDIN,N,N,0,Meets Requirements, ,Hardin-Jefferson ISD
+100,5,100907,LUMBERTON ISD,HARDIN,N,N,0,Meets Requirements, ,Lumberton ISD
+100,5,100908,WEST HARDIN COUNTY CISD,HARDIN,N,N,0,Meets Requirements, ,West Hardin County CISD
+101,4,101802,SER-NINOS CHARTER SCHOOL,HARRIS,Y,N,0,Meets Requirements, ,Ser-Ninos Charter School
+101,4,101803,ARISTOI CLASSICAL ACADEMY,HARRIS,Y,N,0,Meets Requirements, ,Aristoi Classical Academy
+101,4,101804,GEORGE I SANCHEZ CHARTER,HARRIS,Y,Y, ,Meets Requirements, ,George I Sanchez Charter
+101,4,101806,RAUL YZAGUIRRE SCHOOLS FOR SUCCESS,HARRIS,Y,N,0,Meets Requirements, ,Raul Yzaguirre Schools For Success
+101,4,101810,ACADEMY OF ACCELERATED LEARNING INC,HARRIS,Y,N, ,Meets Requirements, ,Academy Of Accelerated Learning Inc
+101,4,101811,EXCEL ACADEMY,HARRIS,Y,Y, ,Meets Requirements, ,Excel Academy
+101,4,101814,THE VARNETT PUBLIC SCHOOL,HARRIS,Y,N,0,Meets Requirements, ,The Varnett Public School
+101,4,101815,ALIEF MONTESSORI COMMUNITY SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Alief Montessori Community School
+101,4,101819,AMIGOS POR VIDA-FRIENDS FOR LIFE PUB CHTR SCH,HARRIS,Y,N, ,Meets Requirements, ,Amigos Por Vida-Friends For Life Pub Chtr Sch
+101,4,101821,HOUSTON HEIGHTS HIGH SCHOOL,HARRIS,Y,Y, ,Meets Requirements, ,Houston Heights High School
+101,4,101828,HOUSTON GATEWAY ACADEMY INC,HARRIS,Y,N,0,Meets Requirements, ,Houston Gateway Academy Inc
+101,4,101837,CALVIN NELMS CHARTER SCHOOLS,HARRIS,Y,N,1,Meets Requirements, ,Calvin Nelms Charter Schools
+101,4,101838,SOUTHWEST SCHOOL,HARRIS,Y,N, ,Needs Intervention, ,Southwest School
+101,4,101840,TWO DIMENSIONS PREPARATORY ACADEMY,HARRIS,Y,N, ,Meets Requirements, ,Two Dimensions Preparatory Academy
+101,4,101842,COMQUEST ACADEMY,HARRIS,Y,N, ,Meets Requirements, ,Comquest Academy
+101,4,101845,YES PREP PUBLIC SCHOOLS INC,HARRIS,Y,N,0,Needs Assistance, ,Yes Prep Public Schools Inc
+101,4,101846,HARMONY PUBLIC SCHOOLS - HOUSTON SOUTH,HARRIS,Y,N,0,Needs Assistance, ,Harmony Public Schools - Houston South
+101,4,101847,BEATRICE MAYES INSTITUTE CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Beatrice Mayes Institute Charter School
+101,4,101849,ACCELERATED INTERMEDIATE ACADEMY,HARRIS,Y,N, ,Meets Requirements, ,Accelerated Intermediate Academy
+101,4,101853,PROMISE COMMUNITY SCHOOL,HARRIS,Y,N,0,Meets Requirements, ,Promise Community School
+101,4,101855,MEYERPARK ELEMENTARY,HARRIS,Y,N, ,Meets Requirements, ,Meyerpark Elementary
+101,4,101856,DRAW ACADEMY,HARRIS,Y,N, ,Meets Requirements, ,Draw Academy
+101,4,101858,HARMONY PUBLIC SCHOOLS - HOUSTON NORTH,HARRIS,Y,N,0,Meets Requirements, ,Harmony Public Schools - Houston North
+101,4,101859,STEP CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Step Charter School
+101,4,101861,THE RHODES SCHOOL FOR PERFORMING ARTS,HARRIS,Y,N, ,Meets Requirements, ,The Rhodes School For Performing Arts
+101,4,101862,HARMONY PUBLIC SCHOOLS - HOUSTON WEST,HARRIS,Y,N,0,Meets Requirements, ,Harmony Public Schools - Houston West
+101,4,101864,THE LAWSON ACADEMY,HARRIS,Y,Y, ,Meets Requirements, ,The Lawson Academy
+101,4,101868,THE PRO-VISION ACADEMY,HARRIS,Y,Y, ,Needs Assistance, ,The Pro-Vision Academy
+101,4,101870,BETA ACADEMY,HARRIS,Y,N, ,Meets Requirements, ,Beta Academy
+101,4,101871,A+ UNLIMITED POTENTIAL,HARRIS,Y,N, ,Meets Requirements, ,A+ Unlimited Potential
+101,4,101872,ETOILE ACADEMY CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Etoile Academy Charter School
+101,4,101873,YELLOWSTONE COLLEGE PREPARATORY,HARRIS,Y,N, ,Meets Requirements, ,Yellowstone College Preparatory
+101,4,101874,LEGACY SCHOOL OF SPORT SCIENCES,HARRIS,Y,N, ,Meets Requirements, ,Legacy School Of Sport Sciences
+101,4,101875,BLOOM ACADEMY CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Bloom Academy Charter School
+101,4,101876,REVE PREPARATORY CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Reve Preparatory Charter School
+101,4,101877,ELEVATE COLLEGIATE CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Elevate Collegiate Charter School
+101,4,101878,HOUSTON CLASSICAL CHARTER SCHOOL,HARRIS,Y,N, ,Meets Requirements, ,Houston Classical Charter School
+101,4,101902,ALDINE ISD,HARRIS,N,N,0,Needs Substantial Intervention, ,Aldine ISD
+101,4,101903,ALIEF ISD,HARRIS,N,N,0,Needs Assistance, ,Alief ISD
+101,4,101905,CHANNELVIEW ISD,HARRIS,N,N,0,Needs Assistance, ,Channelview ISD
+101,4,101906,CROSBY ISD,HARRIS,N,N,0,Meets Requirements, ,Crosby ISD
+101,4,101907,CYPRESS-FAIRBANKS ISD,HARRIS,N,N,0,Meets Requirements, ,Cypress-Fairbanks ISD
+101,4,101908,DEER PARK ISD,HARRIS,N,N,0,Meets Requirements, ,Deer Park ISD
+101,4,101910,GALENA PARK ISD,HARRIS,N,N, ,Needs Assistance, ,Galena Park ISD
+101,4,101911,GOOSE CREEK CISD,HARRIS,N,N,0,Needs Assistance, ,Goose Creek CISD
+101,4,101912,HOUSTON ISD,HARRIS,N,N,0,Needs Assistance, ,Houston ISD
+101,4,101913,HUMBLE ISD,HARRIS,N,N,0,Needs Assistance, ,Humble ISD
+101,4,101914,KATY ISD,HARRIS,N,N,0,Meets Requirements, ,Katy ISD
+101,4,101915,KLEIN ISD,HARRIS,N,N,0,Meets Requirements, ,Klein ISD
+101,4,101916,LA PORTE ISD,HARRIS,N,N,0,Meets Requirements, ,La Porte ISD
+101,4,101917,PASADENA ISD,HARRIS,N,N,0,Needs Assistance, ,Pasadena ISD
+101,4,101919,SPRING ISD,HARRIS,N,N,0,Needs Assistance, ,Spring ISD
+101,4,101920,SPRING BRANCH ISD,HARRIS,N,N,0,Meets Requirements, ,Spring Branch ISD
+101,4,101921,TOMBALL ISD,HARRIS,N,N,0,Meets Requirements, ,Tomball ISD
+101,4,101924,SHELDON ISD,HARRIS,N,N,0,Needs Assistance, ,Sheldon ISD
+101,4,101925,HUFFMAN ISD,HARRIS,N,N,0,Needs Assistance, ,Huffman ISD
+102,7,102901,KARNACK ISD,HARRISON,N,N, ,Meets Requirements, ,Karnack ISD
+102,7,102902,MARSHALL ISD,HARRISON,N,N,0,Needs Substantial Intervention, ,Marshall ISD
+102,7,102903,WASKOM ISD,HARRISON,N,N,0,Meets Requirements, ,Waskom ISD
+102,7,102904,HALLSVILLE ISD,HARRISON,N,N, ,Needs Assistance, ,Hallsville ISD
+102,7,102905,HARLETON ISD,HARRISON,N,N,0,Meets Requirements, ,Harleton ISD
+102,7,102906,ELYSIAN FIELDS ISD,HARRISON,N,N,0,Meets Requirements, ,Elysian Fields ISD
+103,16,103901,CHANNING ISD,HARTLEY,N,N, ,Meets Requirements, ,Channing ISD
+103,16,103902,HARTLEY ISD,HARTLEY,N,N, ,Meets Requirements,ASVAB Alternative Test Offered,Hartley ISD
+104,14,104901,HASKELL CISD,HASKELL,N,N,0,Meets Requirements, ,Haskell CISD
+104,14,104903,RULE ISD,HASKELL,N,N, ,Meets Requirements, ,Rule ISD
+104,14,104907,PAINT CREEK ISD,HASKELL,N,N, ,Meets Requirements,ASVAB Alternative Test Offered,Paint Creek ISD
+105,13,105801,KATHERINE ANNE PORTER SCHOOL,HAYS,Y,N, ,Meets Requirements,ASVAB Test not Offered,Katherine Anne Porter School
+105,13,105802,TEXAS PREPARATORY SCHOOL,HAYS,Y,N, ,Meets Requirements, ,Texas Preparatory School
+105,13,105803,KI CHARTER ACADEMY,HAYS,Y,N, ,Meets Requirements, ,Ki Charter Academy
+105,13,105902,SAN MARCOS CISD,HAYS,N,N,0,Needs Assistance, ,San Marcos CISD
+105,13,105904,DRIPPING SPRINGS ISD,HAYS,N,N,0,Meets Requirements, ,Dripping Springs ISD
+105,13,105905,WIMBERLEY ISD,HAYS,N,N,0,Meets Requirements,ASVAB Alternative Test Offered,Wimberley ISD
+105,13,105906,HAYS CISD,HAYS,N,N,0,Needs Assistance, ,Hays CISD
+106,16,106901,CANADIAN ISD,HEMPHILL,N,N,1,Meets Requirements, ,Canadian ISD
+107,10,107901,ATHENS ISD,HENDERSON,N,N,1,Needs Assistance, ,Athens ISD
+107,7,107902,BROWNSBORO ISD,HENDERSON,N,N,0,Meets Requirements, ,Brownsboro ISD
+107,7,107904,CROSS ROADS ISD,HENDERSON,N,N,0,Meets Requirements, ,Cross Roads ISD
+107,7,107905,EUSTACE ISD,HENDERSON,N,N,0,Meets Requirements, ,Eustace ISD
+107,7,107906,MALAKOFF ISD,HENDERSON,N,N,1,Meets Requirements, ,Malakoff ISD
+107,7,107907,TRINIDAD ISD,HENDERSON,N,N, ,Meets Requirements, ,Trinidad ISD
+107,7,107908,MURCHISON ISD,HENDERSON,N,N, ,Meets Requirements, ,Murchison ISD
+107,7,107910,LAPOYNOR ISD,HENDERSON,N,N,0,Meets Requirements, ,Lapoynor ISD
+108,1,108802,HORIZON MONTESSORI PUBLIC SCHOOLS,HIDALGO,Y,N,0,Meets Requirements, ,Horizon Montessori Public Schools
+108,1,108804,TRIUMPH PUBLIC HIGH SCHOOLS-RIO GRANDE VALLEY,HIDALGO,Y,Y, ,Meets Requirements, ,Triumph Public High Schools-Rio Grande Valley
+108,1,108807,IDEA PUBLIC SCHOOLS,HIDALGO,Y,N,1,Meets Requirements,ASVAB Test not Offered,Idea Public Schools
+108,1,108808,VANGUARD ACADEMY,HIDALGO,Y,N,1,Meets Requirements, ,Vanguard Academy
+108,1,108809,EXCELLENCE IN LEADERSHIP ACADEMY,HIDALGO,Y,N, ,Meets Requirements, ,Excellence In Leadership Academy
+108,1,108902,DONNA ISD,HIDALGO,N,N,0,Needs Assistance, ,Donna ISD
+108,1,108903,EDCOUCH-ELSA ISD,HIDALGO,N,N,0,Needs Intervention, ,Edcouch-Elsa ISD
+108,1,108904,EDINBURG CISD,HIDALGO,N,N,1,Meets Requirements, ,Edinburg CISD
+108,1,108905,HIDALGO ISD,HIDALGO,N,N,1,Meets Requirements, ,Hidalgo ISD
+108,1,108906,MCALLEN ISD,HIDALGO,N,N,1,Meets Requirements, ,McAllen ISD
+108,1,108907,MERCEDES ISD,HIDALGO,N,N,0,Needs Assistance, ,Mercedes ISD
+108,1,108908,MISSION CISD,HIDALGO,N,N, ,Needs Intervention, ,Mission CISD
+108,1,108909,PHARR-SAN JUAN-ALAMO ISD,HIDALGO,N,N,0,Meets Requirements, ,Pharr-San Juan-Alamo ISD
+108,1,108910,PROGRESO ISD,HIDALGO,N,N,0,Needs Intervention, ,Progreso ISD
+108,1,108911,SHARYLAND ISD,HIDALGO,N,N,0,Meets Requirements, ,Sharyland ISD
+108,1,108912,LA JOYA ISD,HIDALGO,N,N, ,Needs Assistance, ,La Joya ISD
+108,1,108913,WESLACO ISD,HIDALGO,N,N,0,Needs Assistance, ,Weslaco ISD
+108,1,108914,LA VILLA ISD,HIDALGO,N,N,0,Meets Requirements, ,La Villa ISD
+108,1,108915,MONTE ALTO ISD,HIDALGO,N,N,0,Meets Requirements, ,Monte Alto ISD
+108,1,108916,VALLEY VIEW ISD,HIDALGO,N,N,1,Meets Requirements, ,Valley View ISD
+109,12,109901,ABBOTT ISD,HILL,N,N, ,Meets Requirements, ,Abbott ISD
+109,12,109902,BYNUM ISD,HILL,N,N, ,Meets Requirements, ,Bynum ISD
+109,12,109903,COVINGTON ISD,HILL,N,N, ,Meets Requirements, ,Covington ISD
+109,12,109904,HILLSBORO ISD,HILL,N,N,0,Meets Requirements, ,Hillsboro ISD
+109,12,109905,HUBBARD ISD,HILL,N,N,0,Meets Requirements, ,Hubbard ISD
+109,12,109907,ITASCA ISD,HILL,N,N,0,Meets Requirements, ,Itasca ISD
+109,12,109908,MALONE ISD,HILL,N,N, ,Meets Requirements, ,Malone ISD
+109,12,109910,MOUNT CALM ISD,HILL,N,N, ,Meets Requirements, ,Mount Calm ISD
+109,12,109911,WHITNEY ISD,HILL,N,N,0,Meets Requirements, ,Whitney ISD
+109,12,109912,AQUILLA ISD,HILL,N,N,0,Meets Requirements, ,Aquilla ISD
+109,12,109913,BLUM ISD,HILL,N,N, ,Meets Requirements, ,Blum ISD
+109,12,109914,PENELOPE ISD,HILL,N,N, ,Meets Requirements, ,Penelope ISD
+110,17,110901,ANTON ISD,HOCKLEY,N,N, ,Meets Requirements, ,Anton ISD
+110,17,110902,LEVELLAND ISD,HOCKLEY,N,N,0,Meets Requirements, ,Levelland ISD
+110,17,110905,ROPES ISD,HOCKLEY,N,N, ,Meets Requirements, ,Ropes ISD
+110,17,110906,SMYER ISD,HOCKLEY,N,N, ,Meets Requirements, ,Smyer ISD
+110,17,110907,SUNDOWN ISD,HOCKLEY,N,N,1,Meets Requirements,ASVAB Alternative Test Offered,Sundown ISD
+110,17,110908,WHITHARRAL ISD,HOCKLEY,N,N, ,Meets Requirements, ,Whitharral ISD
+111,11,111801,LAKE GRANBURY ACADEMY CHARTER SCHOOL,HOOD,Y,Y, ,Meets Requirements,ASVAB Test not Offered,Lake Granbury Academy Charter School
+111,11,111901,GRANBURY ISD,HOOD,N,N,0,Meets Requirements, ,Granbury ISD
+111,11,111902,LIPAN ISD,HOOD,N,N,0,Meets Requirements, ,Lipan ISD
+111,11,111903,TOLAR ISD,HOOD,N,N,0,Meets Requirements, ,Tolar ISD
+112,8,112901,SULPHUR SPRINGS ISD,HOPKINS,N,N,0,Needs Assistance, ,Sulphur Springs ISD
+112,8,112905,CUMBY ISD,HOPKINS,N,N,0,Meets Requirements, ,Cumby ISD
+112,8,112906,NORTH HOPKINS ISD,HOPKINS,N,N,0,Meets Requirements, ,North Hopkins ISD
+112,8,112907,MILLER GROVE ISD,HOPKINS,N,N, ,Meets Requirements, ,Miller Grove ISD
+112,8,112908,COMO-PICKTON CISD,HOPKINS,N,N, ,Meets Requirements, ,Como-Pickton CISD
+112,8,112909,SALTILLO ISD,HOPKINS,N,N, ,Meets Requirements, ,Saltillo ISD
+112,8,112910,SULPHUR BLUFF ISD,HOPKINS,N,N, ,Meets Requirements, ,Sulphur Bluff ISD
+113,6,113901,CROCKETT ISD,HOUSTON,N,N,0,Needs Assistance, ,Crockett ISD
+113,6,113902,GRAPELAND ISD,HOUSTON,N,N,0,Meets Requirements, ,Grapeland ISD
+113,6,113903,LOVELADY ISD,HOUSTON,N,N,0,Meets Requirements, ,Lovelady ISD
+113,6,113905,LATEXO ISD,HOUSTON,N,N,0,Meets Requirements, ,Latexo ISD
+113,6,113906,KENNARD ISD,HOUSTON,N,N, ,Meets Requirements, ,Kennard ISD
+114,18,114901,BIG SPRING ISD,HOWARD,N,N,0,Needs Assistance, ,Big Spring ISD
+114,18,114902,COAHOMA ISD,HOWARD,N,N,0,Meets Requirements, ,Coahoma ISD
+114,18,114904,FORSAN ISD,HOWARD,N,N,0,Meets Requirements, ,Forsan ISD
+115,19,115901,FT HANCOCK ISD,HUDSPETH,N,N,0,Meets Requirements, ,Ft Hancock ISD
+115,19,115902,SIERRA BLANCA ISD,HUDSPETH,N,N, ,Meets Requirements, ,Sierra Blanca ISD
+115,19,115903,DELL CITY ISD,HUDSPETH,N,N, ,Meets Requirements, ,Dell City ISD
+116,10,116901,CADDO MILLS ISD,HUNT,N,N,1,Meets Requirements, ,Caddo Mills ISD
+116,10,116902,CELESTE ISD,HUNT,N,N,0,Meets Requirements, ,Celeste ISD
+116,10,116903,COMMERCE ISD,HUNT,N,N,0,Needs Assistance, ,Commerce ISD
+116,10,116905,GREENVILLE ISD,HUNT,N,N,0,Needs Intervention, ,Greenville ISD
+116,10,116906,LONE OAK ISD,HUNT,N,N,0,Meets Requirements, ,Lone Oak ISD
+116,10,116908,QUINLAN ISD,HUNT,N,N,0,Needs Assistance, ,Quinlan ISD
+116,10,116909,WOLFE CITY ISD,HUNT,N,N,0,Meets Requirements, ,Wolfe City ISD
+116,10,116910,CAMPBELL ISD,HUNT,N,N,0,Meets Requirements, ,Campbell ISD
+116,10,116915,BLAND ISD,HUNT,N,N,0,Meets Requirements, ,Bland ISD
+116,10,116916,BOLES ISD,HUNT,N,N,1,Meets Requirements, ,Boles ISD
+117,16,117901,BORGER ISD,HUTCHINSON,N,N,0,Meets Requirements, ,Borger ISD
+117,16,117903,SANFORD-FRITCH ISD,HUTCHINSON,N,N,0,Meets Requirements, ,Sanford-Fritch ISD
+117,16,117904,PLEMONS-STINNETT-PHILLIPS CISD,HUTCHINSON,N,N,0,Meets Requirements, ,Plemons-Stinnett-Phillips CISD
+117,16,117907,SPRING CREEK ISD,HUTCHINSON,N,N, ,Meets Requirements, ,Spring Creek ISD
+118,15,118902,IRION COUNTY ISD,IRION,N,N,0,Meets Requirements, ,Irion County ISD
+119,9,119901,BRYSON ISD,JACK,N,N, ,Meets Requirements, ,Bryson ISD
+119,9,119902,JACKSBORO ISD,JACK,N,N,0,Meets Requirements, ,Jacksboro ISD
+119,9,119903,PERRIN-WHITT CISD,JACK,N,N,0,Meets Requirements, ,Perrin-Whitt CISD
+120,3,120901,EDNA ISD,JACKSON,N,N,1,Meets Requirements, ,Edna ISD
+120,3,120902,GANADO ISD,JACKSON,N,N,0,Meets Requirements, ,Ganado ISD
+120,3,120905,INDUSTRIAL ISD,JACKSON,N,N,1,Meets Requirements, ,Industrial ISD
+121,5,121902,BROOKELAND ISD,JASPER,N,N,0,Meets Requirements, ,Brookeland ISD
+121,5,121903,BUNA ISD,JASPER,N,N,0,Needs Assistance, ,Buna ISD
+121,5,121904,JASPER ISD,JASPER,N,N,0,Needs Substantial Intervention, ,Jasper ISD
+121,5,121905,KIRBYVILLE CISD,JASPER,N,N,0,Meets Requirements, ,Kirbyville CISD
+121,5,121906,EVADALE ISD,JASPER,N,N,0,Meets Requirements, ,Evadale ISD
+122,18,122901,FT DAVIS ISD,JEFF DAVIS,N,N, ,Meets Requirements, ,Ft Davis ISD
+122,18,122902,VALENTINE ISD,JEFF DAVIS,N,N, ,Meets Requirements, ,Valentine ISD
+123,5,123803,TEKOA ACADEMY OF ACCELERATED STUDIES STEM SCHOOL,JEFFERSON,Y,N,0,Meets Requirements, ,Tekoa Academy Of Accelerated Studies Stem School
+123,5,123805,EHRHART SCHOOL,JEFFERSON,Y,N, ,Meets Requirements, ,Ehrhart School
+123,5,123807,BOB HOPE SCHOOL,JEFFERSON,Y,N,1,Meets Requirements, ,Bob Hope School
+123,5,123905,NEDERLAND ISD,JEFFERSON,N,N,1,Meets Requirements, ,Nederland ISD
+123,5,123907,PORT ARTHUR ISD,JEFFERSON,N,N,0,Needs Intervention, ,Port Arthur ISD
+123,5,123908,PORT NECHES-GROVES ISD,JEFFERSON,N,N,0,Needs Assistance, ,Port Neches-Groves ISD
+123,5,123910,BEAUMONT ISD,JEFFERSON,N,N,0,Needs Substantial Intervention, ,Beaumont ISD
+123,5,123913,SABINE PASS ISD,JEFFERSON,N,N, ,Meets Requirements, ,Sabine Pass ISD
+123,5,123914,HAMSHIRE-FANNETT ISD,JEFFERSON,N,N,0,Meets Requirements, ,Hamshire-Fannett ISD
+124,1,124901,JIM HOGG COUNTY ISD,JIM HOGG,N,N,1,Meets Requirements, ,Jim Hogg County ISD
+125,2,125901,ALICE ISD,JIM WELLS,N,N,0,Needs Assistance, ,Alice ISD
+125,2,125902,BEN BOLT-PALITO BLANCO ISD,JIM WELLS,N,N,0,Meets Requirements, ,Ben Bolt-Palito Blanco ISD
+125,2,125903,ORANGE GROVE ISD,JIM WELLS,N,N,0,Meets Requirements, ,Orange Grove ISD
+125,2,125905,PREMONT ISD,JIM WELLS,N,N,0,Meets Requirements,ASVAB Alternative Test Offered,Premont ISD
+125,2,125906,LA GLORIA ISD,JIM WELLS,N,N, ,Meets Requirements, ,La Gloria ISD
+126,11,126901,ALVARADO ISD,JOHNSON,N,N,0,Meets Requirements, ,Alvarado ISD
+126,11,126902,BURLESON ISD,JOHNSON,N,N,0,Meets Requirements, ,Burleson ISD
+126,11,126903,CLEBURNE ISD,JOHNSON,N,N,0,Needs Assistance, ,Cleburne ISD
+126,11,126904,GRANDVIEW ISD,JOHNSON,N,N,0,Meets Requirements, ,Grandview ISD
+126,11,126905,JOSHUA ISD,JOHNSON,N,N,1,Meets Requirements, ,Joshua ISD
+126,11,126906,KEENE ISD,JOHNSON,N,N,0,Meets Requirements, ,Keene ISD
+126,11,126907,RIO VISTA ISD,JOHNSON,N,N,0,Meets Requirements, ,Rio Vista ISD
+126,11,126908,VENUS ISD,JOHNSON,N,N,0,Needs Assistance, ,Venus ISD
+126,11,126911,GODLEY ISD,JOHNSON,N,N, ,Needs Intervention, ,Godley ISD
+127,14,127901,ANSON ISD,JONES,N,N,0,Meets Requirements, ,Anson ISD
+127,14,127903,HAMLIN COLLEGIATE ISD,JONES,N,N,0,Meets Requirements, ,Hamlin Collegiate ISD
+127,14,127904,HAWLEY ISD,JONES,N,N,0,Meets Requirements, ,Hawley ISD
+127,14,127905,LUEDERS-AVOCA ISD,JONES,N,N, ,Meets Requirements, ,Lueders-Avoca ISD
+127,14,127906,STAMFORD ISD,JONES,N,N,0,Meets Requirements, ,Stamford ISD
+128,20,128901,KARNES CITY ISD,KARNES,N,N,0,Needs Assistance, ,Karnes City ISD
+128,3,128902,KENEDY ISD,KARNES,N,N,0,Meets Requirements, ,Kenedy ISD
+128,3,128903,RUNGE ISD,KARNES,N,N,0,Meets Requirements, ,Runge ISD
+128,20,128904,FALLS CITY ISD,KARNES,N,N,1,Meets Requirements, ,Falls City ISD
+129,10,129901,CRANDALL ISD,KAUFMAN,N,N,0,Needs Assistance, ,Crandall ISD
+129,10,129902,FORNEY ISD,KAUFMAN,N,N,0,Needs Assistance, ,Forney ISD
+129,10,129903,KAUFMAN ISD,KAUFMAN,N,N,1,Meets Requirements, ,Kaufman ISD
+129,10,129904,KEMP ISD,KAUFMAN,N,N,0,Needs Assistance, ,Kemp ISD
+129,10,129905,MABANK ISD,KAUFMAN,N,N,0,Needs Assistance, ,Mabank ISD
+129,10,129906,TERRELL ISD,KAUFMAN,N,N,0,Needs Intervention, ,Terrell ISD
+129,10,129910,SCURRY-ROSSER ISD,KAUFMAN,N,N,0,Meets Requirements, ,Scurry-Rosser ISD
+130,20,130801,MEADOWLAND CHARTER DISTRICT,KENDALL,Y,N, ,Meets Requirements,ASVAB Alternative Test Offered,Meadowland Charter District
+130,20,130901,BOERNE ISD,KENDALL,N,N,0,Meets Requirements, ,Boerne ISD
+130,13,130902,COMFORT ISD,KENDALL,N,N,0,Meets Requirements, ,Comfort ISD
+131,2,131001,KENEDY COUNTY WIDE CSD,KENEDY,N,N, ,Meets Requirements, ,Kenedy County Wide CSD
+132,17,132902,JAYTON-GIRARD ISD,KENT,N,N, ,Meets Requirements, ,Jayton-Girard ISD
+133,20,133901,CENTER POINT ISD,KERR,N,N,0,Meets Requirements, ,Center Point ISD
+133,20,133902,HUNT ISD,KERR,N,N, ,Meets Requirements, ,Hunt ISD
+133,20,133903,KERRVILLE ISD,KERR,N,N,0,Meets Requirements, ,Kerrville ISD
+133,20,133904,INGRAM ISD,KERR,N,N,1,Meets Requirements, ,Ingram ISD
+133,20,133905,DIVIDE ISD,KERR,N,N, ,Meets Requirements, ,Divide ISD
+134,15,134901,JUNCTION ISD,KIMBLE,N,N,0,Meets Requirements, ,Junction ISD
+135,17,135001,GUTHRIE CSD,KING,N,N, ,Meets Requirements, ,Guthrie CSD
+136,20,136901,BRACKETT ISD,KINNEY,N,N,0,Meets Requirements, ,Brackett ISD
+137,2,137901,KINGSVILLE ISD,KLEBERG,N,N,0,Needs Substantial Intervention, ,Kingsville ISD
+137,2,137902,RICARDO ISD,KLEBERG,N,N, ,Meets Requirements, ,Ricardo ISD
+137,2,137903,RIVIERA ISD,KLEBERG,N,N,0,Meets Requirements, ,Riviera ISD
+137,2,137904,SANTA GERTRUDIS ISD,KLEBERG,N,N,0,Meets Requirements, ,Santa Gertrudis ISD
+138,9,138902,KNOX CITY-O'BRIEN CISD,KNOX,N,N, ,Meets Requirements, ,Knox City-O'Brien CISD
+138,9,138903,MUNDAY CISD,KNOX,N,N,0,Meets Requirements, ,Munday CISD
+138,9,138904,BENJAMIN ISD,KNOX,N,N, ,Meets Requirements, ,Benjamin ISD
+139,8,139905,CHISUM ISD,LAMAR,N,N,0,Meets Requirements, ,Chisum ISD
+139,8,139909,PARIS ISD,LAMAR,N,N,0,Meets Requirements, ,Paris ISD
+139,8,139911,NORTH LAMAR ISD,LAMAR,N,N,0,Needs Assistance, ,North Lamar ISD
+139,8,139912,PRAIRILAND ISD,LAMAR,N,N,0,Meets Requirements, ,Prairiland ISD
+140,17,140901,AMHERST ISD,LAMB,N,N, ,Meets Requirements, ,Amherst ISD
+140,17,140904,LITTLEFIELD ISD,LAMB,N,N, ,Meets Requirements, ,Littlefield ISD
+140,17,140905,OLTON ISD,LAMB,N,N,0,Meets Requirements, ,Olton ISD
+140,17,140907,SPRINGLAKE-EARTH ISD,LAMB,N,N, ,Meets Requirements, ,Springlake-Earth ISD
+140,17,140908,SUDAN ISD,LAMB,N,N,1,Meets Requirements, ,Sudan ISD
+141,12,141901,LAMPASAS ISD,LAMPASAS,N,N,1,Meets Requirements, ,Lampasas ISD
+141,12,141902,LOMETA ISD,LAMPASAS,N,N,0,Meets Requirements, ,Lometa ISD
+142,20,142901,COTULLA ISD,LA SALLE,N,N,0,Needs Assistance, ,Cotulla ISD
+143,3,143901,HALLETTSVILLE ISD,LAVACA,N,N,0,Meets Requirements, ,Hallettsville ISD
+143,3,143902,MOULTON ISD,LAVACA,N,N,1,Meets Requirements, ,Moulton ISD
+143,3,143903,SHINER ISD,LAVACA,N,N,0,Meets Requirements, ,Shiner ISD
+143,3,143904,VYSEHRAD ISD,LAVACA,N,N, ,Meets Requirements, ,Vysehrad ISD
+143,3,143905,SWEET HOME ISD,LAVACA,N,N, ,Meets Requirements, ,Sweet Home ISD
+143,3,143906,EZZELL ISD,LAVACA,N,N, ,Meets Requirements, ,Ezzell ISD
+144,13,144901,GIDDINGS ISD,LEE,N,N,0,Meets Requirements, ,Giddings ISD
+144,13,144902,LEXINGTON ISD,LEE,N,N,0,Meets Requirements, ,Lexington ISD
+144,13,144903,DIME BOX ISD,LEE,N,N, ,Meets Requirements, ,Dime Box ISD
+145,6,145901,BUFFALO ISD,LEON,N,N,1,Meets Requirements, ,Buffalo ISD
+145,6,145902,CENTERVILLE ISD,LEON,N,N,0,Meets Requirements, ,Centerville ISD
+145,6,145906,NORMANGEE ISD,LEON,N,N,0,Meets Requirements, ,Normangee ISD
+145,6,145907,OAKWOOD ISD,LEON,N,N,0,Meets Requirements, ,Oakwood ISD
+145,6,145911,LEON ISD,LEON,N,N,0,Meets Requirements, ,Leon ISD
+146,4,146901,CLEVELAND ISD,LIBERTY,N,N,0,Needs Assistance, ,Cleveland ISD
+146,4,146902,DAYTON ISD,LIBERTY,N,N,0,Needs Intervention, ,Dayton ISD
+146,4,146903,DEVERS ISD,LIBERTY,N,N, ,Meets Requirements, ,Devers ISD
+146,5,146904,HARDIN ISD,LIBERTY,N,N, ,Meets Requirements, ,Hardin ISD
+146,5,146905,HULL-DAISETTA ISD,LIBERTY,N,N,0,Meets Requirements, ,Hull-Daisetta ISD
+146,5,146906,LIBERTY ISD,LIBERTY,N,N,0,Meets Requirements, ,Liberty ISD
+146,4,146907,TARKINGTON ISD,LIBERTY,N,N,0,Meets Requirements, ,Tarkington ISD
+147,12,147901,COOLIDGE ISD,LIMESTONE,N,N,0,Meets Requirements, ,Coolidge ISD
+147,12,147902,GROESBECK ISD,LIMESTONE,N,N,0,Needs Assistance, ,Groesbeck ISD
+147,12,147903,MEXIA ISD,LIMESTONE,N,N,0,Needs Intervention, ,Mexia ISD
+148,16,148901,BOOKER ISD,LIPSCOMB,N,N,0,Meets Requirements, ,Booker ISD
+148,16,148902,FOLLETT ISD,LIPSCOMB,N,N, ,Meets Requirements, ,Follett ISD
+148,16,148905,DARROUZETT ISD,LIPSCOMB,N,N, ,Meets Requirements, ,Darrouzett ISD
+149,2,149901,GEORGE WEST ISD,LIVE OAK,N,N,1,Meets Requirements, ,George West ISD
+149,2,149902,THREE RIVERS ISD,LIVE OAK,N,N,0,Meets Requirements, ,Three Rivers ISD
+150,13,150901,LLANO ISD,LLANO,N,N,1,Meets Requirements, ,Llano ISD
+152,17,152504,TEXAS TECH UNIVERSITY K-12,LUBBOCK,N,N, ,Meets Requirements,ASVAB Test not Offered,Texas Tech University K-12
+152,17,152802,RISE ACADEMY,LUBBOCK,Y,N, ,Meets Requirements, ,Rise Academy
+152,17,152803,TRIUMPH PUBLIC HIGH SCHOOLS-LUBBOCK,LUBBOCK,Y,Y, ,Meets Requirements, ,Triumph Public High Schools-Lubbock
+152,17,152806,BETTY M CONDRA SCHOOL FOR EDUCATION INNOVATION,LUBBOCK,Y,N, ,Meets Requirements, ,Betty M Condra School For Education Innovation
+152,17,152901,LUBBOCK ISD,LUBBOCK,N,N,0,Needs Assistance, ,Lubbock ISD
+152,17,152902,NEW DEAL ISD,LUBBOCK,N,N,1,Meets Requirements, ,New Deal ISD
+152,17,152903,SLATON ISD,LUBBOCK,N,N,0,Meets Requirements, ,Slaton ISD
+152,17,152906,LUBBOCK-COOPER ISD,LUBBOCK,N,N, ,Meets Requirements, ,Lubbock-Cooper ISD
+152,17,152907,FRENSHIP ISD,LUBBOCK,N,N,1,Meets Requirements, ,Frenship ISD
+152,17,152908,ROOSEVELT ISD,LUBBOCK,N,N,0,Needs Assistance, ,Roosevelt ISD
+152,17,152909,SHALLOWATER ISD,LUBBOCK,N,N,1,Meets Requirements, ,Shallowater ISD
+152,17,152910,IDALOU ISD,LUBBOCK,N,N,1,Meets Requirements, ,Idalou ISD
+153,17,153903,O'DONNELL ISD,LYNN,N,N, ,Meets Requirements, ,O'Donnell ISD
+153,17,153904,TAHOKA ISD,LYNN,N,N,1,Meets Requirements, ,Tahoka ISD
+153,17,153905,NEW HOME ISD,LYNN,N,N, ,Meets Requirements, ,New Home ISD
+153,17,153907,WILSON ISD,LYNN,N,N, ,Meets Requirements, ,Wilson ISD
+154,6,154901,MADISONVILLE CISD,MADISON,N,N, ,Meets Requirements, ,Madisonville CISD
+154,6,154903,NORTH ZULCH ISD,MADISON,N,N, ,Meets Requirements, ,North Zulch ISD
+155,8,155901,JEFFERSON ISD,MARION,N,N,0,Needs Assistance, ,Jefferson ISD
+156,18,156902,STANTON ISD,MARTIN,N,N, ,Needs Assistance, ,Stanton ISD
+156,18,156905,GRADY ISD,MARTIN,N,N, ,Meets Requirements, ,Grady ISD
+157,15,157901,MASON ISD,MASON,N,N,1,Meets Requirements, ,Mason ISD
+158,3,158901,BAY CITY ISD,MATAGORDA,N,N,0,Needs Intervention, ,Bay City ISD
+158,3,158902,TIDEHAVEN ISD,MATAGORDA,N,N,0,Meets Requirements, ,Tidehaven ISD
+158,3,158904,MATAGORDA ISD,MATAGORDA,N,N, ,Meets Requirements, ,Matagorda ISD
+158,3,158905,PALACIOS ISD,MATAGORDA,N,N,0,Meets Requirements, ,Palacios ISD
+158,3,158906,VAN VLECK ISD,MATAGORDA,N,N,0,Meets Requirements, ,Van Vleck ISD
+159,20,159901,EAGLE PASS ISD,MAVERICK,N,N,0,Meets Requirements, ,Eagle Pass ISD
+160,15,160901,BRADY ISD,MCCULLOCH,N,N,0,Meets Requirements, ,Brady ISD
+160,15,160904,ROCHELLE ISD,MCCULLOCH,N,N, ,Meets Requirements, ,Rochelle ISD
+160,15,160905,LOHN ISD,MCCULLOCH,N,N, ,Meets Requirements, ,Lohn ISD
+161,12,161801,WACO CHARTER SCHOOL,MCLENNAN,Y,N, ,Meets Requirements, ,Waco Charter School
+161,12,161802,RAPOPORT ACADEMY PUBLIC SCHOOL,MCLENNAN,Y,N,0,Meets Requirements, ,Rapoport Academy Public School
+161,12,161807,HARMONY PUBLIC SCHOOLS - NORTH TEXAS,MCLENNAN,Y,N,0,Meets Requirements, ,Harmony Public Schools - North Texas
+161,12,161901,CRAWFORD ISD,MCLENNAN,N,N,0,Meets Requirements, ,Crawford ISD
+161,12,161903,MIDWAY ISD,MCLENNAN,N,N,0,Meets Requirements, ,Midway ISD
+161,12,161906,LA VEGA ISD,MCLENNAN,N,N,0,Needs Assistance, ,La Vega ISD
+161,12,161907,LORENA ISD,MCLENNAN,N,N,0,Meets Requirements, ,Lorena ISD
+161,12,161908,MART ISD,MCLENNAN,N,N,0,Meets Requirements, ,Mart ISD
+161,12,161909,MCGREGOR ISD,MCLENNAN,N,N,0,Needs Assistance, ,McGregor ISD
+161,12,161910,MOODY ISD,MCLENNAN,N,N,0,Meets Requirements, ,Moody ISD
+161,12,161912,RIESEL ISD,MCLENNAN,N,N,0,Meets Requirements, ,Riesel ISD
+161,12,161914,WACO ISD,MCLENNAN,N,N,0,Needs Substantial Intervention, ,Waco ISD
+161,12,161916,WEST ISD,MCLENNAN,N,N,0,Meets Requirements, ,West ISD
+161,12,161918,AXTELL ISD,MCLENNAN,N,N,0,Meets Requirements, ,Axtell ISD
+161,12,161919,BRUCEVILLE-EDDY ISD,MCLENNAN,N,N,0,Meets Requirements, ,Bruceville-Eddy ISD
+161,12,161920,CHINA SPRING ISD,MCLENNAN,N,N,0,Meets Requirements, ,China Spring ISD
+161,12,161921,CONNALLY ISD,MCLENNAN,N,N,0,Needs Intervention, ,Connally ISD
+161,12,161922,ROBINSON ISD,MCLENNAN,N,N,0,Meets Requirements, ,Robinson ISD
+161,12,161923,BOSQUEVILLE ISD,MCLENNAN,N,N,0,Meets Requirements, ,Bosqueville ISD
+161,12,161924,HALLSBURG ISD,MCLENNAN,N,N, ,Meets Requirements, ,Hallsburg ISD
+161,12,161925,GHOLSON ISD,MCLENNAN,N,N, ,Meets Requirements, ,Gholson ISD
+162,2,162904,MCMULLEN COUNTY ISD,MCMULLEN,N,N, ,Meets Requirements, ,McMullen County ISD
+163,20,163901,DEVINE ISD,MEDINA,N,N,0,Meets Requirements, ,Devine ISD
+163,20,163902,D'HANIS ISD,MEDINA,N,N, ,Meets Requirements, ,D'Hanis ISD
+163,20,163903,NATALIA ISD,MEDINA,N,N,0,Needs Assistance, ,Natalia ISD
+163,20,163904,HONDO ISD,MEDINA,N,N,0,Meets Requirements, ,Hondo ISD
+163,20,163908,MEDINA VALLEY ISD,MEDINA,N,N,1,Meets Requirements, ,Medina Valley ISD
+164,15,164901,MENARD ISD,MENARD,N,N,0,Meets Requirements, ,Menard ISD
+165,18,165802,MIDLAND ACADEMY CHARTER SCHOOL,MIDLAND,Y,N, ,Meets Requirements, ,Midland Academy Charter School
+165,18,165901,MIDLAND ISD,MIDLAND,N,N,0,Needs Assistance, ,Midland ISD
+165,18,165902,GREENWOOD ISD,MIDLAND,N,N,0,Meets Requirements, ,Greenwood ISD
+166,6,166901,CAMERON ISD,MILAM,N,N, ,Needs Assistance, ,Cameron ISD
+166,6,166902,GAUSE ISD,MILAM,N,N, ,Meets Requirements, ,Gause ISD
+166,6,166903,MILANO ISD,MILAM,N,N,0,Meets Requirements, ,Milano ISD
+166,6,166904,ROCKDALE ISD,MILAM,N,N,0,Meets Requirements, ,Rockdale ISD
+166,13,166905,THORNDALE ISD,MILAM,N,N,0,Meets Requirements, ,Thorndale ISD
+166,12,166907,BUCKHOLTS ISD,MILAM,N,N, ,Meets Requirements, ,Buckholts ISD
+167,12,167901,GOLDTHWAITE ISD,MILLS,N,N,0,Meets Requirements, ,Goldthwaite ISD
+167,12,167902,MULLIN ISD,MILLS,N,N, ,Meets Requirements, ,Mullin ISD
+167,12,167904,PRIDDY ISD,MILLS,N,N, ,Meets Requirements, ,Priddy ISD
+168,14,168901,COLORADO ISD,MITCHELL,N,N,0,Meets Requirements, ,Colorado ISD
+168,14,168902,LORAINE ISD,MITCHELL,N,N, ,Meets Requirements, ,Loraine ISD
+168,14,168903,WESTBROOK ISD,MITCHELL,N,N, ,Meets Requirements, ,Westbrook ISD
+169,9,169901,BOWIE ISD,MONTAGUE,N,N,0,Needs Assistance, ,Bowie ISD
+169,9,169902,NOCONA ISD,MONTAGUE,N,N,0,Meets Requirements, ,Nocona ISD
+169,9,169906,GOLD BURG ISD,MONTAGUE,N,N, ,Meets Requirements, ,Gold Burg ISD
+169,9,169908,MONTAGUE ISD,MONTAGUE,N,N, ,Meets Requirements, ,Montague ISD
+169,9,169909,PRAIRIE VALLEY ISD,MONTAGUE,N,N,0,Meets Requirements, ,Prairie Valley ISD
+169,9,169910,FORESTBURG ISD,MONTAGUE,N,N, ,Meets Requirements, ,Forestburg ISD
+169,9,169911,SAINT JO ISD,MONTAGUE,N,N,0,Meets Requirements, ,Saint Jo ISD
+170,6,170801,TEXAS SERENITY ACADEMY,MONTGOMERY,Y,N, ,Meets Requirements, ,Texas Serenity Academy
+170,6,170902,CONROE ISD,MONTGOMERY,N,N,0,Meets Requirements, ,Conroe ISD
+170,6,170903,MONTGOMERY ISD,MONTGOMERY,N,N,0,Meets Requirements, ,Montgomery ISD
+170,6,170904,WILLIS ISD,MONTGOMERY,N,N,0,Needs Assistance, ,Willis ISD
+170,6,170906,MAGNOLIA ISD,MONTGOMERY,N,N,0,Meets Requirements, ,Magnolia ISD
+170,6,170907,SPLENDORA ISD,MONTGOMERY,N,N,0,Needs Assistance, ,Splendora ISD
+170,6,170908,NEW CANEY ISD,MONTGOMERY,N,N, ,Needs Assistance, ,New Caney ISD
+171,16,171901,DUMAS ISD,MOORE,N,N,1,Meets Requirements, ,Dumas ISD
+171,16,171902,SUNRAY COLLEGIATE ISD,MOORE,N,N,0,Meets Requirements, ,Sunray Collegiate ISD
+172,8,172902,DAINGERFIELD-LONE STAR ISD,MORRIS,N,N,0,Meets Requirements, ,Daingerfield-Lone Star ISD
+172,8,172905,PEWITT CISD,MORRIS,N,N,0,Meets Requirements, ,Pewitt CISD
+173,17,173901,MOTLEY COUNTY ISD,MOTLEY,N,N, ,Meets Requirements, ,Motley County ISD
+174,7,174801,STEPHEN F AUSTIN STATE UNIVERSITY CHARTER SCHOOL,NACOGDOCHES,Y,N, ,Meets Requirements, ,Stephen F Austin State University Charter School
+174,7,174901,CHIRENO ISD,NACOGDOCHES,N,N,0,Meets Requirements, ,Chireno ISD
+174,7,174902,CUSHING ISD,NACOGDOCHES,N,N, ,Meets Requirements, ,Cushing ISD
+174,7,174903,GARRISON ISD,NACOGDOCHES,N,N,0,Meets Requirements, ,Garrison ISD
+174,7,174904,NACOGDOCHES ISD,NACOGDOCHES,N,N,0,Needs Intervention, ,Nacogdoches ISD
+174,7,174906,WODEN ISD,NACOGDOCHES,N,N,0,Meets Requirements, ,Woden ISD
+174,7,174908,CENTRAL HEIGHTS ISD,NACOGDOCHES,N,N,1,Meets Requirements, ,Central Heights ISD
+174,7,174909,MARTINSVILLE ISD,NACOGDOCHES,N,N, ,Meets Requirements, ,Martinsville ISD
+174,7,174910,ETOILE ISD,NACOGDOCHES,N,N, ,Meets Requirements, ,Etoile ISD
+174,7,174911,DOUGLASS ISD,NACOGDOCHES,N,N, ,Meets Requirements, ,Douglass ISD
+175,12,175902,BLOOMING GROVE ISD,NAVARRO,N,N,0,Meets Requirements, ,Blooming Grove ISD
+175,12,175903,CORSICANA ISD,NAVARRO,N,N,0,Needs Intervention, ,Corsicana ISD
+175,12,175904,DAWSON ISD,NAVARRO,N,N,0,Needs Assistance, ,Dawson ISD
+175,12,175905,FROST ISD,NAVARRO,N,N,0,Meets Requirements, ,Frost ISD
+175,12,175907,KERENS ISD,NAVARRO,N,N, ,Meets Requirements, ,Kerens ISD
+175,12,175910,MILDRED ISD,NAVARRO,N,N,0,Meets Requirements, ,Mildred ISD
+175,12,175911,RICE ISD,NAVARRO,N,N,1,Meets Requirements, ,Rice ISD
+176,5,176901,BURKEVILLE ISD,NEWTON,N,N, ,Meets Requirements, ,Burkeville ISD
+176,5,176902,NEWTON ISD,NEWTON,N,N,0,Meets Requirements, ,Newton ISD
+176,5,176903,DEWEYVILLE ISD,NEWTON,N,N,0,Meets Requirements, ,Deweyville ISD
+177,14,177901,ROSCOE COLLEGIATE ISD,NOLAN,N,N, ,Meets Requirements,ASVAB Alternative Test Offered,Roscoe Collegiate ISD
+177,14,177902,SWEETWATER ISD,NOLAN,N,N, ,Needs Substantial Intervention, ,Sweetwater ISD
+177,14,177903,BLACKWELL CISD,NOLAN,N,N, ,Meets Requirements, ,Blackwell CISD
+177,14,177905,HIGHLAND ISD,NOLAN,N,N, ,Meets Requirements, ,Highland ISD
+178,2,178801,DR M L GARZA-GONZALEZ CHARTER SCHOOL,NUECES,Y,N, ,Meets Requirements, ,Dr M L Garza-Gonzalez Charter School
+178,2,178807,CORPUS CHRISTI MONTESSORI SCHOOL,NUECES,Y,N, ,Meets Requirements, ,Corpus Christi Montessori School
+178,2,178808,SEASHORE CHARTER SCHOOLS,NUECES,Y,N, ,Meets Requirements, ,Seashore Charter Schools
+178,2,178901,AGUA DULCE ISD,NUECES,N,N,0,Meets Requirements, ,Agua Dulce ISD
+178,2,178902,BISHOP CISD,NUECES,N,N,0,Meets Requirements, ,Bishop CISD
+178,2,178903,CALALLEN ISD,NUECES,N,N,0,Meets Requirements, ,Calallen ISD
+178,2,178904,CORPUS CHRISTI ISD,NUECES,N,N,0,Needs Assistance, ,Corpus Christi ISD
+178,2,178905,DRISCOLL ISD,NUECES,N,N, ,Meets Requirements, ,Driscoll ISD
+178,2,178906,LONDON ISD,NUECES,N,N,0,Meets Requirements, ,London ISD
+178,2,178908,PORT ARANSAS ISD,NUECES,N,N,1,Meets Requirements, ,Port Aransas ISD
+178,2,178909,ROBSTOWN ISD,NUECES,N,N,0,Needs Assistance, ,Robstown ISD
+178,2,178912,TULOSO-MIDWAY ISD,NUECES,N,N,0,Meets Requirements, ,Tuloso-Midway ISD
+178,2,178913,BANQUETE ISD,NUECES,N,N,0,Meets Requirements, ,Banquete ISD
+178,2,178914,FLOUR BLUFF ISD,NUECES,N,N,0,Meets Requirements, ,Flour Bluff ISD
+178,2,178915,WEST OSO ISD,NUECES,N,N,0,Meets Requirements, ,West Oso ISD
+179,16,179901,PERRYTON ISD,OCHILTREE,N,N,1,Meets Requirements, ,Perryton ISD
+180,16,180901,BOYS RANCH ISD,OLDHAM,N,N, ,Meets Requirements, ,Boys Ranch ISD
+180,16,180902,VEGA ISD,OLDHAM,N,N,1,Meets Requirements, ,Vega ISD
+180,16,180903,ADRIAN ISD,OLDHAM,N,N, ,Meets Requirements, ,Adrian ISD
+180,16,180904,WILDORADO ISD,OLDHAM,N,N, ,Meets Requirements, ,Wildorado ISD
+181,5,181901,BRIDGE CITY ISD,ORANGE,N,N,0,Needs Assistance, ,Bridge City ISD
+181,5,181905,ORANGEFIELD ISD,ORANGE,N,N,0,Meets Requirements, ,Orangefield ISD
+181,5,181906,WEST ORANGE-COVE CISD,ORANGE,N,N,0,Needs Assistance, ,West Orange-Cove CISD
+181,5,181907,VIDOR ISD,ORANGE,N,N,0,Needs Assistance, ,Vidor ISD
+181,5,181908,LITTLE CYPRESS-MAURICEVILLE CISD,ORANGE,N,N,0,Needs Intervention, ,Little Cypress-Mauriceville CISD
+182,11,182901,GORDON ISD,PALO PINTO,N,N, ,Meets Requirements, ,Gordon ISD
+182,11,182902,GRAFORD ISD,PALO PINTO,N,N, ,Meets Requirements, ,Graford ISD
+182,11,182903,MINERAL WELLS ISD,PALO PINTO,N,N,0,Needs Assistance, ,Mineral Wells ISD
+182,11,182904,SANTO ISD,PALO PINTO,N,N,1,Meets Requirements, ,Santo ISD
+182,11,182905,STRAWN ISD,PALO PINTO,N,N, ,Meets Requirements, ,Strawn ISD
+182,11,182906,PALO PINTO ISD,PALO PINTO,N,N, ,Meets Requirements, ,Palo Pinto ISD
+183,7,183801,PANOLA CHARTER SCHOOL,PANOLA,Y,N,0,Meets Requirements, ,Panola Charter School
+183,7,183901,BECKVILLE ISD,PANOLA,N,N,0,Meets Requirements, ,Beckville ISD
+183,7,183902,CARTHAGE ISD,PANOLA,N,N,0,Needs Assistance, ,Carthage ISD
+183,7,183904,GARY ISD,PANOLA,N,N, ,Meets Requirements, ,Gary ISD
+184,11,184801,CROSSTIMBERS ACADEMY,PARKER,Y,Y, ,Meets Requirements, ,Crosstimbers Academy
+184,11,184901,POOLVILLE ISD,PARKER,N,N,0,Meets Requirements, ,Poolville ISD
+184,11,184902,SPRINGTOWN ISD,PARKER,N,N,0,Needs Assistance, ,Springtown ISD
+184,11,184903,WEATHERFORD ISD,PARKER,N,N,0,Meets Requirements, ,Weatherford ISD
+184,11,184904,MILLSAP ISD,PARKER,N,N,0,Meets Requirements, ,Millsap ISD
+184,11,184907,ALEDO ISD,PARKER,N,N,0,Meets Requirements, ,Aledo ISD
+184,11,184908,PEASTER ISD,PARKER,N,N,0,Meets Requirements, ,Peaster ISD
+184,11,184909,BROCK ISD,PARKER,N,N,0,Meets Requirements, ,Brock ISD
+184,11,184911,GARNER ISD,PARKER,N,N, ,Meets Requirements, ,Garner ISD
+185,16,185901,BOVINA ISD,PARMER,N,N,0,Meets Requirements, ,Bovina ISD
+185,16,185902,FARWELL ISD,PARMER,N,N,1,Meets Requirements, ,Farwell ISD
+185,16,185903,FRIONA ISD,PARMER,N,N,0,Meets Requirements, ,Friona ISD
+185,16,185904,LAZBUDDIE ISD,PARMER,N,N, ,Meets Requirements, ,Lazbuddie ISD
+186,18,186901,BUENA VISTA ISD,PECOS,N,N, ,Meets Requirements, ,Buena Vista ISD
+186,18,186902,FORT STOCKTON ISD,PECOS,N,N,0,Meets Requirements, ,Fort Stockton ISD
+186,18,186903,IRAAN-SHEFFIELD ISD,PECOS,N,N,0,Meets Requirements, ,Iraan-Sheffield ISD
+187,6,187901,BIG SANDY ISD,POLK,N,N, ,Meets Requirements, ,Big Sandy ISD
+187,6,187903,GOODRICH ISD,POLK,N,N,0,Meets Requirements, ,Goodrich ISD
+187,6,187904,CORRIGAN-CAMDEN ISD,POLK,N,N,0,Meets Requirements, ,Corrigan-Camden ISD
+187,6,187906,LEGGETT ISD,POLK,N,N,0,Meets Requirements, ,Leggett ISD
+187,6,187907,LIVINGSTON ISD,POLK,N,N,0,Needs Assistance, ,Livingston ISD
+187,6,187910,ONALASKA ISD,POLK,N,N,0,Meets Requirements, ,Onalaska ISD
+188,16,188901,AMARILLO ISD,POTTER,N,N,0,Needs Assistance, ,Amarillo ISD
+188,16,188902,RIVER ROAD ISD,POTTER,N,N,0,Meets Requirements, ,River Road ISD
+188,16,188903,HIGHLAND PARK ISD,POTTER,N,N,0,Meets Requirements, ,Highland Park ISD
+188,16,188904,BUSHLAND ISD,POTTER,N,N,0,Meets Requirements, ,Bushland ISD
+189,18,189901,MARFA ISD,PRESIDIO,N,N, ,Meets Requirements, ,Marfa ISD
+189,18,189902,PRESIDIO ISD,PRESIDIO,N,N,0,Meets Requirements, ,Presidio ISD
+190,7,190903,RAINS ISD,RAINS,N,N,0,Needs Assistance, ,Rains ISD
+191,16,191901,CANYON ISD,RANDALL,N,N,0,Meets Requirements, ,Canyon ISD
+192,18,192901,REAGAN COUNTY ISD,REAGAN,N,N,0,Meets Requirements, ,Reagan County ISD
+193,20,193801,BIG SPRINGS CHARTER SCHOOL,REAL,Y,N, ,Meets Requirements, ,Big Springs Charter School
+193,20,193902,LEAKEY ISD,REAL,N,N, ,Meets Requirements, ,Leakey ISD
+194,8,194902,AVERY ISD,RED RIVER,N,N,0,Meets Requirements, ,Avery ISD
+194,8,194903,RIVERCREST ISD,RED RIVER,N,N,0,Meets Requirements, ,Rivercrest ISD
+194,8,194904,CLARKSVILLE ISD,RED RIVER,N,N,0,Meets Requirements, ,Clarksville ISD
+194,8,194905,DETROIT ISD,RED RIVER,N,N,0,Meets Requirements, ,Detroit ISD
+195,18,195901,PECOS-BARSTOW-TOYAH ISD,REEVES,N,N,0,Needs Assistance, ,Pecos-Barstow-Toyah ISD
+195,18,195902,BALMORHEA ISD,REEVES,N,N, ,Meets Requirements, ,Balmorhea ISD
+196,3,196901,AUSTWELL-TIVOLI ISD,REFUGIO,N,N,0,Meets Requirements, ,Austwell-Tivoli ISD
+196,3,196902,WOODSBORO ISD,REFUGIO,N,N,0,Meets Requirements, ,Woodsboro ISD
+196,3,196903,REFUGIO ISD,REFUGIO,N,N,0,Meets Requirements, ,Refugio ISD
+197,16,197902,MIAMI ISD,ROBERTS,N,N, ,Meets Requirements, ,Miami ISD
+198,6,198901,BREMOND ISD,ROBERTSON,N,N,0,Meets Requirements, ,Bremond ISD
+198,6,198902,CALVERT ISD,ROBERTSON,N,N, ,Meets Requirements, ,Calvert ISD
+198,6,198903,FRANKLIN ISD,ROBERTSON,N,N,1,Meets Requirements, ,Franklin ISD
+198,6,198905,HEARNE ISD,ROBERTSON,N,N,0,Needs Assistance, ,Hearne ISD
+198,6,198906,MUMFORD ISD,ROBERTSON,N,N,1,Meets Requirements, ,Mumford ISD
+199,10,199901,ROCKWALL ISD,ROCKWALL,N,N,0,Meets Requirements, ,Rockwall ISD
+199,10,199902,ROYSE CITY ISD,ROCKWALL,N,N,0,Meets Requirements, ,Royse City ISD
+200,15,200901,BALLINGER ISD,RUNNELS,N,N,0,Meets Requirements, ,Ballinger ISD
+200,15,200902,MILES ISD,RUNNELS,N,N,1,Meets Requirements, ,Miles ISD
+200,15,200904,WINTERS ISD,RUNNELS,N,N,1,Meets Requirements, ,Winters ISD
+200,15,200906,OLFEN ISD,RUNNELS,N,N, ,Meets Requirements, ,Olfen ISD
+201,7,201902,HENDERSON ISD,RUSK,N,N,0,Needs Intervention, ,Henderson ISD
+201,7,201903,LANEVILLE ISD,RUSK,N,N, ,Meets Requirements, ,Laneville ISD
+201,7,201904,LEVERETTS CHAPEL ISD,RUSK,N,N,0,Meets Requirements, ,Leveretts Chapel ISD
+201,7,201907,MOUNT ENTERPRISE ISD,RUSK,N,N,1,Meets Requirements, ,Mount Enterprise ISD
+201,7,201908,OVERTON ISD,RUSK,N,N,0,Meets Requirements, ,Overton ISD
+201,7,201910,TATUM ISD,RUSK,N,N,0,Meets Requirements, ,Tatum ISD
+201,7,201913,CARLISLE ISD,RUSK,N,N, ,Meets Requirements, ,Carlisle ISD
+201,7,201914,WEST RUSK COUNTY CONSOLIDATED ISD,RUSK,N,N,0,Meets Requirements, ,West Rusk County Consolidated ISD
+202,7,202903,HEMPHILL ISD,SABINE,N,N,0,Meets Requirements, ,Hemphill ISD
+202,7,202905,WEST SABINE ISD,SABINE,N,N,0,Meets Requirements, ,West Sabine ISD
+203,7,203901,SAN AUGUSTINE ISD,SAN AUGUSTINE,N,N,0,Needs Assistance, ,San Augustine ISD
+203,7,203902,BROADDUS ISD,SAN AUGUSTINE,N,N, ,Meets Requirements, ,Broaddus ISD
+204,6,204901,COLDSPRING-OAKHURST CISD,SAN JACINTO,N,N,0,Needs Assistance, ,Coldspring-Oakhurst CISD
+204,6,204904,SHEPHERD ISD,SAN JACINTO,N,N, ,Needs Assistance, ,Shepherd ISD
+205,2,205901,ARANSAS PASS ISD,SAN PATRICIO,N,N,0,Meets Requirements, ,Aransas Pass ISD
+205,2,205902,GREGORY-PORTLAND ISD,SAN PATRICIO,N,N,0,Needs Assistance, ,Gregory-Portland ISD
+205,2,205903,INGLESIDE ISD,SAN PATRICIO,N,N,1,Meets Requirements, ,Ingleside ISD
+205,2,205904,MATHIS ISD,SAN PATRICIO,N,N,0,Meets Requirements, ,Mathis ISD
+205,2,205905,ODEM-EDROY ISD,SAN PATRICIO,N,N,0,Meets Requirements, ,Odem-Edroy ISD
+205,2,205906,SINTON ISD,SAN PATRICIO,N,N,0,Needs Assistance, ,Sinton ISD
+205,2,205907,TAFT ISD,SAN PATRICIO,N,N,0,Meets Requirements, ,Taft ISD
+206,15,206901,SAN SABA ISD,SAN SABA,N,N,0,Meets Requirements, ,San Saba ISD
+206,15,206902,RICHLAND SPRINGS ISD,SAN SABA,N,N, ,Meets Requirements, ,Richland Springs ISD
+206,15,206903,CHEROKEE ISD,SAN SABA,N,N, ,Meets Requirements, ,Cherokee ISD
+207,15,207901,SCHLEICHER ISD,SCHLEICHER,N,N,0,Meets Requirements, ,Schleicher ISD
+208,14,208901,HERMLEIGH ISD,SCURRY,N,N, ,Meets Requirements, ,Hermleigh ISD
+208,14,208902,SNYDER ISD,SCURRY,N,N, ,Meets Requirements, ,Snyder ISD
+208,14,208903,IRA ISD,SCURRY,N,N, ,Meets Requirements, ,Ira ISD
+209,14,209901,ALBANY ISD,SHACKELFORD,N,N,0,Meets Requirements, ,Albany ISD
+209,14,209902,MORAN ISD,SHACKELFORD,N,N, ,Meets Requirements, ,Moran ISD
+210,7,210901,CENTER ISD,SHELBY,N,N,0,Needs Assistance, ,Center ISD
+210,7,210902,JOAQUIN ISD,SHELBY,N,N,0,Meets Requirements, ,Joaquin ISD
+210,7,210903,SHELBYVILLE ISD,SHELBY,N,N, ,Meets Requirements, ,Shelbyville ISD
+210,7,210904,TENAHA ISD,SHELBY,N,N, ,Meets Requirements, ,Tenaha ISD
+210,7,210905,TIMPSON ISD,SHELBY,N,N, ,Meets Requirements, ,Timpson ISD
+210,7,210906,EXCELSIOR ISD,SHELBY,N,N, ,Meets Requirements, ,Excelsior ISD
+211,16,211901,TEXHOMA ISD,SHERMAN,N,N, ,Meets Requirements, ,Texhoma ISD
+211,16,211902,STRATFORD ISD,SHERMAN,N,N,0,Meets Requirements, ,Stratford ISD
+212,7,212801,CUMBERLAND ACADEMY,SMITH,Y,N,0,Needs Assistance, ,Cumberland Academy
+212,7,212804,UT TYLER UNIVERSITY ACADEMY,SMITH,Y,N,1,Meets Requirements, ,Ut Tyler University Academy
+212,7,212901,ARP ISD,SMITH,N,N,0,Meets Requirements, ,Arp ISD
+212,7,212902,BULLARD ISD,SMITH,N,N,0,Meets Requirements, ,Bullard ISD
+212,7,212903,LINDALE ISD,SMITH,N,N,1,Meets Requirements, ,Lindale ISD
+212,7,212904,TROUP ISD,SMITH,N,N, ,Meets Requirements, ,Troup ISD
+212,7,212905,TYLER ISD,SMITH,N,N,0,Needs Assistance, ,Tyler ISD
+212,7,212906,WHITEHOUSE ISD,SMITH,N,N,1,Meets Requirements,ASVAB Test not Offered,Whitehouse ISD
+212,7,212909,CHAPEL HILL ISD,SMITH,N,N,0,Needs Intervention, ,Chapel Hill ISD
+212,7,212910,WINONA ISD,SMITH,N,N,1,Needs Assistance, ,Winona ISD
+213,11,213801,BRAZOS RIVER CHARTER SCHOOL,SOMERVELL,Y,Y, ,Meets Requirements, ,Brazos River Charter School
+213,11,213901,GLEN ROSE ISD,SOMERVELL,N,N,0,Meets Requirements, ,Glen Rose ISD
+214,1,214901,RIO GRANDE CITY GRULLA ISD,STARR,N,N,0,Needs Assistance, ,Rio Grande City Grulla ISD
+214,1,214902,SAN ISIDRO ISD,STARR,N,N,0,Meets Requirements, ,San Isidro ISD
+214,1,214903,ROMA ISD,STARR,N,N,1,Needs Assistance, ,Roma ISD
+215,14,215901,BRECKENRIDGE ISD,STEPHENS,N,N,0,Meets Requirements, ,Breckenridge ISD
+216,15,216901,STERLING CITY ISD,STERLING,N,N,1,Meets Requirements, ,Sterling City ISD
+217,14,217901,ASPERMONT ISD,STONEWALL,N,N,0,Meets Requirements, ,Aspermont ISD
+218,15,218901,SONORA ISD,SUTTON,N,N,0,Meets Requirements, ,Sonora ISD
+219,16,219901,HAPPY ISD,SWISHER,N,N,1,Meets Requirements, ,Happy ISD
+219,16,219903,TULIA ISD,SWISHER,N,N,0,Meets Requirements, ,Tulia ISD
+219,16,219905,KRESS ISD,SWISHER,N,N,0,Meets Requirements, ,Kress ISD
+220,11,220801,TREETOPS SCHOOL INTERNATIONAL,TARRANT,Y,N, ,Meets Requirements,ASVAB Test not Offered,Treetops School International
+220,11,220802,ARLINGTON CLASSICS ACADEMY,TARRANT,Y,N, ,Meets Requirements, ,Arlington Classics Academy
+220,11,220809,FORT WORTH ACADEMY OF FINE ARTS,TARRANT,Y,N,0,Meets Requirements,ASVAB Test not Offered,Fort Worth Academy Of Fine Arts
+220,11,220810,WESTLAKE ACADEMY CHARTER SCHOOL,TARRANT,Y,N, ,Meets Requirements,ASVAB Test not Offered,Westlake Academy Charter School
+220,11,220811,EAST FORT WORTH MONTESSORI ACADEMY,TARRANT,Y,N, ,Meets Requirements, ,East Fort Worth Montessori Academy
+220,11,220814,TEXAS SCHOOL OF THE ARTS,TARRANT,Y,N, ,Meets Requirements, ,Texas School Of The Arts
+220,11,220815,CHAPEL HILL ACADEMY,TARRANT,Y,N, ,Meets Requirements, ,Chapel Hill Academy
+220,11,220817,NEWMAN INTERNATIONAL ACADEMY OF ARLINGTON,TARRANT,Y,N,0,Needs Assistance, ,Newman International Academy Of Arlington
+220,11,220819,HIGH POINT ACADEMY,TARRANT,Y,N,0,Meets Requirements,ASVAB Test not Offered,High Point Academy
+220,11,220901,ARLINGTON ISD,TARRANT,N,N,0,Needs Intervention, ,Arlington ISD
+220,11,220902,BIRDVILLE ISD,TARRANT,N,N,0,Needs Assistance, ,Birdville ISD
+220,11,220904,EVERMAN ISD,TARRANT,N,N, ,Needs Assistance, ,Everman ISD
+220,11,220905,FORT WORTH ISD,TARRANT,N,N, ,Needs Intervention, ,Fort Worth ISD
+220,11,220906,GRAPEVINE-COLLEYVILLE ISD,TARRANT,N,N,0,Meets Requirements, ,Grapevine-Colleyville ISD
+220,11,220907,KELLER ISD,TARRANT,N,N,0,Needs Assistance, ,Keller ISD
+220,11,220908,MANSFIELD ISD,TARRANT,N,N,0,Meets Requirements, ,Mansfield ISD
+220,11,220910,LAKE WORTH ISD,TARRANT,N,N,0,Needs Substantial Intervention, ,Lake Worth ISD
+220,11,220912,CROWLEY ISD,TARRANT,N,N,0,Needs Assistance, ,Crowley ISD
+220,11,220914,KENNEDALE ISD,TARRANT,N,N,0,Needs Assistance, ,Kennedale ISD
+220,11,220915,AZLE ISD,TARRANT,N,N,0,Needs Assistance, ,Azle ISD
+220,11,220916,HURST-EULESS-BEDFORD ISD,TARRANT,N,N,1,Meets Requirements, ,Hurst-Euless-Bedford ISD
+220,11,220917,CASTLEBERRY ISD,TARRANT,N,N,0,Needs Assistance, ,Castleberry ISD
+220,11,220918,EAGLE MT-SAGINAW ISD,TARRANT,N,N,0,Meets Requirements, ,Eagle Mt-Saginaw ISD
+220,11,220919,CARROLL ISD,TARRANT,N,N,1,Meets Requirements, ,Carroll ISD
+220,11,220920,WHITE SETTLEMENT ISD,TARRANT,N,N,0,Needs Assistance, ,White Settlement ISD
+221,14,221801,TEXAS COLLEGE PREPARATORY ACADEMIES,TAYLOR,Y,N,0,Meets Requirements,ASVAB Alternative Test Offered,Texas College Preparatory Academies
+221,14,221901,ABILENE ISD,TAYLOR,N,N,0,Needs Assistance, ,Abilene ISD
+221,14,221904,MERKEL ISD,TAYLOR,N,N,0,Meets Requirements, ,Merkel ISD
+221,14,221905,TRENT ISD,TAYLOR,N,N, ,Meets Requirements, ,Trent ISD
+221,14,221911,JIM NED CISD,TAYLOR,N,N,0,Meets Requirements, ,Jim Ned CISD
+221,14,221912,WYLIE ISD,TAYLOR,N,N,0,Meets Requirements, ,Wylie ISD
+222,18,222901,TERRELL COUNTY ISD,TERRELL,N,N, ,Meets Requirements, ,Terrell County ISD
+223,17,223901,BROWNFIELD ISD,TERRY,N,N,0,Needs Intervention, ,Brownfield ISD
+223,17,223902,MEADOW ISD,TERRY,N,N, ,Meets Requirements, ,Meadow ISD
+223,17,223904,WELLMAN-UNION CISD,TERRY,N,N, ,Meets Requirements, ,Wellman-Union CISD
+224,14,224901,THROCKMORTON COLLEGIATE ISD,THROCKMORTON,N,N, ,Meets Requirements, ,Throckmorton Collegiate ISD
+224,9,224902,WOODSON ISD,THROCKMORTON,N,N, ,Meets Requirements, ,Woodson ISD
+225,8,225902,MOUNT PLEASANT ISD,TITUS,N,N,0,Meets Requirements, ,Mount Pleasant ISD
+225,8,225906,CHAPEL HILL ISD,TITUS,N,N, ,Meets Requirements, ,Chapel Hill ISD
+225,8,225907,HARTS BLUFF ISD,TITUS,N,N, ,Meets Requirements, ,Harts Bluff ISD
+226,15,226801,TEXAS LEADERSHIP PUBLIC SCHOOLS,TOM GREEN,Y,N,0,Needs Assistance, ,Texas Leadership Public Schools
+226,15,226901,CHRISTOVAL ISD,TOM GREEN,N,N,0,Meets Requirements, ,Christoval ISD
+226,15,226903,SAN ANGELO ISD,TOM GREEN,N,N,0,Needs Intervention, ,San Angelo ISD
+226,15,226905,WATER VALLEY ISD,TOM GREEN,N,N,0,Meets Requirements, ,Water Valley ISD
+226,15,226906,WALL ISD,TOM GREEN,N,N,1,Meets Requirements, ,Wall ISD
+226,15,226907,GRAPE CREEK ISD,TOM GREEN,N,N,0,Meets Requirements, ,Grape Creek ISD
+226,15,226908,VERIBEST ISD,TOM GREEN,N,N,0,Meets Requirements, ,Veribest ISD
+227,13,227506,UNIVERSITY OF TEXAS AT AUSTIN H S,TRAVIS,N,N, ,Meets Requirements,ASVAB Test not Offered,University Of Texas At Austin H S
+227,13,227803,WAYSIDE SCHOOLS,TRAVIS,Y,N,0,Needs Assistance, ,Wayside Schools
+227,13,227804,NYOS CHARTER SCHOOL,TRAVIS,Y,N,0,Meets Requirements, ,Nyos Charter School
+227,13,227805,TEXAS EMPOWERMENT ACADEMY,TRAVIS,Y,N,0,Meets Requirements, ,Texas Empowerment Academy
+227,13,227806,UNIVERSITY OF TEXAS UNIVERSITY CHARTER SCHOOL,TRAVIS,Y,Y, ,Needs Assistance, ,University Of Texas University Charter School
+227,13,227814,CHAPARRAL STAR ACADEMY,TRAVIS,Y,N, ,Meets Requirements, ,Chaparral Star Academy
+227,13,227816,HARMONY PUBLIC SCHOOLS - CENTRAL TEXAS,TRAVIS,Y,N,0,Meets Requirements, ,Harmony Public Schools - Central Texas
+227,13,227817,CEDARS INTERNATIONAL ACADEMY,TRAVIS,Y,N,0,Meets Requirements,ASVAB Test not Offered,Cedars International Academy
+227,13,227819,UNIVERSITY OF TEXAS ELEMENTARY CHARTER SCHOOL,TRAVIS,Y,N, ,Meets Requirements, ,University Of Texas Elementary Charter School
+227,4,227820,KIPP TEXAS PUBLIC SCHOOLS,TRAVIS,Y,N,0,Needs Assistance,ASVAB Alternative Test Offered,Kipp Texas Public Schools
+227,13,227821,AUSTIN DISCOVERY SCHOOL,TRAVIS,Y,N, ,Meets Requirements, ,Austin Discovery School
+227,13,227824,VALERE PUBLIC SCHOOLS,TRAVIS,Y,N,0,Meets Requirements,ASVAB Test not Offered,Valere Public Schools
+227,13,227825,AUSTIN ACHIEVE PUBLIC SCHOOLS,TRAVIS,Y,N,0,Needs Assistance, ,Austin Achieve Public Schools
+227,13,227826,MONTESSORI FOR ALL,TRAVIS,Y,N, ,Meets Requirements, ,Montessori For All
+227,13,227827,THE EXCEL CENTER - FOR ADULTS,TRAVIS,Y,Y, ,Meets Requirements, ,The Excel Center - For Adults
+227,13,227829,VALOR PUBLIC SCHOOLS,TRAVIS,Y,N, ,Meets Requirements,ASVAB Test not Offered,Valor Public Schools
+227,13,227901,AUSTIN ISD,TRAVIS,N,N,0,Needs Assistance, ,Austin ISD
+227,13,227904,PFLUGERVILLE ISD,TRAVIS,N,N,0,Needs Assistance, ,Pflugerville ISD
+227,13,227907,MANOR ISD,TRAVIS,N,N,0,Needs Intervention, ,Manor ISD
+227,13,227909,EANES ISD,TRAVIS,N,N,0,Meets Requirements, ,Eanes ISD
+227,13,227910,DEL VALLE ISD,TRAVIS,N,N,0,Needs Intervention, ,Del Valle ISD
+227,13,227912,LAGO VISTA ISD,TRAVIS,N,N,0,Meets Requirements, ,Lago Vista ISD
+227,13,227913,LAKE TRAVIS ISD,TRAVIS,N,N,0,Meets Requirements, ,Lake Travis ISD
+228,6,228901,GROVETON ISD,TRINITY,N,N,0,Meets Requirements, ,Groveton ISD
+228,6,228903,TRINITY ISD,TRINITY,N,N,0,Meets Requirements, ,Trinity ISD
+228,6,228904,CENTERVILLE ISD,TRINITY,N,N, ,Meets Requirements, ,Centerville ISD
+228,6,228905,APPLE SPRINGS ISD,TRINITY,N,N,0,Meets Requirements, ,Apple Springs ISD
+229,5,229901,COLMESNEIL ISD,TYLER,N,N,0,Meets Requirements, ,Colmesneil ISD
+229,5,229903,WOODVILLE ISD,TYLER,N,N,0,Needs Assistance, ,Woodville ISD
+229,5,229904,WARREN ISD,TYLER,N,N,0,Needs Assistance, ,Warren ISD
+229,5,229905,SPURGER ISD,TYLER,N,N,0,Meets Requirements, ,Spurger ISD
+229,5,229906,CHESTER ISD,TYLER,N,N,0,Meets Requirements, ,Chester ISD
+230,7,230901,BIG SANDY ISD,UPSHUR,N,N,0,Meets Requirements, ,Big Sandy ISD
+230,7,230902,GILMER ISD,UPSHUR,N,N,1,Meets Requirements, ,Gilmer ISD
+230,7,230903,ORE CITY ISD,UPSHUR,N,N,0,Needs Assistance, ,Ore City ISD
+230,7,230904,UNION HILL ISD,UPSHUR,N,N,0,Meets Requirements,ASVAB Test not Offered,Union Hill ISD
+230,7,230905,HARMONY ISD,UPSHUR,N,N,0,Meets Requirements, ,Harmony ISD
+230,7,230906,NEW DIANA ISD,UPSHUR,N,N,0,Meets Requirements, ,New Diana ISD
+230,7,230908,UNION GROVE ISD,UPSHUR,N,N,0,Meets Requirements, ,Union Grove ISD
+231,18,231901,MCCAMEY ISD,UPTON,N,N,0,Meets Requirements, ,McCamey ISD
+231,18,231902,RANKIN ISD,UPTON,N,N, ,Meets Requirements, ,Rankin ISD
+232,20,232901,KNIPPA ISD,UVALDE,N,N, ,Meets Requirements, ,Knippa ISD
+232,20,232902,SABINAL ISD,UVALDE,N,N,0,Meets Requirements, ,Sabinal ISD
+232,20,232903,UVALDE CISD,UVALDE,N,N,0,Needs Assistance, ,Uvalde CISD
+232,20,232904,UTOPIA ISD,UVALDE,N,N, ,Meets Requirements, ,Utopia ISD
+233,15,233901,SAN FELIPE-DEL RIO CISD,VAL VERDE,N,N,0,Needs Assistance,ASVAB Alternative Test Offered,San Felipe-Del Rio CISD
+233,15,233903,COMSTOCK ISD,VAL VERDE,N,N, ,Meets Requirements, ,Comstock ISD
+234,7,234801,RANCH ACADEMY,VAN ZANDT,Y,Y, ,Meets Requirements,ASVAB Test not Offered,Ranch Academy
+234,10,234902,CANTON ISD,VAN ZANDT,N,N,0,Meets Requirements, ,Canton ISD
+234,7,234903,EDGEWOOD ISD,VAN ZANDT,N,N,0,Meets Requirements, ,Edgewood ISD
+234,7,234904,GRAND SALINE ISD,VAN ZANDT,N,N,0,Meets Requirements, ,Grand Saline ISD
+234,7,234905,MARTINS MILL ISD,VAN ZANDT,N,N,0,Meets Requirements, ,Martins Mill ISD
+234,7,234906,VAN ISD,VAN ZANDT,N,N,0,Needs Assistance, ,Van ISD
+234,10,234907,WILLS POINT ISD,VAN ZANDT,N,N,0,Needs Assistance, ,Wills Point ISD
+234,7,234909,FRUITVALE ISD,VAN ZANDT,N,N,0,Meets Requirements, ,Fruitvale ISD
+235,3,235901,BLOOMINGTON ISD,VICTORIA,N,N,0,Needs Intervention, ,Bloomington ISD
+235,3,235902,VICTORIA ISD,VICTORIA,N,N,0,Needs Intervention, ,Victoria ISD
+235,3,235904,NURSERY ISD,VICTORIA,N,N, ,Meets Requirements, ,Nursery ISD
+236,6,236801,RAVEN SCHOOL,WALKER,Y,Y, ,Meets Requirements, ,Raven School
+236,6,236802,SAM HOUSTON STATE UNIVERSITY CHARTER SCHOOL,WALKER,Y,N, ,Meets Requirements, ,Sam Houston State University Charter School
+236,6,236901,NEW WAVERLY ISD,WALKER,N,N,0,Meets Requirements, ,New Waverly ISD
+236,6,236902,HUNTSVILLE ISD,WALKER,N,N,0,Needs Assistance, ,Huntsville ISD
+237,4,237902,HEMPSTEAD ISD,WALLER,N,N,0,Needs Assistance, ,Hempstead ISD
+237,4,237904,WALLER ISD,WALLER,N,N,0,Needs Assistance, ,Waller ISD
+237,4,237905,ROYAL ISD,WALLER,N,N,0,Needs Assistance, ,Royal ISD
+238,18,238902,MONAHANS-WICKETT-PYOTE ISD,WARD,N,N,0,Meets Requirements, ,Monahans-Wickett-Pyote ISD
+238,18,238904,GRANDFALLS-ROYALTY ISD,WARD,N,N, ,Meets Requirements, ,Grandfalls-Royalty ISD
+239,6,239901,BRENHAM ISD,WASHINGTON,N,N,0,Needs Assistance, ,Brenham ISD
+239,6,239903,BURTON ISD,WASHINGTON,N,N,0,Meets Requirements, ,Burton ISD
+240,1,240801,TRIUMPH PUBLIC HIGH SCHOOLS-LAREDO,WEBB,Y,Y, ,Meets Requirements, ,Triumph Public High Schools-Laredo
+240,1,240901,LAREDO ISD,WEBB,N,N, ,Needs Assistance, ,Laredo ISD
+240,1,240903,UNITED ISD,WEBB,N,N,1,Meets Requirements, ,United ISD
+240,1,240904,WEBB CISD,WEBB,N,N,0,Meets Requirements, ,Webb CISD
+241,3,241901,BOLING ISD,WHARTON,N,N,0,Meets Requirements, ,Boling ISD
+241,3,241902,EAST BERNARD ISD,WHARTON,N,N,0,Meets Requirements, ,East Bernard ISD
+241,3,241903,EL CAMPO ISD,WHARTON,N,N,0,Needs Intervention, ,El Campo ISD
+241,3,241904,WHARTON ISD,WHARTON,N,N,0,Needs Substantial Intervention, ,Wharton ISD
+241,3,241906,LOUISE ISD,WHARTON,N,N,0,Meets Requirements, ,Louise ISD
+242,16,242902,SHAMROCK ISD,WHEELER,N,N,0,Meets Requirements, ,Shamrock ISD
+242,16,242903,WHEELER ISD,WHEELER,N,N, ,Meets Requirements, ,Wheeler ISD
+242,16,242905,KELTON ISD,WHEELER,N,N, ,Meets Requirements, ,Kelton ISD
+242,16,242906,FORT ELLIOTT CISD,WHEELER,N,N, ,Meets Requirements, ,Fort Elliott CISD
+243,9,243901,BURKBURNETT ISD,WICHITA,N,N,0,Needs Assistance, ,Burkburnett ISD
+243,9,243902,ELECTRA ISD,WICHITA,N,N,0,Meets Requirements, ,Electra ISD
+243,9,243903,IOWA PARK CISD,WICHITA,N,N,0,Meets Requirements, ,Iowa Park CISD
+243,9,243905,WICHITA FALLS ISD,WICHITA,N,N,0,Needs Assistance, ,Wichita Falls ISD
+243,9,243906,CITY VIEW ISD,WICHITA,N,N,0,Meets Requirements, ,City View ISD
+244,9,244901,HARROLD ISD,WILBARGER,N,N, ,Meets Requirements, ,Harrold ISD
+244,9,244903,VERNON ISD,WILBARGER,N,N,0,Needs Assistance, ,Vernon ISD
+244,9,244905,NORTHSIDE ISD,WILBARGER,N,N, ,Meets Requirements, ,Northside ISD
+245,1,245901,LASARA ISD,WILLACY,N,N,0,Meets Requirements, ,Lasara ISD
+245,1,245902,LYFORD CISD,WILLACY,N,N, ,Meets Requirements, ,Lyford CISD
+245,1,245903,RAYMONDVILLE ISD,WILLACY,N,N,1,Meets Requirements, ,Raymondville ISD
+245,1,245904,SAN PERLITA ISD,WILLACY,N,N,1,Meets Requirements, ,San Perlita ISD
+246,13,246801,MERIDIAN WORLD SCHOOL LLC,WILLIAMSON,Y,N, ,Meets Requirements, ,Meridian World School LLC
+246,13,246802,GOODWATER MONTESSORI SCHOOL,WILLIAMSON,Y,N, ,Meets Requirements, ,Goodwater Montessori School
+246,13,246902,FLORENCE ISD,WILLIAMSON,N,N,0,Meets Requirements, ,Florence ISD
+246,13,246904,GEORGETOWN ISD,WILLIAMSON,N,N,0,Needs Intervention, ,Georgetown ISD
+246,13,246905,GRANGER ISD,WILLIAMSON,N,N, ,Meets Requirements, ,Granger ISD
+246,13,246906,HUTTO ISD,WILLIAMSON,N,N,0,Meets Requirements, ,Hutto ISD
+246,13,246907,JARRELL ISD,WILLIAMSON,N,N,0,Needs Assistance, ,Jarrell ISD
+246,13,246908,LIBERTY HILL ISD,WILLIAMSON,N,N,0,Meets Requirements, ,Liberty Hill ISD
+246,13,246909,ROUND ROCK ISD,WILLIAMSON,N,N, ,Meets Requirements, ,Round Rock ISD
+246,13,246911,TAYLOR ISD,WILLIAMSON,N,N,0,Needs Assistance, ,Taylor ISD
+246,13,246912,THRALL ISD,WILLIAMSON,N,N,0,Meets Requirements, ,Thrall ISD
+246,13,246913,LEANDER ISD,WILLIAMSON,N,N,0,Meets Requirements, ,Leander ISD
+246,13,246914,COUPLAND ISD,WILLIAMSON,N,N, ,Meets Requirements, ,Coupland ISD
+247,20,247901,FLORESVILLE ISD,WILSON,N,N,0,Meets Requirements, ,Floresville ISD
+247,20,247903,LA VERNIA ISD,WILSON,N,N,0,Meets Requirements, ,La Vernia ISD
+247,20,247904,POTH ISD,WILSON,N,N,0,Meets Requirements, ,Poth ISD
+247,20,247906,STOCKDALE ISD,WILSON,N,N,0,Meets Requirements, ,Stockdale ISD
+248,18,248901,KERMIT ISD,WINKLER,N,N,0,Meets Requirements, ,Kermit ISD
+248,18,248902,WINK-LOVING ISD,WINKLER,N,N,0,Meets Requirements, ,Wink-Loving ISD
+249,11,249901,ALVORD ISD,WISE,N,N,0,Meets Requirements, ,Alvord ISD
+249,11,249902,BOYD ISD,WISE,N,N,0,Needs Assistance, ,Boyd ISD
+249,11,249903,BRIDGEPORT ISD,WISE,N,N,0,Needs Assistance, ,Bridgeport ISD
+249,11,249904,CHICO ISD,WISE,N,N,0,Meets Requirements, ,Chico ISD
+249,11,249905,DECATUR ISD,WISE,N,N,0,Needs Assistance, ,Decatur ISD
+249,11,249906,PARADISE ISD,WISE,N,N,0,Meets Requirements, ,Paradise ISD
+249,11,249908,SLIDELL ISD,WISE,N,N, ,Meets Requirements, ,Slidell ISD
+250,7,250902,HAWKINS ISD,WOOD,N,N,0,Meets Requirements, ,Hawkins ISD
+250,7,250903,MINEOLA ISD,WOOD,N,N,0,Meets Requirements, ,Mineola ISD
+250,7,250904,QUITMAN ISD,WOOD,N,N,1,Meets Requirements, ,Quitman ISD
+250,7,250905,YANTIS ISD,WOOD,N,N,0,Meets Requirements, ,Yantis ISD
+250,7,250906,ALBA-GOLDEN ISD,WOOD,N,N,0,Meets Requirements, ,Alba-Golden ISD
+250,7,250907,WINNSBORO ISD,WOOD,N,N,0,Needs Assistance, ,Winnsboro ISD
+251,17,251901,DENVER CITY ISD,YOAKUM,N,N,0,Meets Requirements, ,Denver City ISD
+251,17,251902,PLAINS ISD,YOAKUM,N,N,0,Meets Requirements, ,Plains ISD
+252,9,252901,GRAHAM ISD,YOUNG,N,N,0,Needs Assistance, ,Graham ISD
+252,9,252902,NEWCASTLE ISD,YOUNG,N,N, ,Meets Requirements, ,Newcastle ISD
+252,9,252903,OLNEY ISD,YOUNG,N,N,0,Meets Requirements, ,Olney ISD
+253,1,253901,ZAPATA COUNTY ISD,ZAPATA,N,N,0,Needs Assistance, ,Zapata County ISD
+254,20,254901,CRYSTAL CITY ISD,ZAVALA,N,N,0,Needs Intervention, ,Crystal City ISD
+254,20,254902,LA PRYOR ISD,ZAVALA,N,N,0,Meets Requirements, ,La Pryor ISD
