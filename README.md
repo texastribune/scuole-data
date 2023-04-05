@@ -32,11 +32,23 @@ To download TAPR data, go to the [Texas Academic Performance Report homepage](ht
 
 This app requires sheets for `College, Career, and Military Readiness (CCMR), TSIA, College Prep`, `AP/IB, SAT/ACT`, `Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates`, `Longitudinal Rate (4-Year, 5-Year, & 6-Year)`, `Staff & Student Information` for Campus, District, Region and State. The `Reference Information, Accountability Rating and Special Education Determination Status` sheet is only required for Campus, District and Region.
 
-TK Download the accountability table
+For districts and campuses we need to download one extra file that contains the full A-F rankings. Go back one page and select 20xx Accountability instead. (The year will change depending on what year you're working on!). Download the `Accountability Summary` for Campus and Districts.
 
 A detailed walkthrough on how to download and format the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
 
-TK A Table explaining what you need to do
+After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years as the following csvs. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
+
+| TAPR data file      | File name |
+| ----------- | ----------- |
+| Accountability Summary      | accountability.csv       |
+| Reference Information, Accountability Rating and Special Education Determination Status      | reference.csv       |
+| Staff, Student, and Annual Graduates   | staff-and-student-information.csv        |
+| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates   | attendance.csv        |
+| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | longitudinal-rate.csv        |
+| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | postsecondary-readiness-and-non-staar-performance-indicators.csv        |
+| AP/IB, SAT/ACT  | ap-ib-sat-act.csv        |
+
+### Cleaning the TAPR data
 
 The data is referenced and mapped in the schema using the [Master reference of TAPR elements](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/taprref.html). The reference tables can be found here:
 
