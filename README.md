@@ -50,16 +50,30 @@ After downloading each file, you will save it in their respective folders (Campu
 
 ### Cleaning the TAPR data
 
-The data is referenced and mapped in the schema using the [Master reference of TAPR elements](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/taprref.html). The reference tables can be found here:
+The headers for the data should match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py) which is what we use to map the data. If after uploading all of the data into the [scuole](https://github.com/texastribune/scuole) database, you notice there are fields missing. It could be because the header in the spreadsheet do not match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py). There are a lot of headers and columns so it might get tedious to check each and every one, especially since they don't tend to change year-to-year. But it might be worth checking if you see data missing.
 
-- [Campus student information](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/cstud.html)
-- [Campus staff information](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/cstaff.html)
-- [Campus college admissions, college-ready graduates](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/ccad.html)
-- [Campus APIB, RHSP, annual dropout, attendance, advanced courses, higher education](http://ritter.tea.state.tx.us/perfreport/tapr/2013/download/cothr.html)
+Every year, TEA publishes a `Master reference of TAPR elements` like [this one from 2022](https://rptsvr1.tea.texas.gov/perfreport/tapr/2022/download/taprref.html). It's usually found in the TAPR Advanced Data Download for that year that you use to download the data and called `Master Reference (HTML)`. You can also download it in an Excel format for campuses, districts, regions and state. 
 
-**FYI, dropout rates, graduation rates, AP/IB participation, AP/IB performance and college-ready graduates data are one year behind.**
+It's also good to remember that for some datasets, TAPR has the **latest data** while others are **a year behind**. For example, if this was the 2021-22 TAPR, the latest data would be for 2021-22 (or Class of 2022) and the previous year would be 2020-21 (or Class of 2021) Here's is a handy breakdown:
 
-Note: These are tables for 2012-2013. We use the campus tables to collect the codes used in the TAPR tables and later remove the prefixes for state (S), region (R), district (D), campus (C) and the suffixes -- if there are any -- indicating year. Usually year suffixes are included for fields like college ready graduates where there are two graduation times within the school year, but not for demographic data which is representative of the entire year. Prefixes and suffixes are both handled in the data loaders. Codes do not change from year to year.
+| Data     | TAPR Data File | Year |
+| ----------- | ----------- | ----------- |
+| A-F scores     | Reference Information, Accountability Rating and Special Education Determination       | Latest year       |
+| Student Demographics   | Staff, Student, and Annual Graduates       | Latest year       |
+| At-risk, economically disadvantages and limited English proficiency students   | Staff, Student, and Annual Graduates       | Latest year       |
+| Enrollments in special programs (bilingual/ESL, gifted & talented, special ed)   | Staff, Student, and Annual Graduates       | Latest year       |
+| Four-year graduation rates   | Longitudinal Rate (4-Year, 5-Year, & 6-Year)       | Previous year       |
+| Dropout rates   | Attendance, Graduation (RHSP/DAP & FHSP), and Dropout Rates       | Previous year       |
+| Chronic absenteeism   | Attendance, Graduation (RHSP/DAP & FHSP), and Dropout Rates       | Previous year       |
+| AP/IB participation   | AP/IB, SAT/ACT       | Previous year       |
+| AP/IB performance   | AP/IB, SAT/ACT       | Previous year       |
+| SAT score   | AP/IB, SAT/ACT       | Previous year       |
+| ACT score   | AP/IB, SAT/ACT       | Previous year       |
+| College-ready graduates (TSIA scores)   | College, Career, and Military Readiness (CCMR); and Other Postsecondary Indicators       | Previous year       |
+| Teacher demographics   | Staff, Student, and Annual Graduates       | Latest year       |
+| Degree held by teachers   | Staff, Student, and Annual Graduates       | Latest year       |
+| Students per teacher   | Staff, Student, and Annual Graduates       | Latest year       |
+| Teacher salaries   | Staff, Student, and Annual Graduates       | Latest year       |
 
 
 ## AskTED
