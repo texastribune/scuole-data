@@ -50,7 +50,24 @@ After downloading each file, you will save it in their respective folders (Campu
 
 ### Cleaning the TAPR data
 
-The headers for the data should match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py) which is what we use to map the data. If after uploading all of the data into the [scuole](https://github.com/texastribune/scuole) database, you notice there are fields missing. It could be because the header in the spreadsheet do not match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py). There are a lot of headers and columns so it might get tedious to check each and every one, especially since they don't tend to change year-to-year. But it might be worth checking if you see data missing.
+The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. The last couple of years, this is the cleaning we have needed to do:
+
+- The campus, district and region codes should have a set number of digits, usually padded with leading zeroes. They are:
+  - campus (9 digits)
+  - district (6 digits)
+  - region (2 digits)
+  - county (3 digits)
+- There's an unnecessary apostrophe added in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns
+
+You have the option [this Python notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state dataset. In addition, there is [this one](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
+
+Also, for the 2021-22 TAPR data, the SAT and ACT headers had random letters that were lowercased. Make sure the column headers are capitalized. This step is written in both Python notebooks.
+
+If you're unlucky to run into any other formatting errors, first of all (sorry!), second of all, try to write a solution in a Python notebook and add it to this README so it can be reproduced the following year and properly documented.
+
+### Making sure TAPR header data matches
+
+The headers for the data should match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py) which is what we use to map the data. If after uploading all of the data into the [scuole](https://github.com/texastribune/scuole) database, you notice there are fields missing. It could be because the header in the spreadsheet do not match the schema found in [`schema_v2.py`](https://github.com/texastribune/scuole/blob/master/scuole/stats/schemas/tapr/schema_v2.py). There are a lot of headers and columns so it might get tedious to check each and every one, especially since they don't tend to change year-to-year. But it might be worth checking if you see data missing. The [scuole](https://github.com/texastribune/scuole) database just skips those headers if it doesn't see a matching header and shows N/A in your local database.
 
 Every year, TEA publishes a `Master reference of TAPR elements` like [this one from 2022](https://rptsvr1.tea.texas.gov/perfreport/tapr/2022/download/taprref.html). It's usually found in the TAPR Advanced Data Download for that year that you use to download the data and called `Master Reference (HTML)`. You can also download it in an Excel format for campuses, districts, regions and state. 
 
@@ -74,7 +91,6 @@ It's also good to remember that for some datasets, TAPR has the **latest data** 
 | Degree held by teachers   | Staff, Student, and Annual Graduates       | Latest year       |
 | Students per teacher   | Staff, Student, and Annual Graduates       | Latest year       |
 | Teacher salaries   | Staff, Student, and Annual Graduates       | Latest year       |
-
 
 ## AskTED
 **Released: as information is updated**
