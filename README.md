@@ -134,11 +134,13 @@ $ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
 ## AskTED
 **Released: as information is updated**
 
-AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
+[AskTED](https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx) provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
 
-Instructions on what commands to run to update AskTED are in the [`scuole` README](https://github.com/texastribune/scuole).
+Instructions on what commands to run to update AskTED are in the [`scuole` README](https://github.com/texastribune/scuole#updating-askted-data).
 
-We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
+As of 2023, the AskTED data is found on their [site](https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx) if you click on [`Download School and District File with Site Address`](https://tealprod.tea.state.tx.us/Tea.AskTed.Web/Forms/DownloadSite.aspx). This ensures that we have school and district address for the site of the school and district office rather than the mailing addresses (which can be P.O. Boxes).
+
+If the links above don't lead you to the correct data, then AskTED might have changed the link to the data. If so, then the commands to [update askTED data in the scuole database](https://github.com/texastribune/scuole#updating-askted-data) will fail, so make sure the links are updated with the correct headers names.
 
 ## Cohorts
 **Released: Annually in late April/early May**
