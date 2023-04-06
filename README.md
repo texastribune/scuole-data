@@ -3,14 +3,14 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [scuole-data](#scuole-data)
-  - [Common Core of Data (ccd)](#common-core-of-data-ccd)
-  - [AskTED](#askted)
+
   - [TAPR](#tapr)
   - [District and campus models](#district-and-campus-models)
   - [District boundaries and campus coordinates](#district-boundaries-and-campus-coordinates)
     - [District boundaries](#district-boundaries)
     - [Campus coordinates](#campus-coordinates)
     - [Converting the shapefile](#converting-the-shapefile)
+  - [AskTED](#askted)
   - [Cohorts](#cohorts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -59,7 +59,7 @@ The TAPR data usually needs a cleaning before we run it in the [scuole](https://
   - county (3 digits)
 - There's an unnecessary apostrophe added in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns
 
-You have the option [this Python notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state dataset. In addition, there is [this one](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
+You have the option [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state dataset. In addition, there is [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
 
 Also, for the 2021-22 TAPR data, the SAT and ACT headers had random letters that were lowercased. Make sure the column headers are capitalized. This step is written in both Python notebooks.
 
@@ -92,23 +92,15 @@ It's also good to remember that for some datasets, TAPR has the **latest data** 
 | Students per teacher   | Staff, Student, and Annual Graduates       | Latest year       |
 | Teacher salaries   | Staff, Student, and Annual Graduates       | Latest year       |
 
-## AskTED
-**Released: as information is updated**
-
-AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
-
-Instructions on what commands to run to update AskTED are in the [`scuole` README](https://github.com/texastribune/scuole).
-
-We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
-
-
 ## District and campus models
 
-Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `entities.csv` file in each year's TAPR folder to create models for districts and campuses.
+Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `reference.csv` in each year's TAPR folder to create a `entities.csv` file that will create models for districts and campuses.
 
-Instructions on how to create a new `entities.csv` are in the `format_new_entities` Jupyter Notebook — we should be doing this every year.
+Instructions on how to take the `reference.csv` and create a new `entities.csv` are in the [`format_new_entities` Jupyter Notebook](https://github.com/texastribune/scuole-data/blob/carla_readme_changes/format_new_entities.ipynb) — we should be doing this every year.
 
 We do some district and campus name re-formatting in the Jupyter Notebook (i.e. Cayuga H S --> Cayuga High School). Abbreviations, the Regex for those abbreviations, and the string to replace them with are in `campus_name_abbrev_guidelines.xlsx`.
+
+When you update entitites in [the scoule database](https://github.com/texastribune/scuole#updating-entities), you will be erasing the existing district and campus models and then re-adding every district and campus based on that `entities.csv`. This should take care of districts and schools that get renamed/removed/added.
 
 ## District boundaries and campus coordinates
 
@@ -117,10 +109,10 @@ TEA provides district boundaries and campus coordinates on [their open data site
 Put the GeoJSON boundaries and coordinates in the respective folder: `tapr/reference/district/shapes/` or `tapr/reference/campus/shapes/`.
 
 ### District boundaries
-This was last updated for the 2020-21 school year. TEA provided the files as GeoJSONs. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
+This was last updated for the 2022-23 school year. TEA provided the files as GeoJSONs. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
 
 ### Campus coordinates
-This was last updated for the 2020-21 school year. TEA provided the files as GeoJSONs.
+This was last updated for the 2021-22 school year. TEA provided the files as GeoJSONs.
 
 #### Older update instructions
 The latest shapefile `campuses_03-10-2020.shp` (fetched March 10, 2020) is for the 2018-2019 school year. It was downloaded as an `.sd` file, and unzipped with Unarchiver (a Mac program). The unzipped version yields a `schools.gdb` folder, which can be opened in QGIS ([instructions](https://gis.stackexchange.com/questions/26285/installing-file-geodatabase-gdb-support-in-qgis)).
@@ -139,6 +131,15 @@ For campuses:
 $ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
 ```
 
+## AskTED
+**Released: as information is updated**
+
+AskTED provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
+
+Instructions on what commands to run to update AskTED are in the [`scuole` README](https://github.com/texastribune/scuole).
+
+We download data from the [directory page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile.aspx) and the [personnel page](http://mansfield.tea.state.tx.us/TEA.AskTED.Web/Forms/DownloadFile2.aspx).
+
 ## Cohorts
 **Released: Annually in late April/early May**
 
@@ -155,7 +156,3 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 5) Copy and paste the data found in `Region Cty Gender`, `Region Cty Econ` and `Region Cty Ethnicity` into individual csv files. Name them `countyGender.csv`, `countyEcon.csv` and `countyEthnicity.csv`, respectively. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data.
 
 ** Be sure to remove any notes found at the top and bottom of all `.xlsx` files and make sure all counts are integers and all percents are floats (this might require changing their format in excel 😬). **
-
-## Common Core of Data (ccd)
-
-Summary data for districts and campus via the [National Center of Education Statistics](https://nces.ed.gov/) [Common Core of Data](https://nces.ed.gov/ccd/ccddata.asp) program.
