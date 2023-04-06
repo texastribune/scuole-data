@@ -38,15 +38,15 @@ A detailed walkthrough on how to download and format the TAPR data is available 
 
 After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years as the following csvs. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
 
-| TAPR data file      | File name |
-| ----------- | ----------- |
-| Accountability Summary      | accountability.csv       |
-| Reference Information, Accountability Rating and Special Education Determination Status      | reference.csv       |
-| Staff, Student, and Annual Graduates   | staff-and-student-information.csv        |
-| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates   | attendance.csv        |
-| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | longitudinal-rate.csv        |
-| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | postsecondary-readiness-and-non-staar-performance-indicators.csv        |
-| AP/IB, SAT/ACT  | ap-ib-sat-act.csv        |
+| TAPR data file | File name    | What it contains |
+| ----------- | ----------- | ----------- |
+| Accountability Summary      | accountability.csv       | A - F scores       |
+| Reference Information, Accountability Rating and Special Education Determination Status      | reference.csv       | District and Campus Identifiers       |
+| Staff, Student, and Annual Graduates   | staff-and-student-information.csv        | Student and Teacher data       |
+| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates   | attendance.csv        | Absenteeism and Dropout rates       |
+| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | longitudinal-rate.csv        | Four year graduation rates       |
+| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | postsecondary-readiness-and-non-staar-performance-indicators.csv        | Texas Success Initiative Assessment (TSIA) scores       |
+| AP/IB, SAT/ACT  | ap-ib-sat-act.csv        | AP/IB, SAT, ACT scores       |
 
 ### Cleaning the TAPR data
 
