@@ -1,0 +1,511 @@
+﻿Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,enrolled_9th,enrolled_9th_percent,enrolled_10th,enrolled_10th_percent,lessthan_10th_enrolled,lessthan_10th_enrolled_percent,graduated,graduated_percent,enrolled_4yr,enrolled_4yr_percent,enrolled_2yr,enrolled_2yr_percent,total_enrolled,total_enrolled_percent,enrolled_wo_record,enrolled_wo_record_per,total_degrees,total_degrees_percent
+1,Edinburg,31,CAMERON,Not Economically Disadvantaged,973,932,96%,877,90%,37,4%,878,90%,418,43%,301,31%,719,74%,19,2%,361,37%
+1,Edinburg,31,CAMERON,Economically Disadvantaged,6426,6139,96%,5338,83%,733,11%,5295,82%,1398,22%,1843,29%,3241,50%,95,1%,1269,20%
+1,Edinburg,108,HIDALGO,Not Economically Disadvantaged,2305,2233,97%,2100,91%,108,5%,2106,91%,1026,45%,673,29%,1699,74%,34,1%,881,38%
+1,Edinburg,108,HIDALGO,Economically Disadvantaged,12750,12298,96%,10487,82%,1597,13%,10536,83%,2618,21%,3579,28%,6197,49%,133,1%,2367,19%
+1,Edinburg,124,JIM HOGG,Not Economically Disadvantaged,21,21,100%,21,100%,*,*,20,95%,13,62%,6,29%,19,90%,*,*,11,52%
+1,Edinburg,124,JIM HOGG,Economically Disadvantaged,62,61,98%,50,81%,7,11%,48,77%,8,13%,19,31%,27,44%,*,*,*,*
+1,Edinburg,214,STARR,Not Economically Disadvantaged,76,76,100%,71,93%,*,*,71,93%,36,47%,28,37%,64,84%,*,*,39,51%
+1,Edinburg,214,STARR,Economically Disadvantaged,1193,1146,96%,987,83%,142,12%,964,81%,216,18%,442,37%,658,55%,17,1%,309,26%
+1,Edinburg,240,WEBB,Not Economically Disadvantaged,890,861,97%,839,94%,14,2%,793,89%,349,39%,366,41%,715,80%,38,4%,360,40%
+1,Edinburg,240,WEBB,Economically Disadvantaged,3980,3824,96%,3284,83%,487,12%,3301,83%,755,19%,1416,36%,2171,55%,49,1%,840,21%
+1,Edinburg,245,WILLACY,Not Economically Disadvantaged,35,34,97%,34,97%,*,*,33,94%,14,40%,14,40%,28,80%,*,*,16,46%
+1,Edinburg,245,WILLACY,Economically Disadvantaged,266,254,95%,241,91%,19,7%,213,80%,53,20%,79,30%,132,50%,*,*,50,19%
+1,Edinburg,253,ZAPATA,Not Economically Disadvantaged,72,68,94%,67,93%,*,*,66,92%,28,39%,21,29%,49,68%,*,*,28,39%
+1,Edinburg,253,ZAPATA,Economically Disadvantaged,176,173,98%,168,95%,*,*,147,84%,34,19%,39,22%,73,41%,*,*,33,19%
+2,Corpus Christi,4,ARANSAS,Not Economically Disadvantaged,88,86,98%,82,93%,*,*,78,89%,42,48%,20,23%,62,70%,*,*,27,31%
+2,Corpus Christi,4,ARANSAS,Economically Disadvantaged,145,137,94%,120,83%,13,9%,101,70%,23,16%,30,21%,53,37%,*,*,10,7%
+2,Corpus Christi,13,BEE,Not Economically Disadvantaged,120,117,98%,103,86%,15,13%,108,90%,33,28%,52,43%,85,71%,*,*,38,32%
+2,Corpus Christi,13,BEE,Economically Disadvantaged,253,240,95%,170,67%,61,24%,182,72%,11,4%,81,32%,92,36%,*,*,29,11%
+2,Corpus Christi,24,BROOKS,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Corpus Christi,24,BROOKS,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Corpus Christi,66,DUVAL,Not Economically Disadvantaged,55,53,96%,49,89%,*,*,48,87%,13,24%,18,33%,31,56%,*,*,10,18%
+2,Corpus Christi,66,DUVAL,Economically Disadvantaged,129,118,91%,103,80%,12,9%,91,71%,15,12%,34,26%,49,38%,*,*,13,10%
+2,Corpus Christi,125,JIM WELLS,Not Economically Disadvantaged,225,215,96%,191,85%,22,10%,188,84%,82,36%,65,29%,147,65%,*,*,71,32%
+2,Corpus Christi,125,JIM WELLS,Economically Disadvantaged,462,447,97%,331,72%,92,20%,337,73%,65,14%,117,25%,182,39%,6,1%,57,12%
+2,Corpus Christi,137,KLEBERG,Not Economically Disadvantaged,147,140,95%,130,88%,9,6%,126,86%,89,61%,22,15%,111,76%,5,3%,59,40%
+2,Corpus Christi,137,KLEBERG,Economically Disadvantaged,235,215,91%,165,70%,45,19%,172,73%,45,19%,54,23%,99,42%,*,*,26,11%
+2,Corpus Christi,149,LIVE OAK,Not Economically Disadvantaged,55,54,98%,51,93%,*,*,49,89%,22,40%,18,33%,40,73%,*,*,27,49%
+2,Corpus Christi,149,LIVE OAK,Economically Disadvantaged,76,75,99%,63,83%,7,9%,54,71%,9,12%,23,30%,32,42%,*,*,12,16%
+2,Corpus Christi,162,MCMULLEN,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Corpus Christi,162,MCMULLEN,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2,Corpus Christi,178,NUECES,Not Economically Disadvantaged,1861,1769,95%,1651,89%,92,5%,1604,86%,651,35%,602,32%,1253,67%,46,2%,553,30%
+2,Corpus Christi,178,NUECES,Economically Disadvantaged,2802,2656,95%,2234,80%,361,13%,2094,75%,343,12%,787,28%,1130,40%,42,2%,287,10%
+2,Corpus Christi,205,SAN PATRICIO,Not Economically Disadvantaged,450,437,97%,412,92%,18,4%,411,91%,151,34%,151,34%,302,67%,*,*,135,30%
+2,Corpus Christi,205,SAN PATRICIO,Economically Disadvantaged,628,599,95%,529,84%,58,9%,497,79%,89,14%,151,24%,240,38%,8,1%,75,12%
+3,Victoria,29,CALHOUN,Not Economically Disadvantaged,137,133,97%,129,94%,*,*,126,92%,38,28%,56,41%,94,69%,*,*,39,28%
+3,Victoria,29,CALHOUN,Economically Disadvantaged,168,163,97%,153,91%,8,5%,136,81%,12,7%,38,23%,50,30%,*,*,22,13%
+3,Victoria,45,COLORADO,Not Economically Disadvantaged,76,74,97%,70,92%,*,*,68,89%,22,29%,28,37%,50,66%,*,*,27,36%
+3,Victoria,45,COLORADO,Economically Disadvantaged,157,151,96%,132,84%,16,10%,126,80%,12,8%,43,27%,55,35%,*,*,19,12%
+3,Victoria,62,DE WITT,Not Economically Disadvantaged,145,138,95%,128,88%,6,4%,125,86%,48,33%,51,35%,99,68%,12,8%,54,37%
+3,Victoria,62,DE WITT,Economically Disadvantaged,207,194,94%,154,74%,32,15%,143,69%,10,5%,51,25%,61,29%,5,2%,11,5%
+3,Victoria,88,GOLIAD,Not Economically Disadvantaged,61,60,98%,58,95%,*,*,56,92%,22,36%,23,38%,45,74%,*,*,22,36%
+3,Victoria,88,GOLIAD,Economically Disadvantaged,50,50,100%,40,80%,9,18%,40,80%,11,22%,8,16%,19,38%,*,*,6,12%
+3,Victoria,120,JACKSON,Not Economically Disadvantaged,131,130,99%,123,94%,*,*,120,92%,36,27%,57,44%,93,71%,*,*,55,42%
+3,Victoria,120,JACKSON,Economically Disadvantaged,123,121,98%,113,92%,7,6%,105,85%,13,11%,37,30%,50,41%,*,*,14,11%
+3,Victoria,128,KARNES,Not Economically Disadvantaged,82,79,96%,79,96%,*,*,76,93%,38,46%,27,33%,65,79%,*,*,45,55%
+3,Victoria,128,KARNES,Economically Disadvantaged,90,83,92%,76,84%,10,11%,75,83%,15,17%,18,20%,33,37%,*,*,8,9%
+3,Victoria,143,LAVACA,Not Economically Disadvantaged,113,110,97%,109,96%,*,*,106,94%,27,24%,60,53%,87,77%,*,*,65,58%
+3,Victoria,143,LAVACA,Economically Disadvantaged,57,53,93%,51,89%,*,*,46,81%,*,*,22,39%,23,40%,*,*,11,19%
+3,Victoria,158,MATAGORDA,Not Economically Disadvantaged,192,186,97%,175,91%,7,4%,166,86%,56,29%,79,41%,135,70%,*,*,76,40%
+3,Victoria,158,MATAGORDA,Economically Disadvantaged,351,333,95%,277,79%,49,14%,271,77%,29,8%,98,28%,127,36%,5,1%,44,13%
+3,Victoria,196,REFUGIO,Not Economically Disadvantaged,38,36,95%,35,92%,*,*,34,89%,7,18%,20,53%,27,71%,*,*,14,37%
+3,Victoria,196,REFUGIO,Economically Disadvantaged,62,60,97%,56,90%,*,*,52,84%,8,13%,24,39%,32,52%,*,*,6,10%
+3,Victoria,235,VICTORIA,Not Economically Disadvantaged,427,407,95%,374,88%,23,5%,347,81%,84,20%,182,43%,266,62%,17,4%,115,27%
+3,Victoria,235,VICTORIA,Economically Disadvantaged,615,588,96%,452,74%,100,16%,391,64%,35,6%,167,27%,202,33%,23,4%,53,9%
+3,Victoria,241,WHARTON,Not Economically Disadvantaged,212,207,98%,191,90%,11,5%,193,91%,53,25%,113,53%,166,78%,*,*,99,47%
+3,Victoria,241,WHARTON,Economically Disadvantaged,366,350,96%,267,73%,75,20%,290,79%,19,5%,137,37%,156,43%,*,*,57,16%
+4,Houston,20,BRAZORIA,Not Economically Disadvantaged,2541,2466,97%,2346,92%,86,3%,2260,89%,807,32%,997,39%,1804,71%,69,3%,966,38%
+4,Houston,20,BRAZORIA,Economically Disadvantaged,1993,1932,97%,1690,85%,196,10%,1596,80%,199,10%,696,35%,895,45%,33,2%,290,15%
+4,Houston,36,CHAMBERS,Not Economically Disadvantaged,352,337,96%,318,90%,20,6%,318,90%,94,27%,165,47%,259,74%,6,2%,128,36%
+4,Houston,36,CHAMBERS,Economically Disadvantaged,168,159,95%,145,86%,10,6%,135,80%,24,14%,57,34%,81,48%,*,*,35,21%
+4,Houston,79,FORT BEND,Not Economically Disadvantaged,4592,4401,96%,4136,90%,196,4%,4069,89%,1797,39%,1466,32%,3263,71%,127,3%,1779,39%
+4,Houston,79,FORT BEND,Economically Disadvantaged,3004,2900,97%,2429,81%,411,14%,2406,80%,558,19%,964,32%,1522,51%,53,2%,487,16%
+4,Houston,84,GALVESTON,Not Economically Disadvantaged,3688,3595,97%,3430,93%,101,3%,3273,89%,1292,35%,1320,36%,2612,71%,113,3%,1461,40%
+4,Houston,84,GALVESTON,Economically Disadvantaged,2130,2042,96%,1768,83%,229,11%,1603,75%,247,12%,693,33%,940,44%,60,3%,316,15%
+4,Houston,101,HARRIS,Not Economically Disadvantaged,21951,20916,95%,19524,89%,998,5%,18737,85%,6755,31%,6828,31%,13583,62%,657,3%,6996,32%
+4,Houston,101,HARRIS,Economically Disadvantaged,36953,35399,96%,30547,83%,3979,11%,28502,77%,5257,14%,11046,30%,16303,44%,660,2%,5062,14%
+4,Houston,146,LIBERTY,Not Economically Disadvantaged,451,433,96%,414,92%,11,2%,370,82%,91,20%,148,33%,239,53%,12,3%,114,25%
+4,Houston,146,LIBERTY,Economically Disadvantaged,648,613,95%,555,86%,42,6%,462,71%,44,7%,168,26%,212,33%,10,2%,66,10%
+4,Houston,237,WALLER,Not Economically Disadvantaged,200,196,98%,178,89%,12,6%,175,88%,49,25%,64,32%,113,57%,6,3%,46,23%
+4,Houston,237,WALLER,Economically Disadvantaged,466,445,95%,367,79%,70,15%,372,80%,63,14%,104,22%,167,36%,8,2%,49,11%
+5,Beaumont,84,GALVESTON,Not Economically Disadvantaged,10,10,100%,10,100%,*,*,10,100%,*,*,5,50%,9,90%,*,*,7,70%
+5,Beaumont,84,GALVESTON,Economically Disadvantaged,7,7,100%,7,100%,*,*,7,100%,*,*,*,*,6,86%,*,*,*,*
+5,Beaumont,100,HARDIN,Not Economically Disadvantaged,516,502,97%,474,92%,10,2%,436,85%,190,37%,127,25%,317,61%,20,4%,165,32%
+5,Beaumont,100,HARDIN,Economically Disadvantaged,333,314,94%,269,81%,23,7%,236,71%,46,14%,70,21%,116,35%,10,3%,29,9%
+5,Beaumont,121,JASPER,Not Economically Disadvantaged,225,215,96%,202,90%,10,4%,181,80%,65,29%,54,24%,119,53%,11,5%,55,24%
+5,Beaumont,121,JASPER,Economically Disadvantaged,246,227,92%,207,84%,17,7%,186,76%,27,11%,52,21%,79,32%,*,*,25,10%
+5,Beaumont,123,JEFFERSON,Not Economically Disadvantaged,1167,1112,95%,1053,90%,48,4%,987,85%,455,39%,321,28%,776,67%,41,4%,400,34%
+5,Beaumont,123,JEFFERSON,Economically Disadvantaged,1728,1658,96%,1491,86%,128,7%,1275,74%,303,18%,447,26%,750,43%,34,2%,239,14%
+5,Beaumont,176,NEWTON,Not Economically Disadvantaged,53,51,96%,45,85%,*,*,43,81%,11,21%,22,42%,33,62%,*,*,17,32%
+5,Beaumont,176,NEWTON,Economically Disadvantaged,111,105,95%,93,84%,7,6%,79,71%,6,5%,30,27%,36,32%,*,*,10,9%
+5,Beaumont,181,ORANGE,Not Economically Disadvantaged,575,552,96%,528,92%,15,3%,507,88%,165,29%,208,36%,373,65%,18,3%,222,39%
+5,Beaumont,181,ORANGE,Economically Disadvantaged,564,532,94%,444,79%,57,10%,396,70%,55,10%,147,26%,202,36%,8,1%,58,10%
+5,Beaumont,229,TYLER,Not Economically Disadvantaged,127,125,98%,120,94%,*,*,115,91%,30,24%,46,36%,76,60%,*,*,43,34%
+5,Beaumont,229,TYLER,Economically Disadvantaged,131,125,95%,109,83%,8,6%,94,72%,8,6%,39,30%,47,36%,*,*,13,10%
+6,Huntsville,8,AUSTIN,Not Economically Disadvantaged,228,221,97%,213,93%,7,3%,207,91%,57,25%,100,44%,157,69%,5,2%,89,39%
+6,Huntsville,8,AUSTIN,Economically Disadvantaged,213,203,95%,174,82%,23,11%,168,79%,10,5%,79,37%,89,42%,6,3%,25,12%
+6,Huntsville,21,BRAZOS,Not Economically Disadvantaged,841,814,97%,766,91%,41,5%,742,88%,296,35%,257,31%,553,66%,18,2%,338,40%
+6,Huntsville,21,BRAZOS,Economically Disadvantaged,984,934,95%,672,68%,239,24%,716,73%,78,8%,237,24%,315,32%,9,1%,85,9%
+6,Huntsville,26,BURLESON,Not Economically Disadvantaged,105,104,99%,101,96%,*,*,97,92%,20,19%,37,35%,57,54%,*,*,40,38%
+6,Huntsville,26,BURLESON,Economically Disadvantaged,115,110,96%,98,85%,12,10%,81,70%,5,4%,36,31%,41,36%,*,*,10,9%
+6,Huntsville,93,GRIMES,Not Economically Disadvantaged,113,111,98%,104,92%,7,6%,104,92%,37,33%,33,29%,70,62%,*,*,39,35%
+6,Huntsville,93,GRIMES,Economically Disadvantaged,203,198,98%,179,88%,11,5%,163,80%,25,12%,52,26%,77,38%,*,*,18,9%
+6,Huntsville,113,HOUSTON,Not Economically Disadvantaged,99,94,95%,93,94%,*,*,87,88%,33,33%,33,33%,66,67%,*,*,36,36%
+6,Huntsville,113,HOUSTON,Economically Disadvantaged,164,153,93%,135,82%,18,11%,131,80%,25,15%,42,26%,67,41%,*,*,18,11%
+6,Huntsville,145,LEON,Not Economically Disadvantaged,125,122,98%,122,98%,*,*,116,93%,35,28%,61,49%,96,77%,*,*,54,43%
+6,Huntsville,145,LEON,Economically Disadvantaged,121,115,95%,105,87%,8,7%,95,79%,12,10%,29,24%,41,34%,*,*,22,18%
+6,Huntsville,154,MADISON,Not Economically Disadvantaged,56,54,96%,52,93%,*,*,50,89%,25,45%,11,20%,36,64%,*,*,24,43%
+6,Huntsville,154,MADISON,Economically Disadvantaged,145,140,97%,130,90%,7,5%,110,76%,22,15%,33,23%,55,38%,*,*,19,13%
+6,Huntsville,166,MILAM,Not Economically Disadvantaged,112,112,100%,103,92%,5,4%,99,88%,29,26%,44,39%,73,65%,*,*,39,35%
+6,Huntsville,166,MILAM,Economically Disadvantaged,172,166,97%,146,85%,16,9%,140,81%,18,10%,55,32%,73,42%,*,*,20,12%
+6,Huntsville,170,MONTGOMERY,Not Economically Disadvantaged,4145,3945,95%,3689,89%,137,3%,3462,84%,1173,28%,1260,30%,2433,59%,145,4%,1241,30%
+6,Huntsville,170,MONTGOMERY,Economically Disadvantaged,2681,2530,94%,2223,83%,250,9%,1985,74%,220,8%,723,27%,943,35%,69,3%,260,10%
+6,Huntsville,187,POLK,Not Economically Disadvantaged,184,179,97%,163,89%,14,8%,160,87%,45,24%,58,32%,103,56%,*,*,57,31%
+6,Huntsville,187,POLK,Economically Disadvantaged,351,328,93%,288,82%,31,9%,266,76%,42,12%,71,20%,113,32%,*,*,39,11%
+6,Huntsville,198,ROBERTSON,Not Economically Disadvantaged,71,71,100%,68,96%,*,*,64,90%,23,32%,24,34%,47,66%,*,*,22,31%
+6,Huntsville,198,ROBERTSON,Economically Disadvantaged,128,124,97%,111,87%,12,9%,111,87%,11,9%,35,27%,46,36%,*,*,10,8%
+6,Huntsville,204,SAN JACINTO,Not Economically Disadvantaged,95,93,98%,81,85%,9,9%,75,79%,22,23%,21,22%,43,45%,*,*,24,25%
+6,Huntsville,204,SAN JACINTO,Economically Disadvantaged,211,200,95%,169,80%,22,10%,161,76%,27,13%,49,23%,76,36%,5,2%,18,9%
+6,Huntsville,228,TRINITY,Not Economically Disadvantaged,48,48,100%,46,96%,*,*,41,85%,12,25%,17,35%,29,60%,*,*,18,38%
+6,Huntsville,228,TRINITY,Economically Disadvantaged,119,114,96%,105,88%,8,7%,87,73%,15,13%,22,18%,37,31%,*,*,12,10%
+6,Huntsville,236,WALKER,Not Economically Disadvantaged,225,219,97%,204,91%,16,7%,203,90%,89,40%,48,21%,137,61%,*,*,65,29%
+6,Huntsville,236,WALKER,Economically Disadvantaged,297,285,96%,252,85%,26,9%,234,79%,47,16%,59,20%,106,36%,*,*,28,9%
+6,Huntsville,239,WASHINGTON,Not Economically Disadvantaged,191,183,96%,183,96%,*,*,170,89%,53,28%,86,45%,139,73%,7,4%,87,46%
+6,Huntsville,239,WASHINGTON,Economically Disadvantaged,183,180,98%,161,88%,9,5%,129,70%,14,8%,48,26%,62,34%,*,*,25,14%
+7,Kilgore,1,ANDERSON,Not Economically Disadvantaged,273,263,96%,249,91%,5,2%,231,85%,55,20%,110,40%,165,60%,*,*,96,35%
+7,Kilgore,1,ANDERSON,Economically Disadvantaged,328,312,95%,282,86%,26,8%,245,75%,26,8%,87,27%,113,34%,*,*,35,11%
+7,Kilgore,3,ANGELINA,Not Economically Disadvantaged,461,448,97%,440,95%,10,2%,425,92%,124,27%,193,42%,317,69%,*,*,162,35%
+7,Kilgore,3,ANGELINA,Economically Disadvantaged,801,767,96%,699,87%,51,6%,689,86%,83,10%,264,33%,347,43%,8,1%,103,13%
+7,Kilgore,37,CHEROKEE,Not Economically Disadvantaged,167,161,96%,154,92%,5,3%,144,86%,37,22%,74,44%,111,66%,7,4%,56,34%
+7,Kilgore,37,CHEROKEE,Economically Disadvantaged,477,454,95%,388,81%,51,11%,344,72%,18,4%,156,33%,174,36%,7,1%,73,15%
+7,Kilgore,92,GREGG,Not Economically Disadvantaged,781,758,97%,730,93%,21,3%,692,89%,191,24%,326,42%,517,66%,13,2%,263,34%
+7,Kilgore,92,GREGG,Economically Disadvantaged,961,897,93%,827,86%,56,6%,750,78%,81,8%,305,32%,386,40%,13,1%,131,14%
+7,Kilgore,102,HARRISON,Not Economically Disadvantaged,471,441,94%,433,92%,5,1%,415,88%,138,29%,145,31%,283,60%,9,2%,138,29%
+7,Kilgore,102,HARRISON,Economically Disadvantaged,486,457,94%,431,89%,18,4%,392,81%,76,16%,139,29%,215,44%,6,1%,74,15%
+7,Kilgore,107,HENDERSON,Not Economically Disadvantaged,299,288,96%,281,94%,*,*,264,88%,69,23%,124,41%,193,65%,8,3%,94,31%
+7,Kilgore,107,HENDERSON,Economically Disadvantaged,513,488,95%,454,89%,16,3%,391,76%,49,10%,150,29%,199,39%,9,2%,73,14%
+7,Kilgore,174,NACOGDOCHES,Not Economically Disadvantaged,312,303,97%,289,93%,8,3%,284,91%,127,41%,96,31%,223,71%,*,*,110,35%
+7,Kilgore,174,NACOGDOCHES,Economically Disadvantaged,493,469,95%,400,81%,54,11%,357,72%,42,9%,125,25%,167,34%,6,1%,61,12%
+7,Kilgore,183,PANOLA,Not Economically Disadvantaged,179,175,98%,157,88%,12,7%,153,85%,41,23%,77,43%,118,66%,6,3%,75,42%
+7,Kilgore,183,PANOLA,Economically Disadvantaged,139,135,97%,117,84%,14,10%,108,78%,10,7%,44,32%,54,39%,*,*,17,12%
+7,Kilgore,190,RAINS,Not Economically Disadvantaged,61,61,100%,58,95%,*,*,57,93%,21,34%,19,31%,40,66%,*,*,19,31%
+7,Kilgore,190,RAINS,Economically Disadvantaged,81,76,94%,71,88%,5,6%,57,70%,6,7%,21,26%,27,33%,*,*,7,9%
+7,Kilgore,201,RUSK,Not Economically Disadvantaged,245,239,98%,228,93%,*,*,215,88%,49,20%,103,42%,152,62%,8,3%,80,33%
+7,Kilgore,201,RUSK,Economically Disadvantaged,333,319,96%,297,89%,14,4%,277,83%,20,6%,124,37%,144,43%,*,*,57,17%
+7,Kilgore,202,SABINE,Not Economically Disadvantaged,45,44,98%,43,96%,*,*,40,89%,18,40%,15,33%,33,73%,*,*,16,36%
+7,Kilgore,202,SABINE,Economically Disadvantaged,86,81,94%,71,83%,*,*,64,74%,8,9%,18,21%,26,30%,*,*,8,9%
+7,Kilgore,203,SAN AUGUSTINE,Not Economically Disadvantaged,18,17,94%,16,89%,*,*,16,89%,7,39%,6,33%,13,72%,*,*,9,50%
+7,Kilgore,203,SAN AUGUSTINE,Economically Disadvantaged,82,76,93%,69,84%,*,*,58,71%,12,15%,18,22%,30,37%,*,*,14,17%
+7,Kilgore,210,SHELBY,Not Economically Disadvantaged,135,129,96%,123,91%,6,4%,121,90%,26,19%,73,54%,99,73%,*,*,59,44%
+7,Kilgore,210,SHELBY,Economically Disadvantaged,251,242,96%,223,89%,11,4%,201,80%,30,12%,86,34%,116,46%,*,*,53,21%
+7,Kilgore,212,SMITH,Not Economically Disadvantaged,1153,1097,95%,1031,89%,38,3%,962,83%,259,22%,471,41%,730,63%,47,4%,364,32%
+7,Kilgore,212,SMITH,Economically Disadvantaged,1483,1413,95%,1204,81%,154,10%,1046,71%,103,7%,523,35%,626,42%,34,2%,209,14%
+7,Kilgore,230,UPSHUR,Not Economically Disadvantaged,252,244,97%,228,90%,10,4%,220,87%,60,24%,118,47%,178,71%,6,2%,94,37%
+7,Kilgore,230,UPSHUR,Economically Disadvantaged,263,243,92%,217,83%,19,7%,199,76%,21,8%,99,38%,120,46%,8,3%,34,13%
+7,Kilgore,234,VAN ZANDT,Not Economically Disadvantaged,214,210,98%,202,94%,*,*,189,88%,44,21%,91,43%,135,63%,*,*,69,32%
+7,Kilgore,234,VAN ZANDT,Economically Disadvantaged,201,196,98%,173,86%,9,4%,155,77%,17,8%,66,33%,83,41%,*,*,29,14%
+7,Kilgore,250,WOOD,Not Economically Disadvantaged,189,184,97%,174,92%,*,*,165,87%,44,23%,66,35%,110,58%,6,3%,63,33%
+7,Kilgore,250,WOOD,Economically Disadvantaged,251,240,96%,214,85%,12,5%,192,76%,18,7%,74,29%,92,37%,5,2%,33,13%
+8,Mt. Pleasant,19,BOWIE,Not Economically Disadvantaged,560,533,95%,503,90%,14,3%,472,84%,115,21%,212,38%,327,58%,11,2%,172,31%
+8,Mt. Pleasant,19,BOWIE,Economically Disadvantaged,695,639,92%,574,83%,40,6%,506,73%,67,10%,200,29%,267,38%,19,3%,80,12%
+8,Mt. Pleasant,32,CAMP,Not Economically Disadvantaged,38,38,100%,37,97%,*,*,36,95%,9,24%,18,47%,27,71%,*,*,13,34%
+8,Mt. Pleasant,32,CAMP,Economically Disadvantaged,151,144,95%,132,87%,7,5%,121,80%,10,7%,60,40%,70,46%,*,*,29,19%
+8,Mt. Pleasant,34,CASS,Not Economically Disadvantaged,194,186,96%,180,93%,*,*,167,86%,51,26%,68,35%,119,61%,*,*,70,36%
+8,Mt. Pleasant,34,CASS,Economically Disadvantaged,224,213,95%,201,90%,7,3%,178,79%,15,7%,83,37%,98,44%,*,*,32,14%
+8,Mt. Pleasant,60,DELTA,Not Economically Disadvantaged,24,22,92%,22,92%,*,*,21,88%,*,*,15,63%,18,75%,*,*,7,29%
+8,Mt. Pleasant,60,DELTA,Economically Disadvantaged,41,39,95%,35,85%,*,*,30,73%,*,*,13,32%,15,37%,*,*,5,12%
+8,Mt. Pleasant,80,FRANKLIN,Not Economically Disadvantaged,54,53,98%,51,94%,*,*,48,89%,19,35%,15,28%,34,63%,*,*,21,39%
+8,Mt. Pleasant,80,FRANKLIN,Economically Disadvantaged,51,50,98%,46,90%,*,*,38,75%,5,10%,19,37%,24,47%,*,*,13,25%
+8,Mt. Pleasant,112,HOPKINS,Not Economically Disadvantaged,166,165,99%,152,92%,6,4%,144,87%,47,28%,58,35%,105,63%,6,4%,53,32%
+8,Mt. Pleasant,112,HOPKINS,Economically Disadvantaged,269,253,94%,227,84%,18,7%,215,80%,33,12%,86,32%,119,44%,*,*,49,18%
+8,Mt. Pleasant,139,LAMAR,Not Economically Disadvantaged,283,277,98%,256,90%,13,5%,253,89%,60,21%,117,41%,177,63%,6,2%,99,35%
+8,Mt. Pleasant,139,LAMAR,Economically Disadvantaged,356,335,94%,277,78%,35,10%,250,70%,18,5%,128,36%,146,41%,8,2%,42,12%
+8,Mt. Pleasant,155,MARION,Not Economically Disadvantaged,34,32,94%,30,88%,*,*,29,85%,13,38%,11,32%,24,71%,*,*,10,29%
+8,Mt. Pleasant,155,MARION,Economically Disadvantaged,60,55,92%,54,90%,*,*,46,77%,10,17%,16,27%,26,43%,*,*,9,15%
+8,Mt. Pleasant,172,MORRIS,Not Economically Disadvantaged,50,47,94%,46,92%,*,*,43,86%,7,14%,18,36%,25,50%,*,*,12,24%
+8,Mt. Pleasant,172,MORRIS,Economically Disadvantaged,120,114,95%,108,90%,*,*,102,85%,12,10%,47,39%,59,49%,*,*,15,13%
+8,Mt. Pleasant,194,RED RIVER,Not Economically Disadvantaged,59,56,95%,55,93%,*,*,54,92%,17,29%,24,41%,41,69%,*,*,23,39%
+8,Mt. Pleasant,194,RED RIVER,Economically Disadvantaged,113,107,95%,105,93%,*,*,89,79%,11,10%,33,29%,44,39%,*,*,18,16%
+8,Mt. Pleasant,225,TITUS,Not Economically Disadvantaged,119,115,97%,106,89%,*,*,103,87%,31,26%,56,47%,87,73%,*,*,46,39%
+8,Mt. Pleasant,225,TITUS,Economically Disadvantaged,364,339,93%,301,83%,35,10%,307,84%,23,6%,157,43%,180,49%,6,2%,81,22%
+9,Wichita Falls,5,ARCHER,Not Economically Disadvantaged,100,98,98%,97,97%,*,*,96,96%,39,39%,42,42%,81,81%,*,*,46,46%
+9,Wichita Falls,5,ARCHER,Economically Disadvantaged,43,37,86%,35,81%,*,*,30,70%,13,30%,7,16%,20,47%,*,*,7,16%
+9,Wichita Falls,12,BAYLOR,Not Economically Disadvantaged,20,20,100%,20,100%,*,*,20,100%,11,55%,*,*,15,75%,*,*,12,60%
+9,Wichita Falls,12,BAYLOR,Economically Disadvantaged,17,17,100%,16,94%,*,*,14,82%,*,*,6,35%,8,47%,*,*,*,*
+9,Wichita Falls,39,CLAY,Not Economically Disadvantaged,74,68,92%,67,91%,*,*,66,89%,21,28%,25,34%,46,62%,*,*,18,24%
+9,Wichita Falls,39,CLAY,Economically Disadvantaged,63,56,89%,53,84%,*,*,49,78%,6,10%,19,30%,25,40%,*,*,9,14%
+9,Wichita Falls,78,FOARD,Not Economically Disadvantaged,5,5,100%,5,100%,*,*,5,100%,*,*,*,*,5,100%,*,*,*,*
+9,Wichita Falls,78,FOARD,Economically Disadvantaged,9,9,100%,8,89%,*,*,8,89%,*,*,*,*,6,67%,*,*,*,*
+9,Wichita Falls,99,HARDEMAN,Not Economically Disadvantaged,15,15,100%,NA,NA,NA,NA,13,87%,*,*,8,53%,12,80%,*,*,8,53%
+9,Wichita Falls,99,HARDEMAN,Economically Disadvantaged,44,42,95%,NA,NA,NA,NA,35,80%,6,14%,13,30%,19,43%,*,*,7,16%
+9,Wichita Falls,119,JACK,Not Economically Disadvantaged,56,56,100%,56,100%,*,*,52,93%,17,30%,21,38%,38,68%,*,*,21,38%
+9,Wichita Falls,119,JACK,Economically Disadvantaged,60,59,98%,48,80%,*,*,47,78%,5,8%,12,20%,17,28%,*,*,5,8%
+9,Wichita Falls,138,KNOX,Not Economically Disadvantaged,20,19,95%,NA,NA,NA,NA,16,80%,12,60%,6,30%,18,90%,*,*,9,45%
+9,Wichita Falls,138,KNOX,Economically Disadvantaged,33,32,97%,NA,NA,NA,NA,25,76%,5,15%,8,24%,13,39%,*,*,8,24%
+9,Wichita Falls,169,MONTAGUE,Not Economically Disadvantaged,116,114,98%,109,94%,*,*,105,91%,45,39%,36,31%,81,70%,*,*,53,46%
+9,Wichita Falls,169,MONTAGUE,Economically Disadvantaged,110,108,98%,97,88%,5,5%,90,82%,11,10%,25,23%,36,33%,*,*,14,13%
+9,Wichita Falls,224,THROCKMORTON,Not Economically Disadvantaged,13,13,100%,NA,NA,NA,NA,13,100%,6,46%,*,*,9,69%,*,*,5,38%
+9,Wichita Falls,224,THROCKMORTON,Economically Disadvantaged,9,8,89%,NA,NA,NA,NA,7,78%,*,*,5,56%,5,56%,*,*,*,*
+9,Wichita Falls,243,WICHITA,Not Economically Disadvantaged,661,623,94%,582,88%,14,2%,540,82%,206,31%,170,26%,376,57%,19,3%,170,26%
+9,Wichita Falls,243,WICHITA,Economically Disadvantaged,852,807,95%,719,84%,60,7%,686,81%,128,15%,200,23%,328,39%,7,1%,94,11%
+9,Wichita Falls,244,WILBARGER,Not Economically Disadvantaged,72,67,93%,64,89%,*,*,61,85%,16,22%,30,42%,46,64%,*,*,31,43%
+9,Wichita Falls,244,WILBARGER,Economically Disadvantaged,111,102,92%,90,81%,8,7%,80,72%,7,6%,37,33%,44,40%,*,*,17,15%
+9,Wichita Falls,252,YOUNG,Not Economically Disadvantaged,131,128,98%,121,92%,5,4%,118,90%,50,38%,36,27%,86,66%,*,*,42,32%
+9,Wichita Falls,252,YOUNG,Economically Disadvantaged,120,112,93%,94,78%,21,18%,98,82%,19,16%,22,18%,41,34%,*,*,16,13%
+10,Richardson,43,COLLIN,Not Economically Disadvantaged,10088,9666,96%,9296,92%,163,2%,8863,88%,3160,31%,3344,33%,6504,64%,341,3%,3464,34%
+10,Richardson,43,COLLIN,Economically Disadvantaged,2860,2726,95%,2463,86%,230,8%,2372,83%,327,11%,971,34%,1298,45%,44,2%,452,16%
+10,Richardson,57,DALLAS,Not Economically Disadvantaged,9945,9462,95%,8830,89%,474,5%,8442,85%,2939,30%,3028,30%,5967,60%,223,2%,2751,28%
+10,Richardson,57,DALLAS,Economically Disadvantaged,22698,21601,95%,18977,84%,2287,10%,17843,79%,3030,13%,6203,27%,9233,41%,268,1%,2659,12%
+10,Richardson,70,ELLIS,Not Economically Disadvantaged,1343,1306,97%,1231,92%,55,4%,1179,88%,396,29%,526,39%,922,69%,30,2%,474,35%
+10,Richardson,70,ELLIS,Economically Disadvantaged,1059,1017,96%,872,82%,116,11%,843,80%,91,9%,381,36%,472,45%,23,2%,169,16%
+10,Richardson,74,FANNIN,Not Economically Disadvantaged,174,167,96%,164,94%,*,*,157,90%,40,23%,72,41%,112,64%,6,3%,57,33%
+10,Richardson,74,FANNIN,Economically Disadvantaged,199,192,96%,180,90%,*,*,155,78%,14,7%,58,29%,72,36%,*,*,21,11%
+10,Richardson,91,GRAYSON,Not Economically Disadvantaged,769,727,95%,688,89%,24,3%,654,85%,179,23%,311,40%,490,64%,24,3%,230,30%
+10,Richardson,91,GRAYSON,Economically Disadvantaged,872,828,95%,713,82%,65,7%,643,74%,60,7%,273,31%,333,38%,21,2%,109,13%
+10,Richardson,116,HUNT,Not Economically Disadvantaged,456,436,96%,417,91%,6,1%,397,87%,129,28%,143,31%,272,60%,13,3%,137,30%
+10,Richardson,116,HUNT,Economically Disadvantaged,615,587,95%,538,87%,34,6%,477,78%,76,12%,135,22%,211,34%,9,1%,66,11%
+10,Richardson,129,KAUFMAN,Not Economically Disadvantaged,984,956,97%,911,93%,24,2%,802,82%,260,26%,364,37%,624,63%,85,9%,301,31%
+10,Richardson,129,KAUFMAN,Economically Disadvantaged,924,885,96%,806,87%,55,6%,638,69%,115,12%,273,30%,388,42%,59,6%,130,14%
+10,Richardson,199,ROCKWALL,Not Economically Disadvantaged,1042,1017,98%,970,93%,28,3%,931,89%,340,33%,367,35%,707,68%,44,4%,364,35%
+10,Richardson,199,ROCKWALL,Economically Disadvantaged,418,399,95%,333,80%,52,12%,337,81%,64,15%,132,32%,196,47%,5,1%,65,16%
+10,Richardson,234,VAN ZANDT,Not Economically Disadvantaged,158,157,99%,145,92%,*,*,141,89%,44,28%,62,39%,106,67%,5,3%,59,37%
+10,Richardson,234,VAN ZANDT,Economically Disadvantaged,177,168,95%,141,80%,24,14%,126,71%,18,10%,37,21%,55,31%,*,*,20,11%
+11,Fort Worth,49,COOKE,Not Economically Disadvantaged,242,233,96%,222,92%,5,2%,218,90%,61,25%,100,41%,161,67%,6,2%,90,37%
+11,Fort Worth,49,COOKE,Economically Disadvantaged,224,214,96%,192,86%,11,5%,161,72%,12,5%,63,28%,75,33%,*,*,25,11%
+11,Fort Worth,61,DENTON,Not Economically Disadvantaged,5931,5718,96%,5453,92%,150,3%,5272,89%,1836,31%,1784,30%,3620,61%,129,2%,1820,31%
+11,Fort Worth,61,DENTON,Economically Disadvantaged,2650,2517,95%,2236,84%,225,8%,2123,80%,275,10%,721,27%,996,38%,42,2%,307,12%
+11,Fort Worth,72,ERATH,Not Economically Disadvantaged,253,233,92%,202,80%,21,8%,204,81%,106,42%,64,25%,170,67%,10,4%,95,38%
+11,Fort Worth,72,ERATH,Economically Disadvantaged,358,318,89%,219,61%,93,26%,210,59%,37,10%,76,21%,113,32%,18,5%,40,11%
+11,Fort Worth,111,HOOD,Not Economically Disadvantaged,336,328,98%,318,95%,5,1%,300,89%,117,35%,103,31%,220,65%,7,2%,107,32%
+11,Fort Worth,111,HOOD,Economically Disadvantaged,270,253,94%,223,83%,18,7%,202,75%,35,13%,50,19%,85,31%,*,*,28,10%
+11,Fort Worth,126,JOHNSON,Not Economically Disadvantaged,1259,1223,97%,1139,90%,64,5%,1126,89%,353,28%,453,36%,806,64%,25,2%,412,33%
+11,Fort Worth,126,JOHNSON,Economically Disadvantaged,1201,1126,94%,971,81%,145,12%,928,77%,107,9%,338,28%,445,37%,21,2%,137,11%
+11,Fort Worth,182,PALO PINTO,Not Economically Disadvantaged,134,129,96%,119,89%,8,6%,113,84%,37,28%,39,29%,76,57%,*,*,40,30%
+11,Fort Worth,182,PALO PINTO,Economically Disadvantaged,239,226,95%,193,81%,26,11%,173,72%,17,7%,60,25%,77,32%,*,*,29,12%
+11,Fort Worth,184,PARKER,Not Economically Disadvantaged,960,925,96%,874,91%,26,3%,813,85%,278,29%,364,38%,642,67%,42,4%,338,35%
+11,Fort Worth,184,PARKER,Economically Disadvantaged,465,438,94%,384,83%,36,8%,350,75%,34,7%,128,28%,162,35%,8,2%,53,11%
+11,Fort Worth,213,SOMERVELL,Not Economically Disadvantaged,82,80,98%,76,93%,*,*,74,90%,36,44%,26,32%,62,76%,*,*,41,50%
+11,Fort Worth,213,SOMERVELL,Economically Disadvantaged,53,52,98%,46,87%,5,9%,38,72%,12,23%,6,11%,18,34%,*,*,7,13%
+11,Fort Worth,220,TARRANT,Not Economically Disadvantaged,12052,11542,96%,10723,89%,565,5%,10290,85%,3677,31%,3907,32%,7584,63%,336,3%,3575,30%
+11,Fort Worth,220,TARRANT,Economically Disadvantaged,12966,12379,95%,10283,79%,1795,14%,9813,76%,1775,14%,3684,28%,5459,42%,237,2%,1721,13%
+11,Fort Worth,249,WISE,Not Economically Disadvantaged,403,390,97%,375,93%,6,1%,346,86%,117,29%,138,34%,255,63%,14,3%,125,31%
+11,Fort Worth,249,WISE,Economically Disadvantaged,290,281,97%,257,89%,13,4%,231,80%,32,11%,55,19%,87,30%,*,*,33,11%
+12,Waco,14,BELL,Not Economically Disadvantaged,2205,2004,91%,1771,80%,123,6%,1732,79%,585,27%,727,33%,1312,60%,74,3%,606,27%
+12,Waco,14,BELL,Economically Disadvantaged,2324,2061,89%,1565,67%,393,17%,1559,67%,219,9%,656,28%,875,38%,68,3%,209,9%
+12,Waco,18,BOSQUE,Not Economically Disadvantaged,92,91,99%,89,97%,*,*,89,97%,37,40%,33,36%,70,76%,*,*,38,41%
+12,Waco,18,BOSQUE,Economically Disadvantaged,133,124,93%,114,86%,6,5%,108,81%,10,8%,46,35%,56,42%,*,*,22,17%
+12,Waco,50,CORYELL,Not Economically Disadvantaged,418,386,92%,363,87%,7,2%,339,81%,95,23%,156,37%,251,60%,14,3%,106,25%
+12,Waco,50,CORYELL,Economically Disadvantaged,370,345,93%,298,81%,23,6%,254,69%,41,11%,91,25%,132,36%,6,2%,35,9%
+12,Waco,73,FALLS,Not Economically Disadvantaged,47,45,96%,45,96%,*,*,40,85%,12,26%,19,40%,31,66%,*,*,15,32%
+12,Waco,73,FALLS,Economically Disadvantaged,129,125,97%,115,89%,5,4%,99,77%,21,16%,47,36%,68,53%,*,*,27,21%
+12,Waco,81,FREESTONE,Not Economically Disadvantaged,155,150,97%,141,91%,*,*,139,90%,45,29%,61,39%,106,68%,*,*,59,38%
+12,Waco,81,FREESTONE,Economically Disadvantaged,110,107,97%,97,88%,6,5%,78,71%,9,8%,37,34%,46,42%,*,*,11,10%
+12,Waco,97,HAMILTON,Not Economically Disadvantaged,50,48,96%,46,92%,*,*,47,94%,31,62%,7,14%,38,76%,*,*,25,50%
+12,Waco,97,HAMILTON,Economically Disadvantaged,51,46,90%,46,90%,*,*,42,82%,8,16%,12,24%,20,39%,*,*,8,16%
+12,Waco,109,HILL,Not Economically Disadvantaged,164,157,96%,156,95%,*,*,150,91%,47,29%,72,44%,119,73%,*,*,66,40%
+12,Waco,109,HILL,Economically Disadvantaged,293,282,96%,261,89%,14,5%,239,82%,17,6%,114,39%,131,45%,5,2%,42,14%
+12,Waco,141,LAMPASAS,Not Economically Disadvantaged,151,142,94%,NA,NA,NA,NA,130,86%,49,32%,52,34%,101,67%,*,*,52,34%
+12,Waco,141,LAMPASAS,Economically Disadvantaged,138,127,92%,NA,NA,NA,NA,102,74%,12,9%,26,19%,38,28%,*,*,6,4%
+12,Waco,147,LIMESTONE,Not Economically Disadvantaged,103,99,96%,93,90%,5,5%,87,84%,26,25%,45,44%,71,69%,*,*,29,28%
+12,Waco,147,LIMESTONE,Economically Disadvantaged,194,190,98%,162,84%,20,10%,157,81%,12,6%,56,29%,68,35%,5,3%,12,6%
+12,Waco,161,MCLENNAN,Not Economically Disadvantaged,1326,1278,96%,1239,93%,23,2%,1182,89%,367,28%,625,47%,992,75%,44,3%,566,43%
+12,Waco,161,MCLENNAN,Economically Disadvantaged,1992,1912,96%,1714,86%,157,8%,1532,77%,169,8%,831,42%,1000,50%,49,2%,323,16%
+12,Waco,167,MILLS,Not Economically Disadvantaged,27,27,100%,NA,NA,NA,NA,27,100%,15,56%,*,*,19,70%,*,*,8,30%
+12,Waco,167,MILLS,Economically Disadvantaged,29,28,97%,NA,NA,NA,NA,25,86%,5,17%,5,17%,10,34%,*,*,*,*
+12,Waco,175,NAVARRO,Not Economically Disadvantaged,250,245,98%,235,94%,6,2%,230,92%,58,23%,126,50%,184,74%,*,*,115,46%
+12,Waco,175,NAVARRO,Economically Disadvantaged,460,443,96%,394,86%,36,8%,358,78%,25,5%,184,40%,209,45%,10,2%,79,17%
+13,Austin,11,BASTROP,Not Economically Disadvantaged,418,408,98%,372,89%,31,7%,370,89%,124,30%,114,27%,238,57%,*,*,115,28%
+13,Austin,11,BASTROP,Economically Disadvantaged,758,728,96%,595,79%,127,17%,621,82%,128,17%,149,20%,277,37%,6,1%,95,13%
+13,Austin,14,BELL,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Austin,14,BELL,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Austin,16,BLANCO,Not Economically Disadvantaged,65,64,98%,60,92%,*,*,60,92%,23,35%,17,26%,40,62%,*,*,21,32%
+13,Austin,16,BLANCO,Economically Disadvantaged,57,56,98%,51,89%,*,*,52,91%,16,28%,6,11%,22,39%,*,*,5,9%
+13,Austin,27,BURNET,Not Economically Disadvantaged,234,219,94%,216,92%,*,*,202,86%,98,42%,60,26%,158,68%,14,6%,80,34%
+13,Austin,27,BURNET,Economically Disadvantaged,340,319,94%,273,80%,32,9%,252,74%,21,6%,69,20%,90,26%,5,1%,24,7%
+13,Austin,28,CALDWELL,Not Economically Disadvantaged,140,139,99%,135,96%,*,*,127,91%,53,38%,22,16%,75,54%,*,*,43,31%
+13,Austin,28,CALDWELL,Economically Disadvantaged,317,314,99%,300,95%,7,2%,265,84%,41,13%,52,16%,93,29%,*,*,23,7%
+13,Austin,46,COMAL,Not Economically Disadvantaged,1277,1242,97%,1197,94%,20,2%,1151,90%,515,40%,363,28%,878,69%,29,2%,489,38%
+13,Austin,46,COMAL,Economically Disadvantaged,656,627,96%,552,84%,59,9%,494,75%,87,13%,117,18%,204,31%,10,2%,75,11%
+13,Austin,75,FAYETTE,Not Economically Disadvantaged,162,159,98%,153,94%,*,*,146,90%,51,31%,68,42%,119,73%,*,*,74,46%
+13,Austin,75,FAYETTE,Economically Disadvantaged,143,139,97%,119,83%,19,13%,115,80%,16,11%,49,34%,65,45%,*,*,31,22%
+13,Austin,86,GILLESPIE,Not Economically Disadvantaged,134,133,99%,128,96%,*,*,124,93%,58,43%,37,28%,95,71%,*,*,53,40%
+13,Austin,86,GILLESPIE,Economically Disadvantaged,147,139,95%,122,83%,11,7%,118,80%,25,17%,25,17%,50,34%,*,*,20,14%
+13,Austin,89,GONZALES,Not Economically Disadvantaged,85,80,94%,71,84%,5,6%,61,72%,22,26%,17,20%,39,46%,*,*,19,22%
+13,Austin,89,GONZALES,Economically Disadvantaged,193,184,95%,163,84%,14,7%,142,74%,20,10%,30,16%,50,26%,*,*,13,7%
+13,Austin,94,GUADALUPE,Not Economically Disadvantaged,1084,1038,96%,971,90%,44,4%,938,87%,380,35%,277,26%,657,61%,24,2%,333,31%
+13,Austin,94,GUADALUPE,Economically Disadvantaged,721,688,95%,575,80%,102,14%,563,78%,88,12%,130,18%,218,30%,7,1%,67,9%
+13,Austin,105,HAYS,Not Economically Disadvantaged,1176,1142,97%,1093,93%,26,2%,1038,88%,419,36%,335,28%,754,64%,18,2%,402,34%
+13,Austin,105,HAYS,Economically Disadvantaged,992,949,96%,843,85%,89,9%,780,79%,114,11%,248,25%,362,36%,8,1%,92,9%
+13,Austin,130,KENDALL,Not Economically Disadvantaged,36,36,100%,33,92%,*,*,35,97%,12,33%,13,36%,25,69%,*,*,16,44%
+13,Austin,130,KENDALL,Economically Disadvantaged,35,34,97%,33,94%,*,*,33,94%,*,*,9,26%,11,31%,*,*,*,*
+13,Austin,144,LEE,Not Economically Disadvantaged,98,95,97%,88,90%,7,7%,91,93%,24,24%,38,39%,62,63%,*,*,33,34%
+13,Austin,144,LEE,Economically Disadvantaged,128,121,95%,101,79%,15,12%,102,80%,6,5%,32,25%,38,30%,*,*,10,8%
+13,Austin,150,LLANO,Not Economically Disadvantaged,53,52,98%,44,83%,*,*,44,83%,22,42%,9,17%,31,58%,*,*,18,34%
+13,Austin,150,LLANO,Economically Disadvantaged,72,72,100%,59,82%,9,13%,51,71%,11,15%,11,15%,22,31%,*,*,5,7%
+13,Austin,166,MILAM,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,Austin,227,TRAVIS,Not Economically Disadvantaged,4550,4313,95%,4141,91%,111,2%,3923,86%,1675,37%,1179,26%,2854,63%,165,4%,1509,33%
+13,Austin,227,TRAVIS,Economically Disadvantaged,5956,5658,95%,4841,81%,680,11%,4373,73%,731,12%,1279,21%,2010,34%,85,1%,565,9%
+13,Austin,246,WILLIAMSON,Not Economically Disadvantaged,5405,5240,97%,5052,93%,71,1%,4797,89%,2022,37%,1622,30%,3644,67%,136,3%,2034,38%
+13,Austin,246,WILLIAMSON,Economically Disadvantaged,2438,2329,96%,2149,88%,135,6%,1966,81%,369,15%,616,25%,985,40%,33,1%,355,15%
+14,Abilene,30,CALLAHAN,Not Economically Disadvantaged,86,82,95%,77,90%,*,*,75,87%,36,42%,26,30%,62,72%,5,6%,33,38%
+14,Abilene,30,CALLAHAN,Economically Disadvantaged,109,95,87%,89,82%,11,10%,83,76%,23,21%,26,24%,49,45%,*,*,20,18%
+14,Abilene,47,COMANCHE,Not Economically Disadvantaged,61,60,98%,58,95%,*,*,57,93%,27,44%,18,30%,45,74%,*,*,23,38%
+14,Abilene,47,COMANCHE,Economically Disadvantaged,115,109,95%,99,86%,8,7%,91,79%,22,19%,24,21%,46,40%,*,*,19,17%
+14,Abilene,67,EASTLAND,Not Economically Disadvantaged,74,73,99%,67,91%,*,*,68,92%,28,38%,25,34%,53,72%,*,*,33,45%
+14,Abilene,67,EASTLAND,Economically Disadvantaged,130,124,95%,113,87%,*,*,98,75%,17,13%,43,33%,60,46%,*,*,23,18%
+14,Abilene,76,FISHER,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Abilene,76,FISHER,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Abilene,104,HASKELL,Not Economically Disadvantaged,14,14,100%,13,93%,*,*,13,93%,5,36%,*,*,9,64%,*,*,*,*
+14,Abilene,104,HASKELL,Economically Disadvantaged,48,45,94%,40,83%,*,*,34,71%,8,17%,13,27%,21,44%,*,*,10,21%
+14,Abilene,127,JONES,Not Economically Disadvantaged,84,80,95%,78,93%,*,*,77,92%,44,52%,19,23%,63,75%,*,*,34,40%
+14,Abilene,127,JONES,Economically Disadvantaged,104,96,92%,81,78%,6,6%,71,68%,22,21%,14,13%,36,35%,*,*,21,20%
+14,Abilene,168,MITCHELL,Not Economically Disadvantaged,45,44,98%,NA,NA,NA,NA,37,82%,14,31%,13,29%,27,60%,*,*,15,33%
+14,Abilene,168,MITCHELL,Economically Disadvantaged,74,72,97%,NA,NA,NA,NA,61,82%,6,8%,24,32%,30,41%,*,*,6,8%
+14,Abilene,177,NOLAN,Not Economically Disadvantaged,99,98,99%,91,92%,5,5%,93,94%,44,44%,26,26%,70,71%,*,*,40,40%
+14,Abilene,177,NOLAN,Economically Disadvantaged,114,102,89%,87,76%,16,14%,82,72%,20,18%,24,21%,44,39%,*,*,13,11%
+14,Abilene,208,SCURRY,Not Economically Disadvantaged,97,95,98%,92,95%,*,*,90,93%,19,20%,57,59%,76,78%,*,*,44,45%
+14,Abilene,208,SCURRY,Economically Disadvantaged,104,98,94%,93,89%,5,5%,78,75%,7,7%,40,38%,47,45%,*,*,24,23%
+14,Abilene,209,SHACKELFORD,Not Economically Disadvantaged,28,28,100%,28,100%,*,*,27,96%,16,57%,7,25%,23,82%,*,*,11,39%
+14,Abilene,209,SHACKELFORD,Economically Disadvantaged,22,22,100%,22,100%,*,*,16,73%,*,*,*,*,6,27%,*,*,*,*
+14,Abilene,215,STEPHENS,Not Economically Disadvantaged,40,40,100%,39,98%,*,*,37,93%,16,40%,9,23%,25,63%,*,*,15,38%
+14,Abilene,215,STEPHENS,Economically Disadvantaged,64,60,94%,51,80%,9,14%,45,70%,*,*,24,38%,27,42%,*,*,9,14%
+14,Abilene,217,STONEWALL,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Abilene,217,STONEWALL,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+14,Abilene,221,TAYLOR,Not Economically Disadvantaged,1254,1109,88%,969,77%,81,6%,919,73%,402,32%,339,27%,741,59%,81,6%,401,32%
+14,Abilene,221,TAYLOR,Economically Disadvantaged,1109,981,88%,794,72%,130,12%,722,65%,152,14%,252,23%,404,36%,42,4%,127,11%
+15,San Angelo,25,BROWN,Not Economically Disadvantaged,212,204,96%,194,92%,*,*,194,92%,106,50%,42,20%,148,70%,*,*,93,44%
+15,San Angelo,25,BROWN,Economically Disadvantaged,290,279,96%,237,82%,31,11%,229,79%,46,16%,61,21%,107,37%,*,*,46,16%
+15,San Angelo,41,COKE,Not Economically Disadvantaged,22,22,100%,NA,NA,NA,NA,20,91%,9,41%,9,41%,18,82%,*,*,6,27%
+15,San Angelo,41,COKE,Economically Disadvantaged,18,18,100%,NA,NA,NA,NA,15,83%,*,*,5,28%,7,39%,*,*,*,*
+15,San Angelo,42,COLEMAN,Not Economically Disadvantaged,35,33,94%,32,91%,*,*,29,83%,13,37%,5,14%,18,51%,*,*,6,17%
+15,San Angelo,42,COLEMAN,Economically Disadvantaged,58,54,93%,50,86%,*,*,41,71%,11,19%,7,12%,18,31%,*,*,9,16%
+15,San Angelo,48,CONCHO,Not Economically Disadvantaged,13,13,100%,12,92%,*,*,11,85%,5,38%,*,*,7,54%,*,*,*,*
+15,San Angelo,48,CONCHO,Economically Disadvantaged,30,29,97%,25,83%,*,*,25,83%,5,17%,*,*,7,23%,*,*,*,*
+15,San Angelo,53,CROCKETT,Not Economically Disadvantaged,17,17,100%,NA,NA,NA,NA,16,94%,8,47%,*,*,10,59%,*,*,6,35%
+15,San Angelo,53,CROCKETT,Economically Disadvantaged,31,30,97%,NA,NA,NA,NA,22,71%,*,*,9,29%,11,35%,*,*,*,*
+15,San Angelo,69,EDWARDS,Not Economically Disadvantaged,8,6,75%,6,75%,*,*,5,63%,*,*,*,*,5,63%,*,*,*,*
+15,San Angelo,69,EDWARDS,Economically Disadvantaged,25,23,92%,19,76%,*,*,17,68%,*,*,7,28%,9,36%,*,*,6,24%
+15,San Angelo,118,IRION,Not Economically Disadvantaged,10,9,90%,NA,NA,NA,NA,8,80%,*,*,*,*,6,60%,*,*,*,*
+15,San Angelo,118,IRION,Economically Disadvantaged,19,18,95%,NA,NA,NA,NA,11,58%,*,*,6,32%,7,37%,*,*,*,*
+15,San Angelo,134,KIMBLE,Not Economically Disadvantaged,30,29,97%,NA,NA,NA,NA,28,93%,14,47%,5,17%,19,63%,*,*,8,27%
+15,San Angelo,134,KIMBLE,Economically Disadvantaged,23,22,96%,NA,NA,NA,NA,19,83%,*,*,*,*,5,22%,*,*,*,*
+15,San Angelo,157,MASON,Not Economically Disadvantaged,25,24,96%,22,88%,*,*,20,80%,12,48%,6,24%,18,72%,*,*,12,48%
+15,San Angelo,157,MASON,Economically Disadvantaged,22,22,100%,21,95%,*,*,18,82%,7,32%,6,27%,13,59%,*,*,6,27%
+15,San Angelo,160,MCCULLOCH,Not Economically Disadvantaged,49,49,100%,49,100%,*,*,47,96%,23,47%,7,14%,30,61%,*,*,20,41%
+15,San Angelo,160,MCCULLOCH,Economically Disadvantaged,78,77,99%,70,90%,*,*,61,78%,18,23%,13,17%,31,40%,*,*,13,17%
+15,San Angelo,164,MENARD,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,San Angelo,164,MENARD,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,San Angelo,200,RUNNELS,Not Economically Disadvantaged,64,62,97%,57,89%,*,*,53,83%,30,47%,14,22%,44,69%,*,*,28,44%
+15,San Angelo,200,RUNNELS,Economically Disadvantaged,96,87,91%,77,80%,7,7%,68,71%,17,18%,14,15%,31,32%,*,*,11,11%
+15,San Angelo,206,SAN SABA,Not Economically Disadvantaged,24,24,100%,24,100%,*,*,23,96%,14,58%,*,*,17,71%,*,*,12,50%
+15,San Angelo,206,SAN SABA,Economically Disadvantaged,47,44,94%,42,89%,*,*,36,77%,10,21%,9,19%,19,40%,*,*,8,17%
+15,San Angelo,207,SCHLEICHER,Not Economically Disadvantaged,15,14,93%,NA,NA,NA,NA,13,87%,8,53%,*,*,10,67%,*,*,*,*
+15,San Angelo,207,SCHLEICHER,Economically Disadvantaged,29,29,100%,NA,NA,NA,NA,26,90%,11,38%,*,*,15,52%,*,*,5,17%
+15,San Angelo,216,STERLING,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,San Angelo,216,STERLING,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+15,San Angelo,218,SUTTON,Not Economically Disadvantaged,68,64,94%,62,91%,*,*,55,81%,21,31%,9,13%,30,44%,*,*,16,24%
+15,San Angelo,226,TOM GREEN,Not Economically Disadvantaged,610,587,96%,560,92%,8,1%,530,87%,304,50%,97,16%,401,66%,12,2%,223,37%
+15,San Angelo,226,TOM GREEN,Economically Disadvantaged,735,709,96%,640,87%,58,8%,560,76%,142,19%,110,15%,252,34%,7,1%,82,11%
+15,San Angelo,233,VAL VERDE,Not Economically Disadvantaged,215,207,96%,198,92%,*,*,188,87%,74,34%,77,36%,151,70%,*,*,86,40%
+15,San Angelo,233,VAL VERDE,Economically Disadvantaged,549,519,95%,487,89%,33,6%,416,76%,56,10%,190,35%,246,45%,9,2%,107,19%
+16,Amarillo,6,ARMSTRONG,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,6,ARMSTRONG,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,23,BRISCOE,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,23,BRISCOE,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,33,CARSON,Not Economically Disadvantaged,55,55,100%,53,96%,*,*,51,93%,23,42%,16,29%,39,71%,*,*,26,47%
+16,Amarillo,33,CARSON,Economically Disadvantaged,32,31,97%,27,84%,*,*,22,69%,6,19%,7,22%,13,41%,*,*,5,16%
+16,Amarillo,35,CASTRO,Not Economically Disadvantaged,23,22,96%,21,91%,*,*,22,96%,8,35%,10,43%,18,78%,*,*,11,48%
+16,Amarillo,35,CASTRO,Economically Disadvantaged,102,89,87%,80,78%,11,11%,79,77%,23,23%,24,24%,47,46%,*,*,27,26%
+16,Amarillo,38,CHILDRESS,Not Economically Disadvantaged,30,28,93%,29,97%,*,*,25,83%,14,47%,5,17%,19,63%,*,*,9,30%
+16,Amarillo,38,CHILDRESS,Economically Disadvantaged,38,35,92%,36,95%,*,*,30,79%,*,*,11,29%,14,37%,*,*,*,*
+16,Amarillo,44,COLLINGSWORTH,Not Economically Disadvantaged,14,14,100%,14,100%,*,*,12,86%,8,57%,*,*,8,57%,*,*,6,43%
+16,Amarillo,44,COLLINGSWORTH,Economically Disadvantaged,22,22,100%,21,95%,*,*,21,95%,7,32%,5,23%,12,55%,*,*,6,27%
+16,Amarillo,56,DALLAM,Not Economically Disadvantaged,63,60,95%,60,95%,*,*,58,92%,20,32%,18,29%,38,60%,*,*,21,33%
+16,Amarillo,56,DALLAM,Economically Disadvantaged,82,69,84%,62,76%,*,*,52,63%,8,10%,18,22%,26,32%,*,*,8,10%
+16,Amarillo,59,DEAF SMITH,Not Economically Disadvantaged,68,67,99%,65,96%,*,*,62,91%,31,46%,14,21%,45,66%,*,*,29,43%
+16,Amarillo,59,DEAF SMITH,Economically Disadvantaged,260,248,95%,211,81%,27,10%,200,77%,15,6%,74,28%,89,34%,*,*,33,13%
+16,Amarillo,65,DONLEY,Not Economically Disadvantaged,18,18,100%,NA,NA,NA,NA,17,94%,7,39%,8,44%,15,83%,*,*,6,33%
+16,Amarillo,65,DONLEY,Economically Disadvantaged,28,25,89%,NA,NA,NA,NA,23,82%,*,*,12,43%,13,46%,*,*,6,21%
+16,Amarillo,90,GRAY,Not Economically Disadvantaged,137,132,96%,132,96%,*,*,121,88%,48,35%,36,26%,84,61%,*,*,45,33%
+16,Amarillo,90,GRAY,Economically Disadvantaged,144,134,93%,120,83%,*,*,115,80%,13,9%,43,30%,56,39%,*,*,19,13%
+16,Amarillo,96,HALL,Not Economically Disadvantaged,22,21,95%,21,95%,*,*,21,95%,12,55%,6,27%,18,82%,*,*,10,45%
+16,Amarillo,96,HALL,Economically Disadvantaged,27,26,96%,25,93%,*,*,23,85%,*,*,11,41%,12,44%,*,*,*,*
+16,Amarillo,98,HANSFORD,Not Economically Disadvantaged,45,44,98%,44,98%,*,*,44,98%,19,42%,9,20%,28,62%,*,*,15,33%
+16,Amarillo,98,HANSFORD,Economically Disadvantaged,39,38,97%,37,95%,*,*,35,90%,6,15%,16,41%,22,56%,*,*,12,31%
+16,Amarillo,103,HARTLEY,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,103,HARTLEY,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,106,HEMPHILL,Not Economically Disadvantaged,37,35,95%,35,95%,*,*,33,89%,14,38%,8,22%,22,59%,*,*,10,27%
+16,Amarillo,106,HEMPHILL,Economically Disadvantaged,17,16,94%,12,71%,*,*,12,71%,*,*,*,*,5,29%,*,*,*,*
+16,Amarillo,117,HUTCHINSON,Not Economically Disadvantaged,205,194,95%,185,90%,*,*,180,88%,42,20%,79,39%,121,59%,*,*,57,28%
+16,Amarillo,117,HUTCHINSON,Economically Disadvantaged,117,106,91%,95,81%,*,*,86,74%,8,7%,47,40%,55,47%,*,*,22,19%
+16,Amarillo,148,LIPSCOMB,Not Economically Disadvantaged,24,22,92%,21,88%,*,*,20,83%,10,42%,*,*,14,58%,*,*,9,38%
+16,Amarillo,148,LIPSCOMB,Economically Disadvantaged,35,33,94%,33,94%,*,*,31,89%,*,*,6,17%,9,26%,*,*,*,*
+16,Amarillo,171,MOORE,Not Economically Disadvantaged,134,130,97%,126,94%,*,*,116,87%,23,17%,64,48%,87,65%,*,*,41,31%
+16,Amarillo,171,MOORE,Economically Disadvantaged,245,229,93%,213,87%,*,*,187,76%,11,4%,97,40%,108,44%,*,*,53,22%
+16,Amarillo,179,OCHILTREE,Not Economically Disadvantaged,62,61,98%,53,85%,7,11%,51,82%,14,23%,16,26%,30,48%,*,*,15,24%
+16,Amarillo,179,OCHILTREE,Economically Disadvantaged,95,87,92%,67,71%,13,14%,71,75%,6,6%,17,18%,23,24%,*,*,12,13%
+16,Amarillo,180,OLDHAM,Not Economically Disadvantaged,32,31,97%,NA,NA,NA,NA,28,88%,12,38%,10,31%,22,69%,*,*,13,41%
+16,Amarillo,180,OLDHAM,Economically Disadvantaged,36,35,97%,NA,NA,NA,NA,27,75%,7,19%,9,25%,16,44%,*,*,6,17%
+16,Amarillo,185,PARMER,Not Economically Disadvantaged,50,48,96%,47,94%,*,*,46,92%,22,44%,11,22%,33,66%,*,*,23,46%
+16,Amarillo,185,PARMER,Economically Disadvantaged,106,103,97%,93,88%,*,*,85,80%,13,12%,23,22%,36,34%,*,*,15,14%
+16,Amarillo,188,POTTER,Not Economically Disadvantaged,1016,980,96%,908,89%,60,6%,906,89%,270,27%,437,43%,707,70%,21,2%,371,37%
+16,Amarillo,188,POTTER,Economically Disadvantaged,1543,1449,94%,1191,77%,232,15%,1152,75%,141,9%,551,36%,692,45%,26,2%,219,14%
+16,Amarillo,191,RANDALL,Not Economically Disadvantaged,537,523,97%,509,95%,10,2%,485,90%,192,36%,174,32%,366,68%,11,2%,200,37%
+16,Amarillo,191,RANDALL,Economically Disadvantaged,195,185,95%,178,91%,6,3%,159,82%,19,10%,71,36%,90,46%,*,*,32,16%
+16,Amarillo,197,ROBERTS,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,197,ROBERTS,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+16,Amarillo,211,SHERMAN,Not Economically Disadvantaged,42,41,98%,38,90%,*,*,18,43%,*,*,12,29%,15,36%,*,*,6,14%
+16,Amarillo,211,SHERMAN,Economically Disadvantaged,25,25,100%,24,96%,*,*,24,96%,9,36%,6,24%,15,60%,*,*,9,36%
+16,Amarillo,219,SWISHER,Not Economically Disadvantaged,29,28,97%,28,97%,*,*,27,93%,13,45%,8,28%,21,72%,*,*,13,45%
+16,Amarillo,219,SWISHER,Economically Disadvantaged,82,80,98%,75,91%,5,6%,66,80%,16,20%,17,21%,33,40%,*,*,11,13%
+16,Amarillo,242,WHEELER,Not Economically Disadvantaged,47,43,91%,41,87%,*,*,37,79%,7,15%,10,21%,17,36%,*,*,5,11%
+16,Amarillo,242,WHEELER,Economically Disadvantaged,32,29,91%,27,84%,*,*,28,88%,*,*,10,31%,13,41%,*,*,5,16%
+17,Lubbock,9,BAILEY,Not Economically Disadvantaged,22,22,100%,NA,NA,NA,NA,17,77%,7,32%,5,23%,12,55%,*,*,7,32%
+17,Lubbock,9,BAILEY,Economically Disadvantaged,90,83,92%,NA,NA,NA,NA,66,73%,13,14%,19,21%,32,36%,*,*,17,19%
+17,Lubbock,17,BORDEN,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,17,BORDEN,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,40,COCHRAN,Not Economically Disadvantaged,10,10,100%,NA,NA,NA,NA,9,90%,*,*,7,70%,8,80%,*,*,*,*
+17,Lubbock,40,COCHRAN,Economically Disadvantaged,38,38,100%,NA,NA,NA,NA,33,87%,*,*,17,45%,18,47%,*,*,7,18%
+17,Lubbock,51,COTTLE,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,51,COTTLE,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,54,CROSBY,Not Economically Disadvantaged,20,19,95%,18,90%,*,*,15,75%,*,*,9,45%,12,60%,*,*,*,*
+17,Lubbock,54,CROSBY,Economically Disadvantaged,86,84,98%,79,92%,*,*,70,81%,5,6%,33,38%,38,44%,*,*,9,10%
+17,Lubbock,58,DAWSON,Not Economically Disadvantaged,42,40,95%,39,93%,*,*,37,88%,12,29%,22,52%,34,81%,*,*,17,40%
+17,Lubbock,58,DAWSON,Economically Disadvantaged,125,118,94%,111,89%,5,4%,99,79%,8,6%,41,33%,49,39%,*,*,12,10%
+17,Lubbock,63,DICKENS,Not Economically Disadvantaged,6,6,100%,6,100%,*,*,6,100%,*,*,*,*,6,100%,*,*,*,*
+17,Lubbock,63,DICKENS,Economically Disadvantaged,18,17,94%,16,89%,*,*,17,94%,*,*,8,44%,10,56%,*,*,*,*
+17,Lubbock,77,FLOYD,Not Economically Disadvantaged,32,32,100%,30,94%,*,*,29,91%,13,41%,10,31%,23,72%,*,*,11,34%
+17,Lubbock,77,FLOYD,Economically Disadvantaged,71,69,97%,63,89%,*,*,50,70%,7,10%,19,27%,26,37%,*,*,8,11%
+17,Lubbock,83,GAINES,Not Economically Disadvantaged,106,105,99%,103,97%,*,*,97,92%,22,21%,33,31%,55,52%,*,*,29,27%
+17,Lubbock,83,GAINES,Economically Disadvantaged,117,102,87%,93,79%,*,*,84,72%,5,4%,21,18%,26,22%,*,*,7,6%
+17,Lubbock,85,GARZA,Not Economically Disadvantaged,26,26,100%,NA,NA,NA,NA,23,88%,*,*,12,46%,15,58%,*,*,9,35%
+17,Lubbock,85,GARZA,Economically Disadvantaged,48,46,96%,NA,NA,NA,NA,34,71%,*,*,13,27%,14,29%,*,*,*,*
+17,Lubbock,95,HALE,Not Economically Disadvantaged,184,180,98%,172,93%,*,*,162,88%,67,36%,48,26%,115,63%,6,3%,50,27%
+17,Lubbock,95,HALE,Economically Disadvantaged,370,357,96%,335,91%,10,3%,289,78%,62,17%,100,27%,162,44%,6,2%,44,12%
+17,Lubbock,110,HOCKLEY,Not Economically Disadvantaged,136,131,96%,127,93%,*,*,123,90%,28,21%,76,56%,104,76%,*,*,59,43%
+17,Lubbock,110,HOCKLEY,Economically Disadvantaged,193,182,94%,171,89%,6,3%,140,73%,9,5%,73,38%,82,42%,*,*,32,17%
+17,Lubbock,132,KENT,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,132,KENT,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,135,KING,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,135,KING,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,140,LAMB,Not Economically Disadvantaged,66,65,98%,64,97%,*,*,61,92%,18,27%,29,44%,47,71%,*,*,22,33%
+17,Lubbock,140,LAMB,Economically Disadvantaged,159,152,96%,135,85%,9,6%,117,74%,12,8%,50,31%,62,39%,*,*,27,17%
+17,Lubbock,152,LUBBOCK,Not Economically Disadvantaged,1527,1484,97%,1424,93%,22,1%,1354,89%,570,37%,498,33%,1068,70%,45,3%,559,37%
+17,Lubbock,152,LUBBOCK,Economically Disadvantaged,1831,1754,96%,1548,85%,150,8%,1323,72%,155,8%,491,27%,646,35%,20,1%,143,8%
+17,Lubbock,153,LYNN,Not Economically Disadvantaged,30,28,93%,27,90%,*,*,26,87%,12,40%,13,43%,25,83%,*,*,14,47%
+17,Lubbock,153,LYNN,Economically Disadvantaged,65,61,94%,57,88%,*,*,53,82%,8,12%,21,32%,29,45%,*,*,10,15%
+17,Lubbock,173,MOTLEY,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,173,MOTLEY,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+17,Lubbock,223,TERRY,Not Economically Disadvantaged,41,39,95%,39,95%,*,*,38,93%,7,17%,14,34%,21,51%,*,*,9,22%
+17,Lubbock,223,TERRY,Economically Disadvantaged,121,116,96%,114,94%,*,*,105,87%,14,12%,35,29%,49,41%,*,*,14,12%
+17,Lubbock,251,YOAKUM,Not Economically Disadvantaged,66,64,97%,63,95%,*,*,62,94%,24,36%,23,35%,47,71%,*,*,22,33%
+17,Lubbock,251,YOAKUM,Economically Disadvantaged,77,75,97%,75,97%,*,*,70,91%,*,*,22,29%,25,32%,*,*,9,12%
+18,Midland,2,ANDREWS,Not Economically Disadvantaged,149,141,95%,137,92%,*,*,136,91%,42,28%,36,24%,78,52%,*,*,35,23%
+18,Midland,2,ANDREWS,Economically Disadvantaged,107,99,93%,92,86%,10,9%,84,79%,6,6%,21,20%,27,25%,*,*,6,6%
+18,Midland,22,BREWSTER,Not Economically Disadvantaged,45,42,93%,NA,NA,NA,NA,37,82%,23,51%,5,11%,28,62%,*,*,13,29%
+18,Midland,22,BREWSTER,Economically Disadvantaged,49,44,90%,NA,NA,NA,NA,34,69%,14,29%,6,12%,20,41%,*,*,8,16%
+18,Midland,52,CRANE,Not Economically Disadvantaged,60,58,97%,50,83%,5,8%,45,75%,18,30%,15,25%,33,55%,5,8%,13,22%
+18,Midland,52,CRANE,Economically Disadvantaged,25,21,84%,17,68%,*,*,19,76%,*,*,5,20%,9,36%,*,*,*,*
+18,Midland,55,CULBERSON,Not Economically Disadvantaged,11,11,100%,NA,NA,NA,NA,11,100%,7,64%,*,*,8,73%,*,*,*,*
+18,Midland,55,CULBERSON,Economically Disadvantaged,30,29,97%,NA,NA,NA,NA,23,77%,8,27%,7,23%,15,50%,*,*,*,*
+18,Midland,68,ECTOR,Not Economically Disadvantaged,1046,992,95%,919,88%,62,6%,826,79%,227,22%,384,37%,611,58%,27,3%,255,24%
+18,Midland,68,ECTOR,Economically Disadvantaged,1002,926,92%,767,77%,114,11%,617,62%,83,8%,274,27%,357,36%,21,2%,86,9%
+18,Midland,87,GLASSCOCK,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,87,GLASSCOCK,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,114,HOWARD,Not Economically Disadvantaged,173,163,94%,149,86%,8,5%,137,79%,43,25%,63,36%,106,61%,7,4%,54,31%
+18,Midland,114,HOWARD,Economically Disadvantaged,223,205,92%,185,83%,13,6%,146,65%,18,8%,55,25%,73,33%,*,*,24,11%
+18,Midland,122,JEFF DAVIS,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,122,JEFF DAVIS,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,156,MARTIN,Not Economically Disadvantaged,31,31,100%,29,94%,*,*,30,97%,10,32%,12,39%,22,71%,*,*,13,42%
+18,Midland,156,MARTIN,Economically Disadvantaged,40,37,93%,35,88%,*,*,26,65%,*,*,7,18%,10,25%,*,*,*,*
+18,Midland,165,MIDLAND,Not Economically Disadvantaged,967,911,94%,848,88%,53,5%,781,81%,210,22%,389,40%,599,62%,31,3%,255,26%
+18,Midland,165,MIDLAND,Economically Disadvantaged,848,809,95%,690,81%,108,13%,580,68%,61,7%,255,30%,316,37%,19,2%,83,10%
+18,Midland,186,PECOS,Not Economically Disadvantaged,80,78,98%,70,88%,8,10%,72,90%,35,44%,12,15%,47,59%,*,*,23,29%
+18,Midland,186,PECOS,Economically Disadvantaged,109,108,99%,96,88%,9,8%,93,85%,17,16%,18,17%,35,32%,*,*,15,14%
+18,Midland,189,PRESIDIO,Not Economically Disadvantaged,16,14,88%,13,81%,*,*,13,81%,10,63%,*,*,13,81%,*,*,11,69%
+18,Midland,189,PRESIDIO,Economically Disadvantaged,118,114,97%,107,91%,*,*,102,86%,34,29%,31,26%,65,55%,*,*,25,21%
+18,Midland,192,REAGAN,Not Economically Disadvantaged,25,25,100%,25,100%,*,*,25,100%,7,28%,5,20%,12,48%,*,*,7,28%
+18,Midland,192,REAGAN,Economically Disadvantaged,42,41,98%,38,90%,*,*,35,83%,7,17%,12,29%,19,45%,*,*,*,*
+18,Midland,195,REEVES,Not Economically Disadvantaged,38,37,97%,36,95%,*,*,35,92%,17,45%,10,26%,27,71%,*,*,8,21%
+18,Midland,195,REEVES,Economically Disadvantaged,126,121,96%,97,77%,15,12%,95,75%,17,13%,31,25%,48,38%,*,*,14,11%
+18,Midland,222,TERRELL,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,222,TERRELL,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18,Midland,231,UPTON,Not Economically Disadvantaged,22,21,95%,20,91%,*,*,16,73%,6,27%,6,27%,12,55%,*,*,*,*
+18,Midland,231,UPTON,Economically Disadvantaged,29,29,100%,26,90%,*,*,24,83%,*,*,14,48%,16,55%,*,*,*,*
+18,Midland,238,WARD,Not Economically Disadvantaged,74,73,99%,68,92%,5,7%,65,88%,29,39%,15,20%,44,59%,*,*,18,24%
+18,Midland,238,WARD,Economically Disadvantaged,69,67,97%,50,72%,13,19%,52,75%,7,10%,10,14%,17,25%,*,*,5,7%
+18,Midland,248,WINKLER,Not Economically Disadvantaged,50,49,98%,NA,NA,NA,NA,45,90%,14,28%,16,32%,30,60%,*,*,14,28%
+18,Midland,248,WINKLER,Economically Disadvantaged,69,66,96%,NA,NA,NA,NA,52,75%,11,16%,15,22%,26,38%,*,*,8,12%
+19,El Paso,999,El Paso&Hudsp,Not Economically Disadvantaged,3298,3067,93%,2788,85%,179,5%,2746,83%,1263,38%,895,27%,2158,65%,86,3%,887,27%
+19,El Paso,999,El Paso&Hudsp,Economically Disadvantaged,10090,9579,95%,8030,80%,1283,13%,7920,78%,2075,21%,3257,32%,5332,53%,188,2%,1617,16%
+20,San Antonio,7,ATASCOSA,Not Economically Disadvantaged,270,262,97%,251,93%,10,4%,240,89%,79,29%,82,30%,161,60%,*,*,69,26%
+20,San Antonio,7,ATASCOSA,Economically Disadvantaged,406,391,96%,368,91%,19,5%,321,79%,49,12%,96,24%,145,36%,5,1%,49,12%
+20,San Antonio,10,BANDERA,Not Economically Disadvantaged,118,114,97%,106,90%,5,4%,98,83%,42,36%,32,27%,74,63%,*,*,41,35%
+20,San Antonio,10,BANDERA,Economically Disadvantaged,126,118,94%,104,83%,10,8%,90,71%,19,15%,21,17%,40,32%,*,*,16,13%
+20,San Antonio,15,BEXAR,Not Economically Disadvantaged,8733,8266,95%,7686,88%,360,4%,7394,85%,2991,34%,2634,30%,5625,64%,257,3%,2954,34%
+20,San Antonio,15,BEXAR,Economically Disadvantaged,15251,14512,95%,12422,81%,1684,11%,11365,75%,1971,13%,4329,28%,6300,41%,313,2%,2057,13%
+20,San Antonio,64,DIMMIT,Not Economically Disadvantaged,53,51,96%,49,92%,*,*,49,92%,21,40%,23,43%,44,83%,*,*,18,34%
+20,San Antonio,64,DIMMIT,Economically Disadvantaged,134,130,97%,86,64%,35,26%,101,75%,13,10%,49,37%,62,46%,*,*,20,15%
+20,San Antonio,82,FRIO,Not Economically Disadvantaged,59,56,95%,47,80%,9,15%,47,80%,13,22%,18,31%,31,53%,*,*,13,22%
+20,San Antonio,82,FRIO,Economically Disadvantaged,179,175,98%,131,73%,36,20%,131,73%,9,5%,45,25%,54,30%,*,*,13,7%
+20,San Antonio,130,KENDALL,Not Economically Disadvantaged,452,437,97%,420,93%,*,*,404,89%,223,49%,104,23%,327,72%,16,4%,208,46%
+20,San Antonio,130,KENDALL,Economically Disadvantaged,121,112,93%,100,83%,10,8%,89,74%,10,8%,23,19%,33,27%,*,*,17,14%
+20,San Antonio,133,KERR,Not Economically Disadvantaged,223,206,92%,200,90%,7,3%,195,87%,91,41%,42,19%,133,60%,6,3%,70,31%
+20,San Antonio,133,KERR,Economically Disadvantaged,257,250,97%,221,86%,17,7%,208,81%,38,15%,40,16%,78,30%,7,3%,32,12%
+20,San Antonio,136,KINNEY,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,San Antonio,136,KINNEY,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,San Antonio,142,LA SALLE,Not Economically Disadvantaged,15,15,100%,14,93%,*,*,14,93%,5,33%,5,33%,10,67%,*,*,8,53%
+20,San Antonio,142,LA SALLE,Economically Disadvantaged,82,82,100%,73,89%,7,9%,67,82%,10,12%,18,22%,28,34%,*,*,11,13%
+20,San Antonio,159,MAVERICK,Not Economically Disadvantaged,264,261,99%,237,90%,18,7%,240,91%,81,31%,119,45%,200,76%,*,*,109,41%
+20,San Antonio,159,MAVERICK,Economically Disadvantaged,839,794,95%,645,77%,140,17%,666,79%,120,14%,333,40%,453,54%,12,1%,199,24%
+20,San Antonio,163,MEDINA,Not Economically Disadvantaged,277,266,96%,263,95%,*,*,251,91%,117,42%,77,28%,194,70%,6,2%,120,43%
+20,San Antonio,163,MEDINA,Economically Disadvantaged,405,388,96%,345,85%,26,6%,327,81%,48,12%,98,24%,146,36%,*,*,47,12%
+20,San Antonio,193,REAL,Not Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,San Antonio,193,REAL,Economically Disadvantaged,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+20,San Antonio,232,UVALDE,Not Economically Disadvantaged,122,115,94%,106,87%,5,N/A,100,82%,37,30%,54,44%,91,75%,*,*,60,49%
+20,San Antonio,232,UVALDE,Economically Disadvantaged,324,313,97%,243,75%,59,18%,205,63%,24,7%,107,33%,131,40%,10,3%,53,16%
+20,San Antonio,247,WILSON,Not Economically Disadvantaged,355,343,97%,336,95%,*,*,322,91%,129,36%,103,29%,232,65%,10,3%,143,40%
+20,San Antonio,247,WILSON,Economically Disadvantaged,266,253,95%,232,87%,18,7%,215,81%,16,6%,73,27%,89,33%,*,*,23,9%
+20,San Antonio,254,ZAVALA,Not Economically Disadvantaged,40,40,100%,39,98%,*,*,34,85%,*,*,22,55%,26,65%,*,*,14,35%
+20,San Antonio,254,ZAVALA,Economically Disadvantaged,146,142,97%,124,85%,9,6%,115,79%,10,7%,61,42%,71,49%,*,*,29,20%
