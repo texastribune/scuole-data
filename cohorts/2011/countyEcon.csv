@@ -3,16 +3,16 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 1,Edinburg,31,CAMERON,Economically Disadvantaged,6292,6011,96%,4951,79%,968,15%,5060,80%,1392,22%,1752,28%,3144,50%,93,1%,1386,22%
 1,Edinburg,108,HIDALGO,Not Economically Disadvantaged,2411,2324,96%,2136,89%,158,7%,2135,89%,1085,45%,664,28%,1749,73%,40,2%,973,40%
 1,Edinburg,108,HIDALGO,Economically Disadvantaged,12336,11790,96%,9717,79%,1850,15%,9943,81%,2703,22%,3486,28%,6189,50%,169,1%,2631,21%
-1,Edinburg,124,JIM HOGG,Not Economically Disadvantaged,20,20,100%,,nan,nan,nan,18,90%,13,65%,,,14,70%,,,11,55%
-1,Edinburg,124,JIM HOGG,Economically Disadvantaged,55,53,96%,,nan,nan,nan,45,82%,17,31%,13,24%,30,55%,,,8,15%
+1,Edinburg,124,JIM HOGG,Not Economically Disadvantaged,20,20,100%,,,,,18,90%,13,65%,,,14,70%,,,11,55%
+1,Edinburg,124,JIM HOGG,Economically Disadvantaged,55,53,96%,,,,,45,82%,17,31%,13,24%,30,55%,,,8,15%
 1,Edinburg,214,STARR,Not Economically Disadvantaged,46,45,98%,43,93%,,,43,93%,26,57%,14,30%,40,87%,,,35,76%
 1,Edinburg,214,STARR,Economically Disadvantaged,1228,1189,97%,1017,83%,137,11%,962,78%,219,18%,445,36%,664,54%,20,2%,325,26%
 1,Edinburg,240,WEBB,Not Economically Disadvantaged,817,785,96%,758,93%,20,2%,750,92%,327,40%,325,40%,652,80%,12,1%,371,45%
 1,Edinburg,240,WEBB,Economically Disadvantaged,3875,3692,95%,3186,82%,479,12%,3138,81%,661,17%,1453,38%,2114,55%,48,1%,880,23%
 1,Edinburg,245,WILLACY,Not Economically Disadvantaged,41,41,100%,41,100%,,,41,100%,20,49%,16,39%,36,88%,,,23,56%
 1,Edinburg,245,WILLACY,Economically Disadvantaged,300,294,98%,257,86%,32,11%,236,79%,65,22%,77,26%,142,47%,,,51,17%
-1,Edinburg,253,ZAPATA,Not Economically Disadvantaged,69,66,96%,,nan,nan,nan,56,81%,24,35%,18,26%,42,61%,,,29,42%
-1,Edinburg,253,ZAPATA,Economically Disadvantaged,170,165,97%,,nan,nan,nan,137,81%,27,16%,34,20%,61,36%,,,25,15%
+1,Edinburg,253,ZAPATA,Not Economically Disadvantaged,69,66,96%,,,,,56,81%,24,35%,18,26%,42,61%,,,29,42%
+1,Edinburg,253,ZAPATA,Economically Disadvantaged,170,165,97%,,,,,137,81%,27,16%,34,20%,61,36%,,,25,15%
 2,Corpus Christi,4,ARANSAS,Not Economically Disadvantaged,95,93,98%,87,92%,,,82,86%,26,27%,41,43%,67,71%,5,5%,33,35%
 2,Corpus Christi,4,ARANSAS,Economically Disadvantaged,154,145,94%,128,83%,7,5%,95,62%,18,12%,22,14%,40,26%,6,4%,15,10%
 2,Corpus Christi,13,BEE,Not Economically Disadvantaged,105,105,100%,86,82%,18,17%,88,84%,18,17%,49,47%,67,64%,,,37,35%
@@ -25,10 +25,10 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 2,Corpus Christi,125,JIM WELLS,Economically Disadvantaged,431,418,97%,324,75%,74,17%,297,69%,60,14%,104,24%,164,38%,7,2%,60,14%
 2,Corpus Christi,137,KLEBERG,Not Economically Disadvantaged,127,122,96%,115,91%,6,5%,115,91%,63,50%,26,20%,89,70%,,,52,41%
 2,Corpus Christi,137,KLEBERG,Economically Disadvantaged,254,234,92%,165,65%,67,26%,172,68%,48,19%,58,23%,106,42%,5,2%,32,13%
-2,Corpus Christi,149,LIVE OAK,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-2,Corpus Christi,149,LIVE OAK,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-2,Corpus Christi,162,MCMULLEN,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-2,Corpus Christi,162,MCMULLEN,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+2,Corpus Christi,149,LIVE OAK,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+2,Corpus Christi,149,LIVE OAK,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+2,Corpus Christi,162,MCMULLEN,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+2,Corpus Christi,162,MCMULLEN,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 2,Corpus Christi,178,NUECES,Not Economically Disadvantaged,1722,1617,94%,1509,88%,77,4%,1465,85%,639,37%,533,31%,1172,68%,56,3%,612,36%
 2,Corpus Christi,178,NUECES,Economically Disadvantaged,2794,2635,94%,2326,83%,293,10%,2111,76%,366,13%,769,28%,1135,41%,48,2%,340,12%
 2,Corpus Christi,205,SAN PATRICIO,Not Economically Disadvantaged,413,403,98%,381,92%,14,3%,367,89%,121,29%,156,38%,277,67%,,,128,31%
@@ -69,16 +69,16 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 4,Houston,146,LIBERTY,Economically Disadvantaged,671,634,94%,520,78%,89,13%,453,68%,50,7%,190,28%,240,36%,22,3%,87,13%
 4,Houston,237,WALLER,Not Economically Disadvantaged,233,228,98%,202,87%,20,9%,196,84%,46,20%,73,31%,119,51%,,,67,29%
 4,Houston,237,WALLER,Economically Disadvantaged,425,406,96%,327,77%,72,17%,323,76%,40,9%,93,22%,133,31%,8,2%,41,10%
-5,Beaumont,84,GALVESTON,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-5,Beaumont,84,GALVESTON,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+5,Beaumont,84,GALVESTON,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+5,Beaumont,84,GALVESTON,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 5,Beaumont,100,HARDIN,Not Economically Disadvantaged,546,528,97%,499,91%,11,2%,464,85%,208,38%,134,25%,342,63%,17,3%,187,34%
 5,Beaumont,100,HARDIN,Economically Disadvantaged,302,279,92%,246,81%,20,7%,198,66%,42,14%,64,21%,106,35%,14,5%,20,7%
 5,Beaumont,121,JASPER,Not Economically Disadvantaged,249,238,96%,236,95%,,,208,84%,66,27%,87,35%,153,61%,7,3%,76,31%
 5,Beaumont,121,JASPER,Economically Disadvantaged,239,221,92%,195,82%,15,6%,166,69%,35,15%,45,19%,80,33%,5,2%,30,13%
 5,Beaumont,123,JEFFERSON,Not Economically Disadvantaged,1108,1066,96%,999,90%,39,4%,954,86%,412,37%,305,28%,717,65%,37,3%,395,36%
 5,Beaumont,123,JEFFERSON,Economically Disadvantaged,1864,1798,96%,1581,85%,160,9%,1346,72%,297,16%,475,25%,772,41%,35,2%,288,15%
-5,Beaumont,176,NEWTON,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-5,Beaumont,176,NEWTON,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+5,Beaumont,176,NEWTON,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+5,Beaumont,176,NEWTON,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 5,Beaumont,181,ORANGE,Not Economically Disadvantaged,651,635,98%,594,91%,22,3%,556,85%,164,25%,245,38%,409,63%,14,2%,232,36%
 5,Beaumont,181,ORANGE,Economically Disadvantaged,574,535,93%,416,72%,87,15%,382,67%,46,8%,160,28%,206,36%,21,4%,63,11%
 5,Beaumont,229,TYLER,Not Economically Disadvantaged,121,119,98%,115,95%,,,104,86%,26,21%,44,36%,70,58%,,,37,31%
@@ -155,14 +155,14 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 8,Mt. Pleasant,34,CASS,Economically Disadvantaged,246,237,96%,214,87%,13,5%,196,80%,20,8%,76,31%,96,39%,,,38,15%
 8,Mt. Pleasant,60,DELTA,Not Economically Disadvantaged,32,32,100%,32,100%,,,30,94%,,,21,66%,24,75%,,,14,44%
 8,Mt. Pleasant,60,DELTA,Economically Disadvantaged,50,46,92%,45,90%,,,43,86%,5,10%,22,44%,27,54%,,,11,22%
-8,Mt. Pleasant,80,FRANKLIN,Not Economically Disadvantaged,58,57,98%,,nan,nan,nan,52,90%,12,21%,27,47%,39,67%,,,20,34%
-8,Mt. Pleasant,80,FRANKLIN,Economically Disadvantaged,52,50,96%,,nan,nan,nan,41,79%,,,24,46%,25,48%,,,11,21%
+8,Mt. Pleasant,80,FRANKLIN,Not Economically Disadvantaged,58,57,98%,,,,,52,90%,12,21%,27,47%,39,67%,,,20,34%
+8,Mt. Pleasant,80,FRANKLIN,Economically Disadvantaged,52,50,96%,,,,,41,79%,,,24,46%,25,48%,,,11,21%
 8,Mt. Pleasant,112,HOPKINS,Not Economically Disadvantaged,204,197,97%,190,93%,7,3%,179,88%,76,37%,68,33%,144,71%,5,2%,85,42%
 8,Mt. Pleasant,112,HOPKINS,Economically Disadvantaged,266,250,94%,212,80%,31,12%,207,78%,30,11%,96,36%,126,47%,7,3%,53,20%
 8,Mt. Pleasant,139,LAMAR,Not Economically Disadvantaged,327,317,97%,300,92%,8,2%,286,87%,69,21%,159,49%,228,70%,5,2%,125,38%
 8,Mt. Pleasant,139,LAMAR,Economically Disadvantaged,335,304,91%,262,78%,32,10%,232,69%,24,7%,125,37%,149,44%,9,3%,57,17%
-8,Mt. Pleasant,155,MARION,Not Economically Disadvantaged,25,23,92%,,nan,nan,nan,23,92%,5,20%,11,44%,16,64%,,,10,40%
-8,Mt. Pleasant,155,MARION,Economically Disadvantaged,60,55,92%,,nan,nan,nan,46,77%,8,13%,18,30%,26,43%,,,9,15%
+8,Mt. Pleasant,155,MARION,Not Economically Disadvantaged,25,23,92%,,,,,23,92%,5,20%,11,44%,16,64%,,,10,40%
+8,Mt. Pleasant,155,MARION,Economically Disadvantaged,60,55,92%,,,,,46,77%,8,13%,18,30%,26,43%,,,9,15%
 8,Mt. Pleasant,172,MORRIS,Not Economically Disadvantaged,65,60,92%,57,88%,,,49,75%,8,12%,28,43%,36,55%,,,17,26%
 8,Mt. Pleasant,172,MORRIS,Economically Disadvantaged,108,99,92%,88,81%,12,11%,85,79%,12,11%,39,36%,51,47%,,,14,13%
 8,Mt. Pleasant,194,RED RIVER,Not Economically Disadvantaged,60,58,97%,58,97%,,,57,95%,,,35,58%,39,65%,,,20,33%
@@ -173,12 +173,12 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 9,Wichita Falls,5,ARCHER,Economically Disadvantaged,54,52,96%,49,91%,,,41,76%,5,9%,13,24%,18,33%,,,6,11%
 9,Wichita Falls,12,BAYLOR,Not Economically Disadvantaged,24,23,96%,22,92%,,,21,88%,10,42%,9,38%,19,79%,,,11,46%
 9,Wichita Falls,12,BAYLOR,Economically Disadvantaged,20,20,100%,18,90%,,,15,75%,,,7,35%,10,50%,,,,
-9,Wichita Falls,39,CLAY,Not Economically Disadvantaged,73,73,100%,,nan,nan,nan,70,96%,20,27%,29,40%,49,67%,,,20,27%
-9,Wichita Falls,39,CLAY,Economically Disadvantaged,62,58,94%,,nan,nan,nan,49,79%,6,10%,11,18%,17,27%,,,9,15%
+9,Wichita Falls,39,CLAY,Not Economically Disadvantaged,73,73,100%,,,,,70,96%,20,27%,29,40%,49,67%,,,20,27%
+9,Wichita Falls,39,CLAY,Economically Disadvantaged,62,58,94%,,,,,49,79%,6,10%,11,18%,17,27%,,,9,15%
 9,Wichita Falls,78,FOARD,Not Economically Disadvantaged,8,8,100%,8,100%,,,8,100%,5,63%,,,6,75%,,,5,63%
 9,Wichita Falls,78,FOARD,Economically Disadvantaged,11,9,82%,10,91%,,,8,73%,,,,,5,45%,,,,
-9,Wichita Falls,99,HARDEMAN,Not Economically Disadvantaged,19,19,100%,,nan,nan,nan,18,95%,7,37%,,,11,58%,,,6,32%
-9,Wichita Falls,99,HARDEMAN,Economically Disadvantaged,29,27,93%,,nan,nan,nan,22,76%,,,11,38%,13,45%,,,6,21%
+9,Wichita Falls,99,HARDEMAN,Not Economically Disadvantaged,19,19,100%,,,,,18,95%,7,37%,,,11,58%,,,6,32%
+9,Wichita Falls,99,HARDEMAN,Economically Disadvantaged,29,27,93%,,,,,22,76%,,,11,38%,13,45%,,,6,21%
 9,Wichita Falls,119,JACK,Not Economically Disadvantaged,70,70,100%,67,96%,,,64,91%,17,24%,35,50%,52,74%,,,34,49%
 9,Wichita Falls,119,JACK,Economically Disadvantaged,36,33,92%,32,89%,,,29,81%,,,10,28%,10,28%,,,,
 9,Wichita Falls,138,KNOX,Not Economically Disadvantaged,11,10,91%,11,100%,,,11,100%,,,6,55%,10,91%,,,7,64%
@@ -257,8 +257,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 12,Waco,175,NAVARRO,Economically Disadvantaged,462,436,94%,413,89%,25,5%,350,76%,25,5%,203,44%,228,49%,13,3%,79,17%
 13,Austin,11,BASTROP,Not Economically Disadvantaged,401,385,96%,340,85%,41,10%,348,87%,125,31%,114,28%,239,60%,10,2%,128,32%
 13,Austin,11,BASTROP,Economically Disadvantaged,700,665,95%,528,75%,142,20%,564,81%,91,13%,148,21%,239,34%,,,70,10%
-13,Austin,14,BELL,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-13,Austin,14,BELL,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+13,Austin,14,BELL,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+13,Austin,14,BELL,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 13,Austin,16,BLANCO,Not Economically Disadvantaged,82,81,99%,78,95%,,,72,88%,29,35%,24,29%,53,65%,,,23,28%
 13,Austin,16,BLANCO,Economically Disadvantaged,48,46,96%,44,92%,,,41,85%,8,17%,14,29%,22,46%,,,8,17%
 13,Austin,27,BURNET,Not Economically Disadvantaged,247,238,96%,224,91%,8,3%,221,89%,101,41%,60,24%,161,65%,8,3%,91,37%
@@ -283,8 +283,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 13,Austin,144,LEE,Economically Disadvantaged,140,133,95%,102,73%,30,21%,116,83%,10,7%,29,21%,39,28%,,,9,6%
 13,Austin,150,LLANO,Not Economically Disadvantaged,76,75,99%,70,92%,5,7%,68,89%,29,38%,17,22%,46,61%,,,26,34%
 13,Austin,150,LLANO,Economically Disadvantaged,84,78,93%,63,75%,14,17%,57,68%,12,14%,12,14%,24,29%,,,11,13%
-13,Austin,166,MILAM,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-13,Austin,166,MILAM,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+13,Austin,166,MILAM,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+13,Austin,166,MILAM,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 13,Austin,227,TRAVIS,Not Economically Disadvantaged,4418,4197,95%,3990,90%,127,3%,3778,86%,1624,37%,1210,27%,2834,64%,175,4%,1613,37%
 13,Austin,227,TRAVIS,Economically Disadvantaged,5588,5271,94%,4429,79%,695,12%,4014,72%,675,12%,1245,22%,1920,34%,89,2%,617,11%
 13,Austin,246,WILLIAMSON,Not Economically Disadvantaged,5161,4976,96%,4799,93%,76,1%,4562,88%,2083,40%,1459,28%,3542,69%,136,3%,2200,43%
@@ -295,8 +295,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 14,Abilene,47,COMANCHE,Economically Disadvantaged,120,114,95%,99,83%,15,13%,87,73%,22,18%,29,24%,51,43%,,,17,14%
 14,Abilene,67,EASTLAND,Not Economically Disadvantaged,99,98,99%,94,95%,,,88,89%,36,36%,32,32%,68,69%,,,42,42%
 14,Abilene,67,EASTLAND,Economically Disadvantaged,115,105,91%,97,84%,6,5%,86,75%,16,14%,40,35%,56,49%,6,5%,23,20%
-14,Abilene,76,FISHER,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-14,Abilene,76,FISHER,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+14,Abilene,76,FISHER,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+14,Abilene,76,FISHER,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 14,Abilene,104,HASKELL,Not Economically Disadvantaged,24,24,100%,24,100%,,,23,96%,12,50%,8,33%,20,83%,,,13,54%
 14,Abilene,104,HASKELL,Economically Disadvantaged,43,42,98%,36,84%,,,27,63%,7,16%,9,21%,16,37%,,,7,16%
 14,Abilene,127,JONES,Not Economically Disadvantaged,89,86,97%,82,92%,,,76,85%,45,51%,16,18%,61,69%,,,39,44%
@@ -311,8 +311,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 14,Abilene,209,SHACKELFORD,Economically Disadvantaged,25,24,96%,23,92%,,,18,72%,,,7,28%,10,40%,,,5,20%
 14,Abilene,215,STEPHENS,Not Economically Disadvantaged,47,47,100%,43,91%,,,39,83%,16,34%,12,26%,28,60%,,,11,23%
 14,Abilene,215,STEPHENS,Economically Disadvantaged,63,59,94%,56,89%,,,53,84%,7,11%,19,30%,26,41%,,,10,16%
-14,Abilene,217,STONEWALL,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-14,Abilene,217,STONEWALL,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+14,Abilene,217,STONEWALL,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+14,Abilene,217,STONEWALL,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 14,Abilene,221,TAYLOR,Not Economically Disadvantaged,931,851,91%,785,84%,45,5%,732,79%,335,36%,252,27%,587,63%,37,4%,346,37%
 14,Abilene,221,TAYLOR,Economically Disadvantaged,1013,902,89%,742,73%,131,13%,669,66%,136,13%,211,21%,347,34%,28,3%,116,11%
 15,San Angelo,25,BROWN,Not Economically Disadvantaged,198,194,98%,186,94%,9,5%,182,92%,79,40%,48,24%,127,64%,,,76,38%
@@ -323,20 +323,20 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 15,San Angelo,42,COLEMAN,Economically Disadvantaged,74,71,96%,64,86%,,,53,72%,14,19%,14,19%,28,38%,,,11,15%
 15,San Angelo,48,CONCHO,Not Economically Disadvantaged,9,8,89%,8,89%,,,8,89%,6,67%,,,6,67%,,,,
 15,San Angelo,48,CONCHO,Economically Disadvantaged,19,19,100%,19,100%,,,16,84%,8,42%,,,10,53%,,,,
-15,San Angelo,53,CROCKETT,Not Economically Disadvantaged,16,16,100%,,nan,nan,nan,15,94%,8,50%,,,8,50%,,,,
-15,San Angelo,53,CROCKETT,Economically Disadvantaged,39,38,97%,,nan,nan,nan,28,72%,,,6,15%,10,26%,,,,
+15,San Angelo,53,CROCKETT,Not Economically Disadvantaged,16,16,100%,,,,,15,94%,8,50%,,,8,50%,,,,
+15,San Angelo,53,CROCKETT,Economically Disadvantaged,39,38,97%,,,,,28,72%,,,6,15%,10,26%,,,,
 15,San Angelo,69,EDWARDS,Not Economically Disadvantaged,12,11,92%,11,92%,,,11,92%,,,,,6,50%,,,5,42%
 15,San Angelo,69,EDWARDS,Economically Disadvantaged,30,26,87%,25,83%,,,25,83%,7,23%,8,27%,15,50%,,,8,27%
-15,San Angelo,118,IRION,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-15,San Angelo,118,IRION,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-15,San Angelo,134,KIMBLE,Not Economically Disadvantaged,19,19,100%,,nan,nan,nan,19,100%,11,58%,,,14,74%,,,10,53%
-15,San Angelo,134,KIMBLE,Economically Disadvantaged,24,21,88%,,nan,nan,nan,20,83%,,,6,25%,9,38%,,,,
+15,San Angelo,118,IRION,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+15,San Angelo,118,IRION,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+15,San Angelo,134,KIMBLE,Not Economically Disadvantaged,19,19,100%,,,,,19,100%,11,58%,,,14,74%,,,10,53%
+15,San Angelo,134,KIMBLE,Economically Disadvantaged,24,21,88%,,,,,20,83%,,,6,25%,9,38%,,,,
 15,San Angelo,157,MASON,Not Economically Disadvantaged,15,15,100%,15,100%,,,14,93%,7,47%,,,11,73%,,,6,40%
 15,San Angelo,157,MASON,Economically Disadvantaged,33,33,100%,33,100%,,,24,73%,12,36%,,,16,48%,,,9,27%
 15,San Angelo,160,MCCULLOCH,Not Economically Disadvantaged,33,32,97%,31,94%,,,30,91%,15,45%,11,33%,26,79%,,,15,45%
 15,San Angelo,160,MCCULLOCH,Economically Disadvantaged,75,70,93%,67,89%,,,58,77%,10,13%,19,25%,29,39%,,,10,13%
-15,San Angelo,164,MENARD,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-15,San Angelo,164,MENARD,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+15,San Angelo,164,MENARD,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+15,San Angelo,164,MENARD,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 15,San Angelo,200,RUNNELS,Not Economically Disadvantaged,84,83,99%,81,96%,,,73,87%,41,49%,19,23%,60,71%,,,39,46%
 15,San Angelo,200,RUNNELS,Economically Disadvantaged,76,75,99%,65,86%,,,57,75%,14,18%,15,20%,29,38%,,,10,13%
 15,San Angelo,206,SAN SABA,Not Economically Disadvantaged,23,23,100%,22,96%,,,21,91%,13,57%,6,26%,19,83%,,,11,48%
@@ -351,12 +351,12 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 15,San Angelo,226,TOM GREEN,Economically Disadvantaged,666,643,97%,585,88%,50,8%,522,78%,125,19%,129,19%,254,38%,6,1%,89,13%
 15,San Angelo,233,VAL VERDE,Not Economically Disadvantaged,206,192,93%,183,89%,5,2%,182,88%,63,31%,84,41%,147,71%,,,88,43%
 15,San Angelo,233,VAL VERDE,Economically Disadvantaged,559,519,93%,489,87%,40,7%,427,76%,66,12%,208,37%,274,49%,9,2%,117,21%
-16,Amarillo,6,ARMSTRONG,Not Economically Disadvantaged,17,17,100%,,nan,nan,nan,17,100%,5,29%,9,53%,14,82%,,,7,41%
-16,Amarillo,6,ARMSTRONG,Economically Disadvantaged,10,10,100%,,nan,nan,nan,8,80%,,,5,50%,7,70%,,,,
-16,Amarillo,23,BRISCOE,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,23,BRISCOE,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,33,CARSON,Not Economically Disadvantaged,53,52,98%,,nan,nan,nan,48,91%,15,28%,27,51%,42,79%,,,24,45%
-16,Amarillo,33,CARSON,Economically Disadvantaged,31,27,87%,,nan,nan,nan,24,77%,5,16%,11,35%,16,52%,,,,
+16,Amarillo,6,ARMSTRONG,Not Economically Disadvantaged,17,17,100%,,,,,17,100%,5,29%,9,53%,14,82%,,,7,41%
+16,Amarillo,6,ARMSTRONG,Economically Disadvantaged,10,10,100%,,,,,8,80%,,,5,50%,7,70%,,,,
+16,Amarillo,23,BRISCOE,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,23,BRISCOE,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,33,CARSON,Not Economically Disadvantaged,53,52,98%,,,,,48,91%,15,28%,27,51%,42,79%,,,24,45%
+16,Amarillo,33,CARSON,Economically Disadvantaged,31,27,87%,,,,,24,77%,5,16%,11,35%,16,52%,,,,
 16,Amarillo,35,CASTRO,Not Economically Disadvantaged,46,45,98%,42,91%,,,38,83%,21,46%,9,20%,30,65%,,,22,48%
 16,Amarillo,35,CASTRO,Economically Disadvantaged,80,76,95%,72,90%,,,68,85%,10,13%,20,25%,30,38%,,,12,15%
 16,Amarillo,38,CHILDRESS,Not Economically Disadvantaged,48,43,90%,44,92%,,,41,85%,20,42%,9,19%,29,60%,,,15,31%
@@ -375,10 +375,10 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 16,Amarillo,96,HALL,Economically Disadvantaged,30,27,90%,27,90%,,,24,80%,,,13,43%,16,53%,,,6,20%
 16,Amarillo,98,HANSFORD,Not Economically Disadvantaged,42,42,100%,40,95%,,,37,88%,13,31%,7,17%,20,48%,,,12,29%
 16,Amarillo,98,HANSFORD,Economically Disadvantaged,54,53,98%,51,94%,,,49,91%,8,15%,12,22%,20,37%,,,10,19%
-16,Amarillo,103,HARTLEY,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,103,HARTLEY,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,106,HEMPHILL,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,106,HEMPHILL,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+16,Amarillo,103,HARTLEY,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,103,HARTLEY,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,106,HEMPHILL,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,106,HEMPHILL,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 16,Amarillo,117,HUTCHINSON,Not Economically Disadvantaged,171,164,96%,155,91%,,,146,85%,37,22%,73,43%,110,64%,9,5%,46,27%
 16,Amarillo,117,HUTCHINSON,Economically Disadvantaged,169,157,93%,150,89%,6,4%,130,77%,,,66,39%,70,41%,7,4%,27,16%
 16,Amarillo,148,LIPSCOMB,Not Economically Disadvantaged,24,23,96%,22,92%,,,20,83%,9,38%,,,11,46%,,,7,29%
@@ -395,22 +395,22 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 16,Amarillo,188,POTTER,Economically Disadvantaged,1556,1456,94%,1256,81%,187,12%,1112,71%,139,9%,552,35%,691,44%,32,2%,250,16%
 16,Amarillo,191,RANDALL,Not Economically Disadvantaged,506,480,95%,467,92%,9,2%,444,88%,198,39%,151,30%,349,69%,10,2%,203,40%
 16,Amarillo,191,RANDALL,Economically Disadvantaged,171,157,92%,146,85%,7,4%,123,72%,29,17%,52,30%,81,47%,6,4%,35,20%
-16,Amarillo,197,ROBERTS,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-16,Amarillo,197,ROBERTS,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+16,Amarillo,197,ROBERTS,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+16,Amarillo,197,ROBERTS,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 16,Amarillo,211,SHERMAN,Not Economically Disadvantaged,40,36,90%,36,90%,,,18,45%,9,23%,,,10,25%,,,5,13%
 16,Amarillo,211,SHERMAN,Economically Disadvantaged,25,23,92%,20,80%,,,19,76%,5,20%,,,9,36%,,,7,28%
 16,Amarillo,219,SWISHER,Not Economically Disadvantaged,33,31,94%,29,88%,,,30,91%,12,36%,9,27%,21,64%,,,9,27%
 16,Amarillo,219,SWISHER,Economically Disadvantaged,59,58,98%,56,95%,,,53,90%,14,24%,11,19%,25,42%,,,,
 16,Amarillo,242,WHEELER,Not Economically Disadvantaged,41,38,93%,38,93%,,,39,95%,15,37%,11,27%,26,63%,,,13,32%
 16,Amarillo,242,WHEELER,Economically Disadvantaged,45,41,91%,40,89%,,,34,76%,6,13%,6,13%,12,27%,,,,
-17,Lubbock,9,BAILEY,Not Economically Disadvantaged,19,19,100%,,nan,nan,nan,19,100%,6,32%,9,47%,15,79%,,,7,37%
-17,Lubbock,9,BAILEY,Economically Disadvantaged,87,80,92%,,nan,nan,nan,71,82%,9,10%,20,23%,29,33%,,,14,16%
-17,Lubbock,17,BORDEN,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-17,Lubbock,17,BORDEN,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+17,Lubbock,9,BAILEY,Not Economically Disadvantaged,19,19,100%,,,,,19,100%,6,32%,9,47%,15,79%,,,7,37%
+17,Lubbock,9,BAILEY,Economically Disadvantaged,87,80,92%,,,,,71,82%,9,10%,20,23%,29,33%,,,14,16%
+17,Lubbock,17,BORDEN,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+17,Lubbock,17,BORDEN,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 17,Lubbock,40,COCHRAN,Not Economically Disadvantaged,12,12,100%,11,92%,,,10,83%,,,6,50%,10,83%,,,6,50%
 17,Lubbock,40,COCHRAN,Economically Disadvantaged,39,39,100%,37,95%,,,35,90%,,,18,46%,22,56%,,,11,28%
-17,Lubbock,51,COTTLE,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-17,Lubbock,51,COTTLE,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+17,Lubbock,51,COTTLE,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+17,Lubbock,51,COTTLE,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 17,Lubbock,54,CROSBY,Not Economically Disadvantaged,22,21,95%,22,100%,,,22,100%,10,45%,8,36%,18,82%,,,11,50%
 17,Lubbock,54,CROSBY,Economically Disadvantaged,62,56,90%,53,85%,5,8%,47,76%,7,11%,15,24%,22,35%,,,6,10%
 17,Lubbock,58,DAWSON,Not Economically Disadvantaged,62,61,98%,55,89%,,,55,89%,13,21%,23,37%,36,58%,,,25,40%
@@ -421,16 +421,16 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 17,Lubbock,77,FLOYD,Economically Disadvantaged,70,67,96%,57,81%,,,51,73%,5,7%,28,40%,33,47%,,,11,16%
 17,Lubbock,83,GAINES,Not Economically Disadvantaged,105,103,98%,102,97%,,,99,94%,37,35%,27,26%,64,61%,,,34,32%
 17,Lubbock,83,GAINES,Economically Disadvantaged,106,91,86%,86,81%,,,69,65%,,,17,16%,19,18%,,,7,7%
-17,Lubbock,85,GARZA,Not Economically Disadvantaged,30,30,100%,,nan,nan,nan,28,93%,8,27%,13,43%,21,70%,,,9,30%
-17,Lubbock,85,GARZA,Economically Disadvantaged,32,31,97%,,nan,nan,nan,23,72%,5,16%,7,22%,12,38%,,,,
+17,Lubbock,85,GARZA,Not Economically Disadvantaged,30,30,100%,,,,,28,93%,8,27%,13,43%,21,70%,,,9,30%
+17,Lubbock,85,GARZA,Economically Disadvantaged,32,31,97%,,,,,23,72%,5,16%,7,22%,12,38%,,,,
 17,Lubbock,95,HALE,Not Economically Disadvantaged,177,171,97%,167,94%,,,157,89%,66,37%,51,29%,117,66%,,,62,35%
 17,Lubbock,95,HALE,Economically Disadvantaged,349,335,96%,310,89%,21,6%,269,77%,52,15%,87,25%,139,40%,5,1%,48,14%
 17,Lubbock,110,HOCKLEY,Not Economically Disadvantaged,154,148,96%,144,94%,,,136,88%,34,22%,75,49%,109,71%,,,63,41%
 17,Lubbock,110,HOCKLEY,Economically Disadvantaged,177,163,92%,151,85%,10,6%,124,70%,6,3%,71,40%,77,44%,,,25,14%
-17,Lubbock,132,KENT,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-17,Lubbock,132,KENT,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-17,Lubbock,135,KING,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-17,Lubbock,135,KING,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+17,Lubbock,132,KENT,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+17,Lubbock,132,KENT,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+17,Lubbock,135,KING,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+17,Lubbock,135,KING,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 17,Lubbock,140,LAMB,Not Economically Disadvantaged,71,71,100%,65,92%,,,66,93%,19,27%,30,42%,49,69%,,,24,34%
 17,Lubbock,140,LAMB,Economically Disadvantaged,175,167,95%,154,88%,12,7%,144,82%,23,13%,67,38%,90,51%,,,38,22%
 17,Lubbock,152,LUBBOCK,Not Economically Disadvantaged,1539,1472,96%,1416,92%,30,2%,1350,88%,564,37%,504,33%,1068,69%,45,3%,561,36%
@@ -449,8 +449,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 18,Midland,22,BREWSTER,Economically Disadvantaged,35,31,89%,29,83%,,,26,74%,11,31%,,,15,43%,,,,
 18,Midland,52,CRANE,Not Economically Disadvantaged,35,33,94%,31,89%,,,28,80%,7,20%,11,31%,18,51%,,,11,31%
 18,Midland,52,CRANE,Economically Disadvantaged,28,28,100%,20,71%,,,18,64%,5,18%,11,39%,16,57%,,,6,21%
-18,Midland,55,CULBERSON,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-18,Midland,55,CULBERSON,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+18,Midland,55,CULBERSON,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+18,Midland,55,CULBERSON,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 18,Midland,68,ECTOR,Not Economically Disadvantaged,851,809,95%,766,90%,28,3%,687,81%,231,27%,291,34%,522,61%,25,3%,266,31%
 18,Midland,68,ECTOR,Economically Disadvantaged,1133,1026,91%,881,78%,128,11%,688,61%,80,7%,320,28%,400,35%,49,4%,127,11%
 18,Midland,87,GLASSCOCK,Not Economically Disadvantaged,10,9,90%,9,90%,,,10,100%,,,6,60%,9,90%,,,6,60%
@@ -471,8 +471,8 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 18,Midland,192,REAGAN,Economically Disadvantaged,29,28,97%,24,83%,,,21,72%,,,10,34%,12,41%,,,5,17%
 18,Midland,195,REEVES,Not Economically Disadvantaged,44,43,98%,40,91%,,,39,89%,19,43%,10,23%,29,66%,,,17,39%
 18,Midland,195,REEVES,Economically Disadvantaged,110,107,97%,95,86%,,,85,77%,6,5%,23,21%,29,26%,,,10,9%
-18,Midland,222,TERRELL,Not Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
-18,Midland,222,TERRELL,Economically Disadvantaged,,,nan,,nan,nan,nan,,nan,nan,nan,nan,nan,,nan,nan,nan,nan,nan
+18,Midland,222,TERRELL,Not Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
+18,Midland,222,TERRELL,Economically Disadvantaged,,,,,,,,,,,,,,,,,,,
 18,Midland,231,UPTON,Not Economically Disadvantaged,37,37,100%,37,100%,,,35,95%,19,51%,7,19%,26,70%,,,16,43%
 18,Midland,231,UPTON,Economically Disadvantaged,18,18,100%,18,100%,,,15,83%,,,,,5,28%,,,,
 18,Midland,238,WARD,Not Economically Disadvantaged,86,83,97%,79,92%,,,78,91%,35,41%,22,26%,57,66%,,,34,40%
@@ -495,16 +495,16 @@ Region Code,TEA Region,County Number,County Name,economic_status,enrolled_8th,en
 20,San Antonio,130,KENDALL,Economically Disadvantaged,127,113,89%,101,80%,10,8%,85,67%,13,10%,28,22%,41,32%,,,22,17%
 20,San Antonio,133,KERR,Not Economically Disadvantaged,249,235,94%,225,90%,,,208,84%,103,41%,47,19%,150,60%,11,4%,83,33%
 20,San Antonio,133,KERR,Economically Disadvantaged,267,246,92%,221,83%,23,9%,198,74%,41,15%,28,10%,69,26%,,,38,14%
-20,San Antonio,136,KINNEY,Not Economically Disadvantaged,18,18,100%,,nan,nan,nan,16,89%,9,50%,6,33%,15,83%,,,10,56%
-20,San Antonio,136,KINNEY,Economically Disadvantaged,32,30,94%,,nan,nan,nan,25,78%,5,16%,14,44%,19,59%,,,9,28%
+20,San Antonio,136,KINNEY,Not Economically Disadvantaged,18,18,100%,,,,,16,89%,9,50%,6,33%,15,83%,,,10,56%
+20,San Antonio,136,KINNEY,Economically Disadvantaged,32,30,94%,,,,,25,78%,5,16%,14,44%,19,59%,,,9,28%
 20,San Antonio,142,LA SALLE,Not Economically Disadvantaged,15,15,100%,15,100%,,,15,100%,7,47%,,,11,73%,,,7,47%
 20,San Antonio,142,LA SALLE,Economically Disadvantaged,70,68,97%,64,91%,5,7%,61,87%,17,24%,21,30%,38,54%,,,16,23%
 20,San Antonio,159,MAVERICK,Not Economically Disadvantaged,179,174,97%,154,86%,15,8%,160,89%,57,32%,79,44%,136,76%,,,87,49%
 20,San Antonio,159,MAVERICK,Economically Disadvantaged,855,815,95%,641,75%,149,17%,660,77%,115,13%,322,38%,437,51%,12,1%,208,24%
 20,San Antonio,163,MEDINA,Not Economically Disadvantaged,294,287,98%,271,92%,8,3%,255,87%,110,37%,102,35%,212,72%,16,5%,127,43%
 20,San Antonio,163,MEDINA,Economically Disadvantaged,361,331,92%,291,81%,42,12%,279,77%,29,8%,102,28%,131,36%,6,2%,52,14%
-20,San Antonio,193,REAL,Not Economically Disadvantaged,15,15,100%,,nan,nan,nan,13,87%,5,33%,5,33%,10,67%,,,,
-20,San Antonio,193,REAL,Economically Disadvantaged,23,23,100%,,nan,nan,nan,21,91%,,,10,43%,11,48%,,,,
+20,San Antonio,193,REAL,Not Economically Disadvantaged,15,15,100%,,,,,13,87%,5,33%,5,33%,10,67%,,,,
+20,San Antonio,193,REAL,Economically Disadvantaged,23,23,100%,,,,,21,91%,,,10,43%,11,48%,,,,
 20,San Antonio,232,UVALDE,Not Economically Disadvantaged,115,108,94%,103,90%,5,4%,94,82%,31,27%,48,42%,79,69%,5,4%,43,37%
 20,San Antonio,232,UVALDE,Economically Disadvantaged,347,317,91%,276,80%,48,14%,245,71%,23,7%,147,42%,170,49%,10,3%,60,17%
 20,San Antonio,247,WILSON,Not Economically Disadvantaged,366,361,99%,354,97%,,,340,93%,156,43%,111,30%,267,73%,,,180,49%
