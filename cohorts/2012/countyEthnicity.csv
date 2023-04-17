@@ -1,86 +1,86 @@
-﻿Region Code,TEA Region,County Number,County Name,ethnicity,enrolled_8th,enrolled_9th,enrolled_9th_percent,enrolled_10th,enrolled_10th_percent,lessthan_10th_enrolled,lessthan_10th_enrolled_percent,graduated,graduated_percent,enrolled_4yr,enrolled_4yr_percent,enrolled_2yr,enrolled_2yr_percent,total_enrolled,total_enrolled_percent,enrolled_wo_record,enrolled_wo_record_percent,total_degrees,total_degrees_percent
+Region Code,TEA Region,County Number,County Name,ethnicity,enrolled_8th,enrolled_9th,enrolled_9th_percent,enrolled_10th,enrolled_10th_percent,lessthan_10th_enrolled,lessthan_10th_enrolled_percent,graduated,graduated_percent,enrolled_4yr,enrolled_4yr_percent,enrolled_2yr,enrolled_2yr_percent,total_enrolled,total_enrolled_percent,enrolled_wo_record,enrolled_wo_record_percent,total_degrees,total_degrees_percent
 1,Edinburg,31,CAMERON,Hispanic,7088,6779,96%,5950,84%,760,11%,5921,84%,1677,24%,2073,29%,3750,53%,98,1%,1509,21%
 1,Edinburg,31,CAMERON,White,215,205,95%,180,84%,9,4%,171,80%,89,41%,57,27%,146,68%,14,7%,78,36%
-1,Edinburg,31,CAMERON,Others,74,68,92%,66,89%,*,*,65,88%,41,55%,11,15%,52,70%,*,*,36,49%
-1,Edinburg,31,CAMERON,Other Ethnicities,22,19,86%,19,86%,*,*,16,73%,9,41%,*,*,12,55%,*,*,7,32%
-1,Edinburg,108,HIDALGO,African American,34,30,88%,29,85%,*,*,26,76%,11,32%,8,24%,19,56%,*,*,5,15%
+1,Edinburg,31,CAMERON,Others,74,68,92%,66,89%,,nan,65,88%,41,55%,11,15%,52,70%,,nan,36,49%
+1,Edinburg,31,CAMERON,Other Ethnicities,22,19,86%,19,86%,,nan,16,73%,9,41%,,nan,12,55%,,nan,7,32%
+1,Edinburg,108,HIDALGO,African American,34,30,88%,29,85%,,nan,26,76%,11,32%,8,24%,19,56%,,nan,5,15%
 1,Edinburg,108,HIDALGO,Hispanic,14638,14139,97%,12229,84%,1685,12%,12295,84%,3467,24%,4167,28%,7634,52%,157,1%,3099,21%
 1,Edinburg,108,HIDALGO,White,283,270,95%,241,85%,18,6%,236,83%,124,44%,54,19%,178,63%,7,2%,107,38%
-1,Edinburg,108,HIDALGO,Others,100,92,92%,88,88%,*,*,85,85%,42,42%,23,23%,65,65%,*,*,37,37%
-1,Edinburg,124,JIM HOGG,All Ethnicities,83,82,99%,71,86%,7,8%,68,82%,21,25%,25,30%,46,55%,*,*,13,16%
+1,Edinburg,108,HIDALGO,Others,100,92,92%,88,88%,,nan,85,85%,42,42%,23,23%,65,65%,,nan,37,37%
+1,Edinburg,124,JIM HOGG,All Ethnicities,83,82,99%,71,86%,7,8%,68,82%,21,25%,25,30%,46,55%,,nan,13,16%
 1,Edinburg,214,STARR,All Ethnicities,1269,1222,96%,1058,83%,144,11%,1035,82%,252,20%,470,37%,722,57%,17,1%,348,27%
 1,Edinburg,240,WEBB,Hispanic,4785,4610,96%,4053,85%,497,10%,4023,84%,1074,22%,1761,37%,2835,59%,84,2%,1175,25%
-1,Edinburg,240,WEBB,White,57,50,88%,46,81%,*,*,47,82%,16,28%,18,32%,34,60%,*,*,16,28%
-1,Edinburg,240,WEBB,Other Ethnicities,28,25,89%,24,86%,*,*,24,86%,14,50%,*,*,17,61%,*,*,9,32%
-1,Edinburg,245,WILLACY,Hispanic,289,277,96%,263,91%,19,7%,237,82%,61,21%,92,32%,153,53%,*,*,60,21%
-1,Edinburg,245,WILLACY,Other Ethnicities,12,11,92%,12,100%,*,*,9,75%,6,50%,*,*,7,58%,*,*,6,50%
-1,Edinburg,253,ZAPATA,All Ethnicities,248,241,97%,235,95%,*,*,213,86%,62,25%,60,24%,122,49%,*,*,61,25%
-2,Corpus Christi,4,ARANSAS,Hispanic,95,93,98%,81,85%,6,6%,70,74%,20,21%,21,22%,41,43%,*,*,14,15%
-2,Corpus Christi,4,ARANSAS,White,123,115,94%,107,87%,7,6%,96,78%,41,33%,22,18%,63,51%,*,*,22,18%
-2,Corpus Christi,4,ARANSAS,Other Ethnicities,15,15,100%,14,93%,*,*,13,87%,*,*,7,47%,11,73%,*,*,*,*
-2,Corpus Christi,13,BEE,Hispanic,280,267,95%,200,71%,63,23%,214,76%,22,8%,101,36%,123,44%,*,*,43,15%
-2,Corpus Christi,13,BEE,White,80,77,96%,62,78%,12,15%,66,83%,20,25%,27,34%,47,59%,*,*,23,29%
-2,Corpus Christi,13,BEE,Other Ethnicities,13,13,100%,11,85%,*,*,10,77%,*,*,5,38%,7,54%,*,*,*,*
-2,Corpus Christi,24,BROOKS,All Ethnicities,117,112,96%,98,84%,9,8%,93,79%,32,27%,17,15%,49,42%,*,*,22,19%
-2,Corpus Christi,66,DUVAL,All Ethnicities,184,171,93%,152,83%,16,9%,139,76%,28,15%,52,28%,80,43%,*,*,23,13%
+1,Edinburg,240,WEBB,White,57,50,88%,46,81%,,nan,47,82%,16,28%,18,32%,34,60%,,nan,16,28%
+1,Edinburg,240,WEBB,Other Ethnicities,28,25,89%,24,86%,,nan,24,86%,14,50%,,nan,17,61%,,nan,9,32%
+1,Edinburg,245,WILLACY,Hispanic,289,277,96%,263,91%,19,7%,237,82%,61,21%,92,32%,153,53%,,nan,60,21%
+1,Edinburg,245,WILLACY,Other Ethnicities,12,11,92%,12,100%,,nan,9,75%,6,50%,,nan,7,58%,,nan,6,50%
+1,Edinburg,253,ZAPATA,All Ethnicities,248,241,97%,235,95%,,nan,213,86%,62,25%,60,24%,122,49%,,nan,61,25%
+2,Corpus Christi,4,ARANSAS,Hispanic,95,93,98%,81,85%,6,6%,70,74%,20,21%,21,22%,41,43%,,nan,14,15%
+2,Corpus Christi,4,ARANSAS,White,123,115,94%,107,87%,7,6%,96,78%,41,33%,22,18%,63,51%,,nan,22,18%
+2,Corpus Christi,4,ARANSAS,Other Ethnicities,15,15,100%,14,93%,,nan,13,87%,,nan,7,47%,11,73%,,nan,,nan
+2,Corpus Christi,13,BEE,Hispanic,280,267,95%,200,71%,63,23%,214,76%,22,8%,101,36%,123,44%,,nan,43,15%
+2,Corpus Christi,13,BEE,White,80,77,96%,62,78%,12,15%,66,83%,20,25%,27,34%,47,59%,,nan,23,29%
+2,Corpus Christi,13,BEE,Other Ethnicities,13,13,100%,11,85%,,nan,10,77%,,nan,5,38%,7,54%,,nan,,nan
+2,Corpus Christi,24,BROOKS,All Ethnicities,117,112,96%,98,84%,9,8%,93,79%,32,27%,17,15%,49,42%,,nan,22,19%
+2,Corpus Christi,66,DUVAL,All Ethnicities,184,171,93%,152,83%,16,9%,139,76%,28,15%,52,28%,80,43%,,nan,23,13%
 2,Corpus Christi,125,JIM WELLS,Hispanic,565,542,96%,418,74%,104,18%,420,74%,103,18%,148,26%,251,44%,6,1%,84,15%
-2,Corpus Christi,125,JIM WELLS,Other Ethnicities,122,120,98%,104,85%,10,8%,105,86%,44,36%,34,28%,78,64%,*,*,44,36%
-2,Corpus Christi,137,KLEBERG,Hispanic,312,292,94%,235,75%,50,16%,242,78%,92,29%,66,21%,158,51%,*,*,59,19%
-2,Corpus Christi,137,KLEBERG,White,51,48,94%,45,88%,*,*,41,80%,32,63%,9,18%,41,80%,*,*,18,35%
-2,Corpus Christi,137,KLEBERG,Other Ethnicities,19,15,79%,15,79%,*,*,15,79%,10,53%,*,*,11,58%,*,*,8,42%
-2,Corpus Christi,149,LIVE OAK,Hispanic,79,78,99%,68,86%,5,6%,61,77%,16,20%,27,34%,43,54%,*,*,24,30%
-2,Corpus Christi,149,LIVE OAK,Other Ethnicities,52,51,98%,46,88%,*,*,42,81%,15,29%,14,27%,29,56%,*,*,15,29%
-2,Corpus Christi,162,MCMULLEN,White,10,10,100%,10,100%,*,*,10,100%,6,60%,*,*,10,100%,*,*,6,60%
-2,Corpus Christi,162,MCMULLEN,Other Ethnicities,8,8,100%,8,100%,*,*,8,100%,*,*,5,63%,8,100%,*,*,*,*
+2,Corpus Christi,125,JIM WELLS,Other Ethnicities,122,120,98%,104,85%,10,8%,105,86%,44,36%,34,28%,78,64%,,nan,44,36%
+2,Corpus Christi,137,KLEBERG,Hispanic,312,292,94%,235,75%,50,16%,242,78%,92,29%,66,21%,158,51%,,nan,59,19%
+2,Corpus Christi,137,KLEBERG,White,51,48,94%,45,88%,,nan,41,80%,32,63%,9,18%,41,80%,,nan,18,35%
+2,Corpus Christi,137,KLEBERG,Other Ethnicities,19,15,79%,15,79%,,nan,15,79%,10,53%,,nan,11,58%,,nan,8,42%
+2,Corpus Christi,149,LIVE OAK,Hispanic,79,78,99%,68,86%,5,6%,61,77%,16,20%,27,34%,43,54%,,nan,24,30%
+2,Corpus Christi,149,LIVE OAK,Other Ethnicities,52,51,98%,46,88%,,nan,42,81%,15,29%,14,27%,29,56%,,nan,15,29%
+2,Corpus Christi,162,MCMULLEN,White,10,10,100%,10,100%,,nan,10,100%,6,60%,,nan,10,100%,,nan,6,60%
+2,Corpus Christi,162,MCMULLEN,Other Ethnicities,8,8,100%,8,100%,,nan,8,100%,,nan,5,63%,8,100%,,nan,,nan
 2,Corpus Christi,178,NUECES,African American,181,171,94%,145,80%,21,12%,132,73%,31,17%,50,28%,81,45%,5,3%,18,10%
 2,Corpus Christi,178,NUECES,Hispanic,3461,3303,95%,2879,83%,372,11%,2746,79%,640,18%,1068,31%,1708,49%,55,2%,554,16%
 2,Corpus Christi,178,NUECES,White,894,829,93%,746,83%,58,6%,714,80%,269,30%,240,27%,509,57%,23,3%,228,26%
-2,Corpus Christi,178,NUECES,Others,127,122,96%,115,91%,*,*,106,83%,54,43%,31,24%,85,67%,5,4%,40,32%
-2,Corpus Christi,205,SAN PATRICIO,African American,21,21,100%,19,90%,*,*,19,90%,*,*,7,33%,11,52%,*,*,*,*
+2,Corpus Christi,178,NUECES,Others,127,122,96%,115,91%,,nan,106,83%,54,43%,31,24%,85,67%,5,4%,40,32%
+2,Corpus Christi,205,SAN PATRICIO,African American,21,21,100%,19,90%,,nan,19,90%,,nan,7,33%,11,52%,,nan,,nan
 2,Corpus Christi,205,SAN PATRICIO,Hispanic,714,689,97%,627,88%,56,8%,603,84%,133,19%,211,30%,344,48%,7,1%,122,17%
 2,Corpus Christi,205,SAN PATRICIO,White,324,307,95%,277,85%,18,6%,267,82%,96,30%,78,24%,174,54%,5,2%,82,25%
-2,Corpus Christi,205,SAN PATRICIO,Others,19,19,100%,18,95%,*,*,19,100%,7,37%,6,32%,13,68%,*,*,*,*
-3,Victoria,29,CALHOUN,Hispanic,187,181,97%,172,92%,8,4%,159,85%,20,11%,55,29%,75,40%,*,*,26,14%
-3,Victoria,29,CALHOUN,White,98,95,97%,90,92%,*,*,84,86%,22,22%,32,33%,54,55%,*,*,27,28%
-3,Victoria,29,CALHOUN,Other Ethnicities,20,20,100%,20,100%,*,*,19,95%,8,40%,7,35%,15,75%,*,*,8,40%
-3,Victoria,45,COLORADO,Hispanic,97,91,94%,78,80%,10,10%,77,79%,6,6%,30,31%,36,37%,*,*,14,14%
-3,Victoria,45,COLORADO,White,93,91,98%,86,92%,*,*,82,88%,23,25%,29,31%,52,56%,*,*,25,27%
-3,Victoria,45,COLORADO,Other Ethnicities,43,43,100%,38,88%,*,*,35,81%,5,12%,12,28%,17,40%,*,*,7,16%
+2,Corpus Christi,205,SAN PATRICIO,Others,19,19,100%,18,95%,,nan,19,100%,7,37%,6,32%,13,68%,,nan,,nan
+3,Victoria,29,CALHOUN,Hispanic,187,181,97%,172,92%,8,4%,159,85%,20,11%,55,29%,75,40%,,nan,26,14%
+3,Victoria,29,CALHOUN,White,98,95,97%,90,92%,,nan,84,86%,22,22%,32,33%,54,55%,,nan,27,28%
+3,Victoria,29,CALHOUN,Other Ethnicities,20,20,100%,20,100%,,nan,19,95%,8,40%,7,35%,15,75%,,nan,8,40%
+3,Victoria,45,COLORADO,Hispanic,97,91,94%,78,80%,10,10%,77,79%,6,6%,30,31%,36,37%,,nan,14,14%
+3,Victoria,45,COLORADO,White,93,91,98%,86,92%,,nan,82,88%,23,25%,29,31%,52,56%,,nan,25,27%
+3,Victoria,45,COLORADO,Other Ethnicities,43,43,100%,38,88%,,nan,35,81%,5,12%,12,28%,17,40%,,nan,7,16%
 3,Victoria,62,DE WITT,Hispanic,154,145,94%,118,77%,25,16%,112,73%,9,6%,45,29%,54,35%,5,3%,8,5%
 3,Victoria,62,DE WITT,White,155,145,94%,130,84%,7,5%,126,81%,37,24%,49,32%,86,55%,10,6%,51,33%
-3,Victoria,62,DE WITT,Other Ethnicities,43,42,98%,34,79%,6,14%,30,70%,12,28%,8,19%,20,47%,*,*,6,14%
-3,Victoria,88,GOLIAD,Hispanic,47,47,100%,38,81%,9,19%,37,79%,7,15%,14,30%,21,45%,*,*,9,19%
-3,Victoria,88,GOLIAD,White,53,52,98%,50,94%,*,*,48,91%,21,40%,13,25%,34,64%,*,*,17,32%
-3,Victoria,88,GOLIAD,Other Ethnicities,11,11,100%,10,91%,*,*,11,100%,5,45%,*,*,9,82%,*,*,*,*
-3,Victoria,120,JACKSON,Hispanic,84,83,99%,80,95%,*,*,74,88%,7,8%,31,37%,38,45%,*,*,16,19%
-3,Victoria,120,JACKSON,White,147,145,99%,133,90%,7,5%,131,89%,37,25%,56,38%,93,63%,*,*,51,35%
-3,Victoria,120,JACKSON,Other Ethnicities,23,23,100%,23,100%,*,*,20,87%,5,22%,7,30%,12,52%,*,*,*,*
-3,Victoria,128,KARNES,Hispanic,109,100,92%,94,86%,10,9%,93,85%,23,21%,27,25%,50,46%,*,*,16,15%
-3,Victoria,128,KARNES,Other Ethnicities,63,62,98%,61,97%,*,*,58,92%,30,48%,18,29%,48,76%,*,*,37,59%
-3,Victoria,143,LAVACA,Hispanic,24,21,88%,21,88%,*,*,19,79%,*,*,8,33%,10,42%,*,*,6,25%
-3,Victoria,143,LAVACA,White,131,127,97%,125,95%,*,*,119,91%,23,18%,69,53%,92,70%,*,*,66,50%
-3,Victoria,143,LAVACA,Other Ethnicities,15,15,100%,14,93%,*,*,14,93%,*,*,5,33%,8,53%,*,*,*,*
-3,Victoria,158,MATAGORDA,African American,66,66,100%,57,86%,8,12%,57,86%,16,24%,18,27%,34,52%,*,*,16,24%
+3,Victoria,62,DE WITT,Other Ethnicities,43,42,98%,34,79%,6,14%,30,70%,12,28%,8,19%,20,47%,,nan,6,14%
+3,Victoria,88,GOLIAD,Hispanic,47,47,100%,38,81%,9,19%,37,79%,7,15%,14,30%,21,45%,,nan,9,19%
+3,Victoria,88,GOLIAD,White,53,52,98%,50,94%,,nan,48,91%,21,40%,13,25%,34,64%,,nan,17,32%
+3,Victoria,88,GOLIAD,Other Ethnicities,11,11,100%,10,91%,,nan,11,100%,5,45%,,nan,9,82%,,nan,,nan
+3,Victoria,120,JACKSON,Hispanic,84,83,99%,80,95%,,nan,74,88%,7,8%,31,37%,38,45%,,nan,16,19%
+3,Victoria,120,JACKSON,White,147,145,99%,133,90%,7,5%,131,89%,37,25%,56,38%,93,63%,,nan,51,35%
+3,Victoria,120,JACKSON,Other Ethnicities,23,23,100%,23,100%,,nan,20,87%,5,22%,7,30%,12,52%,,nan,,nan
+3,Victoria,128,KARNES,Hispanic,109,100,92%,94,86%,10,9%,93,85%,23,21%,27,25%,50,46%,,nan,16,15%
+3,Victoria,128,KARNES,Other Ethnicities,63,62,98%,61,97%,,nan,58,92%,30,48%,18,29%,48,76%,,nan,37,59%
+3,Victoria,143,LAVACA,Hispanic,24,21,88%,21,88%,,nan,19,79%,,nan,8,33%,10,42%,,nan,6,25%
+3,Victoria,143,LAVACA,White,131,127,97%,125,95%,,nan,119,91%,23,18%,69,53%,92,70%,,nan,66,50%
+3,Victoria,143,LAVACA,Other Ethnicities,15,15,100%,14,93%,,nan,14,93%,,nan,5,33%,8,53%,,nan,,nan
+3,Victoria,158,MATAGORDA,African American,66,66,100%,57,86%,8,12%,57,86%,16,24%,18,27%,34,52%,,nan,16,24%
 3,Victoria,158,MATAGORDA,Hispanic,289,275,95%,227,79%,41,14%,224,78%,26,9%,88,30%,114,39%,6,2%,43,15%
-3,Victoria,158,MATAGORDA,White,165,157,95%,148,90%,7,4%,139,84%,36,22%,65,39%,101,61%,*,*,52,32%
-3,Victoria,158,MATAGORDA,Others,23,21,91%,20,87%,*,*,17,74%,7,30%,6,26%,13,57%,*,*,9,39%
-3,Victoria,196,REFUGIO,Hispanic,62,60,97%,57,92%,*,*,54,87%,9,15%,25,40%,34,55%,*,*,9,15%
-3,Victoria,196,REFUGIO,Other Ethnicities,38,36,95%,34,89%,*,*,32,84%,6,16%,19,50%,25,66%,*,*,11,29%
-3,Victoria,235,VICTORIA,African American,96,94,98%,80,83%,11,11%,71,74%,11,11%,31,32%,42,44%,*,*,7,7%
+3,Victoria,158,MATAGORDA,White,165,157,95%,148,90%,7,4%,139,84%,36,22%,65,39%,101,61%,,nan,52,32%
+3,Victoria,158,MATAGORDA,Others,23,21,91%,20,87%,,nan,17,74%,7,30%,6,26%,13,57%,,nan,9,39%
+3,Victoria,196,REFUGIO,Hispanic,62,60,97%,57,92%,,nan,54,87%,9,15%,25,40%,34,55%,,nan,9,15%
+3,Victoria,196,REFUGIO,Other Ethnicities,38,36,95%,34,89%,,nan,32,84%,6,16%,19,50%,25,66%,,nan,11,29%
+3,Victoria,235,VICTORIA,African American,96,94,98%,80,83%,11,11%,71,74%,11,11%,31,32%,42,44%,,nan,7,7%
 3,Victoria,235,VICTORIA,Hispanic,634,603,95%,479,76%,98,15%,434,68%,41,6%,209,33%,250,39%,24,4%,72,11%
 3,Victoria,235,VICTORIA,White,292,279,96%,250,86%,13,4%,219,75%,61,21%,104,36%,165,57%,14,5%,81,28%
-3,Victoria,235,VICTORIA,Others,20,19,95%,17,85%,*,*,14,70%,6,30%,5,25%,11,55%,*,*,8,40%
-3,Victoria,241,WHARTON,Hispanic,306,290,95%,224,73%,57,19%,246,80%,15,5%,118,39%,133,43%,*,*,54,18%
-3,Victoria,241,WHARTON,White,175,171,98%,159,91%,11,6%,155,89%,46,26%,93,53%,139,79%,*,*,90,51%
-3,Victoria,241,WHARTON,Other Ethnicities,97,96,99%,75,77%,18,19%,82,85%,11,11%,39,40%,50,52%,*,*,12,12%
+3,Victoria,235,VICTORIA,Others,20,19,95%,17,85%,,nan,14,70%,6,30%,5,25%,11,55%,,nan,8,40%
+3,Victoria,241,WHARTON,Hispanic,306,290,95%,224,73%,57,19%,246,80%,15,5%,118,39%,133,43%,,nan,54,18%
+3,Victoria,241,WHARTON,White,175,171,98%,159,91%,11,6%,155,89%,46,26%,93,53%,139,79%,,nan,90,51%
+3,Victoria,241,WHARTON,Other Ethnicities,97,96,99%,75,77%,18,19%,82,85%,11,11%,39,40%,50,52%,,nan,12,12%
 4,Houston,20,BRAZORIA,African American,654,637,97%,592,91%,35,5%,579,89%,208,32%,224,34%,432,66%,13,2%,142,22%
 4,Houston,20,BRAZORIA,Hispanic,1685,1642,97%,1479,88%,137,8%,1434,85%,226,13%,639,38%,865,51%,24,1%,368,22%
 4,Houston,20,BRAZORIA,White,1869,1803,96%,1665,89%,101,5%,1547,83%,434,23%,735,39%,1169,63%,61,3%,598,32%
-4,Houston,20,BRAZORIA,Others,326,316,97%,300,92%,9,3%,296,91%,138,42%,95,29%,233,71%,*,*,148,45%
-4,Houston,36,CHAMBERS,African American,41,40,98%,37,90%,*,*,36,88%,8,20%,18,44%,26,63%,*,*,8,20%
-4,Houston,36,CHAMBERS,Hispanic,128,124,97%,117,91%,7,5%,111,87%,28,22%,56,44%,84,66%,*,*,40,31%
+4,Houston,20,BRAZORIA,Others,326,316,97%,300,92%,9,3%,296,91%,138,42%,95,29%,233,71%,,nan,148,45%
+4,Houston,36,CHAMBERS,African American,41,40,98%,37,90%,,nan,36,88%,8,20%,18,44%,26,63%,,nan,8,20%
+4,Houston,36,CHAMBERS,Hispanic,128,124,97%,117,91%,7,5%,111,87%,28,22%,56,44%,84,66%,,nan,40,31%
 4,Houston,36,CHAMBERS,White,331,314,95%,291,88%,19,6%,287,87%,76,23%,140,42%,216,65%,5,2%,110,33%
-4,Houston,36,CHAMBERS,Others,20,18,90%,18,90%,*,*,19,95%,6,30%,8,40%,14,70%,*,*,5,25%
+4,Houston,36,CHAMBERS,Others,20,18,90%,18,90%,,nan,19,95%,6,30%,8,40%,14,70%,,nan,5,25%
 4,Houston,79,FORT BEND,African American,2167,2084,96%,1835,85%,216,10%,1842,85%,717,33%,700,32%,1417,65%,51,2%,470,22%
 4,Houston,79,FORT BEND,Hispanic,2299,2216,96%,1860,81%,296,13%,1844,80%,321,14%,810,35%,1131,49%,46,2%,398,17%
 4,Houston,79,FORT BEND,White,1649,1562,95%,1470,89%,64,4%,1408,85%,598,36%,546,33%,1144,69%,65,4%,676,41%
@@ -93,211 +93,211 @@
 4,Houston,101,HARRIS,Hispanic,30309,29191,96%,25608,84%,2958,10%,24226,80%,3971,13%,9665,32%,13636,45%,455,2%,4923,16%
 4,Houston,101,HARRIS,White,12399,11703,94%,10833,87%,592,5%,10258,83%,3519,28%,3878,31%,7397,60%,455,4%,3952,32%
 4,Houston,101,HARRIS,Others,4078,3909,96%,3728,91%,122,3%,3565,87%,1636,40%,1046,26%,2682,66%,86,2%,1590,39%
-4,Houston,146,LIBERTY,African American,107,104,97%,97,91%,6,6%,91,85%,22,21%,28,26%,50,47%,*,*,11,10%
-4,Houston,146,LIBERTY,Hispanic,280,265,95%,251,90%,17,6%,220,79%,29,10%,86,31%,115,41%,*,*,50,18%
+4,Houston,146,LIBERTY,African American,107,104,97%,97,91%,6,6%,91,85%,22,21%,28,26%,50,47%,,nan,11,10%
+4,Houston,146,LIBERTY,Hispanic,280,265,95%,251,90%,17,6%,220,79%,29,10%,86,31%,115,41%,,nan,50,18%
 4,Houston,146,LIBERTY,White,684,649,95%,595,87%,29,4%,497,73%,80,12%,189,28%,269,39%,19,3%,115,17%
-4,Houston,146,LIBERTY,Others,28,28,100%,26,93%,*,*,24,86%,*,*,13,46%,17,61%,*,*,*,*
-4,Houston,237,WALLER,African American,101,98,97%,78,77%,18,18%,80,79%,28,28%,21,21%,49,49%,*,*,8,8%
+4,Houston,146,LIBERTY,Others,28,28,100%,26,93%,,nan,24,86%,,nan,13,46%,17,61%,,nan,,nan
+4,Houston,237,WALLER,African American,101,98,97%,78,77%,18,18%,80,79%,28,28%,21,21%,49,49%,,nan,8,8%
 4,Houston,237,WALLER,Hispanic,356,341,96%,289,81%,45,13%,296,83%,45,13%,87,24%,132,37%,7,2%,45,13%
 4,Houston,237,WALLER,White,189,182,96%,160,85%,17,9%,154,81%,33,17%,55,29%,88,47%,6,3%,36,19%
-4,Houston,237,WALLER,Others,20,20,100%,18,90%,*,*,17,85%,6,30%,5,25%,11,55%,*,*,6,30%
-5,Beaumont,84,GALVESTON,All Ethnicities,17,17,100%,17,100%,*,*,17,100%,6,35%,9,53%,15,88%,*,*,10,59%
-5,Beaumont,100,HARDIN,African American,68,66,97%,63,93%,*,*,58,85%,14,21%,23,34%,37,54%,*,*,11,16%
-5,Beaumont,100,HARDIN,Hispanic,51,51,100%,44,86%,*,*,42,82%,12,24%,13,25%,25,49%,*,*,10,20%
+4,Houston,237,WALLER,Others,20,20,100%,18,90%,,nan,17,85%,6,30%,5,25%,11,55%,,nan,6,30%
+5,Beaumont,84,GALVESTON,All Ethnicities,17,17,100%,17,100%,,nan,17,100%,6,35%,9,53%,15,88%,,nan,10,59%
+5,Beaumont,100,HARDIN,African American,68,66,97%,63,93%,,nan,58,85%,14,21%,23,34%,37,54%,,nan,11,16%
+5,Beaumont,100,HARDIN,Hispanic,51,51,100%,44,86%,,nan,42,82%,12,24%,13,25%,25,49%,,nan,10,20%
 5,Beaumont,100,HARDIN,White,709,681,96%,619,87%,26,4%,557,79%,200,28%,160,23%,360,51%,27,4%,168,24%
-5,Beaumont,100,HARDIN,Others,21,18,86%,17,81%,*,*,15,71%,10,48%,*,*,11,52%,*,*,5,24%
-5,Beaumont,121,JASPER,African American,103,99,96%,90,87%,9,9%,88,85%,17,17%,26,25%,43,42%,*,*,10,10%
-5,Beaumont,121,JASPER,Hispanic,29,27,93%,27,93%,*,*,27,93%,*,*,10,34%,13,45%,*,*,5,17%
+5,Beaumont,100,HARDIN,Others,21,18,86%,17,81%,,nan,15,71%,10,48%,,nan,11,52%,,nan,5,24%
+5,Beaumont,121,JASPER,African American,103,99,96%,90,87%,9,9%,88,85%,17,17%,26,25%,43,42%,,nan,10,10%
+5,Beaumont,121,JASPER,Hispanic,29,27,93%,27,93%,,nan,27,93%,,nan,10,34%,13,45%,,nan,5,17%
 5,Beaumont,121,JASPER,White,325,304,94%,281,86%,18,6%,242,74%,68,21%,67,21%,135,42%,12,4%,63,19%
-5,Beaumont,121,JASPER,Others,14,12,86%,11,79%,*,*,10,71%,*,*,*,*,7,50%,*,*,*,*
+5,Beaumont,121,JASPER,Others,14,12,86%,11,79%,,nan,10,71%,,nan,,nan,7,50%,,nan,,nan
 5,Beaumont,123,JEFFERSON,African American,1184,1137,96%,1032,87%,102,9%,900,76%,275,23%,293,25%,568,48%,26,2%,163,14%
 5,Beaumont,123,JEFFERSON,Hispanic,663,633,95%,583,88%,25,4%,500,75%,103,16%,179,27%,282,43%,12,2%,129,19%
 5,Beaumont,123,JEFFERSON,White,867,823,95%,764,88%,42,5%,702,81%,305,35%,239,28%,544,63%,31,4%,279,32%
 5,Beaumont,123,JEFFERSON,Others,181,177,98%,165,91%,7,4%,160,88%,75,41%,57,31%,132,73%,6,3%,68,38%
-5,Beaumont,176,NEWTON,All Ethnicities,164,156,95%,138,84%,8,5%,122,74%,17,10%,52,32%,69,42%,*,*,27,16%
-5,Beaumont,181,ORANGE,African American,126,119,94%,96,76%,18,14%,92,73%,19,15%,44,35%,63,50%,*,*,12,10%
-5,Beaumont,181,ORANGE,Hispanic,101,95,94%,86,85%,7,7%,81,80%,15,15%,29,29%,44,44%,*,*,14,14%
+5,Beaumont,176,NEWTON,All Ethnicities,164,156,95%,138,84%,8,5%,122,74%,17,10%,52,32%,69,42%,,nan,27,16%
+5,Beaumont,181,ORANGE,African American,126,119,94%,96,76%,18,14%,92,73%,19,15%,44,35%,63,50%,,nan,12,10%
+5,Beaumont,181,ORANGE,Hispanic,101,95,94%,86,85%,7,7%,81,80%,15,15%,29,29%,44,44%,,nan,14,14%
 5,Beaumont,181,ORANGE,White,862,823,95%,748,87%,43,5%,691,80%,170,20%,269,31%,439,51%,20,2%,240,28%
-5,Beaumont,181,ORANGE,Others,50,47,94%,42,84%,*,*,39,78%,16,32%,13,26%,29,58%,*,*,14,28%
-5,Beaumont,229,TYLER,African American,28,27,96%,27,96%,*,*,28,100%,*,*,11,39%,14,50%,*,*,*,*
+5,Beaumont,181,ORANGE,Others,50,47,94%,42,84%,,nan,39,78%,16,32%,13,26%,29,58%,,nan,14,28%
+5,Beaumont,229,TYLER,African American,28,27,96%,27,96%,,nan,28,100%,,nan,11,39%,14,50%,,nan,,nan
 5,Beaumont,229,TYLER,White,213,207,97%,189,89%,8,4%,168,79%,33,15%,68,32%,101,47%,5,2%,53,25%
-5,Beaumont,229,TYLER,Other Ethnicities,17,16,94%,13,76%,*,*,13,76%,*,*,6,35%,8,47%,*,*,*,*
-6,Huntsville,8,AUSTIN,African American,47,46,98%,35,74%,7,15%,39,83%,5,11%,20,43%,25,53%,*,*,6,13%
-6,Huntsville,8,AUSTIN,Hispanic,167,157,94%,145,87%,14,8%,141,84%,13,8%,66,40%,79,47%,*,*,24,14%
+5,Beaumont,229,TYLER,Other Ethnicities,17,16,94%,13,76%,,nan,13,76%,,nan,6,35%,8,47%,,nan,,nan
+6,Huntsville,8,AUSTIN,African American,47,46,98%,35,74%,7,15%,39,83%,5,11%,20,43%,25,53%,,nan,6,13%
+6,Huntsville,8,AUSTIN,Hispanic,167,157,94%,145,87%,14,8%,141,84%,13,8%,66,40%,79,47%,,nan,24,14%
 6,Huntsville,8,AUSTIN,White,220,214,97%,201,91%,8,4%,190,86%,49,22%,88,40%,137,62%,5,2%,81,37%
-6,Huntsville,8,AUSTIN,Others,7,7,100%,6,86%,*,*,5,71%,*,*,5,71%,5,71%,*,*,*,*
+6,Huntsville,8,AUSTIN,Others,7,7,100%,6,86%,,nan,5,71%,,nan,5,71%,5,71%,,nan,,nan
 6,Huntsville,21,BRAZOS,African American,359,348,97%,257,72%,78,22%,259,72%,43,12%,100,28%,143,40%,6,2%,26,7%
-6,Huntsville,21,BRAZOS,Hispanic,647,620,96%,453,70%,158,24%,502,78%,55,9%,168,26%,223,34%,*,*,88,14%
+6,Huntsville,21,BRAZOS,Hispanic,647,620,96%,453,70%,158,24%,502,78%,55,9%,168,26%,223,34%,,nan,88,14%
 6,Huntsville,21,BRAZOS,White,707,673,95%,626,89%,41,6%,602,85%,240,34%,205,29%,445,63%,18,3%,274,39%
-6,Huntsville,21,BRAZOS,Others,112,107,96%,102,91%,*,*,95,85%,36,32%,21,19%,57,51%,*,*,35,31%
-6,Huntsville,26,BURLESON,Hispanic,62,60,97%,58,94%,*,*,48,77%,*,*,20,32%,22,35%,*,*,12,19%
-6,Huntsville,26,BURLESON,White,123,119,97%,110,89%,9,7%,101,82%,21,17%,36,29%,57,46%,*,*,36,29%
-6,Huntsville,26,BURLESON,Other Ethnicities,35,35,100%,31,89%,*,*,29,83%,*,*,17,49%,19,54%,*,*,*,*
-6,Huntsville,93,GRIMES,Hispanic,93,90,97%,83,89%,*,*,77,83%,14,15%,25,27%,39,42%,*,*,10,11%
-6,Huntsville,93,GRIMES,White,162,160,99%,149,92%,7,4%,141,87%,41,25%,41,25%,82,51%,*,*,42,26%
-6,Huntsville,93,GRIMES,Other Ethnicities,61,59,97%,51,84%,8,13%,49,80%,7,11%,19,31%,26,43%,*,*,5,8%
-6,Huntsville,113,HOUSTON,African American,76,70,92%,63,83%,8,11%,64,84%,12,16%,24,32%,36,47%,*,*,8,11%
-6,Huntsville,113,HOUSTON,White,141,134,95%,126,89%,5,4%,114,81%,39,28%,36,26%,75,53%,*,*,38,27%
-6,Huntsville,113,HOUSTON,Other Ethnicities,46,43,93%,39,85%,5,11%,40,87%,7,15%,15,33%,22,48%,*,*,8,17%
-6,Huntsville,145,LEON,Hispanic,43,42,98%,40,93%,*,*,40,93%,*,*,17,40%,20,47%,*,*,10,23%
-6,Huntsville,145,LEON,White,179,172,96%,165,92%,7,4%,151,84%,39,22%,68,38%,107,60%,*,*,62,35%
-6,Huntsville,145,LEON,Other Ethnicities,24,23,96%,22,92%,*,*,20,83%,5,21%,5,21%,10,42%,*,*,*,*
-6,Huntsville,154,MADISON,Hispanic,55,53,96%,51,93%,*,*,45,82%,9,16%,11,20%,20,36%,*,*,7,13%
-6,Huntsville,154,MADISON,White,99,95,96%,86,87%,8,8%,75,76%,28,28%,19,19%,47,47%,*,*,27,27%
-6,Huntsville,154,MADISON,Other Ethnicities,47,46,98%,45,96%,*,*,40,85%,10,21%,14,30%,24,51%,*,*,9,19%
-6,Huntsville,166,MILAM,Hispanic,102,102,100%,92,90%,5,5%,85,83%,10,10%,36,35%,46,45%,*,*,18,18%
-6,Huntsville,166,MILAM,White,140,137,98%,123,88%,12,9%,119,85%,30,21%,48,34%,78,56%,*,*,35,25%
-6,Huntsville,166,MILAM,Other Ethnicities,42,39,93%,34,81%,*,*,35,83%,7,17%,15,36%,22,52%,*,*,6,14%
+6,Huntsville,21,BRAZOS,Others,112,107,96%,102,91%,,nan,95,85%,36,32%,21,19%,57,51%,,nan,35,31%
+6,Huntsville,26,BURLESON,Hispanic,62,60,97%,58,94%,,nan,48,77%,,nan,20,32%,22,35%,,nan,12,19%
+6,Huntsville,26,BURLESON,White,123,119,97%,110,89%,9,7%,101,82%,21,17%,36,29%,57,46%,,nan,36,29%
+6,Huntsville,26,BURLESON,Other Ethnicities,35,35,100%,31,89%,,nan,29,83%,,nan,17,49%,19,54%,,nan,,nan
+6,Huntsville,93,GRIMES,Hispanic,93,90,97%,83,89%,,nan,77,83%,14,15%,25,27%,39,42%,,nan,10,11%
+6,Huntsville,93,GRIMES,White,162,160,99%,149,92%,7,4%,141,87%,41,25%,41,25%,82,51%,,nan,42,26%
+6,Huntsville,93,GRIMES,Other Ethnicities,61,59,97%,51,84%,8,13%,49,80%,7,11%,19,31%,26,43%,,nan,5,8%
+6,Huntsville,113,HOUSTON,African American,76,70,92%,63,83%,8,11%,64,84%,12,16%,24,32%,36,47%,,nan,8,11%
+6,Huntsville,113,HOUSTON,White,141,134,95%,126,89%,5,4%,114,81%,39,28%,36,26%,75,53%,,nan,38,27%
+6,Huntsville,113,HOUSTON,Other Ethnicities,46,43,93%,39,85%,5,11%,40,87%,7,15%,15,33%,22,48%,,nan,8,17%
+6,Huntsville,145,LEON,Hispanic,43,42,98%,40,93%,,nan,40,93%,,nan,17,40%,20,47%,,nan,10,23%
+6,Huntsville,145,LEON,White,179,172,96%,165,92%,7,4%,151,84%,39,22%,68,38%,107,60%,,nan,62,35%
+6,Huntsville,145,LEON,Other Ethnicities,24,23,96%,22,92%,,nan,20,83%,5,21%,5,21%,10,42%,,nan,,nan
+6,Huntsville,154,MADISON,Hispanic,55,53,96%,51,93%,,nan,45,82%,9,16%,11,20%,20,36%,,nan,7,13%
+6,Huntsville,154,MADISON,White,99,95,96%,86,87%,8,8%,75,76%,28,28%,19,19%,47,47%,,nan,27,27%
+6,Huntsville,154,MADISON,Other Ethnicities,47,46,98%,45,96%,,nan,40,85%,10,21%,14,30%,24,51%,,nan,9,19%
+6,Huntsville,166,MILAM,Hispanic,102,102,100%,92,90%,5,5%,85,83%,10,10%,36,35%,46,45%,,nan,18,18%
+6,Huntsville,166,MILAM,White,140,137,98%,123,88%,12,9%,119,85%,30,21%,48,34%,78,56%,,nan,35,25%
+6,Huntsville,166,MILAM,Other Ethnicities,42,39,93%,34,81%,,nan,35,83%,7,17%,15,36%,22,52%,,nan,6,14%
 6,Huntsville,170,MONTGOMERY,African American,376,352,94%,320,85%,33,9%,290,77%,78,21%,113,30%,191,51%,7,2%,51,14%
 6,Huntsville,170,MONTGOMERY,Hispanic,2098,1987,95%,1806,86%,129,6%,1670,80%,237,11%,602,29%,839,40%,42,2%,302,14%
 6,Huntsville,170,MONTGOMERY,White,4011,3814,95%,3490,87%,211,5%,3218,80%,997,25%,1181,29%,2178,54%,155,4%,1063,27%
 6,Huntsville,170,MONTGOMERY,Others,341,322,94%,296,87%,14,4%,269,79%,81,24%,87,26%,168,49%,10,3%,85,25%
-6,Huntsville,187,POLK,African American,63,62,98%,58,92%,5,8%,56,89%,7,11%,17,27%,24,38%,*,*,5,8%
-6,Huntsville,187,POLK,Hispanic,111,106,96%,100,90%,7,6%,96,86%,16,14%,29,26%,45,41%,*,*,23,21%
+6,Huntsville,187,POLK,African American,63,62,98%,58,92%,5,8%,56,89%,7,11%,17,27%,24,38%,,nan,5,8%
+6,Huntsville,187,POLK,Hispanic,111,106,96%,100,90%,7,6%,96,86%,16,14%,29,26%,45,41%,,nan,23,21%
 6,Huntsville,187,POLK,White,334,313,94%,267,80%,33,10%,251,75%,55,16%,77,23%,132,40%,5,2%,62,19%
-6,Huntsville,187,POLK,Others,27,26,96%,26,96%,*,*,23,85%,9,33%,6,22%,15,56%,*,*,6,22%
-6,Huntsville,198,ROBERTSON,African American,52,52,100%,47,90%,5,10%,47,90%,*,*,17,33%,21,40%,*,*,*,*
-6,Huntsville,198,ROBERTSON,White,89,87,98%,84,94%,*,*,77,87%,21,24%,28,31%,49,55%,*,*,22,25%
-6,Huntsville,198,ROBERTSON,Other Ethnicities,58,56,97%,48,83%,6,10%,51,88%,9,16%,14,24%,23,40%,*,*,6,10%
-6,Huntsville,204,SAN JACINTO,African American,52,51,98%,45,87%,6,12%,45,87%,11,21%,13,25%,24,46%,*,*,7,13%
-6,Huntsville,204,SAN JACINTO,White,200,191,96%,158,79%,23,12%,148,74%,32,16%,42,21%,74,37%,*,*,31,16%
-6,Huntsville,204,SAN JACINTO,Other Ethnicities,54,51,94%,47,87%,*,*,43,80%,6,11%,15,28%,21,39%,*,*,*,*
-6,Huntsville,228,TRINITY,Hispanic,22,21,95%,20,91%,*,*,20,91%,6,27%,6,27%,12,55%,*,*,9,41%
-6,Huntsville,228,TRINITY,White,119,116,97%,107,90%,8,7%,86,72%,16,13%,24,20%,40,34%,*,*,19,16%
-6,Huntsville,228,TRINITY,Other Ethnicities,26,25,96%,24,92%,*,*,22,85%,5,19%,9,35%,14,54%,*,*,*,*
-6,Huntsville,236,WALKER,African American,112,109,97%,100,89%,9,8%,98,88%,27,24%,33,29%,60,54%,*,*,15,13%
-6,Huntsville,236,WALKER,Hispanic,128,126,98%,111,87%,13,10%,106,83%,25,20%,20,16%,45,35%,*,*,17,13%
+6,Huntsville,187,POLK,Others,27,26,96%,26,96%,,nan,23,85%,9,33%,6,22%,15,56%,,nan,6,22%
+6,Huntsville,198,ROBERTSON,African American,52,52,100%,47,90%,5,10%,47,90%,,nan,17,33%,21,40%,,nan,,nan
+6,Huntsville,198,ROBERTSON,White,89,87,98%,84,94%,,nan,77,87%,21,24%,28,31%,49,55%,,nan,22,25%
+6,Huntsville,198,ROBERTSON,Other Ethnicities,58,56,97%,48,83%,6,10%,51,88%,9,16%,14,24%,23,40%,,nan,6,10%
+6,Huntsville,204,SAN JACINTO,African American,52,51,98%,45,87%,6,12%,45,87%,11,21%,13,25%,24,46%,,nan,7,13%
+6,Huntsville,204,SAN JACINTO,White,200,191,96%,158,79%,23,12%,148,74%,32,16%,42,21%,74,37%,,nan,31,16%
+6,Huntsville,204,SAN JACINTO,Other Ethnicities,54,51,94%,47,87%,,nan,43,80%,6,11%,15,28%,21,39%,,nan,,nan
+6,Huntsville,228,TRINITY,Hispanic,22,21,95%,20,91%,,nan,20,91%,6,27%,6,27%,12,55%,,nan,9,41%
+6,Huntsville,228,TRINITY,White,119,116,97%,107,90%,8,7%,86,72%,16,13%,24,20%,40,34%,,nan,19,16%
+6,Huntsville,228,TRINITY,Other Ethnicities,26,25,96%,24,92%,,nan,22,85%,5,19%,9,35%,14,54%,,nan,,nan
+6,Huntsville,236,WALKER,African American,112,109,97%,100,89%,9,8%,98,88%,27,24%,33,29%,60,54%,,nan,15,13%
+6,Huntsville,236,WALKER,Hispanic,128,126,98%,111,87%,13,10%,106,83%,25,20%,20,16%,45,35%,,nan,17,13%
 6,Huntsville,236,WALKER,White,259,246,95%,226,87%,19,7%,216,83%,76,29%,53,20%,129,50%,5,2%,57,22%
-6,Huntsville,236,WALKER,Others,23,23,100%,19,83%,*,*,17,74%,8,35%,*,*,9,39%,*,*,*,*
-6,Huntsville,239,WASHINGTON,African American,75,74,99%,69,92%,*,*,57,76%,7,9%,18,24%,25,33%,*,*,10,13%
-6,Huntsville,239,WASHINGTON,Hispanic,83,81,98%,75,90%,5,6%,60,72%,*,*,26,31%,28,34%,*,*,13,16%
+6,Huntsville,236,WALKER,Others,23,23,100%,19,83%,,nan,17,74%,8,35%,,nan,9,39%,,nan,,nan
+6,Huntsville,239,WASHINGTON,African American,75,74,99%,69,92%,,nan,57,76%,7,9%,18,24%,25,33%,,nan,10,13%
+6,Huntsville,239,WASHINGTON,Hispanic,83,81,98%,75,90%,5,6%,60,72%,,nan,26,31%,28,34%,,nan,13,16%
 6,Huntsville,239,WASHINGTON,White,202,195,97%,188,93%,5,2%,173,86%,53,26%,88,44%,141,70%,7,3%,87,43%
-6,Huntsville,239,WASHINGTON,Others,14,13,93%,12,86%,*,*,9,64%,5,36%,*,*,7,50%,*,*,*,*
-7,Kilgore,1,ANDERSON,African American,101,97,96%,87,86%,11,11%,81,80%,13,13%,29,29%,42,42%,*,*,14,14%
-7,Kilgore,1,ANDERSON,Hispanic,118,115,97%,107,91%,10,8%,100,85%,13,11%,43,36%,56,47%,*,*,26,22%
+6,Huntsville,239,WASHINGTON,Others,14,13,93%,12,86%,,nan,9,64%,5,36%,,nan,7,50%,,nan,,nan
+7,Kilgore,1,ANDERSON,African American,101,97,96%,87,86%,11,11%,81,80%,13,13%,29,29%,42,42%,,nan,14,14%
+7,Kilgore,1,ANDERSON,Hispanic,118,115,97%,107,91%,10,8%,100,85%,13,11%,43,36%,56,47%,,nan,26,22%
 7,Kilgore,1,ANDERSON,White,358,343,96%,318,89%,8,2%,277,77%,51,14%,119,33%,170,47%,6,2%,84,23%
-7,Kilgore,1,ANDERSON,Others,24,20,83%,19,79%,*,*,18,75%,*,*,6,25%,10,42%,*,*,7,29%
-7,Kilgore,3,ANGELINA,African American,217,209,96%,190,88%,18,8%,189,87%,43,20%,61,28%,104,48%,*,*,29,13%
-7,Kilgore,3,ANGELINA,Hispanic,356,345,97%,322,90%,16,4%,316,89%,34,10%,148,42%,182,51%,*,*,59,17%
+7,Kilgore,1,ANDERSON,Others,24,20,83%,19,79%,,nan,18,75%,,nan,6,25%,10,42%,,nan,7,29%
+7,Kilgore,3,ANGELINA,African American,217,209,96%,190,88%,18,8%,189,87%,43,20%,61,28%,104,48%,,nan,29,13%
+7,Kilgore,3,ANGELINA,Hispanic,356,345,97%,322,90%,16,4%,316,89%,34,10%,148,42%,182,51%,,nan,59,17%
 7,Kilgore,3,ANGELINA,White,645,621,96%,587,91%,26,4%,569,88%,121,19%,233,36%,354,55%,8,1%,167,26%
-7,Kilgore,3,ANGELINA,Others,44,40,91%,40,91%,*,*,40,91%,9,20%,15,34%,24,55%,*,*,10,23%
-7,Kilgore,37,CHEROKEE,African American,113,109,96%,90,80%,17,15%,85,75%,5,4%,42,37%,47,42%,*,*,17,15%
-7,Kilgore,37,CHEROKEE,Hispanic,228,217,95%,192,84%,21,9%,178,78%,13,6%,71,31%,84,37%,*,*,42,18%
+7,Kilgore,3,ANGELINA,Others,44,40,91%,40,91%,,nan,40,91%,9,20%,15,34%,24,55%,,nan,10,23%
+7,Kilgore,37,CHEROKEE,African American,113,109,96%,90,80%,17,15%,85,75%,5,4%,42,37%,47,42%,,nan,17,15%
+7,Kilgore,37,CHEROKEE,Hispanic,228,217,95%,192,84%,21,9%,178,78%,13,6%,71,31%,84,37%,,nan,42,18%
 7,Kilgore,37,CHEROKEE,White,290,276,95%,249,86%,16,6%,215,74%,35,12%,112,39%,147,51%,11,4%,66,23%
-7,Kilgore,37,CHEROKEE,Others,13,13,100%,11,85%,*,*,10,77%,*,*,5,38%,7,54%,*,*,*,*
+7,Kilgore,37,CHEROKEE,Others,13,13,100%,11,85%,,nan,10,77%,,nan,5,38%,7,54%,,nan,,nan
 7,Kilgore,92,GREGG,African American,424,404,95%,384,91%,25,6%,358,84%,68,16%,160,38%,228,54%,5,1%,60,14%
-7,Kilgore,92,GREGG,Hispanic,391,378,97%,347,89%,22,6%,330,84%,21,5%,125,32%,146,37%,*,*,67,17%
+7,Kilgore,92,GREGG,Hispanic,391,378,97%,347,89%,22,6%,330,84%,21,5%,125,32%,146,37%,,nan,67,17%
 7,Kilgore,92,GREGG,White,856,805,94%,760,89%,28,3%,696,81%,167,20%,321,38%,488,57%,20,2%,246,29%
-7,Kilgore,92,GREGG,Others,71,68,96%,66,93%,*,*,58,82%,16,23%,25,35%,41,58%,*,*,21,30%
-7,Kilgore,102,HARRISON,African American,197,189,96%,179,91%,9,5%,170,86%,50,25%,58,29%,108,55%,*,*,30,15%
-7,Kilgore,102,HARRISON,Hispanic,145,140,97%,133,92%,*,*,127,88%,22,15%,41,28%,63,43%,*,*,35,24%
+7,Kilgore,92,GREGG,Others,71,68,96%,66,93%,,nan,58,82%,16,23%,25,35%,41,58%,,nan,21,30%
+7,Kilgore,102,HARRISON,African American,197,189,96%,179,91%,9,5%,170,86%,50,25%,58,29%,108,55%,,nan,30,15%
+7,Kilgore,102,HARRISON,Hispanic,145,140,97%,133,92%,,nan,127,88%,22,15%,41,28%,63,43%,,nan,35,24%
 7,Kilgore,102,HARRISON,White,593,548,92%,531,90%,11,2%,493,83%,134,23%,178,30%,312,53%,12,2%,140,24%
-7,Kilgore,102,HARRISON,Others,22,21,95%,21,95%,*,*,17,77%,8,36%,7,32%,15,68%,*,*,7,32%
-7,Kilgore,107,HENDERSON,African American,69,67,97%,65,94%,*,*,61,88%,6,9%,27,39%,33,48%,*,*,8,12%
-7,Kilgore,107,HENDERSON,Hispanic,172,166,97%,159,92%,*,*,147,85%,20,12%,46,27%,66,38%,*,*,31,18%
+7,Kilgore,102,HARRISON,Others,22,21,95%,21,95%,,nan,17,77%,8,36%,7,32%,15,68%,,nan,7,32%
+7,Kilgore,107,HENDERSON,African American,69,67,97%,65,94%,,nan,61,88%,6,9%,27,39%,33,48%,,nan,8,12%
+7,Kilgore,107,HENDERSON,Hispanic,172,166,97%,159,92%,,nan,147,85%,20,12%,46,27%,66,38%,,nan,31,18%
 7,Kilgore,107,HENDERSON,White,546,520,95%,490,90%,12,2%,429,79%,86,16%,192,35%,278,51%,14,3%,125,23%
-7,Kilgore,107,HENDERSON,Others,25,23,92%,21,84%,*,*,18,72%,6,24%,9,36%,15,60%,*,*,*,*
-7,Kilgore,174,NACOGDOCHES,African American,158,155,98%,126,80%,21,13%,111,70%,16,10%,41,26%,57,36%,*,*,12,8%
-7,Kilgore,174,NACOGDOCHES,Hispanic,222,215,97%,186,84%,23,10%,177,80%,30,14%,58,26%,88,40%,*,*,44,20%
+7,Kilgore,107,HENDERSON,Others,25,23,92%,21,84%,,nan,18,72%,6,24%,9,36%,15,60%,,nan,,nan
+7,Kilgore,174,NACOGDOCHES,African American,158,155,98%,126,80%,21,13%,111,70%,16,10%,41,26%,57,36%,,nan,12,8%
+7,Kilgore,174,NACOGDOCHES,Hispanic,222,215,97%,186,84%,23,10%,177,80%,30,14%,58,26%,88,40%,,nan,44,20%
 7,Kilgore,174,NACOGDOCHES,White,399,381,95%,356,89%,18,5%,336,84%,116,29%,117,29%,233,58%,7,2%,110,28%
-7,Kilgore,174,NACOGDOCHES,Others,26,21,81%,21,81%,*,*,17,65%,7,27%,5,19%,12,46%,*,*,5,19%
-7,Kilgore,183,PANOLA,African American,58,57,98%,50,86%,5,9%,50,86%,7,12%,26,45%,33,57%,*,*,9,16%
+7,Kilgore,174,NACOGDOCHES,Others,26,21,81%,21,81%,,nan,17,65%,7,27%,5,19%,12,46%,,nan,5,19%
+7,Kilgore,183,PANOLA,African American,58,57,98%,50,86%,5,9%,50,86%,7,12%,26,45%,33,57%,,nan,9,16%
 7,Kilgore,183,PANOLA,White,211,205,97%,183,87%,16,8%,170,81%,42,20%,80,38%,122,58%,7,3%,74,35%
-7,Kilgore,183,PANOLA,Other Ethnicities,49,48,98%,41,84%,5,10%,41,84%,*,*,15,31%,17,35%,*,*,9,18%
-7,Kilgore,190,RAINS,Hispanic,19,19,100%,18,95%,*,*,17,89%,*,*,5,26%,8,42%,*,*,5,26%
-7,Kilgore,190,RAINS,White,116,111,96%,104,90%,5,4%,90,78%,21,18%,32,28%,53,46%,*,*,20,17%
-7,Kilgore,190,RAINS,Other Ethnicities,7,7,100%,7,100%,*,*,7,100%,*,*,*,*,6,86%,*,*,*,*
-7,Kilgore,201,RUSK,African American,113,111,98%,109,96%,*,*,102,90%,10,9%,47,42%,57,50%,*,*,19,17%
-7,Kilgore,201,RUSK,Hispanic,121,117,97%,110,91%,*,*,108,89%,10,8%,47,39%,57,47%,*,*,33,27%
+7,Kilgore,183,PANOLA,Other Ethnicities,49,48,98%,41,84%,5,10%,41,84%,,nan,15,31%,17,35%,,nan,9,18%
+7,Kilgore,190,RAINS,Hispanic,19,19,100%,18,95%,,nan,17,89%,,nan,5,26%,8,42%,,nan,5,26%
+7,Kilgore,190,RAINS,White,116,111,96%,104,90%,5,4%,90,78%,21,18%,32,28%,53,46%,,nan,20,17%
+7,Kilgore,190,RAINS,Other Ethnicities,7,7,100%,7,100%,,nan,7,100%,,nan,,nan,6,86%,,nan,,nan
+7,Kilgore,201,RUSK,African American,113,111,98%,109,96%,,nan,102,90%,10,9%,47,42%,57,50%,,nan,19,17%
+7,Kilgore,201,RUSK,Hispanic,121,117,97%,110,91%,,nan,108,89%,10,8%,47,39%,57,47%,,nan,33,27%
 7,Kilgore,201,RUSK,White,330,316,96%,294,89%,11,3%,271,82%,46,14%,127,38%,173,52%,8,2%,79,24%
-7,Kilgore,201,RUSK,Others,14,14,100%,12,86%,*,*,11,79%,*,*,6,43%,9,64%,*,*,6,43%
-7,Kilgore,202,SABINE,African American,10,10,100%,9,90%,*,*,10,100%,*,*,*,*,*,*,*,*,*,*
-7,Kilgore,202,SABINE,White,114,109,96%,99,87%,*,*,89,78%,24,21%,26,23%,50,44%,*,*,20,18%
-7,Kilgore,202,SABINE,Other Ethnicities,7,6,86%,6,86%,*,*,5,71%,*,*,*,*,5,71%,*,*,*,*
-7,Kilgore,203,SAN AUGUSTINE,African American,31,29,94%,28,90%,*,*,25,81%,*,*,10,32%,14,45%,*,*,7,23%
-7,Kilgore,203,SAN AUGUSTINE,White,54,49,91%,45,83%,*,*,38,70%,12,22%,10,19%,22,41%,*,*,12,22%
-7,Kilgore,203,SAN AUGUSTINE,Other Ethnicities,15,15,100%,12,80%,*,*,11,73%,*,*,*,*,7,47%,*,*,*,*
-7,Kilgore,210,SHELBY,Hispanic,101,100,99%,93,92%,5,5%,88,87%,15,15%,35,35%,50,50%,*,*,29,29%
-7,Kilgore,210,SHELBY,White,207,196,95%,188,91%,9,4%,172,83%,34,16%,96,46%,130,63%,*,*,75,36%
-7,Kilgore,210,SHELBY,Other Ethnicities,78,75,96%,65,83%,*,*,62,79%,7,9%,28,36%,35,45%,*,*,8,10%
+7,Kilgore,201,RUSK,Others,14,14,100%,12,86%,,nan,11,79%,,nan,6,43%,9,64%,,nan,6,43%
+7,Kilgore,202,SABINE,African American,10,10,100%,9,90%,,nan,10,100%,,nan,,nan,,nan,,nan,,nan
+7,Kilgore,202,SABINE,White,114,109,96%,99,87%,,nan,89,78%,24,21%,26,23%,50,44%,,nan,20,18%
+7,Kilgore,202,SABINE,Other Ethnicities,7,6,86%,6,86%,,nan,5,71%,,nan,,nan,5,71%,,nan,,nan
+7,Kilgore,203,SAN AUGUSTINE,African American,31,29,94%,28,90%,,nan,25,81%,,nan,10,32%,14,45%,,nan,7,23%
+7,Kilgore,203,SAN AUGUSTINE,White,54,49,91%,45,83%,,nan,38,70%,12,22%,10,19%,22,41%,,nan,12,22%
+7,Kilgore,203,SAN AUGUSTINE,Other Ethnicities,15,15,100%,12,80%,,nan,11,73%,,nan,,nan,7,47%,,nan,,nan
+7,Kilgore,210,SHELBY,Hispanic,101,100,99%,93,92%,5,5%,88,87%,15,15%,35,35%,50,50%,,nan,29,29%
+7,Kilgore,210,SHELBY,White,207,196,95%,188,91%,9,4%,172,83%,34,16%,96,46%,130,63%,,nan,75,36%
+7,Kilgore,210,SHELBY,Other Ethnicities,78,75,96%,65,83%,,nan,62,79%,7,9%,28,36%,35,45%,,nan,8,10%
 7,Kilgore,212,SMITH,African American,577,563,98%,489,85%,63,11%,445,77%,78,14%,239,41%,317,55%,10,2%,84,15%
 7,Kilgore,212,SMITH,Hispanic,729,692,95%,600,82%,74,10%,531,73%,28,4%,259,36%,287,39%,13,2%,125,17%
 7,Kilgore,212,SMITH,White,1233,1165,94%,1067,87%,49,4%,960,78%,232,19%,474,38%,706,57%,56,5%,332,27%
-7,Kilgore,212,SMITH,Others,97,90,93%,79,81%,6,6%,72,74%,24,25%,22,23%,46,47%,*,*,32,33%
-7,Kilgore,230,UPSHUR,African American,60,58,97%,53,88%,*,*,51,85%,15,25%,26,43%,41,68%,*,*,10,17%
-7,Kilgore,230,UPSHUR,Hispanic,52,46,88%,41,79%,*,*,39,75%,*,*,21,40%,24,46%,*,*,11,21%
+7,Kilgore,212,SMITH,Others,97,90,93%,79,81%,6,6%,72,74%,24,25%,22,23%,46,47%,,nan,32,33%
+7,Kilgore,230,UPSHUR,African American,60,58,97%,53,88%,,nan,51,85%,15,25%,26,43%,41,68%,,nan,10,17%
+7,Kilgore,230,UPSHUR,Hispanic,52,46,88%,41,79%,,nan,39,75%,,nan,21,40%,24,46%,,nan,11,21%
 7,Kilgore,230,UPSHUR,White,393,373,95%,341,87%,23,6%,321,82%,63,16%,162,41%,225,57%,8,2%,104,26%
-7,Kilgore,230,UPSHUR,Others,10,10,100%,10,100%,*,*,8,80%,*,*,8,80%,8,80%,*,*,*,*
-7,Kilgore,234,VAN ZANDT,Hispanic,61,59,97%,58,95%,*,*,52,85%,6,10%,22,36%,28,46%,*,*,13,21%
-7,Kilgore,234,VAN ZANDT,White,330,323,98%,297,90%,7,2%,276,84%,51,15%,128,39%,179,54%,*,*,80,24%
-7,Kilgore,234,VAN ZANDT,Other Ethnicities,24,24,100%,20,83%,*,*,16,67%,*,*,7,29%,11,46%,*,*,5,21%
-7,Kilgore,250,WOOD,African American,20,19,95%,18,90%,*,*,16,80%,*,*,7,35%,10,50%,*,*,*,*
-7,Kilgore,250,WOOD,Hispanic,72,70,97%,66,92%,*,*,63,88%,5,7%,23,32%,28,39%,*,*,12,17%
+7,Kilgore,230,UPSHUR,Others,10,10,100%,10,100%,,nan,8,80%,,nan,8,80%,8,80%,,nan,,nan
+7,Kilgore,234,VAN ZANDT,Hispanic,61,59,97%,58,95%,,nan,52,85%,6,10%,22,36%,28,46%,,nan,13,21%
+7,Kilgore,234,VAN ZANDT,White,330,323,98%,297,90%,7,2%,276,84%,51,15%,128,39%,179,54%,,nan,80,24%
+7,Kilgore,234,VAN ZANDT,Other Ethnicities,24,24,100%,20,83%,,nan,16,67%,,nan,7,29%,11,46%,,nan,5,21%
+7,Kilgore,250,WOOD,African American,20,19,95%,18,90%,,nan,16,80%,,nan,7,35%,10,50%,,nan,,nan
+7,Kilgore,250,WOOD,Hispanic,72,70,97%,66,92%,,nan,63,88%,5,7%,23,32%,28,39%,,nan,12,17%
 7,Kilgore,250,WOOD,White,331,318,96%,289,87%,13,4%,263,79%,51,15%,104,31%,155,47%,11,3%,75,23%
-7,Kilgore,250,WOOD,Others,17,17,100%,15,88%,*,*,15,88%,*,*,6,35%,9,53%,*,*,7,41%
+7,Kilgore,250,WOOD,Others,17,17,100%,15,88%,,nan,15,88%,,nan,6,35%,9,53%,,nan,7,41%
 8,Mt. Pleasant,19,BOWIE,African American,363,339,93%,293,81%,32,9%,270,74%,46,13%,111,31%,157,43%,10,3%,37,10%
-8,Mt. Pleasant,19,BOWIE,Hispanic,94,90,96%,83,88%,*,*,80,85%,12,13%,31,33%,43,46%,*,*,20,21%
+8,Mt. Pleasant,19,BOWIE,Hispanic,94,90,96%,83,88%,,nan,80,85%,12,13%,31,33%,43,46%,,nan,20,21%
 8,Mt. Pleasant,19,BOWIE,White,708,659,93%,618,87%,17,2%,553,78%,108,15%,244,34%,352,50%,19,3%,178,25%
-8,Mt. Pleasant,19,BOWIE,Others,90,84,93%,83,92%,*,*,75,83%,16,18%,26,29%,42,47%,*,*,17,19%
-8,Mt. Pleasant,32,CAMP,African American,37,36,97%,32,86%,*,*,32,86%,9,24%,14,38%,23,62%,*,*,6,16%
-8,Mt. Pleasant,32,CAMP,Hispanic,79,77,97%,70,89%,5,6%,68,86%,*,*,32,41%,35,44%,*,*,18,23%
-8,Mt. Pleasant,32,CAMP,White,61,59,97%,55,90%,*,*,46,75%,7,11%,24,39%,31,51%,*,*,14,23%
-8,Mt. Pleasant,32,CAMP,Others,12,10,83%,12,100%,*,*,11,92%,*,*,8,67%,8,67%,*,*,*,*
-8,Mt. Pleasant,34,CASS,African American,80,78,98%,72,90%,*,*,68,85%,5,6%,32,40%,37,46%,*,*,10,13%
-8,Mt. Pleasant,34,CASS,Hispanic,20,20,100%,19,95%,*,*,18,90%,*,*,6,30%,9,45%,*,*,*,*
-8,Mt. Pleasant,34,CASS,White,304,287,94%,277,91%,8,3%,246,81%,58,19%,105,35%,163,54%,*,*,86,28%
-8,Mt. Pleasant,34,CASS,Others,14,14,100%,13,93%,*,*,13,93%,*,*,8,57%,8,57%,*,*,*,*
-8,Mt. Pleasant,60,DELTA,Hispanic,8,8,100%,8,100%,*,*,6,75%,*,*,*,*,5,63%,*,*,*,*
-8,Mt. Pleasant,60,DELTA,White,46,43,93%,40,87%,*,*,36,78%,*,*,20,43%,23,50%,*,*,11,24%
-8,Mt. Pleasant,60,DELTA,Other Ethnicities,11,10,91%,9,82%,*,*,9,82%,*,*,*,*,5,45%,*,*,*,*
-8,Mt. Pleasant,80,FRANKLIN,White,75,73,97%,67,89%,*,*,60,80%,22,29%,22,29%,44,59%,*,*,24,32%
-8,Mt. Pleasant,80,FRANKLIN,Other Ethnicities,30,30,100%,30,100%,*,*,26,87%,*,*,12,40%,14,47%,*,*,10,33%
-8,Mt. Pleasant,112,HOPKINS,Hispanic,106,105,99%,98,92%,*,*,96,91%,16,15%,41,39%,57,54%,*,*,32,30%
+8,Mt. Pleasant,19,BOWIE,Others,90,84,93%,83,92%,,nan,75,83%,16,18%,26,29%,42,47%,,nan,17,19%
+8,Mt. Pleasant,32,CAMP,African American,37,36,97%,32,86%,,nan,32,86%,9,24%,14,38%,23,62%,,nan,6,16%
+8,Mt. Pleasant,32,CAMP,Hispanic,79,77,97%,70,89%,5,6%,68,86%,,nan,32,41%,35,44%,,nan,18,23%
+8,Mt. Pleasant,32,CAMP,White,61,59,97%,55,90%,,nan,46,75%,7,11%,24,39%,31,51%,,nan,14,23%
+8,Mt. Pleasant,32,CAMP,Others,12,10,83%,12,100%,,nan,11,92%,,nan,8,67%,8,67%,,nan,,nan
+8,Mt. Pleasant,34,CASS,African American,80,78,98%,72,90%,,nan,68,85%,5,6%,32,40%,37,46%,,nan,10,13%
+8,Mt. Pleasant,34,CASS,Hispanic,20,20,100%,19,95%,,nan,18,90%,,nan,6,30%,9,45%,,nan,,nan
+8,Mt. Pleasant,34,CASS,White,304,287,94%,277,91%,8,3%,246,81%,58,19%,105,35%,163,54%,,nan,86,28%
+8,Mt. Pleasant,34,CASS,Others,14,14,100%,13,93%,,nan,13,93%,,nan,8,57%,8,57%,,nan,,nan
+8,Mt. Pleasant,60,DELTA,Hispanic,8,8,100%,8,100%,,nan,6,75%,,nan,,nan,5,63%,,nan,,nan
+8,Mt. Pleasant,60,DELTA,White,46,43,93%,40,87%,,nan,36,78%,,nan,20,43%,23,50%,,nan,11,24%
+8,Mt. Pleasant,60,DELTA,Other Ethnicities,11,10,91%,9,82%,,nan,9,82%,,nan,,nan,5,45%,,nan,,nan
+8,Mt. Pleasant,80,FRANKLIN,White,75,73,97%,67,89%,,nan,60,80%,22,29%,22,29%,44,59%,,nan,24,32%
+8,Mt. Pleasant,80,FRANKLIN,Other Ethnicities,30,30,100%,30,100%,,nan,26,87%,,nan,12,40%,14,47%,,nan,10,33%
+8,Mt. Pleasant,112,HOPKINS,Hispanic,106,105,99%,98,92%,,nan,96,91%,16,15%,41,39%,57,54%,,nan,32,30%
 8,Mt. Pleasant,112,HOPKINS,White,289,275,95%,244,84%,20,7%,229,79%,56,19%,89,31%,145,50%,9,3%,61,21%
-8,Mt. Pleasant,112,HOPKINS,Other Ethnicities,40,38,95%,37,93%,*,*,34,85%,8,20%,14,35%,22,55%,*,*,9,23%
-8,Mt. Pleasant,139,LAMAR,African American,116,113,97%,92,79%,15,13%,85,73%,12,10%,54,47%,66,57%,*,*,19,16%
-8,Mt. Pleasant,139,LAMAR,Hispanic,64,61,95%,54,84%,5,8%,52,81%,*,*,26,41%,28,44%,*,*,13,20%
+8,Mt. Pleasant,112,HOPKINS,Other Ethnicities,40,38,95%,37,93%,,nan,34,85%,8,20%,14,35%,22,55%,,nan,9,23%
+8,Mt. Pleasant,139,LAMAR,African American,116,113,97%,92,79%,15,13%,85,73%,12,10%,54,47%,66,57%,,nan,19,16%
+8,Mt. Pleasant,139,LAMAR,Hispanic,64,61,95%,54,84%,5,8%,52,81%,,nan,26,41%,28,44%,,nan,13,20%
 8,Mt. Pleasant,139,LAMAR,White,439,420,96%,373,85%,26,6%,353,80%,61,14%,159,36%,220,50%,11,3%,105,24%
-8,Mt. Pleasant,139,LAMAR,Others,20,18,90%,14,70%,*,*,13,65%,*,*,6,30%,9,45%,*,*,*,*
-8,Mt. Pleasant,155,MARION,White,45,40,89%,38,84%,*,*,33,73%,12,27%,11,24%,23,51%,*,*,10,22%
-8,Mt. Pleasant,155,MARION,Other Ethnicities,49,47,96%,46,94%,*,*,42,86%,11,22%,16,33%,27,55%,*,*,9,18%
-8,Mt. Pleasant,172,MORRIS,African American,54,51,94%,51,94%,*,*,47,87%,7,13%,27,50%,34,63%,*,*,5,9%
-8,Mt. Pleasant,172,MORRIS,White,92,87,95%,83,90%,*,*,78,85%,10,11%,31,34%,41,45%,*,*,20,22%
-8,Mt. Pleasant,172,MORRIS,Other Ethnicities,24,23,96%,20,83%,*,*,20,83%,*,*,7,29%,9,38%,*,*,*,*
-8,Mt. Pleasant,194,RED RIVER,African American,33,31,94%,31,94%,*,*,29,88%,9,27%,7,21%,16,48%,*,*,5,15%
-8,Mt. Pleasant,194,RED RIVER,White,111,107,96%,104,94%,*,*,93,84%,16,14%,40,36%,56,50%,*,*,29,26%
-8,Mt. Pleasant,194,RED RIVER,Other Ethnicities,28,25,89%,25,89%,*,*,21,75%,*,*,10,36%,13,46%,*,*,7,25%
-8,Mt. Pleasant,225,TITUS,Hispanic,289,270,93%,241,83%,26,9%,254,88%,14,5%,138,48%,152,53%,*,*,83,29%
+8,Mt. Pleasant,139,LAMAR,Others,20,18,90%,14,70%,,nan,13,65%,,nan,6,30%,9,45%,,nan,,nan
+8,Mt. Pleasant,155,MARION,White,45,40,89%,38,84%,,nan,33,73%,12,27%,11,24%,23,51%,,nan,10,22%
+8,Mt. Pleasant,155,MARION,Other Ethnicities,49,47,96%,46,94%,,nan,42,86%,11,22%,16,33%,27,55%,,nan,9,18%
+8,Mt. Pleasant,172,MORRIS,African American,54,51,94%,51,94%,,nan,47,87%,7,13%,27,50%,34,63%,,nan,5,9%
+8,Mt. Pleasant,172,MORRIS,White,92,87,95%,83,90%,,nan,78,85%,10,11%,31,34%,41,45%,,nan,20,22%
+8,Mt. Pleasant,172,MORRIS,Other Ethnicities,24,23,96%,20,83%,,nan,20,83%,,nan,7,29%,9,38%,,nan,,nan
+8,Mt. Pleasant,194,RED RIVER,African American,33,31,94%,31,94%,,nan,29,88%,9,27%,7,21%,16,48%,,nan,5,15%
+8,Mt. Pleasant,194,RED RIVER,White,111,107,96%,104,94%,,nan,93,84%,16,14%,40,36%,56,50%,,nan,29,26%
+8,Mt. Pleasant,194,RED RIVER,Other Ethnicities,28,25,89%,25,89%,,nan,21,75%,,nan,10,36%,13,46%,,nan,7,25%
+8,Mt. Pleasant,225,TITUS,Hispanic,289,270,93%,241,83%,26,9%,254,88%,14,5%,138,48%,152,53%,,nan,83,29%
 8,Mt. Pleasant,225,TITUS,White,135,127,94%,114,84%,9,7%,105,78%,28,21%,54,40%,82,61%,7,5%,35,26%
-8,Mt. Pleasant,225,TITUS,Other Ethnicities,59,57,97%,52,88%,*,*,51,86%,12,20%,21,36%,33,56%,*,*,9,15%
-9,Wichita Falls,5,ARCHER,White,124,119,96%,116,94%,*,*,112,90%,48,39%,44,35%,92,74%,*,*,51,41%
-9,Wichita Falls,5,ARCHER,Other Ethnicities,19,16,84%,16,84%,*,*,14,74%,*,*,5,26%,9,47%,*,*,*,*
-9,Wichita Falls,12,BAYLOR,White,28,28,100%,27,96%,*,*,26,93%,12,43%,6,21%,18,64%,*,*,13,46%
-9,Wichita Falls,12,BAYLOR,Other Ethnicities,9,9,100%,9,100%,*,*,8,89%,*,*,*,*,5,56%,*,*,*,*
-9,Wichita Falls,39,CLAY,Hispanic,8,7,88%,6,75%,*,*,6,75%,*,*,*,*,*,*,*,*,*,*
-9,Wichita Falls,39,CLAY,White,119,109,92%,106,89%,*,*,102,86%,24,20%,39,33%,63,53%,*,*,24,20%
-9,Wichita Falls,39,CLAY,Other Ethnicities,10,8,80%,8,80%,*,*,7,70%,*,*,5,50%,6,60%,*,*,*,*
-9,Wichita Falls,78,FOARD,White,8,8,100%,8,100%,*,*,8,100%,*,*,*,*,6,75%,*,*,5,63%
-9,Wichita Falls,78,FOARD,Other Ethnicities,6,6,100%,5,83%,*,*,5,83%,*,*,*,*,5,83%,*,*,*,*
-9,Wichita Falls,99,HARDEMAN,White,38,37,97%,35,92%,*,*,30,79%,6,16%,16,42%,22,58%,*,*,13,34%
-9,Wichita Falls,99,HARDEMAN,Other Ethnicities,21,20,95%,19,90%,*,*,18,86%,*,*,5,24%,9,43%,*,*,*,*
-9,Wichita Falls,119,JACK,White,91,91,100%,82,90%,*,*,78,86%,19,21%,26,29%,45,49%,*,*,24,26%
-9,Wichita Falls,119,JACK,Other Ethnicities,25,24,96%,22,88%,*,*,21,84%,*,*,7,28%,10,40%,*,*,*,*
-9,Wichita Falls,138,KNOX,White,26,24,92%,23,88%,*,*,22,85%,13,50%,8,31%,21,81%,*,*,11,42%
-9,Wichita Falls,138,KNOX,Other Ethnicities,27,27,100%,24,89%,*,*,19,70%,*,*,6,22%,10,37%,*,*,6,22%
-9,Wichita Falls,169,MONTAGUE,Hispanic,37,37,100%,35,95%,*,*,33,89%,7,19%,11,30%,18,49%,*,*,7,19%
-9,Wichita Falls,169,MONTAGUE,White,181,177,98%,164,91%,5,3%,154,85%,45,25%,49,27%,94,52%,*,*,56,31%
-9,Wichita Falls,169,MONTAGUE,Other Ethnicities,8,8,100%,7,88%,*,*,8,100%,*,*,*,*,5,63%,*,*,*,*
-9,Wichita Falls,224,THROCKMORTON,All Ethnicities,22,21,95%,19,86%,*,*,20,91%,6,27%,8,36%,14,64%,*,*,6,27%
-9,Wichita Falls,243,WICHITA,African American,180,174,97%,156,87%,10,6%,146,81%,41,23%,42,23%,83,46%,*,*,30,17%
+8,Mt. Pleasant,225,TITUS,Other Ethnicities,59,57,97%,52,88%,,nan,51,86%,12,20%,21,36%,33,56%,,nan,9,15%
+9,Wichita Falls,5,ARCHER,White,124,119,96%,116,94%,,nan,112,90%,48,39%,44,35%,92,74%,,nan,51,41%
+9,Wichita Falls,5,ARCHER,Other Ethnicities,19,16,84%,16,84%,,nan,14,74%,,nan,5,26%,9,47%,,nan,,nan
+9,Wichita Falls,12,BAYLOR,White,28,28,100%,27,96%,,nan,26,93%,12,43%,6,21%,18,64%,,nan,13,46%
+9,Wichita Falls,12,BAYLOR,Other Ethnicities,9,9,100%,9,100%,,nan,8,89%,,nan,,nan,5,56%,,nan,,nan
+9,Wichita Falls,39,CLAY,Hispanic,8,7,88%,6,75%,,nan,6,75%,,nan,,nan,,nan,,nan,,nan
+9,Wichita Falls,39,CLAY,White,119,109,92%,106,89%,,nan,102,86%,24,20%,39,33%,63,53%,,nan,24,20%
+9,Wichita Falls,39,CLAY,Other Ethnicities,10,8,80%,8,80%,,nan,7,70%,,nan,5,50%,6,60%,,nan,,nan
+9,Wichita Falls,78,FOARD,White,8,8,100%,8,100%,,nan,8,100%,,nan,,nan,6,75%,,nan,5,63%
+9,Wichita Falls,78,FOARD,Other Ethnicities,6,6,100%,5,83%,,nan,5,83%,,nan,,nan,5,83%,,nan,,nan
+9,Wichita Falls,99,HARDEMAN,White,38,37,97%,35,92%,,nan,30,79%,6,16%,16,42%,22,58%,,nan,13,34%
+9,Wichita Falls,99,HARDEMAN,Other Ethnicities,21,20,95%,19,90%,,nan,18,86%,,nan,5,24%,9,43%,,nan,,nan
+9,Wichita Falls,119,JACK,White,91,91,100%,82,90%,,nan,78,86%,19,21%,26,29%,45,49%,,nan,24,26%
+9,Wichita Falls,119,JACK,Other Ethnicities,25,24,96%,22,88%,,nan,21,84%,,nan,7,28%,10,40%,,nan,,nan
+9,Wichita Falls,138,KNOX,White,26,24,92%,23,88%,,nan,22,85%,13,50%,8,31%,21,81%,,nan,11,42%
+9,Wichita Falls,138,KNOX,Other Ethnicities,27,27,100%,24,89%,,nan,19,70%,,nan,6,22%,10,37%,,nan,6,22%
+9,Wichita Falls,169,MONTAGUE,Hispanic,37,37,100%,35,95%,,nan,33,89%,7,19%,11,30%,18,49%,,nan,7,19%
+9,Wichita Falls,169,MONTAGUE,White,181,177,98%,164,91%,5,3%,154,85%,45,25%,49,27%,94,52%,,nan,56,31%
+9,Wichita Falls,169,MONTAGUE,Other Ethnicities,8,8,100%,7,88%,,nan,8,100%,,nan,,nan,5,63%,,nan,,nan
+9,Wichita Falls,224,THROCKMORTON,All Ethnicities,22,21,95%,19,86%,,nan,20,91%,6,27%,8,36%,14,64%,,nan,6,27%
+9,Wichita Falls,243,WICHITA,African American,180,174,97%,156,87%,10,6%,146,81%,41,23%,42,23%,83,46%,,nan,30,17%
 9,Wichita Falls,243,WICHITA,Hispanic,383,362,95%,320,84%,28,7%,311,81%,57,15%,101,26%,158,41%,5,1%,46,12%
 9,Wichita Falls,243,WICHITA,White,849,801,94%,738,87%,35,4%,682,80%,198,23%,201,24%,399,47%,16,2%,160,19%
-9,Wichita Falls,243,WICHITA,Others,101,93,92%,87,86%,*,*,87,86%,38,38%,26,26%,64,63%,*,*,28,28%
-9,Wichita Falls,244,WILBARGER,Hispanic,74,69,93%,61,82%,8,11%,55,74%,5,7%,27,36%,32,43%,*,*,14,19%
-9,Wichita Falls,244,WILBARGER,White,90,82,91%,76,84%,*,*,70,78%,16,18%,34,38%,50,56%,*,*,29,32%
-9,Wichita Falls,244,WILBARGER,Other Ethnicities,19,18,95%,17,89%,*,*,16,84%,*,*,6,32%,8,42%,*,*,5,26%
-9,Wichita Falls,252,YOUNG,White,187,181,97%,163,87%,16,9%,158,84%,60,32%,37,20%,97,52%,*,*,46,25%
-9,Wichita Falls,252,YOUNG,Other Ethnicities,64,59,92%,52,81%,10,16%,58,91%,9,14%,21,33%,30,47%,*,*,12,19%
+9,Wichita Falls,243,WICHITA,Others,101,93,92%,87,86%,,nan,87,86%,38,38%,26,26%,64,63%,,nan,28,28%
+9,Wichita Falls,244,WILBARGER,Hispanic,74,69,93%,61,82%,8,11%,55,74%,5,7%,27,36%,32,43%,,nan,14,19%
+9,Wichita Falls,244,WILBARGER,White,90,82,91%,76,84%,,nan,70,78%,16,18%,34,38%,50,56%,,nan,29,32%
+9,Wichita Falls,244,WILBARGER,Other Ethnicities,19,18,95%,17,89%,,nan,16,84%,,nan,6,32%,8,42%,,nan,5,26%
+9,Wichita Falls,252,YOUNG,White,187,181,97%,163,87%,16,9%,158,84%,60,32%,37,20%,97,52%,,nan,46,25%
+9,Wichita Falls,252,YOUNG,Other Ethnicities,64,59,92%,52,81%,10,16%,58,91%,9,14%,21,33%,30,47%,,nan,12,19%
 10,Richardson,43,COLLIN,African American,1429,1356,95%,1249,87%,70,5%,1212,85%,337,24%,501,35%,838,59%,44,3%,297,21%
 10,Richardson,43,COLLIN,Hispanic,2470,2377,96%,2183,88%,165,7%,2111,85%,353,14%,880,36%,1233,50%,42,2%,502,20%
 10,Richardson,43,COLLIN,White,7159,6841,96%,6552,92%,131,2%,6240,87%,1990,28%,2495,35%,4485,63%,227,3%,2280,32%
@@ -309,147 +309,147 @@
 10,Richardson,70,ELLIS,African American,280,275,98%,246,88%,22,8%,242,86%,68,24%,99,35%,167,60%,7,3%,52,19%
 10,Richardson,70,ELLIS,Hispanic,779,753,97%,673,86%,58,7%,662,85%,82,11%,325,42%,407,52%,11,1%,165,21%
 10,Richardson,70,ELLIS,White,1264,1219,96%,1116,88%,85,7%,1053,83%,318,25%,451,36%,769,61%,33,3%,402,32%
-10,Richardson,70,ELLIS,Others,79,76,96%,68,86%,6,8%,65,82%,19,24%,32,41%,51,65%,*,*,24,30%
-10,Richardson,74,FANNIN,African American,20,20,100%,19,95%,*,*,16,80%,*,*,6,30%,8,40%,*,*,*,*
-10,Richardson,74,FANNIN,Hispanic,39,36,92%,32,82%,*,*,32,82%,5,13%,15,38%,20,51%,*,*,*,*
-10,Richardson,74,FANNIN,White,295,284,96%,275,93%,*,*,247,84%,44,15%,101,34%,145,49%,8,3%,65,22%
-10,Richardson,74,FANNIN,Others,19,19,100%,18,95%,*,*,17,89%,*,*,8,42%,11,58%,*,*,5,26%
+10,Richardson,70,ELLIS,Others,79,76,96%,68,86%,6,8%,65,82%,19,24%,32,41%,51,65%,,nan,24,30%
+10,Richardson,74,FANNIN,African American,20,20,100%,19,95%,,nan,16,80%,,nan,6,30%,8,40%,,nan,,nan
+10,Richardson,74,FANNIN,Hispanic,39,36,92%,32,82%,,nan,32,82%,5,13%,15,38%,20,51%,,nan,,nan
+10,Richardson,74,FANNIN,White,295,284,96%,275,93%,,nan,247,84%,44,15%,101,34%,145,49%,8,3%,65,22%
+10,Richardson,74,FANNIN,Others,19,19,100%,18,95%,,nan,17,89%,,nan,8,42%,11,58%,,nan,5,26%
 10,Richardson,91,GRAYSON,African American,130,123,95%,108,83%,12,9%,96,74%,17,13%,42,32%,59,45%,6,5%,16,12%
-10,Richardson,91,GRAYSON,Hispanic,267,253,95%,226,85%,18,7%,212,79%,19,7%,83,31%,102,38%,*,*,47,18%
+10,Richardson,91,GRAYSON,Hispanic,267,253,95%,226,85%,18,7%,212,79%,19,7%,83,31%,102,38%,,nan,47,18%
 10,Richardson,91,GRAYSON,White,1135,1074,95%,972,86%,55,5%,902,79%,184,16%,424,37%,608,54%,32,3%,251,22%
-10,Richardson,91,GRAYSON,Others,109,105,96%,95,87%,*,*,87,80%,19,17%,35,32%,54,50%,*,*,25,23%
-10,Richardson,116,HUNT,African American,100,98,98%,88,88%,6,6%,80,80%,16,16%,25,25%,41,41%,*,*,7,7%
-10,Richardson,116,HUNT,Hispanic,228,219,96%,207,91%,13,6%,189,83%,22,10%,60,26%,82,36%,*,*,32,14%
+10,Richardson,91,GRAYSON,Others,109,105,96%,95,87%,,nan,87,80%,19,17%,35,32%,54,50%,,nan,25,23%
+10,Richardson,116,HUNT,African American,100,98,98%,88,88%,6,6%,80,80%,16,16%,25,25%,41,41%,,nan,7,7%
+10,Richardson,116,HUNT,Hispanic,228,219,96%,207,91%,13,6%,189,83%,22,10%,60,26%,82,36%,,nan,32,14%
 10,Richardson,116,HUNT,White,702,668,95%,627,89%,20,3%,580,83%,158,23%,182,26%,340,48%,19,3%,154,22%
-10,Richardson,116,HUNT,Others,41,38,93%,33,80%,*,*,25,61%,9,22%,11,27%,20,49%,*,*,10,24%
+10,Richardson,116,HUNT,Others,41,38,93%,33,80%,,nan,25,61%,9,22%,11,27%,20,49%,,nan,10,24%
 10,Richardson,129,KAUFMAN,African American,197,191,97%,182,92%,6,3%,168,85%,56,28%,65,33%,121,61%,7,4%,34,17%
 10,Richardson,129,KAUFMAN,Hispanic,476,461,97%,421,88%,28,6%,350,74%,63,13%,160,34%,223,47%,29,6%,88,18%
 10,Richardson,129,KAUFMAN,White,1166,1123,96%,1051,90%,44,4%,864,74%,236,20%,388,33%,624,54%,106,9%,290,25%
-10,Richardson,129,KAUFMAN,Others,69,66,96%,63,91%,*,*,58,84%,20,29%,24,35%,44,64%,*,*,19,28%
-10,Richardson,199,ROCKWALL,African American,95,88,93%,80,84%,6,6%,78,82%,29,31%,33,35%,62,65%,*,*,26,27%
+10,Richardson,129,KAUFMAN,Others,69,66,96%,63,91%,,nan,58,84%,20,29%,24,35%,44,64%,,nan,19,28%
+10,Richardson,199,ROCKWALL,African American,95,88,93%,80,84%,6,6%,78,82%,29,31%,33,35%,62,65%,,nan,26,27%
 10,Richardson,199,ROCKWALL,Hispanic,324,313,97%,278,86%,32,10%,289,89%,51,16%,128,40%,179,55%,5,2%,66,20%
 10,Richardson,199,ROCKWALL,White,946,925,98%,864,91%,35,4%,822,87%,289,31%,311,33%,600,63%,41,4%,301,32%
-10,Richardson,199,ROCKWALL,Others,95,90,95%,81,85%,7,7%,79,83%,35,37%,27,28%,62,65%,*,*,36,38%
-10,Richardson,234,VAN ZANDT,African American,13,12,92%,11,85%,*,*,11,85%,*,*,*,*,5,38%,*,*,*,*
-10,Richardson,234,VAN ZANDT,Hispanic,36,34,94%,30,83%,*,*,29,81%,*,*,10,28%,13,36%,*,*,8,22%
+10,Richardson,199,ROCKWALL,Others,95,90,95%,81,85%,7,7%,79,83%,35,37%,27,28%,62,65%,,nan,36,38%
+10,Richardson,234,VAN ZANDT,African American,13,12,92%,11,85%,,nan,11,85%,,nan,,nan,5,38%,,nan,,nan
+10,Richardson,234,VAN ZANDT,Hispanic,36,34,94%,30,83%,,nan,29,81%,,nan,10,28%,13,36%,,nan,8,22%
 10,Richardson,234,VAN ZANDT,White,272,266,98%,233,86%,22,8%,215,79%,55,20%,82,30%,137,50%,8,3%,67,25%
-10,Richardson,234,VAN ZANDT,Others,14,13,93%,12,86%,*,*,12,86%,*,*,*,*,6,43%,*,*,*,*
-11,Fort Worth,49,COOKE,Hispanic,120,119,99%,111,93%,7,6%,95,79%,7,6%,29,24%,36,30%,*,*,16,13%
-11,Fort Worth,49,COOKE,White,311,295,95%,275,88%,8,3%,260,84%,61,20%,123,40%,184,59%,*,*,93,30%
-11,Fort Worth,49,COOKE,Other Ethnicities,35,33,94%,28,80%,*,*,24,69%,5,14%,11,31%,16,46%,*,*,6,17%
+10,Richardson,234,VAN ZANDT,Others,14,13,93%,12,86%,,nan,12,86%,,nan,,nan,6,43%,,nan,,nan
+11,Fort Worth,49,COOKE,Hispanic,120,119,99%,111,93%,7,6%,95,79%,7,6%,29,24%,36,30%,,nan,16,13%
+11,Fort Worth,49,COOKE,White,311,295,95%,275,88%,8,3%,260,84%,61,20%,123,40%,184,59%,,nan,93,30%
+11,Fort Worth,49,COOKE,Other Ethnicities,35,33,94%,28,80%,,nan,24,69%,5,14%,11,31%,16,46%,,nan,6,17%
 11,Fort Worth,61,DENTON,African American,759,729,96%,671,88%,40,5%,637,84%,160,21%,246,32%,406,53%,17,2%,129,17%
 11,Fort Worth,61,DENTON,Hispanic,2157,2078,96%,1903,88%,145,7%,1857,86%,296,14%,632,29%,928,43%,27,1%,339,16%
 11,Fort Worth,61,DENTON,White,4899,4705,96%,4425,90%,166,3%,4234,86%,1358,28%,1468,30%,2826,58%,112,2%,1394,28%
 11,Fort Worth,61,DENTON,Others,766,723,94%,690,90%,24,3%,667,87%,297,39%,159,21%,456,60%,15,2%,265,35%
-11,Fort Worth,72,ERATH,African American,27,21,78%,12,44%,8,30%,16,59%,*,*,8,30%,10,37%,*,*,*,*
+11,Fort Worth,72,ERATH,African American,27,21,78%,12,44%,8,30%,16,59%,,nan,8,30%,10,37%,,nan,,nan
 11,Fort Worth,72,ERATH,Hispanic,232,206,89%,149,64%,58,25%,153,66%,31,13%,51,22%,82,35%,11,5%,36,16%
 11,Fort Worth,72,ERATH,White,342,315,92%,253,74%,46,13%,239,70%,106,31%,80,23%,186,54%,15,4%,93,27%
-11,Fort Worth,72,ERATH,Others,10,9,90%,7,70%,*,*,6,60%,*,*,*,*,5,50%,*,*,*,*
+11,Fort Worth,72,ERATH,Others,10,9,90%,7,70%,,nan,6,60%,,nan,,nan,5,50%,,nan,,nan
 11,Fort Worth,111,HOOD,White,486,466,96%,434,89%,18,4%,403,83%,131,27%,117,24%,248,51%,9,2%,105,22%
-11,Fort Worth,111,HOOD,Other Ethnicities,120,115,96%,107,89%,5,4%,99,83%,21,18%,36,30%,57,48%,*,*,30,25%
+11,Fort Worth,111,HOOD,Other Ethnicities,120,115,96%,107,89%,5,4%,99,83%,21,18%,36,30%,57,48%,,nan,30,25%
 11,Fort Worth,126,JOHNSON,African American,82,78,95%,66,80%,12,15%,60,73%,10,12%,30,37%,40,49%,5,6%,13,16%
 11,Fort Worth,126,JOHNSON,Hispanic,653,626,96%,529,81%,84,13%,528,81%,72,11%,196,30%,268,41%,10,2%,93,14%
 11,Fort Worth,126,JOHNSON,White,1617,1542,95%,1421,88%,106,7%,1374,85%,356,22%,528,33%,884,55%,29,2%,418,26%
-11,Fort Worth,126,JOHNSON,Others,108,103,95%,94,87%,7,6%,92,85%,22,20%,37,34%,59,55%,*,*,25,23%
-11,Fort Worth,182,PALO PINTO,Hispanic,119,116,97%,107,90%,7,6%,99,83%,12,10%,40,34%,52,44%,*,*,21,18%
-11,Fort Worth,182,PALO PINTO,White,235,221,94%,191,81%,24,10%,171,73%,41,17%,55,23%,96,41%,*,*,47,20%
-11,Fort Worth,182,PALO PINTO,Other Ethnicities,19,18,95%,14,74%,*,*,16,84%,*,*,*,*,5,26%,*,*,*,*
-11,Fort Worth,184,PARKER,African American,22,22,100%,20,91%,*,*,17,77%,*,*,9,41%,13,59%,*,*,6,27%
-11,Fort Worth,184,PARKER,Hispanic,207,198,96%,182,88%,12,6%,174,84%,22,11%,71,34%,93,45%,*,*,31,15%
+11,Fort Worth,126,JOHNSON,Others,108,103,95%,94,87%,7,6%,92,85%,22,20%,37,34%,59,55%,,nan,25,23%
+11,Fort Worth,182,PALO PINTO,Hispanic,119,116,97%,107,90%,7,6%,99,83%,12,10%,40,34%,52,44%,,nan,21,18%
+11,Fort Worth,182,PALO PINTO,White,235,221,94%,191,81%,24,10%,171,73%,41,17%,55,23%,96,41%,,nan,47,20%
+11,Fort Worth,182,PALO PINTO,Other Ethnicities,19,18,95%,14,74%,,nan,16,84%,,nan,,nan,5,26%,,nan,,nan
+11,Fort Worth,184,PARKER,African American,22,22,100%,20,91%,,nan,17,77%,,nan,9,41%,13,59%,,nan,6,27%
+11,Fort Worth,184,PARKER,Hispanic,207,198,96%,182,88%,12,6%,174,84%,22,11%,71,34%,93,45%,,nan,31,15%
 11,Fort Worth,184,PARKER,White,1151,1098,95%,1016,88%,49,4%,937,81%,278,24%,390,34%,668,58%,42,4%,345,30%
-11,Fort Worth,184,PARKER,Others,45,45,100%,40,89%,*,*,35,78%,8,18%,22,49%,30,67%,*,*,9,20%
-11,Fort Worth,213,SOMERVELL,White,101,98,97%,91,90%,5,5%,81,80%,40,40%,24,24%,64,63%,*,*,40,40%
-11,Fort Worth,213,SOMERVELL,Other Ethnicities,34,34,100%,31,91%,*,*,31,91%,8,24%,8,24%,16,47%,*,*,8,24%
+11,Fort Worth,184,PARKER,Others,45,45,100%,40,89%,,nan,35,78%,8,18%,22,49%,30,67%,,nan,9,20%
+11,Fort Worth,213,SOMERVELL,White,101,98,97%,91,90%,5,5%,81,80%,40,40%,24,24%,64,63%,,nan,40,40%
+11,Fort Worth,213,SOMERVELL,Other Ethnicities,34,34,100%,31,91%,,nan,31,91%,8,24%,8,24%,16,47%,,nan,8,24%
 11,Fort Worth,220,TARRANT,African American,4675,4452,95%,3716,79%,591,13%,3606,77%,1067,23%,1374,29%,2441,52%,113,2%,727,16%
 11,Fort Worth,220,TARRANT,Hispanic,9090,8744,96%,7394,81%,1161,13%,7145,79%,1185,13%,2756,30%,3941,43%,126,1%,1405,15%
 11,Fort Worth,220,TARRANT,White,9271,8826,95%,8103,87%,522,6%,7627,82%,2454,26%,2908,31%,5362,58%,298,3%,2474,27%
 11,Fort Worth,220,TARRANT,Others,1982,1899,96%,1793,90%,86,4%,1725,87%,746,38%,553,28%,1299,66%,36,2%,690,35%
-11,Fort Worth,249,WISE,Hispanic,183,178,97%,161,88%,10,5%,151,83%,22,12%,39,21%,61,33%,*,*,26,14%
+11,Fort Worth,249,WISE,Hispanic,183,178,97%,161,88%,10,5%,151,83%,22,12%,39,21%,61,33%,,nan,26,14%
 11,Fort Worth,249,WISE,White,484,470,97%,447,92%,9,2%,404,83%,121,25%,149,31%,270,56%,13,3%,126,26%
-11,Fort Worth,249,WISE,Other Ethnicities,26,23,88%,24,92%,*,*,22,85%,6,23%,5,19%,11,42%,*,*,6,23%
+11,Fort Worth,249,WISE,Other Ethnicities,26,23,88%,24,92%,,nan,22,85%,6,23%,5,19%,11,42%,,nan,6,23%
 12,Waco,14,BELL,African American,1207,1077,89%,861,71%,161,13%,866,72%,200,17%,404,33%,604,50%,42,3%,142,12%
 12,Waco,14,BELL,Hispanic,1264,1152,91%,929,74%,180,14%,928,73%,148,12%,391,31%,539,43%,36,3%,175,14%
 12,Waco,14,BELL,White,1671,1496,90%,1270,76%,132,8%,1230,74%,379,23%,484,29%,863,52%,46,3%,416,25%
 12,Waco,14,BELL,Others,387,340,88%,276,71%,43,11%,267,69%,77,20%,104,27%,181,47%,18,5%,82,21%
-12,Waco,18,BOSQUE,Hispanic,61,58,95%,54,89%,*,*,51,84%,*,*,23,38%,25,41%,*,*,12,20%
-12,Waco,18,BOSQUE,White,153,146,95%,138,90%,*,*,136,89%,43,28%,51,33%,94,61%,*,*,45,29%
-12,Waco,18,BOSQUE,Other Ethnicities,11,11,100%,11,100%,*,*,10,91%,*,*,5,45%,7,64%,*,*,*,*
-12,Waco,50,CORYELL,African American,117,113,97%,100,85%,*,*,89,76%,24,21%,39,33%,63,54%,*,*,21,18%
-12,Waco,50,CORYELL,Hispanic,156,147,94%,132,85%,10,6%,124,79%,20,13%,53,34%,73,47%,*,*,27,17%
+12,Waco,18,BOSQUE,Hispanic,61,58,95%,54,89%,,nan,51,84%,,nan,23,38%,25,41%,,nan,12,20%
+12,Waco,18,BOSQUE,White,153,146,95%,138,90%,,nan,136,89%,43,28%,51,33%,94,61%,,nan,45,29%
+12,Waco,18,BOSQUE,Other Ethnicities,11,11,100%,11,100%,,nan,10,91%,,nan,5,45%,7,64%,,nan,,nan
+12,Waco,50,CORYELL,African American,117,113,97%,100,85%,,nan,89,76%,24,21%,39,33%,63,54%,,nan,21,18%
+12,Waco,50,CORYELL,Hispanic,156,147,94%,132,85%,10,6%,124,79%,20,13%,53,34%,73,47%,,nan,27,17%
 12,Waco,50,CORYELL,White,453,414,91%,381,84%,14,3%,335,74%,81,18%,136,30%,217,48%,13,3%,80,18%
-12,Waco,50,CORYELL,Others,62,57,92%,48,77%,5,8%,45,73%,11,18%,19,31%,30,48%,*,*,13,21%
-12,Waco,73,FALLS,Hispanic,67,65,97%,60,90%,*,*,47,70%,*,*,26,39%,30,45%,*,*,18,27%
-12,Waco,73,FALLS,White,54,52,96%,48,89%,*,*,46,85%,11,20%,23,43%,34,63%,*,*,15,28%
-12,Waco,73,FALLS,Other Ethnicities,55,53,96%,52,95%,*,*,46,84%,18,33%,17,31%,35,64%,*,*,9,16%
-12,Waco,81,FREESTONE,African American,48,47,98%,44,92%,*,*,44,92%,5,10%,26,54%,31,65%,*,*,5,10%
-12,Waco,81,FREESTONE,White,164,158,96%,148,90%,5,3%,136,83%,41,25%,58,35%,99,60%,*,*,57,35%
-12,Waco,81,FREESTONE,Other Ethnicities,53,52,98%,46,87%,*,*,37,70%,8,15%,14,26%,22,42%,*,*,8,15%
-12,Waco,97,HAMILTON,White,84,78,93%,76,90%,*,*,73,87%,33,39%,14,17%,47,56%,*,*,27,32%
-12,Waco,97,HAMILTON,Other Ethnicities,17,16,94%,16,94%,*,*,16,94%,6,35%,5,29%,11,65%,*,*,6,35%
-12,Waco,109,HILL,African American,41,38,93%,33,80%,*,*,29,71%,*,*,18,44%,19,46%,*,*,7,17%
-12,Waco,109,HILL,Hispanic,106,103,97%,100,94%,5,5%,99,93%,10,9%,43,41%,53,50%,*,*,20,19%
+12,Waco,50,CORYELL,Others,62,57,92%,48,77%,5,8%,45,73%,11,18%,19,31%,30,48%,,nan,13,21%
+12,Waco,73,FALLS,Hispanic,67,65,97%,60,90%,,nan,47,70%,,nan,26,39%,30,45%,,nan,18,27%
+12,Waco,73,FALLS,White,54,52,96%,48,89%,,nan,46,85%,11,20%,23,43%,34,63%,,nan,15,28%
+12,Waco,73,FALLS,Other Ethnicities,55,53,96%,52,95%,,nan,46,84%,18,33%,17,31%,35,64%,,nan,9,16%
+12,Waco,81,FREESTONE,African American,48,47,98%,44,92%,,nan,44,92%,5,10%,26,54%,31,65%,,nan,5,10%
+12,Waco,81,FREESTONE,White,164,158,96%,148,90%,5,3%,136,83%,41,25%,58,35%,99,60%,,nan,57,35%
+12,Waco,81,FREESTONE,Other Ethnicities,53,52,98%,46,87%,,nan,37,70%,8,15%,14,26%,22,42%,,nan,8,15%
+12,Waco,97,HAMILTON,White,84,78,93%,76,90%,,nan,73,87%,33,39%,14,17%,47,56%,,nan,27,32%
+12,Waco,97,HAMILTON,Other Ethnicities,17,16,94%,16,94%,,nan,16,94%,6,35%,5,29%,11,65%,,nan,6,35%
+12,Waco,109,HILL,African American,41,38,93%,33,80%,,nan,29,71%,,nan,18,44%,19,46%,,nan,7,17%
+12,Waco,109,HILL,Hispanic,106,103,97%,100,94%,5,5%,99,93%,10,9%,43,41%,53,50%,,nan,20,19%
 12,Waco,109,HILL,White,301,289,96%,275,91%,11,4%,253,84%,51,17%,122,41%,173,57%,7,2%,79,26%
-12,Waco,109,HILL,Others,9,9,100%,9,100%,*,*,8,89%,*,*,*,*,5,56%,*,*,*,*
-12,Waco,141,LAMPASAS,Hispanic,64,62,97%,58,91%,*,*,53,83%,11,17%,15,23%,26,41%,*,*,8,13%
-12,Waco,141,LAMPASAS,White,210,193,92%,185,88%,*,*,167,80%,46,22%,58,28%,104,50%,*,*,46,22%
-12,Waco,141,LAMPASAS,Other Ethnicities,15,14,93%,14,93%,*,*,12,80%,*,*,5,33%,9,60%,*,*,*,*
-12,Waco,147,LIMESTONE,African American,65,62,95%,58,89%,5,8%,57,88%,13,20%,29,45%,42,65%,*,*,13,20%
-12,Waco,147,LIMESTONE,Hispanic,85,84,99%,71,84%,12,14%,75,88%,5,6%,21,25%,26,31%,*,*,6,7%
+12,Waco,109,HILL,Others,9,9,100%,9,100%,,nan,8,89%,,nan,,nan,5,56%,,nan,,nan
+12,Waco,141,LAMPASAS,Hispanic,64,62,97%,58,91%,,nan,53,83%,11,17%,15,23%,26,41%,,nan,8,13%
+12,Waco,141,LAMPASAS,White,210,193,92%,185,88%,,nan,167,80%,46,22%,58,28%,104,50%,,nan,46,22%
+12,Waco,141,LAMPASAS,Other Ethnicities,15,14,93%,14,93%,,nan,12,80%,,nan,5,33%,9,60%,,nan,,nan
+12,Waco,147,LIMESTONE,African American,65,62,95%,58,89%,5,8%,57,88%,13,20%,29,45%,42,65%,,nan,13,20%
+12,Waco,147,LIMESTONE,Hispanic,85,84,99%,71,84%,12,14%,75,88%,5,6%,21,25%,26,31%,,nan,6,7%
 12,Waco,147,LIMESTONE,White,135,131,97%,116,86%,8,6%,105,78%,16,12%,49,36%,65,48%,5,4%,20,15%
-12,Waco,147,LIMESTONE,Others,12,12,100%,10,83%,*,*,7,58%,*,*,*,*,6,50%,*,*,*,*
+12,Waco,147,LIMESTONE,Others,12,12,100%,10,83%,,nan,7,58%,,nan,,nan,6,50%,,nan,,nan
 12,Waco,161,MCLENNAN,African American,612,589,96%,525,86%,57,9%,462,75%,86,14%,264,43%,350,57%,22,4%,87,14%
 12,Waco,161,MCLENNAN,Hispanic,1164,1127,97%,1027,88%,83,7%,931,80%,95,8%,506,43%,601,52%,23,2%,237,20%
 12,Waco,161,MCLENNAN,White,1409,1346,96%,1280,91%,34,2%,1205,86%,321,23%,628,45%,949,67%,48,3%,514,36%
-12,Waco,161,MCLENNAN,Others,133,128,96%,121,91%,6,5%,116,87%,34,26%,58,44%,92,69%,*,*,51,38%
-12,Waco,167,MILLS,Hispanic,18,17,94%,16,89%,*,*,16,89%,*,*,*,*,7,39%,*,*,*,*
-12,Waco,167,MILLS,White,38,38,100%,36,95%,*,*,36,95%,16,42%,6,16%,22,58%,*,*,6,16%
-12,Waco,175,NAVARRO,African American,102,99,97%,84,82%,13,13%,78,76%,5,5%,47,46%,52,51%,*,*,9,9%
-12,Waco,175,NAVARRO,Hispanic,261,254,97%,234,90%,19,7%,215,82%,19,7%,104,40%,123,47%,*,*,63,24%
+12,Waco,161,MCLENNAN,Others,133,128,96%,121,91%,6,5%,116,87%,34,26%,58,44%,92,69%,,nan,51,38%
+12,Waco,167,MILLS,Hispanic,18,17,94%,16,89%,,nan,16,89%,,nan,,nan,7,39%,,nan,,nan
+12,Waco,167,MILLS,White,38,38,100%,36,95%,,nan,36,95%,16,42%,6,16%,22,58%,,nan,6,16%
+12,Waco,175,NAVARRO,African American,102,99,97%,84,82%,13,13%,78,76%,5,5%,47,46%,52,51%,,nan,9,9%
+12,Waco,175,NAVARRO,Hispanic,261,254,97%,234,90%,19,7%,215,82%,19,7%,104,40%,123,47%,,nan,63,24%
 12,Waco,175,NAVARRO,White,327,316,97%,295,90%,7,2%,279,85%,56,17%,151,46%,207,63%,7,2%,117,36%
-12,Waco,175,NAVARRO,Others,20,19,95%,16,80%,*,*,16,80%,*,*,8,40%,11,55%,*,*,5,25%
-13,Austin,11,BASTROP,African American,92,90,98%,77,84%,13,14%,74,80%,24,26%,14,15%,38,41%,*,*,15,16%
-13,Austin,11,BASTROP,Hispanic,553,531,96%,442,80%,90,16%,480,87%,89,16%,130,24%,219,40%,*,*,76,14%
+12,Waco,175,NAVARRO,Others,20,19,95%,16,80%,,nan,16,80%,,nan,8,40%,11,55%,,nan,5,25%
+13,Austin,11,BASTROP,African American,92,90,98%,77,84%,13,14%,74,80%,24,26%,14,15%,38,41%,,nan,15,16%
+13,Austin,11,BASTROP,Hispanic,553,531,96%,442,80%,90,16%,480,87%,89,16%,130,24%,219,40%,,nan,76,14%
 13,Austin,11,BASTROP,White,494,480,97%,420,85%,50,10%,410,83%,131,27%,112,23%,243,49%,5,1%,114,23%
-13,Austin,11,BASTROP,Others,37,35,95%,28,76%,5,14%,27,73%,8,22%,7,19%,15,41%,*,*,5,14%
-13,Austin,14,BELL,All Ethnicities,26,26,100%,23,88%,*,*,19,73%,*,*,*,*,7,27%,*,*,*,*
-13,Austin,16,BLANCO,White,82,81,99%,74,90%,*,*,75,91%,29,35%,18,22%,47,57%,*,*,22,27%
-13,Austin,16,BLANCO,Other Ethnicities,40,39,98%,37,93%,*,*,37,93%,10,25%,5,13%,15,38%,*,*,*,*
-13,Austin,27,BURNET,African American,14,11,79%,12,86%,*,*,11,79%,*,*,*,*,6,43%,*,*,*,*
-13,Austin,27,BURNET,Hispanic,196,187,95%,168,86%,11,6%,152,78%,14,7%,37,19%,51,26%,*,*,17,9%
+13,Austin,11,BASTROP,Others,37,35,95%,28,76%,5,14%,27,73%,8,22%,7,19%,15,41%,,nan,5,14%
+13,Austin,14,BELL,All Ethnicities,26,26,100%,23,88%,,nan,19,73%,,nan,,nan,7,27%,,nan,,nan
+13,Austin,16,BLANCO,White,82,81,99%,74,90%,,nan,75,91%,29,35%,18,22%,47,57%,,nan,22,27%
+13,Austin,16,BLANCO,Other Ethnicities,40,39,98%,37,93%,,nan,37,93%,10,25%,5,13%,15,38%,,nan,,nan
+13,Austin,27,BURNET,African American,14,11,79%,12,86%,,nan,11,79%,,nan,,nan,6,43%,,nan,,nan
+13,Austin,27,BURNET,Hispanic,196,187,95%,168,86%,11,6%,152,78%,14,7%,37,19%,51,26%,,nan,17,9%
 13,Austin,27,BURNET,White,347,325,94%,295,85%,21,6%,278,80%,100,29%,82,24%,182,52%,16,5%,85,25%
-13,Austin,27,BURNET,Others,17,15,88%,14,82%,*,*,13,76%,*,*,7,41%,9,53%,*,*,*,*
-13,Austin,28,CALDWELL,Hispanic,272,268,99%,255,94%,7,3%,231,85%,41,15%,48,18%,89,33%,*,*,31,11%
-13,Austin,28,CALDWELL,White,149,149,100%,147,99%,*,*,130,87%,45,30%,20,13%,65,44%,*,*,32,21%
-13,Austin,28,CALDWELL,Other Ethnicities,36,36,100%,33,92%,*,*,31,86%,8,22%,6,17%,14,39%,*,*,*,*
-13,Austin,46,COMAL,African American,46,43,93%,38,83%,5,11%,36,78%,14,30%,10,22%,24,52%,*,*,9,20%
+13,Austin,27,BURNET,Others,17,15,88%,14,82%,,nan,13,76%,,nan,7,41%,9,53%,,nan,,nan
+13,Austin,28,CALDWELL,Hispanic,272,268,99%,255,94%,7,3%,231,85%,41,15%,48,18%,89,33%,,nan,31,11%
+13,Austin,28,CALDWELL,White,149,149,100%,147,99%,,nan,130,87%,45,30%,20,13%,65,44%,,nan,32,21%
+13,Austin,28,CALDWELL,Other Ethnicities,36,36,100%,33,92%,,nan,31,86%,8,22%,6,17%,14,39%,,nan,,nan
+13,Austin,46,COMAL,African American,46,43,93%,38,83%,5,11%,36,78%,14,30%,10,22%,24,52%,,nan,9,20%
 13,Austin,46,COMAL,Hispanic,712,691,97%,631,89%,42,6%,595,84%,166,23%,165,23%,331,46%,10,1%,162,23%
 13,Austin,46,COMAL,White,1090,1056,97%,1005,92%,29,3%,948,87%,393,36%,283,26%,676,62%,22,2%,369,34%
-13,Austin,46,COMAL,Others,85,79,93%,75,88%,*,*,66,78%,29,34%,22,26%,51,60%,7,8%,24,28%
-13,Austin,75,FAYETTE,Hispanic,93,91,98%,83,89%,7,8%,81,87%,17,18%,30,32%,47,51%,*,*,25,27%
-13,Austin,75,FAYETTE,White,184,180,98%,166,90%,12,7%,158,86%,49,27%,79,43%,128,70%,*,*,78,42%
-13,Austin,75,FAYETTE,Other Ethnicities,28,27,96%,23,82%,*,*,22,79%,*,*,8,29%,9,32%,*,*,*,*
-13,Austin,86,GILLESPIE,White,157,155,99%,147,94%,*,*,142,90%,67,43%,37,24%,104,66%,*,*,57,36%
-13,Austin,86,GILLESPIE,Other Ethnicities,124,117,94%,103,83%,10,8%,100,81%,16,13%,25,20%,41,33%,*,*,16,13%
-13,Austin,89,GONZALES,Hispanic,181,172,95%,155,86%,13,7%,132,73%,19,11%,29,16%,48,27%,*,*,10,6%
-13,Austin,89,GONZALES,White,69,65,94%,58,84%,*,*,50,72%,19,28%,14,20%,33,48%,*,*,20,29%
-13,Austin,89,GONZALES,Other Ethnicities,28,27,96%,21,75%,*,*,21,75%,*,*,*,*,8,29%,*,*,*,*
-13,Austin,94,GUADALUPE,African American,158,151,96%,134,85%,12,8%,122,77%,45,28%,40,25%,85,54%,*,*,30,19%
+13,Austin,46,COMAL,Others,85,79,93%,75,88%,,nan,66,78%,29,34%,22,26%,51,60%,7,8%,24,28%
+13,Austin,75,FAYETTE,Hispanic,93,91,98%,83,89%,7,8%,81,87%,17,18%,30,32%,47,51%,,nan,25,27%
+13,Austin,75,FAYETTE,White,184,180,98%,166,90%,12,7%,158,86%,49,27%,79,43%,128,70%,,nan,78,42%
+13,Austin,75,FAYETTE,Other Ethnicities,28,27,96%,23,82%,,nan,22,79%,,nan,8,29%,9,32%,,nan,,nan
+13,Austin,86,GILLESPIE,White,157,155,99%,147,94%,,nan,142,90%,67,43%,37,24%,104,66%,,nan,57,36%
+13,Austin,86,GILLESPIE,Other Ethnicities,124,117,94%,103,83%,10,8%,100,81%,16,13%,25,20%,41,33%,,nan,16,13%
+13,Austin,89,GONZALES,Hispanic,181,172,95%,155,86%,13,7%,132,73%,19,11%,29,16%,48,27%,,nan,10,6%
+13,Austin,89,GONZALES,White,69,65,94%,58,84%,,nan,50,72%,19,28%,14,20%,33,48%,,nan,20,29%
+13,Austin,89,GONZALES,Other Ethnicities,28,27,96%,21,75%,,nan,21,75%,,nan,,nan,8,29%,,nan,,nan
+13,Austin,94,GUADALUPE,African American,158,151,96%,134,85%,12,8%,122,77%,45,28%,40,25%,85,54%,,nan,30,19%
 13,Austin,94,GUADALUPE,Hispanic,801,768,96%,678,85%,87,11%,671,84%,155,19%,167,21%,322,40%,13,2%,130,16%
 13,Austin,94,GUADALUPE,White,757,723,96%,657,87%,42,6%,631,83%,240,32%,173,23%,413,55%,14,2%,210,28%
-13,Austin,94,GUADALUPE,Others,89,84,94%,77,87%,5,6%,77,87%,28,31%,27,30%,55,62%,*,*,30,34%
-13,Austin,105,HAYS,African American,60,56,93%,52,87%,*,*,49,82%,13,22%,19,32%,32,53%,*,*,10,17%
+13,Austin,94,GUADALUPE,Others,89,84,94%,77,87%,5,6%,77,87%,28,31%,27,30%,55,62%,,nan,30,34%
+13,Austin,105,HAYS,African American,60,56,93%,52,87%,,nan,49,82%,13,22%,19,32%,32,53%,,nan,10,17%
 13,Austin,105,HAYS,Hispanic,1175,1136,97%,1039,88%,82,7%,967,82%,188,16%,333,28%,521,44%,5,0%,172,15%
 13,Austin,105,HAYS,White,876,842,96%,791,90%,30,3%,751,86%,311,36%,218,25%,529,60%,17,2%,287,33%
-13,Austin,105,HAYS,Others,57,57,100%,54,95%,*,*,51,89%,21,37%,13,23%,34,60%,*,*,25,44%
-13,Austin,130,KENDALL,Hispanic,44,43,98%,41,93%,*,*,42,95%,5,11%,12,27%,17,39%,*,*,5,11%
-13,Austin,130,KENDALL,Other Ethnicities,27,27,100%,25,93%,*,*,26,96%,9,33%,10,37%,19,70%,*,*,14,52%
-13,Austin,144,LEE,Hispanic,93,91,98%,74,80%,14,15%,79,85%,7,8%,25,27%,32,34%,*,*,15,16%
-13,Austin,144,LEE,White,104,97,93%,89,86%,7,7%,88,85%,21,20%,32,31%,53,51%,*,*,27,26%
-13,Austin,144,LEE,Other Ethnicities,29,28,97%,26,90%,*,*,26,90%,*,*,13,45%,15,52%,*,*,*,*
-13,Austin,150,LLANO,White,101,100,99%,82,81%,13,13%,77,76%,28,28%,14,14%,42,42%,*,*,18,18%
-13,Austin,150,LLANO,Other Ethnicities,24,24,100%,21,88%,*,*,18,75%,5,21%,6,25%,11,46%,*,*,5,21%
-13,Austin,166,MILAM,White,27,27,100%,27,100%,*,*,26,96%,9,33%,11,41%,20,74%,*,*,12,44%
-13,Austin,166,MILAM,Other Ethnicities,15,14,93%,14,93%,*,*,14,93%,*,*,5,33%,8,53%,*,*,*,*
+13,Austin,105,HAYS,Others,57,57,100%,54,95%,,nan,51,89%,21,37%,13,23%,34,60%,,nan,25,44%
+13,Austin,130,KENDALL,Hispanic,44,43,98%,41,93%,,nan,42,95%,5,11%,12,27%,17,39%,,nan,5,11%
+13,Austin,130,KENDALL,Other Ethnicities,27,27,100%,25,93%,,nan,26,96%,9,33%,10,37%,19,70%,,nan,14,52%
+13,Austin,144,LEE,Hispanic,93,91,98%,74,80%,14,15%,79,85%,7,8%,25,27%,32,34%,,nan,15,16%
+13,Austin,144,LEE,White,104,97,93%,89,86%,7,7%,88,85%,21,20%,32,31%,53,51%,,nan,27,26%
+13,Austin,144,LEE,Other Ethnicities,29,28,97%,26,90%,,nan,26,90%,,nan,13,45%,15,52%,,nan,,nan
+13,Austin,150,LLANO,White,101,100,99%,82,81%,13,13%,77,76%,28,28%,14,14%,42,42%,,nan,18,18%
+13,Austin,150,LLANO,Other Ethnicities,24,24,100%,21,88%,,nan,18,75%,5,21%,6,25%,11,46%,,nan,5,21%
+13,Austin,166,MILAM,White,27,27,100%,27,100%,,nan,26,96%,9,33%,11,41%,20,74%,,nan,12,44%
+13,Austin,166,MILAM,Other Ethnicities,15,14,93%,14,93%,,nan,14,93%,,nan,5,33%,8,53%,,nan,,nan
 13,Austin,227,TRAVIS,African American,1263,1205,95%,1056,84%,123,10%,975,77%,279,22%,278,22%,557,44%,28,2%,158,13%
 13,Austin,227,TRAVIS,Hispanic,5513,5252,95%,4598,83%,552,10%,4220,77%,812,15%,1254,23%,2066,37%,76,1%,671,12%
 13,Austin,227,TRAVIS,White,3030,2855,94%,2702,89%,91,3%,2506,83%,1048,35%,756,25%,1804,60%,133,4%,982,32%
@@ -458,252 +458,252 @@
 13,Austin,246,WILLIAMSON,Hispanic,2289,2231,97%,2095,92%,96,4%,1957,86%,421,18%,670,29%,1091,48%,27,1%,431,19%
 13,Austin,246,WILLIAMSON,White,4202,4047,96%,3881,92%,71,2%,3637,87%,1449,34%,1246,30%,2695,64%,117,3%,1484,35%
 13,Austin,246,WILLIAMSON,Others,794,763,96%,738,93%,9,1%,702,88%,366,46%,157,20%,523,66%,17,2%,359,45%
-14,Abilene,30,CALLAHAN,Hispanic,25,23,92%,21,84%,*,*,19,76%,*,*,7,28%,10,40%,*,*,*,*
+14,Abilene,30,CALLAHAN,Hispanic,25,23,92%,21,84%,,nan,19,76%,,nan,7,28%,10,40%,,nan,,nan
 14,Abilene,30,CALLAHAN,White,155,140,90%,133,86%,12,8%,128,83%,52,34%,41,26%,93,60%,6,4%,45,29%
-14,Abilene,30,CALLAHAN,Other Ethnicities,15,14,93%,12,80%,*,*,11,73%,*,*,*,*,8,53%,*,*,*,*
-14,Abilene,47,COMANCHE,White,100,97,97%,88,88%,7,7%,86,86%,36,36%,25,25%,61,61%,*,*,31,31%
-14,Abilene,47,COMANCHE,Other Ethnicities,76,72,95%,69,91%,*,*,62,82%,13,17%,17,22%,30,39%,*,*,11,14%
+14,Abilene,30,CALLAHAN,Other Ethnicities,15,14,93%,12,80%,,nan,11,73%,,nan,,nan,8,53%,,nan,,nan
+14,Abilene,47,COMANCHE,White,100,97,97%,88,88%,7,7%,86,86%,36,36%,25,25%,61,61%,,nan,31,31%
+14,Abilene,47,COMANCHE,Other Ethnicities,76,72,95%,69,91%,,nan,62,82%,13,17%,17,22%,30,39%,,nan,11,14%
 14,Abilene,67,EASTLAND,White,154,148,96%,133,86%,7,5%,120,78%,36,23%,45,29%,81,53%,5,3%,38,25%
-14,Abilene,67,EASTLAND,Other Ethnicities,50,49,98%,47,94%,*,*,46,92%,9,18%,23,46%,32,64%,*,*,18,36%
-14,Abilene,76,FISHER,All Ethnicities,42,40,95%,39,93%,*,*,34,81%,16,38%,*,*,20,48%,*,*,16,38%
-14,Abilene,104,HASKELL,White,32,30,94%,29,91%,*,*,24,75%,10,31%,9,28%,19,59%,*,*,10,31%
-14,Abilene,104,HASKELL,Other Ethnicities,30,29,97%,24,80%,*,*,23,77%,*,*,8,27%,11,37%,*,*,*,*
-14,Abilene,127,JONES,Hispanic,67,65,97%,59,88%,*,*,56,84%,15,22%,17,25%,32,48%,*,*,17,25%
-14,Abilene,127,JONES,White,110,100,91%,89,81%,6,5%,81,74%,46,42%,15,14%,61,55%,*,*,35,32%
-14,Abilene,127,JONES,Other Ethnicities,11,11,100%,11,100%,*,*,11,100%,5,45%,*,*,6,55%,*,*,*,*
-14,Abilene,168,MITCHELL,Hispanic,61,61,100%,58,95%,*,*,52,85%,11,18%,19,31%,30,49%,*,*,13,21%
-14,Abilene,168,MITCHELL,White,47,44,94%,43,91%,*,*,36,77%,9,19%,12,26%,21,45%,*,*,7,15%
-14,Abilene,168,MITCHELL,Other Ethnicities,11,11,100%,11,100%,*,*,10,91%,*,*,6,55%,6,55%,*,*,*,*
-14,Abilene,177,NOLAN,Hispanic,86,82,95%,74,86%,7,8%,72,84%,19,22%,25,29%,44,51%,*,*,18,21%
-14,Abilene,177,NOLAN,White,108,99,92%,90,83%,10,9%,88,81%,42,39%,17,16%,59,55%,*,*,35,32%
-14,Abilene,177,NOLAN,Other Ethnicities,19,19,100%,14,74%,*,*,15,79%,*,*,8,42%,11,58%,*,*,*,*
-14,Abilene,208,SCURRY,Hispanic,93,92,99%,86,92%,*,*,75,81%,8,9%,42,45%,50,54%,*,*,26,28%
-14,Abilene,208,SCURRY,White,98,92,94%,90,92%,*,*,85,87%,17,17%,50,51%,67,68%,*,*,39,40%
-14,Abilene,208,SCURRY,Other Ethnicities,10,9,90%,9,90%,*,*,8,80%,*,*,5,50%,6,60%,*,*,*,*
-14,Abilene,209,SHACKELFORD,White,39,39,100%,39,100%,*,*,33,85%,13,33%,9,23%,22,56%,*,*,11,28%
-14,Abilene,209,SHACKELFORD,Other Ethnicities,11,11,100%,11,100%,*,*,10,91%,5,45%,*,*,7,64%,*,*,*,*
-14,Abilene,215,STEPHENS,Hispanic,31,31,100%,29,94%,*,*,26,84%,*,*,11,35%,15,48%,*,*,8,26%
-14,Abilene,215,STEPHENS,White,66,62,94%,54,82%,8,12%,49,74%,14,21%,17,26%,31,47%,*,*,16,24%
-14,Abilene,215,STEPHENS,Other Ethnicities,7,7,100%,7,100%,*,*,7,100%,*,*,5,71%,6,86%,*,*,*,*
-14,Abilene,217,STONEWALL,All Ethnicities,20,20,100%,20,100%,*,*,19,95%,6,30%,*,*,9,45%,*,*,*,*
+14,Abilene,67,EASTLAND,Other Ethnicities,50,49,98%,47,94%,,nan,46,92%,9,18%,23,46%,32,64%,,nan,18,36%
+14,Abilene,76,FISHER,All Ethnicities,42,40,95%,39,93%,,nan,34,81%,16,38%,,nan,20,48%,,nan,16,38%
+14,Abilene,104,HASKELL,White,32,30,94%,29,91%,,nan,24,75%,10,31%,9,28%,19,59%,,nan,10,31%
+14,Abilene,104,HASKELL,Other Ethnicities,30,29,97%,24,80%,,nan,23,77%,,nan,8,27%,11,37%,,nan,,nan
+14,Abilene,127,JONES,Hispanic,67,65,97%,59,88%,,nan,56,84%,15,22%,17,25%,32,48%,,nan,17,25%
+14,Abilene,127,JONES,White,110,100,91%,89,81%,6,5%,81,74%,46,42%,15,14%,61,55%,,nan,35,32%
+14,Abilene,127,JONES,Other Ethnicities,11,11,100%,11,100%,,nan,11,100%,5,45%,,nan,6,55%,,nan,,nan
+14,Abilene,168,MITCHELL,Hispanic,61,61,100%,58,95%,,nan,52,85%,11,18%,19,31%,30,49%,,nan,13,21%
+14,Abilene,168,MITCHELL,White,47,44,94%,43,91%,,nan,36,77%,9,19%,12,26%,21,45%,,nan,7,15%
+14,Abilene,168,MITCHELL,Other Ethnicities,11,11,100%,11,100%,,nan,10,91%,,nan,6,55%,6,55%,,nan,,nan
+14,Abilene,177,NOLAN,Hispanic,86,82,95%,74,86%,7,8%,72,84%,19,22%,25,29%,44,51%,,nan,18,21%
+14,Abilene,177,NOLAN,White,108,99,92%,90,83%,10,9%,88,81%,42,39%,17,16%,59,55%,,nan,35,32%
+14,Abilene,177,NOLAN,Other Ethnicities,19,19,100%,14,74%,,nan,15,79%,,nan,8,42%,11,58%,,nan,,nan
+14,Abilene,208,SCURRY,Hispanic,93,92,99%,86,92%,,nan,75,81%,8,9%,42,45%,50,54%,,nan,26,28%
+14,Abilene,208,SCURRY,White,98,92,94%,90,92%,,nan,85,87%,17,17%,50,51%,67,68%,,nan,39,40%
+14,Abilene,208,SCURRY,Other Ethnicities,10,9,90%,9,90%,,nan,8,80%,,nan,5,50%,6,60%,,nan,,nan
+14,Abilene,209,SHACKELFORD,White,39,39,100%,39,100%,,nan,33,85%,13,33%,9,23%,22,56%,,nan,11,28%
+14,Abilene,209,SHACKELFORD,Other Ethnicities,11,11,100%,11,100%,,nan,10,91%,5,45%,,nan,7,64%,,nan,,nan
+14,Abilene,215,STEPHENS,Hispanic,31,31,100%,29,94%,,nan,26,84%,,nan,11,35%,15,48%,,nan,8,26%
+14,Abilene,215,STEPHENS,White,66,62,94%,54,82%,8,12%,49,74%,14,21%,17,26%,31,47%,,nan,16,24%
+14,Abilene,215,STEPHENS,Other Ethnicities,7,7,100%,7,100%,,nan,7,100%,,nan,5,71%,6,86%,,nan,,nan
+14,Abilene,217,STONEWALL,All Ethnicities,20,20,100%,20,100%,,nan,19,95%,6,30%,,nan,9,45%,,nan,,nan
 14,Abilene,221,TAYLOR,African American,225,199,88%,155,69%,28,12%,141,63%,40,18%,55,24%,95,42%,13,6%,35,16%
 14,Abilene,221,TAYLOR,Hispanic,668,605,91%,514,77%,72,11%,471,71%,118,18%,157,24%,275,41%,22,3%,96,14%
 14,Abilene,221,TAYLOR,White,1319,1156,88%,984,75%,97,7%,918,70%,347,26%,334,25%,681,52%,75,6%,348,26%
 14,Abilene,221,TAYLOR,Others,151,130,86%,110,73%,14,9%,111,74%,49,32%,45,30%,94,62%,13,9%,49,32%
-15,San Angelo,25,BROWN,African American,24,22,92%,17,71%,*,*,19,79%,7,29%,*,*,11,46%,*,*,*,*
-15,San Angelo,25,BROWN,Hispanic,142,138,97%,121,85%,15,11%,121,85%,28,20%,38,27%,66,46%,*,*,31,22%
-15,San Angelo,25,BROWN,White,324,314,97%,285,88%,17,5%,276,85%,113,35%,58,18%,171,53%,*,*,102,31%
-15,San Angelo,25,BROWN,Others,12,9,75%,8,67%,*,*,7,58%,*,*,*,*,7,58%,*,*,*,*
-15,San Angelo,41,COKE,Hispanic,16,16,100%,15,94%,*,*,14,88%,*,*,5,31%,7,44%,*,*,*,*
-15,San Angelo,41,COKE,White,24,24,100%,21,88%,*,*,21,88%,9,38%,9,38%,18,75%,*,*,7,29%
-15,San Angelo,42,COLEMAN,White,58,53,91%,50,86%,*,*,42,72%,19,33%,6,10%,25,43%,*,*,11,19%
-15,San Angelo,42,COLEMAN,Other Ethnicities,35,34,97%,32,91%,*,*,28,80%,5,14%,6,17%,11,31%,*,*,*,*
-15,San Angelo,48,CONCHO,Hispanic,22,22,100%,20,91%,*,*,20,91%,6,27%,*,*,8,36%,*,*,*,*
-15,San Angelo,48,CONCHO,Other Ethnicities,21,20,95%,17,81%,*,*,16,76%,*,*,*,*,6,29%,*,*,*,*
-15,San Angelo,53,CROCKETT,Hispanic,40,39,98%,38,95%,*,*,32,80%,5,13%,11,28%,16,40%,*,*,*,*
-15,San Angelo,53,CROCKETT,White,8,8,100%,8,100%,*,*,6,75%,5,63%,*,*,5,63%,*,*,*,*
-15,San Angelo,69,EDWARDS,All Ethnicities,33,29,88%,25,76%,*,*,22,67%,*,*,11,33%,14,42%,*,*,10,30%
-15,San Angelo,118,IRION,White,15,14,93%,13,87%,*,*,10,67%,*,*,*,*,7,47%,*,*,*,*
-15,San Angelo,118,IRION,Other Ethnicities,14,13,93%,11,79%,*,*,9,64%,*,*,*,*,6,43%,*,*,*,*
-15,San Angelo,134,KIMBLE,All Ethnicities,53,51,96%,49,92%,*,*,47,89%,16,30%,8,15%,24,45%,*,*,10,19%
-15,San Angelo,157,MASON,All Ethnicities,47,46,98%,43,91%,*,*,38,81%,19,40%,12,26%,31,66%,*,*,18,38%
-15,San Angelo,160,MCCULLOCH,White,62,61,98%,58,94%,*,*,53,85%,24,39%,6,10%,30,48%,*,*,16,26%
-15,San Angelo,160,MCCULLOCH,Other Ethnicities,65,65,100%,61,94%,*,*,55,85%,17,26%,14,22%,31,48%,*,*,17,26%
-15,San Angelo,164,MENARD,Hispanic,7,7,100%,6,86%,*,*,6,86%,*,*,*,*,5,71%,*,*,*,*
-15,San Angelo,164,MENARD,White,15,15,100%,14,93%,*,*,13,87%,6,40%,*,*,10,67%,*,*,7,47%
-15,San Angelo,200,RUNNELS,White,78,72,92%,66,85%,*,*,62,79%,31,40%,16,21%,47,60%,*,*,28,36%
-15,San Angelo,200,RUNNELS,Other Ethnicities,82,77,94%,68,83%,6,7%,59,72%,16,20%,12,15%,28,34%,*,*,11,13%
-15,San Angelo,206,SAN SABA,White,36,36,100%,35,97%,*,*,31,86%,17,47%,6,17%,23,64%,*,*,14,39%
-15,San Angelo,206,SAN SABA,Other Ethnicities,35,32,91%,31,89%,*,*,28,80%,7,20%,6,17%,13,37%,*,*,6,17%
-15,San Angelo,207,SCHLEICHER,Hispanic,30,29,97%,27,90%,*,*,27,90%,12,40%,5,17%,17,57%,*,*,*,*
-15,San Angelo,207,SCHLEICHER,Other Ethnicities,14,14,100%,12,86%,*,*,12,86%,7,50%,*,*,8,57%,*,*,*,*
-15,San Angelo,216,STERLING,All Ethnicities,14,14,100%,14,100%,*,*,14,100%,*,*,10,71%,12,86%,*,*,*,*
-15,San Angelo,218,SUTTON,Hispanic,45,42,93%,41,91%,*,*,36,80%,12,27%,7,16%,19,42%,*,*,8,18%
-15,San Angelo,218,SUTTON,Other Ethnicities,23,22,96%,21,91%,*,*,19,83%,9,39%,*,*,11,48%,*,*,8,35%
-15,San Angelo,226,TOM GREEN,African American,59,54,92%,52,88%,*,*,45,76%,18,31%,7,12%,25,42%,*,*,11,19%
-15,San Angelo,226,TOM GREEN,Hispanic,677,656,97%,603,89%,44,7%,555,82%,154,23%,123,18%,277,41%,*,*,98,14%
+15,San Angelo,25,BROWN,African American,24,22,92%,17,71%,,nan,19,79%,7,29%,,nan,11,46%,,nan,,nan
+15,San Angelo,25,BROWN,Hispanic,142,138,97%,121,85%,15,11%,121,85%,28,20%,38,27%,66,46%,,nan,31,22%
+15,San Angelo,25,BROWN,White,324,314,97%,285,88%,17,5%,276,85%,113,35%,58,18%,171,53%,,nan,102,31%
+15,San Angelo,25,BROWN,Others,12,9,75%,8,67%,,nan,7,58%,,nan,,nan,7,58%,,nan,,nan
+15,San Angelo,41,COKE,Hispanic,16,16,100%,15,94%,,nan,14,88%,,nan,5,31%,7,44%,,nan,,nan
+15,San Angelo,41,COKE,White,24,24,100%,21,88%,,nan,21,88%,9,38%,9,38%,18,75%,,nan,7,29%
+15,San Angelo,42,COLEMAN,White,58,53,91%,50,86%,,nan,42,72%,19,33%,6,10%,25,43%,,nan,11,19%
+15,San Angelo,42,COLEMAN,Other Ethnicities,35,34,97%,32,91%,,nan,28,80%,5,14%,6,17%,11,31%,,nan,,nan
+15,San Angelo,48,CONCHO,Hispanic,22,22,100%,20,91%,,nan,20,91%,6,27%,,nan,8,36%,,nan,,nan
+15,San Angelo,48,CONCHO,Other Ethnicities,21,20,95%,17,81%,,nan,16,76%,,nan,,nan,6,29%,,nan,,nan
+15,San Angelo,53,CROCKETT,Hispanic,40,39,98%,38,95%,,nan,32,80%,5,13%,11,28%,16,40%,,nan,,nan
+15,San Angelo,53,CROCKETT,White,8,8,100%,8,100%,,nan,6,75%,5,63%,,nan,5,63%,,nan,,nan
+15,San Angelo,69,EDWARDS,All Ethnicities,33,29,88%,25,76%,,nan,22,67%,,nan,11,33%,14,42%,,nan,10,30%
+15,San Angelo,118,IRION,White,15,14,93%,13,87%,,nan,10,67%,,nan,,nan,7,47%,,nan,,nan
+15,San Angelo,118,IRION,Other Ethnicities,14,13,93%,11,79%,,nan,9,64%,,nan,,nan,6,43%,,nan,,nan
+15,San Angelo,134,KIMBLE,All Ethnicities,53,51,96%,49,92%,,nan,47,89%,16,30%,8,15%,24,45%,,nan,10,19%
+15,San Angelo,157,MASON,All Ethnicities,47,46,98%,43,91%,,nan,38,81%,19,40%,12,26%,31,66%,,nan,18,38%
+15,San Angelo,160,MCCULLOCH,White,62,61,98%,58,94%,,nan,53,85%,24,39%,6,10%,30,48%,,nan,16,26%
+15,San Angelo,160,MCCULLOCH,Other Ethnicities,65,65,100%,61,94%,,nan,55,85%,17,26%,14,22%,31,48%,,nan,17,26%
+15,San Angelo,164,MENARD,Hispanic,7,7,100%,6,86%,,nan,6,86%,,nan,,nan,5,71%,,nan,,nan
+15,San Angelo,164,MENARD,White,15,15,100%,14,93%,,nan,13,87%,6,40%,,nan,10,67%,,nan,7,47%
+15,San Angelo,200,RUNNELS,White,78,72,92%,66,85%,,nan,62,79%,31,40%,16,21%,47,60%,,nan,28,36%
+15,San Angelo,200,RUNNELS,Other Ethnicities,82,77,94%,68,83%,6,7%,59,72%,16,20%,12,15%,28,34%,,nan,11,13%
+15,San Angelo,206,SAN SABA,White,36,36,100%,35,97%,,nan,31,86%,17,47%,6,17%,23,64%,,nan,14,39%
+15,San Angelo,206,SAN SABA,Other Ethnicities,35,32,91%,31,89%,,nan,28,80%,7,20%,6,17%,13,37%,,nan,6,17%
+15,San Angelo,207,SCHLEICHER,Hispanic,30,29,97%,27,90%,,nan,27,90%,12,40%,5,17%,17,57%,,nan,,nan
+15,San Angelo,207,SCHLEICHER,Other Ethnicities,14,14,100%,12,86%,,nan,12,86%,7,50%,,nan,8,57%,,nan,,nan
+15,San Angelo,216,STERLING,All Ethnicities,14,14,100%,14,100%,,nan,14,100%,,nan,10,71%,12,86%,,nan,,nan
+15,San Angelo,218,SUTTON,Hispanic,45,42,93%,41,91%,,nan,36,80%,12,27%,7,16%,19,42%,,nan,8,18%
+15,San Angelo,218,SUTTON,Other Ethnicities,23,22,96%,21,91%,,nan,19,83%,9,39%,,nan,11,48%,,nan,8,35%
+15,San Angelo,226,TOM GREEN,African American,59,54,92%,52,88%,,nan,45,76%,18,31%,7,12%,25,42%,,nan,11,19%
+15,San Angelo,226,TOM GREEN,Hispanic,677,656,97%,603,89%,44,7%,555,82%,154,23%,123,18%,277,41%,,nan,98,14%
 15,San Angelo,226,TOM GREEN,White,583,562,96%,523,90%,18,3%,471,81%,260,45%,76,13%,336,58%,13,2%,187,32%
-15,San Angelo,226,TOM GREEN,Others,26,24,92%,22,85%,*,*,19,73%,14,54%,*,*,15,58%,*,*,9,35%
+15,San Angelo,226,TOM GREEN,Others,26,24,92%,22,85%,,nan,19,73%,14,54%,,nan,15,58%,,nan,9,35%
 15,San Angelo,233,VAL VERDE,Hispanic,691,656,95%,621,90%,34,5%,548,79%,103,15%,251,36%,354,51%,8,1%,171,25%
-15,San Angelo,233,VAL VERDE,Other Ethnicities,73,70,96%,64,88%,*,*,56,77%,27,37%,16,22%,43,59%,*,*,22,30%
-16,Amarillo,6,ARMSTRONG,All Ethnicities,27,27,100%,27,100%,*,*,25,93%,9,33%,5,19%,14,52%,*,*,6,22%
-16,Amarillo,23,BRISCOE,All Ethnicities,12,11,92%,11,92%,*,*,10,83%,6,50%,*,*,8,67%,*,*,*,*
-16,Amarillo,33,CARSON,White,78,77,99%,71,91%,*,*,66,85%,27,35%,20,26%,47,60%,*,*,30,38%
-16,Amarillo,33,CARSON,Other Ethnicities,9,9,100%,9,100%,*,*,7,78%,*,*,*,*,5,56%,*,*,*,*
-16,Amarillo,35,CASTRO,Hispanic,97,84,87%,75,77%,12,12%,76,78%,21,22%,26,27%,47,48%,*,*,27,28%
-16,Amarillo,35,CASTRO,Other Ethnicities,28,27,96%,26,93%,*,*,25,89%,10,36%,8,29%,18,64%,*,*,11,39%
-16,Amarillo,38,CHILDRESS,White,30,27,90%,28,93%,*,*,23,77%,10,33%,6,20%,16,53%,*,*,8,27%
-16,Amarillo,38,CHILDRESS,Other Ethnicities,38,36,95%,37,97%,*,*,32,84%,7,18%,10,26%,17,45%,*,*,*,*
-16,Amarillo,44,COLLINGSWORTH,White,26,26,100%,25,96%,*,*,23,88%,13,50%,*,*,15,58%,*,*,9,35%
-16,Amarillo,44,COLLINGSWORTH,Other Ethnicities,10,10,100%,10,100%,*,*,10,100%,*,*,*,*,5,50%,*,*,*,*
-16,Amarillo,56,DALLAM,Hispanic,72,65,90%,57,79%,*,*,53,74%,11,15%,15,21%,26,36%,*,*,13,18%
-16,Amarillo,56,DALLAM,Other Ethnicities,73,64,88%,65,89%,*,*,57,78%,17,23%,21,29%,38,52%,*,*,16,22%
-16,Amarillo,59,DEAF SMITH,Hispanic,276,266,96%,228,83%,29,11%,215,78%,19,7%,79,29%,98,36%,*,*,37,13%
-16,Amarillo,59,DEAF SMITH,White,47,44,94%,43,91%,*,*,42,89%,24,51%,7,15%,31,66%,*,*,22,47%
-16,Amarillo,59,DEAF SMITH,Other Ethnicities,5,5,100%,5,100%,*,*,5,100%,*,*,*,*,5,100%,*,*,*,*
-16,Amarillo,65,DONLEY,White,31,28,90%,27,87%,*,*,25,81%,7,23%,13,42%,20,65%,*,*,9,29%
-16,Amarillo,65,DONLEY,Other Ethnicities,15,15,100%,15,100%,*,*,15,100%,*,*,7,47%,8,53%,*,*,*,*
-16,Amarillo,90,GRAY,Hispanic,88,85,97%,80,91%,*,*,76,86%,12,14%,26,30%,38,43%,*,*,16,18%
-16,Amarillo,90,GRAY,White,180,168,93%,160,89%,*,*,148,82%,47,26%,48,27%,95,53%,*,*,45,25%
-16,Amarillo,90,GRAY,Other Ethnicities,13,13,100%,12,92%,*,*,12,92%,*,*,5,38%,7,54%,*,*,*,*
-16,Amarillo,96,HALL,White,26,25,96%,24,92%,*,*,23,88%,11,42%,8,31%,19,73%,*,*,10,38%
-16,Amarillo,96,HALL,Other Ethnicities,23,22,96%,22,96%,*,*,21,91%,*,*,9,39%,11,48%,*,*,*,*
-16,Amarillo,98,HANSFORD,Hispanic,42,40,95%,40,95%,*,*,38,90%,6,14%,17,40%,23,55%,*,*,13,31%
-16,Amarillo,98,HANSFORD,Other Ethnicities,42,42,100%,41,98%,*,*,41,98%,19,45%,8,19%,27,64%,*,*,14,33%
-16,Amarillo,103,HARTLEY,All Ethnicities,28,27,96%,25,89%,*,*,22,79%,6,21%,9,32%,15,54%,*,*,9,32%
-16,Amarillo,106,HEMPHILL,All Ethnicities,54,51,94%,47,87%,*,*,45,83%,16,30%,11,20%,27,50%,*,*,12,22%
-16,Amarillo,117,HUTCHINSON,African American,9,9,100%,7,78%,*,*,7,78%,5,56%,*,*,6,67%,*,*,*,*
-16,Amarillo,117,HUTCHINSON,Hispanic,77,71,92%,69,90%,*,*,66,86%,8,10%,34,44%,42,55%,*,*,16,21%
-16,Amarillo,117,HUTCHINSON,White,214,199,93%,185,86%,*,*,176,82%,36,17%,82,38%,118,55%,*,*,58,27%
-16,Amarillo,117,HUTCHINSON,Others,22,21,95%,19,86%,*,*,17,77%,*,*,9,41%,10,45%,*,*,*,*
-16,Amarillo,148,LIPSCOMB,White,29,27,93%,25,86%,*,*,26,90%,8,28%,5,17%,13,45%,*,*,9,31%
-16,Amarillo,148,LIPSCOMB,Other Ethnicities,30,28,93%,29,97%,*,*,25,83%,5,17%,5,17%,10,33%,*,*,*,*
-16,Amarillo,171,MOORE,Hispanic,258,248,96%,235,91%,5,2%,222,86%,13,5%,120,47%,133,52%,*,*,64,25%
-16,Amarillo,171,MOORE,White,86,83,97%,82,95%,*,*,73,85%,20,23%,36,42%,56,65%,*,*,29,34%
-16,Amarillo,171,MOORE,Other Ethnicities,35,28,80%,22,63%,*,*,8,23%,*,*,5,14%,6,17%,*,*,*,*
-16,Amarillo,179,OCHILTREE,Hispanic,101,93,92%,73,72%,16,16%,78,77%,7,7%,24,24%,31,31%,*,*,15,15%
-16,Amarillo,179,OCHILTREE,Other Ethnicities,56,55,98%,47,84%,*,*,44,79%,13,23%,9,16%,22,39%,*,*,12,21%
-16,Amarillo,180,OLDHAM,White,48,46,96%,44,92%,*,*,39,81%,16,33%,13,27%,29,60%,*,*,17,35%
-16,Amarillo,180,OLDHAM,Other Ethnicities,20,20,100%,20,100%,*,*,16,80%,*,*,6,30%,9,45%,*,*,*,*
-16,Amarillo,185,PARMER,Hispanic,121,117,97%,109,90%,*,*,102,84%,21,17%,25,21%,46,38%,*,*,24,20%
-16,Amarillo,185,PARMER,Other Ethnicities,35,34,97%,31,89%,*,*,29,83%,14,40%,9,26%,23,66%,*,*,14,40%
+15,San Angelo,233,VAL VERDE,Other Ethnicities,73,70,96%,64,88%,,nan,56,77%,27,37%,16,22%,43,59%,,nan,22,30%
+16,Amarillo,6,ARMSTRONG,All Ethnicities,27,27,100%,27,100%,,nan,25,93%,9,33%,5,19%,14,52%,,nan,6,22%
+16,Amarillo,23,BRISCOE,All Ethnicities,12,11,92%,11,92%,,nan,10,83%,6,50%,,nan,8,67%,,nan,,nan
+16,Amarillo,33,CARSON,White,78,77,99%,71,91%,,nan,66,85%,27,35%,20,26%,47,60%,,nan,30,38%
+16,Amarillo,33,CARSON,Other Ethnicities,9,9,100%,9,100%,,nan,7,78%,,nan,,nan,5,56%,,nan,,nan
+16,Amarillo,35,CASTRO,Hispanic,97,84,87%,75,77%,12,12%,76,78%,21,22%,26,27%,47,48%,,nan,27,28%
+16,Amarillo,35,CASTRO,Other Ethnicities,28,27,96%,26,93%,,nan,25,89%,10,36%,8,29%,18,64%,,nan,11,39%
+16,Amarillo,38,CHILDRESS,White,30,27,90%,28,93%,,nan,23,77%,10,33%,6,20%,16,53%,,nan,8,27%
+16,Amarillo,38,CHILDRESS,Other Ethnicities,38,36,95%,37,97%,,nan,32,84%,7,18%,10,26%,17,45%,,nan,,nan
+16,Amarillo,44,COLLINGSWORTH,White,26,26,100%,25,96%,,nan,23,88%,13,50%,,nan,15,58%,,nan,9,35%
+16,Amarillo,44,COLLINGSWORTH,Other Ethnicities,10,10,100%,10,100%,,nan,10,100%,,nan,,nan,5,50%,,nan,,nan
+16,Amarillo,56,DALLAM,Hispanic,72,65,90%,57,79%,,nan,53,74%,11,15%,15,21%,26,36%,,nan,13,18%
+16,Amarillo,56,DALLAM,Other Ethnicities,73,64,88%,65,89%,,nan,57,78%,17,23%,21,29%,38,52%,,nan,16,22%
+16,Amarillo,59,DEAF SMITH,Hispanic,276,266,96%,228,83%,29,11%,215,78%,19,7%,79,29%,98,36%,,nan,37,13%
+16,Amarillo,59,DEAF SMITH,White,47,44,94%,43,91%,,nan,42,89%,24,51%,7,15%,31,66%,,nan,22,47%
+16,Amarillo,59,DEAF SMITH,Other Ethnicities,5,5,100%,5,100%,,nan,5,100%,,nan,,nan,5,100%,,nan,,nan
+16,Amarillo,65,DONLEY,White,31,28,90%,27,87%,,nan,25,81%,7,23%,13,42%,20,65%,,nan,9,29%
+16,Amarillo,65,DONLEY,Other Ethnicities,15,15,100%,15,100%,,nan,15,100%,,nan,7,47%,8,53%,,nan,,nan
+16,Amarillo,90,GRAY,Hispanic,88,85,97%,80,91%,,nan,76,86%,12,14%,26,30%,38,43%,,nan,16,18%
+16,Amarillo,90,GRAY,White,180,168,93%,160,89%,,nan,148,82%,47,26%,48,27%,95,53%,,nan,45,25%
+16,Amarillo,90,GRAY,Other Ethnicities,13,13,100%,12,92%,,nan,12,92%,,nan,5,38%,7,54%,,nan,,nan
+16,Amarillo,96,HALL,White,26,25,96%,24,92%,,nan,23,88%,11,42%,8,31%,19,73%,,nan,10,38%
+16,Amarillo,96,HALL,Other Ethnicities,23,22,96%,22,96%,,nan,21,91%,,nan,9,39%,11,48%,,nan,,nan
+16,Amarillo,98,HANSFORD,Hispanic,42,40,95%,40,95%,,nan,38,90%,6,14%,17,40%,23,55%,,nan,13,31%
+16,Amarillo,98,HANSFORD,Other Ethnicities,42,42,100%,41,98%,,nan,41,98%,19,45%,8,19%,27,64%,,nan,14,33%
+16,Amarillo,103,HARTLEY,All Ethnicities,28,27,96%,25,89%,,nan,22,79%,6,21%,9,32%,15,54%,,nan,9,32%
+16,Amarillo,106,HEMPHILL,All Ethnicities,54,51,94%,47,87%,,nan,45,83%,16,30%,11,20%,27,50%,,nan,12,22%
+16,Amarillo,117,HUTCHINSON,African American,9,9,100%,7,78%,,nan,7,78%,5,56%,,nan,6,67%,,nan,,nan
+16,Amarillo,117,HUTCHINSON,Hispanic,77,71,92%,69,90%,,nan,66,86%,8,10%,34,44%,42,55%,,nan,16,21%
+16,Amarillo,117,HUTCHINSON,White,214,199,93%,185,86%,,nan,176,82%,36,17%,82,38%,118,55%,,nan,58,27%
+16,Amarillo,117,HUTCHINSON,Others,22,21,95%,19,86%,,nan,17,77%,,nan,9,41%,10,45%,,nan,,nan
+16,Amarillo,148,LIPSCOMB,White,29,27,93%,25,86%,,nan,26,90%,8,28%,5,17%,13,45%,,nan,9,31%
+16,Amarillo,148,LIPSCOMB,Other Ethnicities,30,28,93%,29,97%,,nan,25,83%,5,17%,5,17%,10,33%,,nan,,nan
+16,Amarillo,171,MOORE,Hispanic,258,248,96%,235,91%,5,2%,222,86%,13,5%,120,47%,133,52%,,nan,64,25%
+16,Amarillo,171,MOORE,White,86,83,97%,82,95%,,nan,73,85%,20,23%,36,42%,56,65%,,nan,29,34%
+16,Amarillo,171,MOORE,Other Ethnicities,35,28,80%,22,63%,,nan,8,23%,,nan,5,14%,6,17%,,nan,,nan
+16,Amarillo,179,OCHILTREE,Hispanic,101,93,92%,73,72%,16,16%,78,77%,7,7%,24,24%,31,31%,,nan,15,15%
+16,Amarillo,179,OCHILTREE,Other Ethnicities,56,55,98%,47,84%,,nan,44,79%,13,23%,9,16%,22,39%,,nan,12,21%
+16,Amarillo,180,OLDHAM,White,48,46,96%,44,92%,,nan,39,81%,16,33%,13,27%,29,60%,,nan,17,35%
+16,Amarillo,180,OLDHAM,Other Ethnicities,20,20,100%,20,100%,,nan,16,80%,,nan,6,30%,9,45%,,nan,,nan
+16,Amarillo,185,PARMER,Hispanic,121,117,97%,109,90%,,nan,102,84%,21,17%,25,21%,46,38%,,nan,24,20%
+16,Amarillo,185,PARMER,Other Ethnicities,35,34,97%,31,89%,,nan,29,83%,14,40%,9,26%,23,66%,,nan,14,40%
 16,Amarillo,188,POTTER,African American,214,204,95%,164,77%,38,18%,159,74%,40,19%,72,34%,112,52%,6,3%,26,12%
 16,Amarillo,188,POTTER,Hispanic,1029,971,94%,836,81%,137,13%,831,81%,111,11%,406,39%,517,50%,16,2%,192,19%
 16,Amarillo,188,POTTER,White,1126,1079,96%,956,85%,95,8%,939,83%,224,20%,445,40%,669,59%,20,2%,322,29%
 16,Amarillo,188,POTTER,Others,190,175,92%,143,75%,22,12%,129,68%,36,19%,65,34%,101,53%,5,3%,50,26%
-16,Amarillo,191,RANDALL,African American,18,16,89%,15,83%,*,*,15,83%,*,*,6,33%,10,56%,*,*,5,28%
-16,Amarillo,191,RANDALL,Hispanic,149,145,97%,134,90%,8,5%,124,83%,40,27%,54,36%,94,63%,*,*,39,26%
+16,Amarillo,191,RANDALL,African American,18,16,89%,15,83%,,nan,15,83%,,nan,6,33%,10,56%,,nan,5,28%
+16,Amarillo,191,RANDALL,Hispanic,149,145,97%,134,90%,8,5%,124,83%,40,27%,54,36%,94,63%,,nan,39,26%
 16,Amarillo,191,RANDALL,White,544,530,97%,521,96%,6,1%,489,90%,164,30%,179,33%,343,63%,12,2%,184,34%
-16,Amarillo,191,RANDALL,Others,21,17,81%,17,81%,*,*,16,76%,*,*,6,29%,9,43%,*,*,*,*
-16,Amarillo,197,ROBERTS,All Ethnicities,21,21,100%,21,100%,*,*,20,95%,5,24%,7,33%,12,57%,*,*,5,24%
-16,Amarillo,211,SHERMAN,Hispanic,36,36,100%,34,94%,*,*,28,78%,6,17%,12,33%,18,50%,*,*,12,33%
-16,Amarillo,211,SHERMAN,Other Ethnicities,31,30,97%,28,90%,*,*,14,45%,6,19%,6,19%,12,39%,*,*,*,*
-16,Amarillo,219,SWISHER,Hispanic,63,63,100%,59,94%,*,*,53,84%,13,21%,12,19%,25,40%,*,*,8,13%
-16,Amarillo,219,SWISHER,Other Ethnicities,48,45,94%,44,92%,*,*,40,83%,16,33%,13,27%,29,60%,*,*,16,33%
-16,Amarillo,242,WHEELER,White,44,40,91%,37,84%,*,*,35,80%,7,16%,11,25%,18,41%,*,*,6,14%
-16,Amarillo,242,WHEELER,Other Ethnicities,35,32,91%,31,89%,*,*,30,86%,*,*,9,26%,12,34%,*,*,*,*
-17,Lubbock,9,BAILEY,Hispanic,87,80,92%,71,82%,*,*,62,71%,9,10%,19,22%,28,32%,*,*,17,20%
-17,Lubbock,9,BAILEY,Other Ethnicities,25,25,100%,25,100%,*,*,21,84%,11,44%,5,20%,16,64%,*,*,7,28%
-17,Lubbock,17,BORDEN,All Ethnicities,19,19,100%,19,100%,*,*,19,100%,13,68%,*,*,17,89%,*,*,8,42%
-17,Lubbock,40,COCHRAN,Hispanic,28,28,100%,26,93%,*,*,25,89%,*,*,10,36%,11,39%,*,*,6,21%
-17,Lubbock,40,COCHRAN,Other Ethnicities,20,20,100%,20,100%,*,*,17,85%,*,*,14,70%,15,75%,*,*,5,25%
-17,Lubbock,51,COTTLE,All Ethnicities,15,14,93%,13,87%,*,*,13,87%,*,*,5,33%,8,53%,*,*,5,33%
-17,Lubbock,54,CROSBY,Hispanic,82,81,99%,75,91%,*,*,70,85%,5,6%,31,38%,36,44%,*,*,8,10%
-17,Lubbock,54,CROSBY,Other Ethnicities,24,22,92%,22,92%,*,*,15,63%,*,*,11,46%,14,58%,*,*,5,21%
-17,Lubbock,58,DAWSON,Hispanic,127,121,95%,113,89%,5,4%,101,80%,8,6%,46,36%,54,43%,*,*,19,15%
-17,Lubbock,58,DAWSON,White,32,30,94%,30,94%,*,*,28,88%,10,31%,13,41%,23,72%,*,*,9,28%
-17,Lubbock,58,DAWSON,Other Ethnicities,8,7,88%,7,88%,*,*,7,88%,*,*,*,*,6,75%,*,*,*,*
-17,Lubbock,63,DICKENS,Hispanic,13,13,100%,12,92%,*,*,13,100%,*,*,*,*,8,62%,*,*,*,*
-17,Lubbock,63,DICKENS,White,11,10,91%,10,91%,*,*,10,91%,*,*,7,64%,8,73%,*,*,*,*
-17,Lubbock,77,FLOYD,Hispanic,83,82,99%,74,89%,*,*,60,72%,11,13%,26,31%,37,45%,*,*,14,17%
-17,Lubbock,77,FLOYD,Other Ethnicities,20,19,95%,19,95%,*,*,19,95%,9,45%,*,*,12,60%,*,*,5,25%
-17,Lubbock,83,GAINES,Hispanic,112,107,96%,103,92%,*,*,95,85%,9,8%,27,24%,36,32%,*,*,12,11%
-17,Lubbock,83,GAINES,Other Ethnicities,111,100,90%,93,84%,*,*,86,77%,18,16%,27,24%,45,41%,*,*,24,22%
-17,Lubbock,85,GARZA,Hispanic,45,44,98%,42,93%,*,*,35,78%,*,*,14,31%,15,33%,*,*,7,16%
-17,Lubbock,85,GARZA,Other Ethnicities,29,28,97%,26,90%,*,*,22,76%,*,*,11,38%,14,48%,*,*,6,21%
-17,Lubbock,95,HALE,African American,21,20,95%,20,95%,*,*,18,86%,8,38%,6,29%,14,67%,*,*,*,*
-17,Lubbock,95,HALE,Hispanic,405,393,97%,370,91%,12,3%,326,80%,71,18%,114,28%,185,46%,*,*,51,13%
-17,Lubbock,95,HALE,White,120,116,97%,109,91%,*,*,100,83%,47,39%,25,21%,72,60%,7,6%,39,33%
-17,Lubbock,95,HALE,Others,8,8,100%,8,100%,*,*,7,88%,*,*,*,*,6,75%,*,*,*,*
-17,Lubbock,110,HOCKLEY,Hispanic,189,176,93%,167,88%,6,3%,140,74%,7,4%,84,44%,91,48%,*,*,40,21%
-17,Lubbock,110,HOCKLEY,White,127,124,98%,119,94%,*,*,113,89%,25,20%,63,50%,88,69%,*,*,47,37%
-17,Lubbock,110,HOCKLEY,Other Ethnicities,13,13,100%,12,92%,*,*,10,77%,5,38%,*,*,7,54%,*,*,*,*
-17,Lubbock,132,KENT,All Ethnicities,10,10,100%,9,90%,*,*,9,90%,*,*,*,*,6,60%,*,*,*,*
-17,Lubbock,135,KING,All Ethnicities,11,11,100%,11,100%,*,*,10,91%,6,55%,*,*,10,91%,*,*,8,73%
-17,Lubbock,140,LAMB,Hispanic,139,133,96%,121,87%,8,6%,105,76%,9,6%,50,36%,59,42%,*,*,27,19%
-17,Lubbock,140,LAMB,White,71,69,97%,64,90%,*,*,61,86%,19,27%,23,32%,42,59%,*,*,18,25%
-17,Lubbock,140,LAMB,Other Ethnicities,15,15,100%,14,93%,*,*,12,80%,*,*,6,40%,8,53%,*,*,*,*
-17,Lubbock,152,LUBBOCK,African American,304,293,96%,263,87%,23,8%,230,76%,40,13%,77,25%,117,38%,*,*,27,9%
+16,Amarillo,191,RANDALL,Others,21,17,81%,17,81%,,nan,16,76%,,nan,6,29%,9,43%,,nan,,nan
+16,Amarillo,197,ROBERTS,All Ethnicities,21,21,100%,21,100%,,nan,20,95%,5,24%,7,33%,12,57%,,nan,5,24%
+16,Amarillo,211,SHERMAN,Hispanic,36,36,100%,34,94%,,nan,28,78%,6,17%,12,33%,18,50%,,nan,12,33%
+16,Amarillo,211,SHERMAN,Other Ethnicities,31,30,97%,28,90%,,nan,14,45%,6,19%,6,19%,12,39%,,nan,,nan
+16,Amarillo,219,SWISHER,Hispanic,63,63,100%,59,94%,,nan,53,84%,13,21%,12,19%,25,40%,,nan,8,13%
+16,Amarillo,219,SWISHER,Other Ethnicities,48,45,94%,44,92%,,nan,40,83%,16,33%,13,27%,29,60%,,nan,16,33%
+16,Amarillo,242,WHEELER,White,44,40,91%,37,84%,,nan,35,80%,7,16%,11,25%,18,41%,,nan,6,14%
+16,Amarillo,242,WHEELER,Other Ethnicities,35,32,91%,31,89%,,nan,30,86%,,nan,9,26%,12,34%,,nan,,nan
+17,Lubbock,9,BAILEY,Hispanic,87,80,92%,71,82%,,nan,62,71%,9,10%,19,22%,28,32%,,nan,17,20%
+17,Lubbock,9,BAILEY,Other Ethnicities,25,25,100%,25,100%,,nan,21,84%,11,44%,5,20%,16,64%,,nan,7,28%
+17,Lubbock,17,BORDEN,All Ethnicities,19,19,100%,19,100%,,nan,19,100%,13,68%,,nan,17,89%,,nan,8,42%
+17,Lubbock,40,COCHRAN,Hispanic,28,28,100%,26,93%,,nan,25,89%,,nan,10,36%,11,39%,,nan,6,21%
+17,Lubbock,40,COCHRAN,Other Ethnicities,20,20,100%,20,100%,,nan,17,85%,,nan,14,70%,15,75%,,nan,5,25%
+17,Lubbock,51,COTTLE,All Ethnicities,15,14,93%,13,87%,,nan,13,87%,,nan,5,33%,8,53%,,nan,5,33%
+17,Lubbock,54,CROSBY,Hispanic,82,81,99%,75,91%,,nan,70,85%,5,6%,31,38%,36,44%,,nan,8,10%
+17,Lubbock,54,CROSBY,Other Ethnicities,24,22,92%,22,92%,,nan,15,63%,,nan,11,46%,14,58%,,nan,5,21%
+17,Lubbock,58,DAWSON,Hispanic,127,121,95%,113,89%,5,4%,101,80%,8,6%,46,36%,54,43%,,nan,19,15%
+17,Lubbock,58,DAWSON,White,32,30,94%,30,94%,,nan,28,88%,10,31%,13,41%,23,72%,,nan,9,28%
+17,Lubbock,58,DAWSON,Other Ethnicities,8,7,88%,7,88%,,nan,7,88%,,nan,,nan,6,75%,,nan,,nan
+17,Lubbock,63,DICKENS,Hispanic,13,13,100%,12,92%,,nan,13,100%,,nan,,nan,8,62%,,nan,,nan
+17,Lubbock,63,DICKENS,White,11,10,91%,10,91%,,nan,10,91%,,nan,7,64%,8,73%,,nan,,nan
+17,Lubbock,77,FLOYD,Hispanic,83,82,99%,74,89%,,nan,60,72%,11,13%,26,31%,37,45%,,nan,14,17%
+17,Lubbock,77,FLOYD,Other Ethnicities,20,19,95%,19,95%,,nan,19,95%,9,45%,,nan,12,60%,,nan,5,25%
+17,Lubbock,83,GAINES,Hispanic,112,107,96%,103,92%,,nan,95,85%,9,8%,27,24%,36,32%,,nan,12,11%
+17,Lubbock,83,GAINES,Other Ethnicities,111,100,90%,93,84%,,nan,86,77%,18,16%,27,24%,45,41%,,nan,24,22%
+17,Lubbock,85,GARZA,Hispanic,45,44,98%,42,93%,,nan,35,78%,,nan,14,31%,15,33%,,nan,7,16%
+17,Lubbock,85,GARZA,Other Ethnicities,29,28,97%,26,90%,,nan,22,76%,,nan,11,38%,14,48%,,nan,6,21%
+17,Lubbock,95,HALE,African American,21,20,95%,20,95%,,nan,18,86%,8,38%,6,29%,14,67%,,nan,,nan
+17,Lubbock,95,HALE,Hispanic,405,393,97%,370,91%,12,3%,326,80%,71,18%,114,28%,185,46%,,nan,51,13%
+17,Lubbock,95,HALE,White,120,116,97%,109,91%,,nan,100,83%,47,39%,25,21%,72,60%,7,6%,39,33%
+17,Lubbock,95,HALE,Others,8,8,100%,8,100%,,nan,7,88%,,nan,,nan,6,75%,,nan,,nan
+17,Lubbock,110,HOCKLEY,Hispanic,189,176,93%,167,88%,6,3%,140,74%,7,4%,84,44%,91,48%,,nan,40,21%
+17,Lubbock,110,HOCKLEY,White,127,124,98%,119,94%,,nan,113,89%,25,20%,63,50%,88,69%,,nan,47,37%
+17,Lubbock,110,HOCKLEY,Other Ethnicities,13,13,100%,12,92%,,nan,10,77%,5,38%,,nan,7,54%,,nan,,nan
+17,Lubbock,132,KENT,All Ethnicities,10,10,100%,9,90%,,nan,9,90%,,nan,,nan,6,60%,,nan,,nan
+17,Lubbock,135,KING,All Ethnicities,11,11,100%,11,100%,,nan,10,91%,6,55%,,nan,10,91%,,nan,8,73%
+17,Lubbock,140,LAMB,Hispanic,139,133,96%,121,87%,8,6%,105,76%,9,6%,50,36%,59,42%,,nan,27,19%
+17,Lubbock,140,LAMB,White,71,69,97%,64,90%,,nan,61,86%,19,27%,23,32%,42,59%,,nan,18,25%
+17,Lubbock,140,LAMB,Other Ethnicities,15,15,100%,14,93%,,nan,12,80%,,nan,6,40%,8,53%,,nan,,nan
+17,Lubbock,152,LUBBOCK,African American,304,293,96%,263,87%,23,8%,230,76%,40,13%,77,25%,117,38%,,nan,27,9%
 17,Lubbock,152,LUBBOCK,Hispanic,1658,1600,97%,1440,87%,120,7%,1273,77%,196,12%,516,31%,712,43%,16,1%,208,13%
 17,Lubbock,152,LUBBOCK,White,1285,1240,97%,1170,91%,26,2%,1083,84%,437,34%,377,29%,814,63%,44,3%,432,34%
-17,Lubbock,152,LUBBOCK,Others,111,105,95%,99,89%,*,*,91,82%,52,47%,19,17%,71,64%,*,*,35,32%
-17,Lubbock,153,LYNN,Hispanic,65,62,95%,58,89%,*,*,55,85%,10,15%,21,32%,31,48%,*,*,15,23%
-17,Lubbock,153,LYNN,Other Ethnicities,30,27,90%,26,87%,*,*,24,80%,10,33%,13,43%,23,77%,*,*,9,30%
-17,Lubbock,173,MOTLEY,All Ethnicities,14,14,100%,14,100%,*,*,14,100%,*,*,9,64%,12,86%,*,*,5,36%
-17,Lubbock,223,TERRY,Hispanic,119,115,97%,115,97%,*,*,105,88%,14,12%,40,34%,54,45%,*,*,17,14%
-17,Lubbock,223,TERRY,Other Ethnicities,43,40,93%,38,88%,*,*,38,88%,7,16%,9,21%,16,37%,*,*,6,14%
-17,Lubbock,251,YOAKUM,Hispanic,99,97,98%,96,97%,*,*,92,93%,9,9%,33,33%,42,42%,*,*,17,17%
-17,Lubbock,251,YOAKUM,Other Ethnicities,44,42,95%,42,95%,*,*,40,91%,18,41%,12,27%,30,68%,*,*,14,32%
-18,Midland,2,ANDREWS,Hispanic,165,154,93%,150,91%,8,5%,143,87%,24,15%,39,24%,63,38%,*,*,21,13%
-18,Midland,2,ANDREWS,White,75,70,93%,64,85%,5,7%,63,84%,20,27%,14,19%,34,45%,*,*,17,23%
-18,Midland,2,ANDREWS,Other Ethnicities,16,16,100%,15,94%,*,*,14,88%,*,*,*,*,8,50%,*,*,*,*
-18,Midland,22,BREWSTER,Hispanic,58,55,95%,53,91%,*,*,49,84%,26,45%,*,*,30,52%,*,*,12,21%
-18,Midland,22,BREWSTER,Other Ethnicities,36,31,86%,28,78%,*,*,22,61%,11,31%,7,19%,18,50%,*,*,9,25%
-18,Midland,52,CRANE,Hispanic,58,54,93%,45,78%,7,12%,46,79%,8,14%,17,29%,25,43%,*,*,8,14%
-18,Midland,52,CRANE,Other Ethnicities,27,25,93%,22,81%,*,*,18,67%,14,52%,*,*,17,63%,*,*,8,30%
-18,Midland,55,CULBERSON,All Ethnicities,41,40,98%,38,93%,*,*,34,83%,15,37%,8,20%,23,56%,*,*,8,20%
-18,Midland,68,ECTOR,African American,74,69,93%,58,78%,7,9%,50,68%,9,12%,22,30%,31,42%,*,*,8,11%
+17,Lubbock,152,LUBBOCK,Others,111,105,95%,99,89%,,nan,91,82%,52,47%,19,17%,71,64%,,nan,35,32%
+17,Lubbock,153,LYNN,Hispanic,65,62,95%,58,89%,,nan,55,85%,10,15%,21,32%,31,48%,,nan,15,23%
+17,Lubbock,153,LYNN,Other Ethnicities,30,27,90%,26,87%,,nan,24,80%,10,33%,13,43%,23,77%,,nan,9,30%
+17,Lubbock,173,MOTLEY,All Ethnicities,14,14,100%,14,100%,,nan,14,100%,,nan,9,64%,12,86%,,nan,5,36%
+17,Lubbock,223,TERRY,Hispanic,119,115,97%,115,97%,,nan,105,88%,14,12%,40,34%,54,45%,,nan,17,14%
+17,Lubbock,223,TERRY,Other Ethnicities,43,40,93%,38,88%,,nan,38,88%,7,16%,9,21%,16,37%,,nan,6,14%
+17,Lubbock,251,YOAKUM,Hispanic,99,97,98%,96,97%,,nan,92,93%,9,9%,33,33%,42,42%,,nan,17,17%
+17,Lubbock,251,YOAKUM,Other Ethnicities,44,42,95%,42,95%,,nan,40,91%,18,41%,12,27%,30,68%,,nan,14,32%
+18,Midland,2,ANDREWS,Hispanic,165,154,93%,150,91%,8,5%,143,87%,24,15%,39,24%,63,38%,,nan,21,13%
+18,Midland,2,ANDREWS,White,75,70,93%,64,85%,5,7%,63,84%,20,27%,14,19%,34,45%,,nan,17,23%
+18,Midland,2,ANDREWS,Other Ethnicities,16,16,100%,15,94%,,nan,14,88%,,nan,,nan,8,50%,,nan,,nan
+18,Midland,22,BREWSTER,Hispanic,58,55,95%,53,91%,,nan,49,84%,26,45%,,nan,30,52%,,nan,12,21%
+18,Midland,22,BREWSTER,Other Ethnicities,36,31,86%,28,78%,,nan,22,61%,11,31%,7,19%,18,50%,,nan,9,25%
+18,Midland,52,CRANE,Hispanic,58,54,93%,45,78%,7,12%,46,79%,8,14%,17,29%,25,43%,,nan,8,14%
+18,Midland,52,CRANE,Other Ethnicities,27,25,93%,22,81%,,nan,18,67%,14,52%,,nan,17,63%,,nan,8,30%
+18,Midland,55,CULBERSON,All Ethnicities,41,40,98%,38,93%,,nan,34,83%,15,37%,8,20%,23,56%,,nan,8,20%
+18,Midland,68,ECTOR,African American,74,69,93%,58,78%,7,9%,50,68%,9,12%,22,30%,31,42%,,nan,8,11%
 18,Midland,68,ECTOR,Hispanic,1396,1313,94%,1158,83%,129,9%,978,70%,166,12%,474,34%,640,46%,32,2%,210,15%
 18,Midland,68,ECTOR,White,518,481,93%,418,81%,39,8%,371,72%,117,23%,146,28%,263,51%,10,2%,105,20%
-18,Midland,68,ECTOR,Others,60,55,92%,52,87%,*,*,44,73%,18,30%,16,27%,34,57%,*,*,18,30%
-18,Midland,87,GLASSCOCK,Hispanic,13,13,100%,13,100%,*,*,12,92%,*,*,*,*,5,38%,*,*,*,*
-18,Midland,87,GLASSCOCK,White,12,12,100%,12,100%,*,*,12,100%,5,42%,6,50%,11,92%,*,*,8,67%
-18,Midland,114,HOWARD,African American,23,20,87%,19,83%,*,*,13,57%,*,*,*,*,6,26%,*,*,*,*
-18,Midland,114,HOWARD,Hispanic,193,179,93%,167,87%,8,4%,134,69%,18,9%,55,29%,73,38%,*,*,31,16%
+18,Midland,68,ECTOR,Others,60,55,92%,52,87%,,nan,44,73%,18,30%,16,27%,34,57%,,nan,18,30%
+18,Midland,87,GLASSCOCK,Hispanic,13,13,100%,13,100%,,nan,12,92%,,nan,,nan,5,38%,,nan,,nan
+18,Midland,87,GLASSCOCK,White,12,12,100%,12,100%,,nan,12,100%,5,42%,6,50%,11,92%,,nan,8,67%
+18,Midland,114,HOWARD,African American,23,20,87%,19,83%,,nan,13,57%,,nan,,nan,6,26%,,nan,,nan
+18,Midland,114,HOWARD,Hispanic,193,179,93%,167,87%,8,4%,134,69%,18,9%,55,29%,73,38%,,nan,31,16%
 18,Midland,114,HOWARD,White,170,160,94%,140,82%,11,6%,129,76%,37,22%,57,34%,94,55%,5,3%,44,26%
-18,Midland,114,HOWARD,Others,10,9,90%,8,80%,*,*,7,70%,*,*,*,*,6,60%,*,*,*,*
-18,Midland,122,JEFF DAVIS,Hispanic,10,8,80%,9,90%,*,*,9,90%,*,*,*,*,6,60%,*,*,*,*
-18,Midland,122,JEFF DAVIS,Other Ethnicities,14,11,79%,10,71%,*,*,9,64%,5,36%,*,*,6,43%,*,*,*,*
-18,Midland,156,MARTIN,Hispanic,45,44,98%,40,89%,*,*,32,71%,6,13%,12,27%,18,40%,*,*,6,13%
-18,Midland,156,MARTIN,Other Ethnicities,26,24,92%,24,92%,*,*,24,92%,7,27%,7,27%,14,54%,*,*,10,38%
-18,Midland,165,MIDLAND,African American,137,129,94%,113,82%,17,12%,102,74%,12,9%,53,39%,65,47%,*,*,14,10%
+18,Midland,114,HOWARD,Others,10,9,90%,8,80%,,nan,7,70%,,nan,,nan,6,60%,,nan,,nan
+18,Midland,122,JEFF DAVIS,Hispanic,10,8,80%,9,90%,,nan,9,90%,,nan,,nan,6,60%,,nan,,nan
+18,Midland,122,JEFF DAVIS,Other Ethnicities,14,11,79%,10,71%,,nan,9,64%,5,36%,,nan,6,43%,,nan,,nan
+18,Midland,156,MARTIN,Hispanic,45,44,98%,40,89%,,nan,32,71%,6,13%,12,27%,18,40%,,nan,6,13%
+18,Midland,156,MARTIN,Other Ethnicities,26,24,92%,24,92%,,nan,24,92%,7,27%,7,27%,14,54%,,nan,10,38%
+18,Midland,165,MIDLAND,African American,137,129,94%,113,82%,17,12%,102,74%,12,9%,53,39%,65,47%,,nan,14,10%
 18,Midland,165,MIDLAND,Hispanic,1023,985,96%,863,84%,112,11%,757,74%,90,9%,364,36%,454,44%,18,2%,142,14%
 18,Midland,165,MIDLAND,White,605,562,93%,519,86%,31,5%,466,77%,156,26%,215,36%,371,61%,27,4%,174,29%
-18,Midland,165,MIDLAND,Others,50,44,88%,43,86%,*,*,36,72%,13,26%,12,24%,25,50%,*,*,8,16%
-18,Midland,186,PECOS,Hispanic,146,145,99%,127,87%,15,10%,125,86%,35,24%,23,16%,58,40%,*,*,27,18%
-18,Midland,186,PECOS,Other Ethnicities,43,41,95%,39,91%,*,*,40,93%,17,40%,7,16%,24,56%,*,*,11,26%
-18,Midland,189,PRESIDIO,All Ethnicities,134,128,96%,120,90%,5,4%,115,86%,44,33%,34,25%,78,58%,*,*,36,27%
-18,Midland,192,REAGAN,Hispanic,49,48,98%,46,94%,*,*,44,90%,7,14%,17,35%,24,49%,*,*,5,10%
-18,Midland,192,REAGAN,White,18,18,100%,17,94%,*,*,16,89%,7,39%,*,*,7,39%,*,*,5,28%
-18,Midland,195,REEVES,Hispanic,152,146,96%,121,80%,16,11%,121,80%,30,20%,40,26%,70,46%,*,*,21,14%
-18,Midland,195,REEVES,Other Ethnicities,12,12,100%,12,100%,*,*,9,75%,*,*,*,*,5,42%,*,*,*,*
-18,Midland,222,TERRELL,All Ethnicities,11,9,82%,7,64%,*,*,8,73%,6,55%,*,*,9,82%,*,*,*,*
-18,Midland,231,UPTON,Hispanic,34,33,97%,32,94%,*,*,28,82%,5,15%,15,44%,20,59%,*,*,*,*
-18,Midland,231,UPTON,Other Ethnicities,17,17,100%,14,82%,*,*,12,71%,*,*,5,29%,8,47%,*,*,*,*
-18,Midland,238,WARD,Hispanic,84,82,98%,69,82%,10,12%,72,86%,17,20%,18,21%,35,42%,*,*,8,10%
-18,Midland,238,WARD,Other Ethnicities,59,58,98%,49,83%,8,14%,45,76%,19,32%,7,12%,26,44%,*,*,15,25%
-18,Midland,248,WINKLER,Hispanic,72,69,96%,69,96%,*,*,62,86%,16,22%,18,25%,34,47%,*,*,13,18%
-18,Midland,248,WINKLER,Other Ethnicities,47,46,98%,41,87%,*,*,35,74%,9,19%,13,28%,22,47%,*,*,9,19%
+18,Midland,165,MIDLAND,Others,50,44,88%,43,86%,,nan,36,72%,13,26%,12,24%,25,50%,,nan,8,16%
+18,Midland,186,PECOS,Hispanic,146,145,99%,127,87%,15,10%,125,86%,35,24%,23,16%,58,40%,,nan,27,18%
+18,Midland,186,PECOS,Other Ethnicities,43,41,95%,39,91%,,nan,40,93%,17,40%,7,16%,24,56%,,nan,11,26%
+18,Midland,189,PRESIDIO,All Ethnicities,134,128,96%,120,90%,5,4%,115,86%,44,33%,34,25%,78,58%,,nan,36,27%
+18,Midland,192,REAGAN,Hispanic,49,48,98%,46,94%,,nan,44,90%,7,14%,17,35%,24,49%,,nan,5,10%
+18,Midland,192,REAGAN,White,18,18,100%,17,94%,,nan,16,89%,7,39%,,nan,7,39%,,nan,5,28%
+18,Midland,195,REEVES,Hispanic,152,146,96%,121,80%,16,11%,121,80%,30,20%,40,26%,70,46%,,nan,21,14%
+18,Midland,195,REEVES,Other Ethnicities,12,12,100%,12,100%,,nan,9,75%,,nan,,nan,5,42%,,nan,,nan
+18,Midland,222,TERRELL,All Ethnicities,11,9,82%,7,64%,,nan,8,73%,6,55%,,nan,9,82%,,nan,,nan
+18,Midland,231,UPTON,Hispanic,34,33,97%,32,94%,,nan,28,82%,5,15%,15,44%,20,59%,,nan,,nan
+18,Midland,231,UPTON,Other Ethnicities,17,17,100%,14,82%,,nan,12,71%,,nan,5,29%,8,47%,,nan,,nan
+18,Midland,238,WARD,Hispanic,84,82,98%,69,82%,10,12%,72,86%,17,20%,18,21%,35,42%,,nan,8,10%
+18,Midland,238,WARD,Other Ethnicities,59,58,98%,49,83%,8,14%,45,76%,19,32%,7,12%,26,44%,,nan,15,25%
+18,Midland,248,WINKLER,Hispanic,72,69,96%,69,96%,,nan,62,86%,16,22%,18,25%,34,47%,,nan,13,18%
+18,Midland,248,WINKLER,Other Ethnicities,47,46,98%,41,87%,,nan,35,74%,9,19%,13,28%,22,47%,,nan,9,19%
 19,El Paso,999,El Paso&Hudspeth,African American,293,244,83%,205,70%,7,2%,168,57%,62,21%,51,17%,113,39%,11,4%,30,10%
 19,El Paso,999,El Paso&Hudspeth,Hispanic,12165,11609,95%,9979,82%,1383,11%,9907,81%,3041,25%,3916,32%,6957,57%,234,2%,2288,19%
 19,El Paso,999,El Paso&Hudspeth,White,753,635,84%,504,67%,63,8%,473,63%,172,23%,163,22%,335,44%,22,3%,139,18%
 19,El Paso,999,El Paso&Hudspeth,Others,177,158,89%,130,73%,9,5%,118,67%,63,36%,22,12%,85,48%,7,4%,47,27%
 20,San Antonio,7,ATASCOSA,Hispanic,502,482,96%,457,91%,23,5%,409,81%,66,13%,144,29%,210,42%,8,2%,75,15%
-20,San Antonio,7,ATASCOSA,White,166,163,98%,154,93%,6,4%,144,87%,59,36%,30,18%,89,54%,*,*,41,25%
-20,San Antonio,7,ATASCOSA,Other Ethnicities,8,8,100%,8,100%,*,*,8,100%,*,*,*,*,7,88%,*,*,*,*
+20,San Antonio,7,ATASCOSA,White,166,163,98%,154,93%,6,4%,144,87%,59,36%,30,18%,89,54%,,nan,41,25%
+20,San Antonio,7,ATASCOSA,Other Ethnicities,8,8,100%,8,100%,,nan,8,100%,,nan,,nan,7,88%,,nan,,nan
 20,San Antonio,10,BANDERA,White,160,153,96%,136,85%,11,7%,124,78%,48,30%,35,22%,83,52%,5,3%,46,29%
-20,San Antonio,10,BANDERA,Other Ethnicities,84,79,94%,74,88%,*,*,64,76%,13,15%,18,21%,31,37%,*,*,11,13%
+20,San Antonio,10,BANDERA,Other Ethnicities,84,79,94%,74,88%,,nan,64,76%,13,15%,18,21%,31,37%,,nan,11,13%
 20,San Antonio,15,BEXAR,African American,1822,1705,94%,1476,81%,156,9%,1359,75%,399,22%,478,26%,877,48%,49,3%,321,18%
 20,San Antonio,15,BEXAR,Hispanic,17005,16262,96%,14258,84%,1627,10%,13279,78%,2871,17%,5202,31%,8073,47%,366,2%,3070,18%
 20,San Antonio,15,BEXAR,White,4180,3900,93%,3560,85%,216,5%,3340,80%,1356,32%,1055,25%,2411,58%,133,3%,1297,31%
 20,San Antonio,15,BEXAR,Others,977,911,93%,814,83%,45,5%,781,80%,336,34%,228,23%,564,58%,22,2%,323,33%
-20,San Antonio,64,DIMMIT,Hispanic,174,169,97%,124,71%,37,21%,139,80%,28,16%,67,39%,95,55%,*,*,33,19%
-20,San Antonio,64,DIMMIT,Other Ethnicities,13,12,92%,11,85%,*,*,11,85%,6,46%,5,38%,11,85%,*,*,5,38%
-20,San Antonio,82,FRIO,Hispanic,221,216,98%,169,76%,40,18%,165,75%,19,9%,59,27%,78,35%,*,*,25,11%
-20,San Antonio,82,FRIO,Other Ethnicities,17,15,88%,9,53%,5,29%,13,76%,*,*,*,*,7,41%,*,*,*,*
-20,San Antonio,130,KENDALL,Hispanic,158,149,94%,138,87%,6,4%,126,80%,46,29%,30,19%,76,48%,*,*,41,26%
-20,San Antonio,130,KENDALL,White,387,374,97%,358,93%,*,*,347,90%,174,45%,92,24%,266,69%,13,3%,173,45%
-20,San Antonio,130,KENDALL,Other Ethnicities,28,26,93%,24,86%,*,*,20,71%,13,46%,5,18%,18,64%,*,*,11,39%
-20,San Antonio,133,KERR,African American,9,9,100%,8,89%,*,*,7,78%,*,*,*,*,5,56%,*,*,*,*
-20,San Antonio,133,KERR,Hispanic,201,197,98%,177,88%,18,9%,175,87%,34,17%,32,16%,66,33%,*,*,29,14%
+20,San Antonio,64,DIMMIT,Hispanic,174,169,97%,124,71%,37,21%,139,80%,28,16%,67,39%,95,55%,,nan,33,19%
+20,San Antonio,64,DIMMIT,Other Ethnicities,13,12,92%,11,85%,,nan,11,85%,6,46%,5,38%,11,85%,,nan,5,38%
+20,San Antonio,82,FRIO,Hispanic,221,216,98%,169,76%,40,18%,165,75%,19,9%,59,27%,78,35%,,nan,25,11%
+20,San Antonio,82,FRIO,Other Ethnicities,17,15,88%,9,53%,5,29%,13,76%,,nan,,nan,7,41%,,nan,,nan
+20,San Antonio,130,KENDALL,Hispanic,158,149,94%,138,87%,6,4%,126,80%,46,29%,30,19%,76,48%,,nan,41,26%
+20,San Antonio,130,KENDALL,White,387,374,97%,358,93%,,nan,347,90%,174,45%,92,24%,266,69%,13,3%,173,45%
+20,San Antonio,130,KENDALL,Other Ethnicities,28,26,93%,24,86%,,nan,20,71%,13,46%,5,18%,18,64%,,nan,11,39%
+20,San Antonio,133,KERR,African American,9,9,100%,8,89%,,nan,7,78%,,nan,,nan,5,56%,,nan,,nan
+20,San Antonio,133,KERR,Hispanic,201,197,98%,177,88%,18,9%,175,87%,34,17%,32,16%,66,33%,,nan,29,14%
 20,San Antonio,133,KERR,White,256,238,93%,225,88%,6,2%,211,82%,88,34%,47,18%,135,53%,10,4%,68,27%
-20,San Antonio,133,KERR,Others,14,12,86%,11,79%,*,*,10,71%,*,*,*,*,5,36%,*,*,*,*
-20,San Antonio,136,KINNEY,Hispanic,29,29,100%,26,90%,*,*,26,90%,5,17%,5,17%,10,34%,*,*,*,*
-20,San Antonio,136,KINNEY,Other Ethnicities,19,19,100%,18,95%,*,*,16,84%,9,47%,5,26%,14,74%,*,*,*,*
-20,San Antonio,142,LA SALLE,All Ethnicities,97,97,100%,87,90%,8,8%,81,84%,15,15%,23,24%,38,39%,*,*,19,20%
+20,San Antonio,133,KERR,Others,14,12,86%,11,79%,,nan,10,71%,,nan,,nan,5,36%,,nan,,nan
+20,San Antonio,136,KINNEY,Hispanic,29,29,100%,26,90%,,nan,26,90%,5,17%,5,17%,10,34%,,nan,,nan
+20,San Antonio,136,KINNEY,Other Ethnicities,19,19,100%,18,95%,,nan,16,84%,9,47%,5,26%,14,74%,,nan,,nan
+20,San Antonio,142,LA SALLE,All Ethnicities,97,97,100%,87,90%,8,8%,81,84%,15,15%,23,24%,38,39%,,nan,19,20%
 20,San Antonio,159,MAVERICK,Hispanic,1072,1027,96%,861,80%,152,14%,884,82%,193,18%,442,41%,635,59%,14,1%,300,28%
-20,San Antonio,159,MAVERICK,Others,19,17,89%,14,74%,*,*,14,74%,*,*,8,42%,11,58%,*,*,5,26%
-20,San Antonio,159,MAVERICK,Other Ethnicities,12,11,92%,7,58%,*,*,8,67%,5,42%,*,*,7,58%,*,*,*,*
-20,San Antonio,163,MEDINA,African American,9,9,100%,9,100%,*,*,8,89%,*,*,*,*,6,67%,*,*,5,56%
+20,San Antonio,159,MAVERICK,Others,19,17,89%,14,74%,,nan,14,74%,,nan,8,42%,11,58%,,nan,5,26%
+20,San Antonio,159,MAVERICK,Other Ethnicities,12,11,92%,7,58%,,nan,8,67%,5,42%,,nan,7,58%,,nan,,nan
+20,San Antonio,163,MEDINA,African American,9,9,100%,9,100%,,nan,8,89%,,nan,,nan,6,67%,,nan,5,56%
 20,San Antonio,163,MEDINA,Hispanic,411,396,96%,361,88%,21,5%,344,84%,64,16%,114,28%,178,43%,6,1%,69,17%
-20,San Antonio,163,MEDINA,White,250,237,95%,226,90%,6,2%,215,86%,93,37%,58,23%,151,60%,*,*,90,36%
-20,San Antonio,163,MEDINA,Others,12,12,100%,12,100%,*,*,11,92%,*,*,*,*,5,42%,*,*,*,*
-20,San Antonio,193,REAL,All Ethnicities,33,30,91%,28,85%,*,*,17,52%,*,*,7,21%,8,24%,*,*,5,15%
+20,San Antonio,163,MEDINA,White,250,237,95%,226,90%,6,2%,215,86%,93,37%,58,23%,151,60%,,nan,90,36%
+20,San Antonio,163,MEDINA,Others,12,12,100%,12,100%,,nan,11,92%,,nan,,nan,5,42%,,nan,,nan
+20,San Antonio,193,REAL,All Ethnicities,33,30,91%,28,85%,,nan,17,52%,,nan,7,21%,8,24%,,nan,5,15%
 20,San Antonio,232,UVALDE,Hispanic,371,358,97%,284,77%,62,17%,250,67%,39,11%,135,36%,174,47%,11,3%,83,22%
-20,San Antonio,232,UVALDE,White,65,60,92%,55,85%,*,*,47,72%,17,26%,23,35%,40,62%,*,*,25,38%
-20,San Antonio,232,UVALDE,Other Ethnicities,10,10,100%,10,100%,*,*,8,80%,5,50%,*,*,8,80%,*,*,5,50%
-20,San Antonio,247,WILSON,African American,6,6,100%,6,100%,*,*,6,100%,*,*,*,*,5,83%,*,*,*,*
+20,San Antonio,232,UVALDE,White,65,60,92%,55,85%,,nan,47,72%,17,26%,23,35%,40,62%,,nan,25,38%
+20,San Antonio,232,UVALDE,Other Ethnicities,10,10,100%,10,100%,,nan,8,80%,5,50%,,nan,8,80%,,nan,5,50%
+20,San Antonio,247,WILSON,African American,6,6,100%,6,100%,,nan,6,100%,,nan,,nan,5,83%,,nan,,nan
 20,San Antonio,247,WILSON,Hispanic,279,267,96%,245,88%,15,5%,231,83%,35,13%,84,30%,119,43%,6,2%,43,15%
 20,San Antonio,247,WILSON,White,321,308,96%,302,94%,5,2%,285,89%,100,31%,88,27%,188,59%,5,2%,121,38%
-20,San Antonio,247,WILSON,Others,15,15,100%,15,100%,*,*,15,100%,7,47%,*,*,9,60%,*,*,*,*
-20,San Antonio,254,ZAVALA,All Ethnicities,186,182,98%,163,88%,9,5%,149,80%,14,8%,83,45%,97,52%,*,*,43,23%
+20,San Antonio,247,WILSON,Others,15,15,100%,15,100%,,nan,15,100%,7,47%,,nan,9,60%,,nan,,nan
+20,San Antonio,254,ZAVALA,All Ethnicities,186,182,98%,163,88%,9,5%,149,80%,14,8%,83,45%,97,52%,,nan,43,23%
