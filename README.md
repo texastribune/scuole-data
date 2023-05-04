@@ -146,7 +146,7 @@ It's also good to remember that for some datasets, TAPR has the **latest data** 
 ## Cohorts
 **Released: Annually in late April/early May**
 
-The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the Higher Ed Outcomes section of the app. To obtain and clean the data:
+The Texas Higher Ed Coordinating Board (THECB) provides data for the Higher Ed Outcomes section of the app. To obtain and clean the data:
 
 1) First, [download the latest year of the data from THECB](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9). The latest year should be 11 years from the current year.
 
@@ -154,7 +154,7 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 
 3) Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB by going to `Format -> Sheet -> Unhide --> Master Raw Data`. 
 
-4) For the last two years, however, the `Master Raw Data` worksheet has not been for the corresponding year. Check to see if it matches the year. If not, contact the Texas Higher Ed Coordinating Board right away so they can get you a spreadsheet of that `Master Raw Data`. 
+4) For the last two years, however, the `Master Raw Data` worksheet has not been for the corresponding year. Check to see if it matches the year. If not, contact the Texas Higher Ed Coordinating Board right away so they can get you a spreadsheet of that `Master Raw Data`. Warning: They tend to take their sweet time when it comes to communication.
 
 5) Copy and paste that data into a new spreadsheet. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. Be sure the data matches the header, and save it as `regionState.csv`.
 
@@ -165,3 +165,5 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 8) Make sure all counts are integers and all percents are floats (which requires changing them in Excel 😬).
 
 9) When updating the latest cohorts data, I noticed that they're adding asterisk (*) and N/As into the datasets. We don't want that! We want them to be empty. I created a Jupyter notebook called [`clean_cohorts_data.ipynb`](clean_cohorts_data.ipynb) to help with any cleanup of that.
+
+**Note:** According to a spokesperson at THECB, they are planning on building a cohorts dashboard in the near future, and they don't know how they will make the spreadsheets available to download (if at all). That's why we should probably be on the lookout for any changes in the [THECB website](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9) and plan for any changes in our updating process in the future depending on how the data is released. Contact Mike Eddleman at `Mike.Eddleman@highered.texas.gov` or any other spokesperson at THECB when the time comes for any details.
