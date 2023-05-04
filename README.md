@@ -161,6 +161,6 @@ The Texas Higher Ed Coordinating Board (THECB) and TEA provide data for the High
 
 7) Be sure to remove any notes found at the top and bottom of all `.xlsx` files.
 
-8) Make sure all counts are integers and all percents are floats (which requires changing them in excel 😬)
+8) Make sure all counts are integers and all percents are floats (which requires changing them in Excel 😬).
 
-9) During the 
+9) When updating the latest cohorts data, I noticed that they're adding asterisk (*) and N/As into the datasets. We don't want that! We want them to be empty. I created a Jupyter notebook called [`clean_cohorts_data.ipynb`](clean_cohorts_data.ipynb) to help with any cleanup of that.
