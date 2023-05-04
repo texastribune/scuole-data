@@ -3,14 +3,15 @@
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [scuole-data](#scuole-data)
-
-  - [TAPR](#tapr)
-  - [District and campus models](#district-and-campus-models)
   - [District boundaries and campus coordinates](#district-boundaries-and-campus-coordinates)
     - [District boundaries](#district-boundaries)
     - [Campus coordinates](#campus-coordinates)
-    - [Converting the shapefile](#converting-the-shapefile)
+      - [Older update instructions](#older-update-instructions)
+  - [District and campus models](#district-and-campus-models)
   - [AskTED](#askted)
+  - [TAPR](#tapr)
+    - [Cleaning the TAPR data](#cleaning-the-tapr-data)
+    - [Making sure TAPR header data matches](#making-sure-tapr-header-data-matches)
   - [Cohorts](#cohorts)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
