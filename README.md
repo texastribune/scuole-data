@@ -87,7 +87,7 @@ For districts and campuses we need to download one extra file that contains the 
 
 A detailed walkthrough on how to download and format the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
 
-After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years as the following csvs. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
+After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years in the `tapr` directory as the following spreadsheets. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
 
 | TAPR data file | File name    | What it contains |
 | ----------- | ----------- | ----------- |
@@ -101,7 +101,7 @@ After downloading each file, you will save it in their respective folders (Campu
 
 ### Cleaning the TAPR data
 
-The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. The last couple of years, this is the cleaning we have needed to do:
+The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. During the last couple of years, this is the cleaning we have needed to do:
 
 - The campus, district and region codes should have a set number of digits, usually padded with leading zeroes. They are:
   - campus (9 digits)
@@ -110,7 +110,7 @@ The TAPR data usually needs a cleaning before we run it in the [scuole](https://
   - county (3 digits)
 - There's an unnecessary apostrophe added in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns
 
-You have the option [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state dataset. In addition, there is [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
+You have the option [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state datasets. In addition, there is [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
 
 Also, for the 2021-22 TAPR data, the SAT and ACT headers had random letters that were lowercased. Make sure the column headers are capitalized. This step is written in both Python notebooks.
 
@@ -122,7 +122,7 @@ The headers for the data should match the schema found in [`schema_v2.py`](https
 
 Every year, TEA publishes a `Master reference of TAPR elements` like [this one from 2022](https://rptsvr1.tea.texas.gov/perfreport/tapr/2022/download/taprref.html). It's usually found in the TAPR Advanced Data Download for that year that you use to download the data and called `Master Reference (HTML)`. You can also download it in an Excel format for campuses, districts, regions and state. 
 
-It's also good to remember that for some datasets, TAPR has the **latest data** while others are **a year behind**. For example, if this was the 2021-22 TAPR, the latest data would be for 2021-22 (or Class of 2022) and the previous year would be 2020-21 (or Class of 2021) Here's is a handy breakdown:
+It's also good to remember that for some datasets, TAPR releases the **latest data** while others are **a year behind**. For example, if we were updating the 2021-22 TAPR data, the latest data would be for 2021-22 (or Class of 2022) and the previous year would be 2020-21 (or Class of 2021) Here's is a handy breakdown:
 
 | Data     | TAPR Data File | Year |
 | ----------- | ----------- | ----------- |
@@ -154,7 +154,7 @@ The Texas Higher Ed Coordinating Board (THECB) provides data for the Higher Ed O
 
 3) Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB by going to `Format -> Sheet -> Unhide --> Master Raw Data`. 
 
-4) For the last two years, however, the `Master Raw Data` worksheet has not been for the corresponding year. Check to see if it matches the year. If not, contact the Texas Higher Ed Coordinating Board right away so they can get you a spreadsheet of that `Master Raw Data`. Warning: They tend to take their sweet time when it comes to communication.
+4) For the last two years, however, the `Master Raw Data` worksheet has not been for the corresponding year. Check to see if it matches the year. If not, contact the Texas Higher Ed Coordinating Board right away so they can get you a spreadsheet of that `Master Raw Data`. **Warning:** They tend to take their sweet time when it comes to communication.
 
 5) Copy and paste that data into a new spreadsheet. Change the headers to match the list of fields in the loader, or copy and paste the headers from a previous year's data. Be sure the data matches the header, and save it as `regionState.csv`.
 
