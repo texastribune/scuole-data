@@ -18,11 +18,18 @@
 
 # scuole-data
 
-A repository of data sets used in the [scuole](https://github.com/texastribune/scuole) project. When updating the [scuole](https://github.com/texastribune/scuole) database, this is where you download, clean and save the data. The scripts found in [scuole](https://github.com/texastribune/scuole) will then upload each dataset directly from this folder into the database.
+This repository contains data sets used in the [scuole](https://github.com/texastribune/scuole) project.  
+  
+The instructions below guide you through the process of retrieving and cleaning the requisite data files before you start the update process in the [scuole](https://github.com/texastribune/scuole).
 
-Before you start the update process in the [scuole](https://github.com/texastribune/scuole), make sure all of the data files needed for the update are clean and ready to go.
+Data should be updated according to the following timeline:  
+* January after the latest TAPR data is released at the end of the previous year  
+* May after 8th Grade Cohort data is published  
+* At other regular intervals to ensure AskTed directory info is updated (though this should be automated)  
 
-We try to update every year in January after the latest TAPR data is released at the end of the previous year. However, some data, like cohorts data, are updated much earlier in the year so you can update that data independently from the rest of the database. 
+You can update these data independently from each other, provided you follow the instructions in [scuole](https://github.com/texastribune/scuole) in sequence.  
+
+As you proceed through these steps, please update the vintage of each dataset in the [schools data catalog (see the columns with the Schools Explorer header)](https://docs.google.com/spreadsheets/d/1gsUuhcZF7NiPQ225jX4W68pxwZLbcMwCa-OIYPhVOt0/edit?gid=0#gid=0). As of January 2025, most data in this repo was last updated mid-2023.
 
 ## District boundaries and campus coordinates
 
@@ -31,27 +38,10 @@ TEA provides district boundaries and campus coordinates on [their open data site
 Put the GeoJSON boundaries and coordinates in the respective folder: `tapr/reference/district/shapes/` or `tapr/reference/campus/shapes/`.
 
 ### District boundaries
-This was last updated for the 2022-23 school year. TEA provided the files as GeoJSONs. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
+These files are updated approximately once every year, and should be downloaded as GeoJSONs. We don't display the actual shapes on the page because they're not accurate enough and may be misleading. They are useful for determining nearby districts and geolocating.
 
 ### Campus coordinates
-This was last updated for the 2021-22 school year. TEA provided the files as GeoJSONs.
-
-#### Older update instructions
-The latest shapefile `campuses_03-10-2020.shp` (fetched March 10, 2020) is for the 2018-2019 school year. It was downloaded as an `.sd` file, and unzipped with Unarchiver (a Mac program). The unzipped version yields a `schools.gdb` folder, which can be opened in QGIS ([instructions](https://gis.stackexchange.com/questions/26285/installing-file-geodatabase-gdb-support-in-qgis)).
-
-We convert the TEA provided shapefile into a geojson file using [`ogr2ogr`](http://www.gdal.org/ogr2ogr.html) with the command:
-
-For school districts:
-
-```sh
-$ ogr2ogr -f GeoJSON -t_srs crs:84 districts.geojson [tea-provided-file-name].shp
-```
-
-For campuses:
-
-```sh
-$ ogr2ogr -f GeoJSON -t_srs crs:84 campuses.geojson [tea-provided-file-name].shp
-```
+These files are updated approximately once every year, and should be downloaded as GeoJSONs. Campus coordinates data can be a bit dated, and likely includes some "zombie schools" which have closed or otherwise have zero enrollment.
 
 ## District and campus models
 
@@ -152,7 +142,7 @@ The Texas Higher Ed Coordinating Board (THECB) provides data for the Higher Ed O
 
 2) Then, create a folder in the `cohorts/` folder. Name it the year (YYYY) to which the data corresponds. 
 
-3) Open the spreadsheet. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB by going to `Format -> Sheet -> Unhide --> Master Raw Data`. 
+3) Open the spreadsheet- you can do this in Google Sheets if you don't have Excel. Unhide the `Master Raw Data` worksheet in the `.xlsx` file from THECB by going to `Format -> Sheet -> Unhide --> Master Raw Data` (Excel) or `Hamburger Menu -> Unhide` (Google Sheets). 
 
 4) For the last two years, however, the `Master Raw Data` worksheet has not been for the corresponding year. Check to see if it matches the year. If not, contact the Texas Higher Ed Coordinating Board right away so they can get you a spreadsheet of that `Master Raw Data`. **Warning:** They tend to take their sweet time when it comes to communication.
 
