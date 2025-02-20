@@ -91,7 +91,7 @@ After downloading each file, you will save it in their respective folders (Campu
 
 ### Cleaning the TAPR data
 
-The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. During the last couple of years, this is the cleaning we have needed to do:
+The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. During the last few years (early 2020s?), this is the cleaning we have needed to do:
 
 - The campus, district and region codes should have a set number of digits, usually padded with leading zeroes. They are:
   - campus (9 digits)
@@ -100,7 +100,7 @@ The TAPR data usually needs a cleaning before we run it in the [scuole](https://
   - county (3 digits)
 - There's an unnecessary apostrophe added in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns
 
-You have the option [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/Editing%20campus%2C%20district%2C%20region%20and%20county%20codes.ipynb) in this repository that uses the zfill() function to fill in all of the leading zeroes and also removes unnecessary apostrophes in their respective columns. Be sure to run it for the district, campus, region and state datasets. In addition, there is [this Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/delete_apostrophes.ipynb) that you only have to run once (although not sure if it runs the zfill() function for campuses and districts).
+[This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/clean_entity_identifiers.ipynb) (revised in 2025) should do it for you.
 
 Also, for the 2021-22 TAPR data, the SAT and ACT headers had random letters that were lowercased. Make sure the column headers are capitalized. This step is written in both Python notebooks.
 
