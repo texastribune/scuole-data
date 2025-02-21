@@ -43,16 +43,6 @@ These files are updated approximately once every year, and should be downloaded 
 ### Campus coordinates
 These files are updated approximately once every year, and should be downloaded as GeoJSONs. Campus coordinates data can be a bit dated, and likely includes some "zombie schools" which have closed or otherwise have zero enrollment.
 
-## District and campus models
-
-Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `reference.csv` in each year's TAPR folder to create a `entities.csv` file that will create models for districts and campuses.
-
-Instructions on how to take the `reference.csv` and create a new `entities.csv` are in the [`format_new_entities` Jupyter Notebook](https://github.com/texastribune/scuole-data/blob/carla_readme_changes/format_new_entities.ipynb) — we should be doing this every year.
-
-We do some district and campus name re-formatting in the Jupyter Notebook (i.e. Cayuga H S --> Cayuga High School). Abbreviations, the Regex for those abbreviations, and the string to replace them with are in `campus_name_abbrev_guidelines.xlsx`.
-
-When you update entitites in [the scoule database](https://github.com/texastribune/scuole#updating-entities), you will be erasing the existing district and campus models and then re-adding every district and campus based on that `entities.csv`. This should take care of districts and schools that get renamed/removed/added.
-
 ## AskTED
 **Released: as information is updated**
 
@@ -75,19 +65,17 @@ This app requires sheets for `College, Career, and Military Readiness (CCMR), TS
 
 For districts and campuses we need to download one extra file that contains the full A-F rankings. Go back one page and select 20xx Accountability instead. (The year will change depending on what year you're working on!). Download the `Accountability Summary` for Campus and Districts.
 
-A detailed walkthrough on how to download and format the TAPR data is available [on this Confluence page](https://texastribune.atlassian.net/wiki/spaces/APPS/pages/163844/How+to+update+Public+Schools+2019).
-
 After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years in the `tapr` directory as the following spreadsheets. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
 
-| TAPR data file | File name    | What it contains |
-| ----------- | ----------- | ----------- |
-| Accountability Summary      | accountability.csv       | A - F scores       |
-| Reference Information, Accountability Rating and Special Education Determination Status      | reference.csv       | District and Campus Identifiers       |
-| Staff, Student, and Annual Graduates   | staff-and-student-information.csv        | Student and Teacher data       |
-| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates   | attendance.csv        | Absenteeism and Dropout rates       |
-| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | longitudinal-rate.csv        | Four year graduation rates       |
-| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | postsecondary-readiness-and-non-staar-performance-indicators.csv        | Texas Success Initiative Assessment (TSIA) scores       |
-| AP/IB, SAT/ACT  | ap-ib-sat-act.csv        | AP/IB, SAT, ACT scores       |
+| TAPR data file | What it contains | Download File Name Pattern | Scuole File name |   
+| ----------- | ----------- | ----------- | ----------- |
+| Reference Information, Accountability Rating and Special Education Determination Status<br>&nbsp;&nbsp;*not needed for states*  | District and Campus Identifiers       |  *REF.csv | reference.csv       | 
+| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates |  Absenteeism and Dropout rates       |*GRAD.csv| attendance.csv        | 
+| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | Four year graduation rates       |*COMP.csv| longitudinal-rate.csv        | 
+| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | Texas Success Initiative Assessment (TSIA) scores       | *PERF1.csv| postsecondary-readiness-and-non-staar-performance-indicators.csv        | 
+| AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | AP/IB, SAT, ACT scores       | *PERF2.csv| ap-ib-sat-act.csv        | 
+| Staff, Student, and Annual Graduates   | Student and Teacher data       | *PROF.csv| staff-and-student-information.csv        | 
+| Accountability Summary      | A - F scores       |?  | accountability.csv       | 
 
 ### Cleaning the TAPR data
 
@@ -104,6 +92,16 @@ The TAPR data usually needs a cleaning before we run it in the [scuole](https://
 [This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/clean_entity_identifiers.ipynb) (revised in 2025) should do all that for you.
 
 If you're unlucky to run into any other formatting errors, first of all (sorry!), second of all, try to write a solution in a Python notebook and add it to this README so it can be reproduced the following year and properly documented.
+
+### District and campus models
+
+Each year, there's a possibility that campuses and districts change names, are added, or are removed. We rely on the `reference.csv` in each year's TAPR folder to create a `entities.csv` file that will create models for districts and campuses.
+
+Instructions on how to take the `reference.csv` and create a new `entities.csv` are in the [`format_new_entities` Jupyter Notebook](https://github.com/texastribune/scuole-data/blob/carla_readme_changes/format_new_entities.ipynb) — we should be doing this every year.
+
+We do some district and campus name re-formatting in the Jupyter Notebook (i.e. Cayuga H S --> Cayuga High School). Abbreviations, the Regex for those abbreviations, and the string to replace them with are in `campus_name_abbrev_guidelines.xlsx`.
+
+When you update entitites in [the scoule database](https://github.com/texastribune/scuole#updating-entities), you will be erasing the existing district and campus models and then re-adding every district and campus based on that `entities.csv`. This should take care of districts and schools that get renamed/removed/added.
 
 ### Making sure TAPR header data matches
 
