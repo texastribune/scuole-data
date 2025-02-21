@@ -65,7 +65,7 @@ As of 2023, the AskTED data is found on their [site](https://tealprod.tea.state.
 If the links above don't lead you to the correct data, then AskTED might have changed the link to the data. If so, then the commands to [update askTED data in the scuole database](https://github.com/texastribune/scuole#updating-askted-data) will fail, so make sure the links are updated with the correct headers names.
 
 ## TAPR
-**Released: Annually in late November/early December**
+**Released: Historically in late November/early December, but was mid-February for SY2023-24 download**
 
 All stats are collected by the [Texas Education Agency](http://tea.texas.gov/).
 
@@ -91,18 +91,17 @@ After downloading each file, you will save it in their respective folders (Campu
 
 ### Cleaning the TAPR data
 
-The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. During the last few years (early 2020s?), this is the cleaning we have needed to do:
+The TAPR data usually needs a cleaning before we run it in the [scuole](https://github.com/texastribune/scuole) database. During the last few years (early 2020s?), we've done the following cleaning:
 
-- The campus, district and region codes should have a set number of digits, usually padded with leading zeroes. They are:
+- Remove the leading apostrophe in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns (this was used to force these IDs to be recognized as strings)
+- The campus, district and region codes should have a fixed number of digits, usually padded with leading zeroes. They are:
   - campus (9 digits)
   - district (6 digits)
   - region (2 digits)
   - county (3 digits)
-- There's an unnecessary apostrophe added in the "DISTRICT", "COUNTY", "REGION" and "CAMPUS" columns
+- Make headers all caps. SAT and ACT (added in SY2021-22, from what I can tell) had headers with random letters that were lowercased.
 
-[This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/clean_entity_identifiers.ipynb) (revised in 2025) should do it for you.
-
-Also, for the 2021-22 TAPR data, the SAT and ACT headers had random letters that were lowercased. Make sure the column headers are capitalized. This step is written in both Python notebooks.
+[This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/clean_entity_identifiers.ipynb) (revised in 2025) should do all that for you.
 
 If you're unlucky to run into any other formatting errors, first of all (sorry!), second of all, try to write a solution in a Python notebook and add it to this README so it can be reproduced the following year and properly documented.
 
