@@ -67,15 +67,15 @@ For districts and campuses we need to download one extra file that contains the 
 
 After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years in the `tapr` directory as the following spreadsheets. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
 
-| TAPR data file | What it contains | Download File Name Pattern | Scuole File name |   
-| ----------- | ----------- | ----------- | ----------- |
-| Reference Information, Accountability Rating and Special Education Determination Status<br>&nbsp;&nbsp;*not needed for states*  | District and Campus Identifiers       |  *REF.csv | reference.csv       | 
-| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates |  Absenteeism and Dropout rates       |*GRAD.csv| attendance.csv        | 
-| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | Four year graduation rates       |*COMP.csv| longitudinal-rate.csv        | 
-| College, Career, and Military Readiness (CCMR), TSIA, College Prep   | Texas Success Initiative Assessment (TSIA) scores       | *PERF1.csv| postsecondary-readiness-and-non-staar-performance-indicators.csv        | 
-| AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | AP/IB, SAT, ACT scores       | *PERF2.csv| ap-ib-sat-act.csv        | 
-| Staff, Student, and Annual Graduates   | Student and Teacher data       | *PROF.csv| staff-and-student-information.csv        | 
-| Accountability Summary      | A - F scores       |?  | accountability.csv       | 
+| TAPR data file | Download File Name Pattern | Scuole File name |   
+| ----------- | ----------- | ----------- | 
+| Reference Information, Accountability Rating and Special Education Determination Status<br>&nbsp;&nbsp;*not needed for states*  |  *REF.csv | reference.csv       | 
+| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates |  *GRAD.csv| attendance.csv        | 
+| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   |*COMP.csv| longitudinal-rate.csv        | 
+| College, Career, and Military Readiness (CCMR), TSIA, College Prep  | *PERF1.csv| postsecondary-readiness-and-non-staar-performance-indicators.csv        | 
+| AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | *PERF2.csv| ap-ib-sat-act.csv        | 
+| Staff, Student, and Annual Graduates    | *PROF.csv| staff-and-student-information.csv        | 
+| Accountability Summary    |?  | accountability.csv       | 
 
 ### Cleaning the TAPR data
 
@@ -111,24 +111,16 @@ Every year, TEA publishes a `Master reference of TAPR elements` like [this one f
 
 It's also good to remember that for some datasets, TAPR releases the **latest data** while others are **a year behind**. For example, if we were updating the 2021-22 TAPR data, the latest data would be for 2021-22 (or Class of 2022) and the previous year would be 2020-21 (or Class of 2021) Here's is a handy breakdown:
 
-| Data     | TAPR Data File | Year |
-| ----------- | ----------- | ----------- |
-| A-F scores     | Reference Information, Accountability Rating and Special Education Determination       | Latest year       |
-| Student Demographics   | Staff, Student, and Annual Graduates       | Latest year       |
-| At-risk, economically disadvantages and limited English proficiency students   | Staff, Student, and Annual Graduates       | Latest year       |
-| Enrollments in special programs (bilingual/ESL, gifted & talented, special ed)   | Staff, Student, and Annual Graduates       | Latest year       |
-| Four-year graduation rates   | Longitudinal Rate (4-Year, 5-Year, & 6-Year)       | Previous year       |
-| Dropout rates   | Attendance, Graduation (RHSP/DAP & FHSP), and Dropout Rates       | Previous year       |
-| Chronic absenteeism   | Attendance, Graduation (RHSP/DAP & FHSP), and Dropout Rates       | Previous year       |
-| AP/IB participation   | AP/IB, SAT/ACT       | Previous year       |
-| AP/IB performance   | AP/IB, SAT/ACT       | Previous year       |
-| SAT score   | AP/IB, SAT/ACT       | Previous year       |
-| ACT score   | AP/IB, SAT/ACT       | Previous year       |
-| College-ready graduates (TSIA scores)   | College, Career, and Military Readiness (CCMR); and Other Postsecondary Indicators       | Previous year       |
-| Teacher demographics   | Staff, Student, and Annual Graduates       | Latest year       |
-| Degree held by teachers   | Staff, Student, and Annual Graduates       | Latest year       |
-| Students per teacher   | Staff, Student, and Annual Graduates       | Latest year       |
-| Teacher salaries   | Staff, Student, and Annual Graduates       | Latest year       |
+
+| TAPR data file | Vintage Year | What It Contains |   
+| ----------- | ----------- | ----------- | 
+| Reference Information, Accountability Rating and Special Education Determination Status| latest | A-F scores       | 
+| Attendance, Chronic Absenteeism, Graduation (RHSP/DAP & FHSP), and Dropout Rates |  previous | chronic absenteeism<br>dropout rates        | 
+| Longitudinal Rate (4-Year, 5-Year, & 6-Year)   | previous | four-year graduation rates        | 
+| College, Career, and Military Readiness (CCMR), TSIA, College Prep  | previous | College-ready graduates (TSIA scores)     | 
+| AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | previous | SAT/ACT scores<br> AP/IB participation/performance       | 
+| Staff, Student, and Annual Graduates    | latest | Teacher data (demographics, degree, salaries, students per teacher)<br>student data (demographics, at-risk, economically disadvantages and limited English proficiency students, bilingual/ESL, gifted & talented, special ed)        | 
+| Accountability Summary    |?  | ?       | 
 
 ## Cohorts
 **Released: Annually in late April/early May**
