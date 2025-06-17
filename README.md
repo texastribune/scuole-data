@@ -44,7 +44,7 @@ These files are updated approximately once every year, and should be downloaded 
 These files are updated approximately once every year, and should be downloaded as GeoJSONs. Campus coordinates data can be a bit dated, and likely includes some "zombie schools" which have closed or otherwise have zero enrollment.
 
 ## AskTED
-**Released: as information is updated**
+**Released: as information is updated, but most likely to be up-to-date by September 1**
 
 [AskTED](https://tealprod.tea.state.tx.us/tea.askted.web/Forms/Home.aspx) provides superintendents, principals and directory information for all schools and districts. The `scuole` repo downloads data from AskTED directly and updates them in our database, so there's no need to manually download and add them to `scuole-data`. 
 
@@ -65,6 +65,20 @@ This app requires sheets for `College, Career, and Military Readiness (CCMR), TS
 
 For districts and campuses we need to download one extra file that contains the full A-F rankings. Go back one page and select 20xx Accountability instead. (The year will change depending on what year you're working on!). Download the `Accountability Summary` for Campus and Districts.
 
+For school year 2022-23, accountability ratings were not included in the TAPR dataset due to a pending lawsuit. That data was subsequently released and is separately available. To acquire this data, I followed these steps:
+1) From [TEA's accountability ratings page](https://rptsvr1.tea.texas.gov/perfreport/account/index.html) 
+1) Go to the  [2022-23 page](https://tea.texas.gov/texas-schools/accountability/academic-accountability/performance-reporting/2023-accountability-rating-system-0). 
+1) Select **2023 Data Download**. 
+1) From the 2023 Data Download page:
+     1) District-level Data (on the next iteration, Campus-level data)
+   1) Accountability Summary 
+   1) Continue 
+1) Select All
+1) Comma Delimited
+1) Download
+
+Repeat the above steps for Campus-level Data
+  
 After downloading each file, you will save it in their respective folders (Campus, District, Region, State) in their respective years in the `tapr` directory as the following spreadsheets. An example of the directory for Campus from 2021-22 found [here](tapr/2021-2022/campus/).
 
 | TAPR data file | Download File Name Pattern | Scuole File name |   
