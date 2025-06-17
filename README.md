@@ -24,7 +24,7 @@ The instructions below guide you through the process of retrieving and cleaning 
 
 Data should be updated according to the following timeline:  
 * January after the latest TAPR data is released at the end of the previous year  
-* May after 8th Grade Cohort data is published  
+* May (or late summer, in the case of 2025) after 8th Grade Cohort data is published  
 * At other regular intervals to ensure AskTed directory info is updated (though this should be automated)  
 
 You can update these data independently from each other, provided you follow the instructions in [scuole](https://github.com/texastribune/scuole) in sequence.  
@@ -103,7 +103,7 @@ The TAPR data usually needs a cleaning before we run it in the [scuole](https://
   - county (3 digits)
 - Make headers all caps. SAT and ACT (added in SY2021-22, from what I can tell) had headers with random letters that were lowercased.
 
-[This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/clean_entity_identifiers.ipynb) (revised in 2025) should do all that for you.
+[This Jupyter notebook](https://github.com/texastribune/scuole-data/blob/master/notebooks/01_clean_raw_tapr_data.ipynb) (revised in 2025) should do all that for you.
 
 If you're unlucky to run into any other formatting errors, first of all (sorry!), second of all, try to write a solution in a Python notebook and add it to this README so it can be reproduced the following year and properly documented.
 
@@ -159,4 +159,6 @@ The Texas Higher Ed Coordinating Board (THECB) provides data for the Higher Ed O
 
 9) When updating the latest cohorts data, I noticed that they're adding asterisk (*) and N/As into the datasets. We don't want that! We want them to be empty. I created a Jupyter notebook called [`clean_cohorts_data.ipynb`](clean_cohorts_data.ipynb) to help with any cleanup of that.
 
-**Note (from 2023 or prior?):** According to a spokesperson at THECB, they are planning on building a cohorts dashboard in the near future, and they don't know how they will make the spreadsheets available to download (if at all). That's why we should probably be on the lookout for any changes in the [THECB website](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9) and plan for any changes in our updating process in the future depending on how the data is released. Contact Mike Eddleman at `Mike.Eddleman@highered.texas.gov` or any other spokesperson at THECB when the time comes for any details.
+**Note (from 2023 or prior?):** According to a spokesperson at THECB, they are planning on building a cohorts dashboard in the near future, and they don't know how they will make the spreadsheets available to download (if at all). That's why we should probably be on the lookout for any changes in the [THECB website](http://www.txhighereddata.org/index.cfm?objectId=4E600400-D970-11E8-BB650050560100A9) and plan for any changes in our updating process in the future depending on how the data is released. Contact Mike Eddleman at `Mike.Eddleman@highered.texas.gov` or any other spokesperson at THECB when the time comes for any details. 
+
+**Followup from June 2025** Mike Eddleman is still on the scene. Data is very much structured differently, and I'm working through whether/how we can integrate it into the outcomes explorer even as we're sunsetting this version of the Schools Explorer by end of year.
