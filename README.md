@@ -89,7 +89,7 @@ After downloading each file, you will save it in their respective folders (Campu
 | College, Career, and Military Readiness (CCMR), TSIA, College Prep  | *PERF1.csv| postsecondary-readiness-and-non-staar-performance-indicators.csv        | 
 | AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | *PERF2.csv| ap-ib-sat-act.csv        | 
 | Staff, Student, and Annual Graduates    | *PROF.csv| staff-and-student-information.csv        | 
-| Accountability Summary    |?  | accountability.csv       | 
+| Accountability Summary    |Accountability Summary  | accountability.csv       | 
 
 ### Cleaning the TAPR data
 
@@ -134,7 +134,7 @@ It's also good to remember that for some datasets, TAPR releases the **latest da
 | College, Career, and Military Readiness (CCMR), TSIA, College Prep  | previous | College-ready graduates (TSIA scores)     | 
 | AP/IB, SAT/ACT<br>&nbsp;&nbsp;*added in SY2020-21* | previous | SAT/ACT scores<br> AP/IB participation/performance       | 
 | Staff, Student, and Annual Graduates    | latest | Teacher data (demographics, degree, salaries, students per teacher)<br>student data (demographics, at-risk, economically disadvantages and limited English proficiency students, bilingual/ESL, gifted & talented, special ed)        | 
-| Accountability Summary    |?  | ?       | 
+| Accountability Summary    |previous  | ?       | 
 
 ## Cohorts
 **Released: Annually in late April/early May**
